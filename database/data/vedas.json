@@ -1,0 +1,38 @@
+[
+  {
+    "veda_number": 1,
+    "name_sanskrit": "ऋग्वेद",
+    "name_english": "Rig Veda",
+    "name_transliteration": "Ṛgveda",
+    "description": "The oldest of the four Vedas, consisting of hymns (suktas) dedicated to various deities. Composed between 1500-1200 BCE, it contains philosophical and cosmological insights.",
+    "total_mandalas": 10,
+    "total_verses": 10552
+  },
+  {
+    "veda_number": 2,
+    "name_sanskrit": "सामवेद",
+    "name_english": "Sama Veda",
+    "name_transliteration": "Sāmaveda",
+    "description": "The Veda of melodies and chants. Most of its verses are derived from the Rig Veda but set to musical notation for liturgical purposes.",
+    "total_mandalas": 2,
+    "total_verses": 1875
+  },
+  {
+    "veda_number": 3,
+    "name_sanskrit": "यजुर्वेद",
+    "name_english": "Yajur Veda",
+    "name_transliteration": "Yajurveda",
+    "description": "The Veda of prose mantras and ritual formulas. It serves as a practical guidebook for priests performing ceremonial rites.",
+    "total_mandalas": 40,
+    "total_verses": 1975
+  },
+  {
+    "veda_number": 4,
+    "name_sanskrit": "अथर्ववेद",
+    "name_english": "Atharva Veda",
+    "name_transliteration": "Atharvaveda",
+    "description": "The Veda of everyday life, containing hymns, spells, and incantations. It deals with practical aspects of daily living and healing practices.",
+    "total_mandalas": 20,
+    "total_verses": 5977
+  }
+]

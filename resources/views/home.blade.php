@@ -9,20 +9,15 @@
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-24">
             <div class="text-center">
                 <h1 class="text-5xl md:text-6xl font-bold text-white mb-6">
-                    Discover the Sacred Vedas
+                    Ancient Vedic Manuscripts
                 </h1>
                 <p class="text-xl md:text-2xl text-orange-100 mb-8 max-w-3xl mx-auto">
-                    Explore the ancient wisdom of Sanatan Dharma through the four Vedas. Read, understand, and memorize sacred verses.
+                    Study the ancient Sanskrit texts through the four Vedas. Read original texts with translations and transliterations for academic research and learning.
                 </p>
                 <div class="flex flex-wrap justify-center gap-4">
                     <a href="{{ route('vedas.index') }}" class="bg-white text-saffron-600 px-8 py-3 rounded-lg text-lg font-semibold hover:bg-gray-100 transition shadow-lg">
                         Browse Vedas
                     </a>
-                    @guest
-                        <a href="{{ route('register') }}" class="bg-dharma-green text-white px-8 py-3 rounded-lg text-lg font-semibold hover:bg-green-700 transition shadow-lg">
-                            Start Learning
-                        </a>
-                    @endguest
                 </div>
             </div>
         </div>

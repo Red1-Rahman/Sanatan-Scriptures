@@ -27,8 +27,7 @@
                         <!-- Logo -->
                         <div class="flex-shrink-0 flex items-center">
                             <a href="{{ route('home') }}" class="flex items-center space-x-3">
-                                <span class="text-2xl">🕉️</span>
-                                <span class="text-xl font-bold text-saffron-600 dark:text-saffron-400">Sanatan Scriptures</span>
+                                <span class="text-xl font-bold text-saffron-600 dark:text-saffron-400">📜 Sanatan Scriptures</span>
                             </a>
                         </div>
                         
@@ -39,6 +38,12 @@
                             </a>
                             <a href="{{ route('vedas.index') }}" class="border-transparent hover:border-saffron-500 text-gray-900 dark:text-gray-100 inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium transition">
                                 Vedas
+                            </a>
+                            <a href="{{ route('mahabharata.index') }}" class="border-transparent hover:border-saffron-500 text-gray-900 dark:text-gray-100 inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium transition">
+                                Mahabharata
+                            </a>
+                            <a href="{{ route('puranas.index') }}" class="border-transparent hover:border-saffron-500 text-gray-900 dark:text-gray-100 inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium transition">
+                                Puranas
                             </a>
                             @auth
                                 <a href="{{ route('dashboard') }}" class="border-transparent hover:border-saffron-500 text-gray-900 dark:text-gray-100 inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium transition">
@@ -88,8 +93,7 @@
                                 </div>
                             </div>
                         @else
-                            <a href="{{ route('login') }}" class="text-gray-700 dark:text-gray-200 hover:text-gray-900 dark:hover:text-white px-3 py-2 rounded-md text-sm font-medium">Login</a>
-                            <a href="{{ route('register') }}" class="bg-saffron-500 hover:bg-saffron-600 text-white px-4 py-2 rounded-md text-sm font-medium transition">Register</a>
+                            <span class="text-gray-500 dark:text-gray-400 px-3 py-2 rounded-md text-sm">Authentication coming soon</span>
                         @endauth
                     </div>
                 </div>

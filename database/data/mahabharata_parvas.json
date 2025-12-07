@@ -1,0 +1,20 @@
+[
+  {
+    "parva_number": 1,
+    "name_sanskrit": "आदिपर्व",
+    "name_english": "Adi Parva",
+    "name_transliteration": "Ādi Parva",
+    "description": "The Book of the Beginning. Covers the genealogy of the Bharata dynasty, birth and childhood of the Pandavas and Kauravas, and events leading to their conflict.",
+    "total_chapters": 225,
+    "total_verses": 7984
+  },
+  {
+    "parva_number": 6,
+    "name_sanskrit": "भीष्मपर्व",
+    "name_english": "Bhishma Parva",
+    "name_transliteration": "Bhīṣma Parva",
+    "description": "The Book of Bhishma. Narrates the first 10 days of the Kurukshetra war under Bhishma's command. Contains the Bhagavad Gita (Chapters 25-42).",
+    "total_chapters": 124,
+    "total_verses": 5884
+  }
+]

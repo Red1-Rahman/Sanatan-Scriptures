@@ -1,7 +1,7 @@
 # Sanatan Scriptures - Quick Setup Script for Windows
 # Run this script in PowerShell as Administrator
 
-Write-Host "🕉️  Sanatan Scriptures - Installation Script" -ForegroundColor Cyan
+Write-Host "   Sanatan Scriptures - Installation Script" -ForegroundColor Cyan
 Write-Host "=============================================" -ForegroundColor Cyan
 Write-Host ""
 
@@ -27,7 +27,8 @@ Write-Host "Step 1: Checking Composer..." -ForegroundColor Green
 try {
     & $composerPath --version | Out-Null
     Write-Host "✓ Composer found" -ForegroundColor Green
-} catch {
+}
+catch {
     Write-Host "✗ Composer not found. Please install Composer first." -ForegroundColor Red
     exit
 }
@@ -48,7 +49,8 @@ Write-Host "Step 4: Setting up environment file..." -ForegroundColor Green
 if (!(Test-Path ".env")) {
     Copy-Item ".env.example" ".env"
     Write-Host "✓ .env file created" -ForegroundColor Green
-} else {
+}
+else {
     Write-Host "✓ .env file already exists" -ForegroundColor Yellow
 }
 
@@ -88,7 +90,8 @@ if ($continue -eq "Y" -or $continue -eq "y") {
     
     Write-Host ""
     Write-Host "✓ Database setup complete!" -ForegroundColor Green
-} else {
+}
+else {
     Write-Host ""
     Write-Host "⚠️  Skipping database setup. Run these commands manually:" -ForegroundColor Yellow
     Write-Host "  $phpPath artisan migrate" -ForegroundColor Cyan
@@ -108,7 +111,8 @@ if (Get-Command npm -ErrorAction SilentlyContinue) {
         npm run build
         Write-Host "✓ Assets built" -ForegroundColor Green
     }
-} else {
+}
+else {
     Write-Host "⚠️  npm not found. Please install Node.js" -ForegroundColor Yellow
 }
 
@@ -125,6 +129,4 @@ Write-Host "Then visit: http://localhost:8000" -ForegroundColor Green
 Write-Host ""
 Write-Host "For Vite dev server (hot reload):" -ForegroundColor Yellow
 Write-Host "  npm run dev" -ForegroundColor Cyan
-Write-Host ""
-Write-Host "🙏 Om Shanti Shanti Shanti" -ForegroundColor Magenta
-Write-Host ""
+

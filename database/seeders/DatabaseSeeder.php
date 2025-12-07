@@ -15,6 +15,9 @@ class DatabaseSeeder extends Seeder
         $this->call([
             VedaSeeder::class,
             RigVedaSampleSeeder::class,
+            MahabharataParvaSeeder::class,
+            BhagavadGitaSeeder::class,
+            PuranaSeeder::class,
         ]);
     }
 }

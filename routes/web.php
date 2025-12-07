@@ -2,6 +2,8 @@
 
 use App\Http\Controllers\HomeController;
 use App\Http\Controllers\VedaController;
+use App\Http\Controllers\MahabharataController;
+use App\Http\Controllers\PuranaController;
 use App\Http\Controllers\ProgressController;
 use App\Http\Controllers\DashboardController;
 use App\Http\Controllers\AchievementController;
@@ -27,6 +29,15 @@ Route::get('/vedas', [VedaController::class, 'index'])->name('vedas.index');
 Route::get('/vedas/{veda}', [VedaController::class, 'show'])->name('vedas.show');
 Route::get('/vedas/{veda}/mandala/{mandala}', [VedaController::class, 'showMandala'])->name('vedas.mandala');
 
+// Mahabharata
+Route::get('/mahabharata', [MahabharataController::class, 'index'])->name('mahabharata.index');
+Route::get('/mahabharata/{parva}', [MahabharataController::class, 'show'])->name('mahabharata.show');
+Route::get('/mahabharata/{parva}/chapter/{chapter}', [MahabharataController::class, 'showChapter'])->name('mahabharata.chapter');
+
+// Puranas
+Route::get('/puranas', [PuranaController::class, 'index'])->name('puranas.index');
+Route::get('/puranas/{purana}', [PuranaController::class, 'show'])->name('puranas.show');
+
 // Progress tracking (auth required)
 Route::middleware('auth')->group(function () {
     Route::post('/verse/{verse}/mark-read', [ProgressController::class, 'markRead'])->name('verse.mark-read');
@@ -39,5 +50,3 @@ Route::middleware('auth')->group(function () {
     Route::get('/achievements', [AchievementController::class, 'index'])->name('achievements.index');
     Route::get('/leaderboard', [LeaderboardController::class, 'index'])->name('leaderboard.index');
 });
-
-require __DIR__.'/auth.php';

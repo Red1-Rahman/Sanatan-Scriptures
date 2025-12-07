@@ -1,0 +1,32 @@
+[
+  {
+    "purana_number": 1,
+    "name_sanskrit": "ब्रह्मपुराण",
+    "name_english": "Brahma Purana",
+    "name_transliteration": "Brahma Purāṇa",
+    "description": "One of the eighteen Mahapuranas. Focuses on cosmology, geography, and sacred places. Also known as Adi Purana (the first Purana).",
+    "total_chapters": 246,
+    "total_verses": 13000,
+    "category": "Rajasic"
+  },
+  {
+    "purana_number": 2,
+    "name_sanskrit": "विष्णुपुराण",
+    "name_english": "Vishnu Purana",
+    "name_transliteration": "Viṣṇu Purāṇa",
+    "description": "One of the eighteen Mahapuranas. Contains teachings on cosmology, dharma, and stories of various incarnations. Divided into six parts (amshas).",
+    "total_chapters": 126,
+    "total_verses": 7000,
+    "category": "Sattvic"
+  },
+  {
+    "purana_number": 3,
+    "name_sanskrit": "शिवपुराण",
+    "name_english": "Shiva Purana",
+    "name_transliteration": "Śiva Purāṇa",
+    "description": "One of the eighteen Mahapuranas. Focuses on philosophy, cosmology, and various aspects of yoga and meditation practices.",
+    "total_chapters": 100,
+    "total_verses": 24000,
+    "category": "Tamasic"
+  }
+]
