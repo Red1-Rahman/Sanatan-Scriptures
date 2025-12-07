@@ -8,7 +8,7 @@
     <div class="text-center mb-12">
         <h1 class="text-4xl font-bold text-gray-900 dark:text-white mb-4">The Mahabharata</h1>
         <p class="text-lg text-gray-600 dark:text-gray-400 max-w-3xl mx-auto">
-            One of the two major Sanskrit epics of ancient India, consisting of 18 parvas (books). It narrates the Kurukshetra War and contains philosophical and devotional material, including the Bhagavad Gita.
+            One of the two major Sanskrit epics of ancient India, consisting of 18 parvas (books). It narrates the Kurukshetra War and contains philosophical and ethical teachings, including the Bhagavad Gita.
         </p>
     </div>
 

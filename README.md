@@ -1,33 +1,60 @@
 # Sanatan Scriptures
 
-A gamified Laravel web application for reading, understanding, and memorizing the sacred Vedas of Sanatan Dharma (Hinduism). This application focuses on the 4 Vedas with an extensible architecture for adding Upanishads, Bhagavad Gita, and Puranas.
+A Laravel web application for studying ancient Sanskrit manuscripts including the Vedas, Mahabharata (with Bhagavad Gita), and Puranas. Built with a focus on academic research and learning, featuring gamification elements for progress tracking.
 
 ## 📖 About
 
-Sanatan Scriptures helps users engage with ancient Vedic texts through:
+Sanatan Scriptures is an educational platform for studying ancient Indian texts with:
 
-- **Reading Tracking**: Mark verses as read, understood, or memorized
+- **Multi-Scripture Library**: Vedas, Mahabharata, Bhagavad Gita, Puranas
+- **Progress Tracking**: Mark verses as read, understood, or memorized
 - **Gamification**: Earn points, maintain streaks, unlock achievements
-- **Progress Tracking**: Monitor your progress across all Vedas
-- **Leaderboard**: Compete with fellow learners
-- **Daily Goals**: Set and achieve daily reading targets
+- **JSON-Based Content**: Easy-to-maintain manuscript data in JSON format
+- **Responsive Design**: Beautiful UI with dark mode support
+- **Multi-language Support**: Sanskrit (Devanagari), Transliteration (IAST), English
 
 ### Currently Available Scriptures
+
+#### Vedas (वेद)
 
 - **Rig Veda** (ऋग्वेद) - 10 Mandalas, 10,552 verses
 - **Sama Veda** (सामवेद) - 2 Mandalas, 1,875 verses
 - **Yajur Veda** (यजुर्वेद) - 40 Mandalas, 1,975 verses
-- **Atharva Veda** (अथर्ववेद) - 20 Mandalas, 5,987 verses
+- **Atharva Veda** (अथर्ववेद) - 20 Mandalas, 5,977 verses
 
-_Note: The database currently includes Rig Veda Mandala 1, Sukta 1 (Agni Sukta) as sample data._
+#### Mahabharata (महाभारत)
+
+- **Adi Parva** (आदिपर्व) - 225 chapters, 7,984 verses
+- **Bhishma Parva** (भीष्मपर्व) - 124 chapters, 5,884 verses
+  - Contains the **Bhagavad Gita** (700 verses, 18 chapters)
+
+#### Puranas (पुराण)
+
+- **Brahma Purana** (ब्रह्मपुराण) - 246 chapters, 13,000 verses
+- **Vishnu Purana** (विष्णुपुराण) - 126 chapters, 7,000 verses
+- **Shiva Purana** (शिवपुराण) - 100 chapters, 24,000 verses
+
+_Note: Sample data included - Rig Veda Mandala 1 Sukta 1 (9 verses) and Bhagavad Gita Chapter 1 (first 10 verses)._
 
 ## 🚀 Technical Stack
 
-- **Framework**: Laravel 10+ (PHP 8.2+)
+- **Framework**: Laravel 10.x (PHP 8.2+)
 - **Database**: MySQL 8.0+
-- **Frontend**: Blade Templates, Tailwind CSS, Alpine.js
-- **Build Tool**: Vite
-- **Server**: XAMPP (Apache + MySQL)
+- **Frontend**: Blade Templates, Tailwind CSS 3.x, Alpine.js
+- **Build Tool**: Vite 5.x
+- **Fonts**: Noto Sans Devanagari, Noto Serif, Inter
+- **Server**: XAMPP (Apache + MySQL) or Laravel Artisan
+
+## 🎨 Design Philosophy
+
+This application is developed with a **scholarly and academic focus**:
+
+- ✅ Educational content presentation (manuscripts as historical/literary texts)
+- ✅ Sanskrit preservation and transliteration accuracy
+- ✅ JSON-based content for easy community contribution
+- ✅ Clean, minimal UI focusing on readability
+- ❌ No religious imagery or worship elements
+- ❌ Pure academic and research-oriented approach
 
 ## 🎯 Features
 
@@ -52,11 +79,15 @@ _Note: The database currently includes Rig Veda Mandala 1, Sukta 1 (Agni Sukta) 
 - 7-day streak bonus: +10 points
 - 30-day streak bonus: +50 points
 - Complete one Veda: +100 points
+- Complete one Purana: +80 points
+- Complete one Parva: +80 points
 - Complete all 4 Vedas: +500 points
 
 **Achievements:**
 
 - 📖 First Veda Complete (+100 pts)
+- 📖 First Purana Complete (+80 pts)
+- 📖 First Parva Complete (+80 pts)
 - 💯 100 Verses Read (+50 pts)
 - 🏆 1000 Verses Read (+200 pts)
 - 🔥 7 Day Streak (+25 pts)
@@ -135,14 +166,16 @@ DB_PASSWORD=
 # Run database migrations
 D:\Apps\XAMPP\php\php.exe artisan migrate
 
-# Seed the database with Vedas and sample verses
+# Seed the database with all scripture data
 D:\Apps\XAMPP\php\php.exe artisan db:seed
 ```
 
 This will create:
 
-- All 4 Vedas metadata
-- Rig Veda Mandala 1, Sukta 1 (9 verses - Agni Sukta)
+- **Vedas**: All 4 Vedas metadata + Rig Veda Mandala 1, Sukta 1 (9 verses)
+- **Mahabharata**: 2 Parvas (Adi Parva, Bhishma Parva)
+- **Bhagavad Gita**: Chapter 1 (first 10 verses)
+- **Puranas**: 3 Puranas (Brahma, Vishnu, Shiva) - ready for content
 
 ### 7. Install Frontend Dependencies
 
@@ -225,6 +258,8 @@ sanatan-scriptures/
 │   ├── Http/Controllers/
 │   │   ├── HomeController.php
 │   │   ├── VedaController.php
+│   │   ├── MahabharataController.php
+│   │   ├── PuranaController.php
 │   │   ├── ProgressController.php
 │   │   ├── DashboardController.php
 │   │   ├── AchievementController.php
@@ -232,21 +267,39 @@ sanatan-scriptures/
 │   └── Models/
 │       ├── Veda.php
 │       ├── Verse.php
+│       ├── MahabharataParva.php
+│       ├── BhagavadGitaVerse.php
+│       ├── Purana.php
 │       ├── User.php
 │       ├── UserVerseProgress.php
 │       ├── DailyGoal.php
 │       └── Achievement.php
 ├── database/
+│   ├── data/                           # 📁 JSON content files
+│   │   ├── vedas.json
+│   │   ├── rig_veda_mandala_1_sukta_1.json
+│   │   ├── mahabharata_parvas.json
+│   │   ├── bhagavad_gita_sample.json
+│   │   ├── puranas.json
+│   │   ├── brahma_purana_content.json
+│   │   ├── vishnu_purana_content.json
+│   │   └── shiva_purana_content.json
 │   ├── migrations/
 │   │   ├── *_create_vedas_table.php
 │   │   ├── *_create_verses_table.php
+│   │   ├── *_create_mahabharata_parvas_table.php
+│   │   ├── *_create_bhagavad_gita_verses_table.php
+│   │   ├── *_create_puranas_table.php
 │   │   ├── *_create_users_table.php
 │   │   ├── *_create_user_verse_progress_table.php
 │   │   ├── *_create_daily_goals_table.php
 │   │   └── *_create_achievements_table.php
 │   └── seeders/
 │       ├── VedaSeeder.php
-│       └── RigVedaSampleSeeder.php
+│       ├── RigVedaSampleSeeder.php
+│       ├── MahabharataParvaSeeder.php
+│       ├── BhagavadGitaSeeder.php
+│       └── PuranaSeeder.php
 ├── resources/
 │   ├── views/
 │   │   ├── home.blade.php
@@ -255,6 +308,14 @@ sanatan-scriptures/
 │   │   │   ├── index.blade.php
 │   │   │   ├── show.blade.php
 │   │   │   └── mandala.blade.php
+│   │   ├── mahabharata/
+│   │   │   ├── index.blade.php
+│   │   │   ├── show.blade.php
+│   │   │   ├── bhagavad-gita.blade.php
+│   │   │   └── chapter.blade.php
+│   │   ├── puranas/
+│   │   │   ├── index.blade.php
+│   │   │   └── show.blade.php
 │   │   ├── progress/
 │   │   ├── achievements/
 │   │   └── leaderboard/
@@ -308,37 +369,80 @@ All endpoints return JSON:
 
 ## 🚀 Extending the Application
 
-### Adding More Scriptures
+### Adding More Content via JSON Files
 
-The architecture is designed to be extensible. To add new scripture types (Upanishads, Bhagavad Gita, Puranas):
+The easiest way to add content is by editing JSON files in `database/data/`:
 
-1. **Add new scripture type table** (similar to `vedas`)
-2. **Add verses table** for the new scripture
-3. **Create model** with relationships
-4. **Create controller** following the same pattern
-5. **Add routes** in `web.php`
-6. **Create views** using existing templates as reference
+**For Vedas:**
 
-Example for Bhagavad Gita:
-
-```php
-// Migration
-Schema::create('bhagavad_gita_chapters', function (Blueprint $table) {
-    $table->id();
-    $table->integer('chapter_number');
-    $table->string('name_sanskrit');
-    $table->string('name_english');
-    // ... similar structure
-});
+```json
+// database/data/sama_veda_content.json
+[
+  {
+    "veda_number": 2,
+    "mandala_number": 1,
+    "sukta_number": 1,
+    "verse_number": 1,
+    "sanskrit_text": "...",
+    "transliteration": "...",
+    "translation_english": "..."
+  }
+]
 ```
 
-### Adding More Rig Veda Content
+**For Bhagavad Gita:**
 
-To add more Mandalas/Suktas:
+```json
+// database/data/bhagavad_gita_chapter_2.json
+[
+  {
+    "parva_number": 6,
+    "chapter": 2,
+    "verse": 1,
+    "text_sanskrit": "...",
+    "text_transliteration": "...",
+    "text_english": "...",
+    "speaker": "...",
+    "chapter_name": "...",
+    "chapter_name_sanskrit": "..."
+  }
+]
+```
 
-1. Create a new seeder extending `RigVedaSampleSeeder`
-2. Add verse data following the same format
-3. Run `php artisan db:seed --class=YourNewSeeder`
+**For Puranas:**
+
+```json
+// database/data/brahma_purana_content.json
+[
+  {
+    "purana_number": 1,
+    "chapter": 1,
+    "verse": 1,
+    "sanskrit_text": "...",
+    "transliteration": "...",
+    "translation_english": "..."
+  }
+]
+```
+
+After editing JSON files:
+
+```powershell
+# Re-seed the database
+D:\Apps\XAMPP\php\php.exe artisan migrate:fresh --seed
+```
+
+### Adding New Scripture Types
+
+To add new categories (e.g., Upanishads):
+
+1. **Create JSON file**: `database/data/upanishads.json`
+2. **Create migration**: `*_create_upanishads_table.php`
+3. **Create model**: `app/Models/Upanishad.php`
+4. **Create controller**: `app/Http/Controllers/UpanishadController.php`
+5. **Create seeder**: `database/seeders/UpanishadSeeder.php`
+6. **Add routes**: `routes/web.php`
+7. **Create views**: `resources/views/upanishads/`
 
 ## 🧪 Testing
 
@@ -415,23 +519,39 @@ npm run dev
 
 ## 🤝 Contributing
 
-To contribute additional Vedic content:
+To contribute additional content to any scripture:
 
-1. Add verses to appropriate seeder
-2. Ensure proper Sanskrit (Devanagari) encoding
-3. Include transliteration (IAST standard)
-4. Provide English translation
-5. Add metadata (deity, rishi, metre)
+1. **Find the appropriate JSON file** in `database/data/`
+2. **Add verses** following the existing structure:
+   - Ensure proper Sanskrit (Devanagari) encoding
+   - Include transliteration (IAST standard)
+   - Provide English translation
+   - Add relevant metadata (speaker, chapter name, etc.)
+3. **Test locally**:
+   ```powershell
+   D:\Apps\XAMPP\php\php.exe artisan migrate:fresh --seed
+   D:\Apps\XAMPP\php\php.exe artisan serve
+   ```
+4. **Submit pull request** with clear description of added content
+
+**Content Guidelines:**
+
+- Maintain academic/scholarly focus
+- Use authoritative Sanskrit sources
+- Provide accurate translations
+- Include proper verse numbering
+- Preserve original formatting and diacritical marks
 
 ## 📜 License
 
-This project is open-source and available for educational and spiritual purposes.
+This project is open-source and available for educational and research purposes.
 
 ## 🙏 Acknowledgments
 
-- Vedic texts sourced from authentic Sanskrit repositories
+- Sanskrit texts sourced from authentic repositories
 - Translations based on scholarly interpretations
-- Built with respect for the sacred nature of these scriptures
+- Built with academic respect for ancient manuscripts
+- Developed with focus on historical and spiritual study
 
 ## 📞 Support
 
@@ -442,7 +562,3 @@ For issues or questions:
 3. Review Tailwind CSS documentation: https://tailwindcss.com
 
 ---
-
-**ॐ शान्तिः शान्तिः शान्तिः**  
-_Om Shanti Shanti Shanti_  
-(Peace, Peace, Peace)

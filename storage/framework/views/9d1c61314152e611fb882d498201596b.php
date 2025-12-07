@@ -17,7 +17,7 @@
         <?php $__currentLoopData = $puranas; $__env->addLoop($__currentLoopData); foreach($__currentLoopData as $purana): $__env->incrementLoopIndices(); $loop = $__env->getLastLoop(); ?>
         <div class="bg-white dark:bg-gray-800 rounded-2xl shadow-xl hover:shadow-2xl transition-all overflow-hidden">
             <!-- Header -->
-            <div class="bg-gradient-to-br from-navy-700 to-blue-900 p-8 text-white">
+            <div class="bg-gradient-to-br from-orange-500 to-amber-600 p-8 text-white">
                 <div class="text-4xl font-sanskrit mb-3"><?php echo e($purana->name_sanskrit); ?></div>
                 <div class="text-xl font-bold mb-1"><?php echo e($purana->name_english); ?></div>
                 <div class="text-sm italic opacity-90"><?php echo e($purana->name_transliteration); ?></div>
@@ -39,17 +39,17 @@
                 <!-- Stats -->
                 <div class="grid grid-cols-2 gap-3 mb-4">
                     <div class="bg-blue-50 dark:bg-gray-700 rounded-lg p-3">
-                        <div class="text-2xl font-bold text-navy-700 dark:text-blue-400"><?php echo e($purana->total_chapters); ?></div>
+                        <div class="text-2xl font-bold text-orange-600 dark:text-orange-400"><?php echo e($purana->total_chapters); ?></div>
                         <div class="text-xs text-gray-600 dark:text-gray-400">Chapters</div>
                     </div>
                     <div class="bg-blue-50 dark:bg-gray-700 rounded-lg p-3">
-                        <div class="text-2xl font-bold text-navy-700 dark:text-blue-400"><?php echo e(number_format($purana->total_verses)); ?></div>
+                        <div class="text-2xl font-bold text-orange-600 dark:text-orange-400"><?php echo e(number_format($purana->total_verses)); ?></div>
                         <div class="text-xs text-gray-600 dark:text-gray-400">Verses</div>
                     </div>
                 </div>
 
                 <!-- Action Button -->
-                <a href="<?php echo e(route('puranas.show', $purana->purana_number)); ?>" class="block w-full bg-navy-700 hover:bg-blue-900 text-white text-center py-2 rounded-lg font-semibold transition text-sm">
+                <a href="<?php echo e(route('puranas.show', $purana->purana_number)); ?>" class="block w-full bg-orange-600 hover:bg-amber-600 text-white text-center py-2 rounded-lg font-semibold transition text-sm">
                     View Purana
                 </a>
             </div>
