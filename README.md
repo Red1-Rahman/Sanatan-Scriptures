@@ -4,7 +4,7 @@ A Laravel web application for studying ancient Sanskrit manuscripts including th
 
 ## 📖 About
 
-Sanatan Scriptures is an educational platform for studying ancient Indian texts with:
+Sanatan Scriptures is an educational platform for studying ancient Sanatan/Hindu texts with:
 
 - **Multi-Scripture Library**: Vedas, Mahabharata, Bhagavad Gita, Puranas
 - **Progress Tracking**: Mark verses as read, understood, or memorized
