@@ -226,7 +226,7 @@
     "text_sanskrit": "अर्जुन उवाच: सेनयोरुभयोर्मध्ये रथं स्थापय मेऽच्युत ||",
     "text_transliteration": "arjuna uvācha: senayor ubhayor madhye rathaṁ sthāpaya me ’chyuta ||",
     "text_english": "Arjuna said: “ O Achyuta, place my chariot between the two armies.”"
-    "speaker": "Duryodhana",
+    "speaker": "Arjun",
     "chapter_name": "The Yoga of Arjuna's Dejection",
     "chapter_name_sanskrit": "अर्जुनविषादयोग"
   },
@@ -256,9 +256,20 @@
     "parva_number": 6,
     "chapter": 1,
     "verse": 24,
-    "text_sanskrit": "सञ्जय उवाच | एवमुक्तो हृषीकेशो गुडाकेशेन भारत | सेनयोरुभयोर्मध्ये स्थापयित्वा रथोत्तमम् ||",
-    "text_transliteration": "ayaneṣhu cha sarveṣhu yathā-bhāgamavasthitāḥ | bhīṣhmamevābhirakṣhantu bhavantaḥ sarva eva hi ||",
-    "text_english": "Therefore, I call upon all the generals of the Kaurava army now to give full support to Grandsire Bheeshma, even as you defend your respective strategic points.",
+    "text_sanskrit": "सञ्जय उवाच: एवमुक्तो हृषीकेशो गुडाकेशेन भारत | सेनयोरुभयोर्मध्ये स्थापयित्वा रथोत्तमम् ||",
+    "text_transliteration": "sañjaya uvācha: evam ukto hṛiṣhīkeśho guḍākeśhena bhārata | senayor ubhayor madhye sthāpayitvā rathottamam ||",
+    "text_english": "Sanjay said: O Dhritarasthra, having thus been addressed by Arjun, the conqueror of sleep, Shree Krishna then drew the magnificent chariot between the two armies.",
+    "speaker": "Sanjay",
+    "chapter_name": "The Yoga of Arjuna's Dejection",
+    "chapter_name_sanskrit": "अर्जुनविषादयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 1,
+    "verse": 25,
+    "text_sanskrit": "भीष्मद्रोणप्रमुखत: सर्वेषां च महीक्षिताम् | उवाच पार्थ पश्यैतान्समवेतान्कुरूनिति ||",
+    "text_transliteration": "bhīṣhma-droṇa-pramukhataḥ sarveṣhāṁ cha mahī-kṣhitām | uvācha pārtha paśhyaitān samavetān kurūn iti ||",
+    "text_english": "In the presence of Bheeshma, Dronacharya, and all the other kings, Shree Krishna said: O Parth, behold these Kurus gathered here.",
     "speaker": "Duryodhana",
     "chapter_name": "The Yoga of Arjuna's Dejection",
     "chapter_name_sanskrit": "अर्जुनविषादयोग"
@@ -266,10 +277,10 @@
   {
     "parva_number": 6,
     "chapter": 1,
-    "verse": 11,
-    "text_sanskrit": "अयनेषु च सर्वेषु यथाभागमवस्थिता: | भीष्ममेवाभिरक्षन्तु भवन्त: सर्व एव हि ||",
-    "text_transliteration": "ayaneṣhu cha sarveṣhu yathā-bhāgamavasthitāḥ | bhīṣhmamevābhirakṣhantu bhavantaḥ sarva eva hi ||",
-    "text_english": "Therefore, I call upon all the generals of the Kaurava army now to give full support to Grandsire Bheeshma, even as you defend your respective strategic points.",
+    "verse": 26,
+    "text_sanskrit": "तत्रापश्यत्स्थितान् पार्थ: पितृ नथ पितामहान् | आचार्यान्मातुलान्भ्रातृ न्पुत्रान्पौत्रान्सखींस्तथा || श्वशुरान्सुहृदश्चैव सेनयोरुभयोरपि ||",
+    "text_transliteration": "tatrāpaśhyat sthitān pārthaḥ pitṝīn atha pitāmahān | āchāryān mātulān bhrātṝīn putrān pautrān sakhīṁs tathā | śhvaśhurān suhṛidaśh chaiva senayor ubhayor api ||",
+    "text_english": "There, Arjun could see stationed in both armies, his fathers, grandfathers, teachers, maternal uncles, brothers, cousins, sons, nephews, grand-nephews, friends, fathers-in-law, and well-wishers.",
     "speaker": "Duryodhana",
     "chapter_name": "The Yoga of Arjuna's Dejection",
     "chapter_name_sanskrit": "अर्जुनविषादयोग"
@@ -277,10 +288,10 @@
   {
     "parva_number": 6,
     "chapter": 1,
-    "verse": 11,
-    "text_sanskrit": "अयनेषु च सर्वेषु यथाभागमवस्थिता: | भीष्ममेवाभिरक्षन्तु भवन्त: सर्व एव हि ||",
-    "text_transliteration": "ayaneṣhu cha sarveṣhu yathā-bhāgamavasthitāḥ | bhīṣhmamevābhirakṣhantu bhavantaḥ sarva eva hi ||",
-    "text_english": "Therefore, I call upon all the generals of the Kaurava army now to give full support to Grandsire Bheeshma, even as you defend your respective strategic points.",
+    "verse": 27,
+    "text_sanskrit": "तान्समीक्ष्य स कौन्तेय: सर्वान्बन्धूनवस्थितान् || कृपया परयाविष्टो विषीदन्निदमब्रवीत् |",
+    "text_transliteration": "tān samīkṣhya sa kaunteyaḥ sarvān bandhūn avasthitān || kṛipayā parayāviṣhṭo viṣhīdann idam abravīt |",
+    "text_english": "Seeing all his relatives present there, Arjun, the son of Kunti, was overwhelmed with compassion, and with deep sorrow, spoke the following words.",
     "speaker": "Duryodhana",
     "chapter_name": "The Yoga of Arjuna's Dejection",
     "chapter_name_sanskrit": "अर्जुनविषादयोग"
@@ -288,10 +299,21 @@
   {
     "parva_number": 6,
     "chapter": 1,
-    "verse": 11,
-    "text_sanskrit": "अयनेषु च सर्वेषु यथाभागमवस्थिता: | भीष्ममेवाभिरक्षन्तु भवन्त: सर्व एव हि ||",
-    "text_transliteration": "ayaneṣhu cha sarveṣhu yathā-bhāgamavasthitāḥ | bhīṣhmamevābhirakṣhantu bhavantaḥ sarva eva hi ||",
-    "text_english": "Therefore, I call upon all the generals of the Kaurava army now to give full support to Grandsire Bheeshma, even as you defend your respective strategic points.",
+    "verse": 28,
+    "text_sanskrit": "अर्जुन उवाच: दृष्ट्वेमं स्वजनं कृष्ण युयुत्सुं समुपस्थितम् || सीदन्ति मम गात्राणि मुखं च परिशुष्यति ||",
+    "text_transliteration": "arjuna uvācha: dṛiṣhṭvemaṁ sva-janaṁ kṛiṣhṇa yuyutsuṁ samupasthitam || sīdanti mama gātrāṇi mukhaṁ cha pariśhuṣhyati |",
+    "text_english": "Arjun said: O Krishna, seeing my own kinsmen arrayed for battle here and intent on killing each other, my limbs are giving way and my mouth is drying up.",
+    "speaker": "Arjun",
+    "chapter_name": "The Yoga of Arjuna's Dejection",
+    "chapter_name_sanskrit": "अर्जुनविषादयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 1,
+    "verse": 29,
+    "text_sanskrit": "वेपथुश्च शरीरे मे रोमहर्षश्च जायते || गाण्डीवं स्रंसते हस्तात्त्वक्चै व परिदह्यते ||",
+    "text_transliteration": "vepathuśh cha śharīre me roma-harṣhaśh cha jāyate || gāṇḍīvaṁ sraṁsate hastāt tvak chaiva paridahyate ||",
+    "text_english": "My body is trembling, my hair is standing on end. Gandiva is slipping from my hand, and my skin is burning",
     "speaker": "Duryodhana",
     "chapter_name": "The Yoga of Arjuna's Dejection",
     "chapter_name_sanskrit": "अर्जुनविषादयोग"
@@ -299,10 +321,10 @@
   {
     "parva_number": 6,
     "chapter": 1,
-    "verse": 11,
-    "text_sanskrit": "अयनेषु च सर्वेषु यथाभागमवस्थिता: | भीष्ममेवाभिरक्षन्तु भवन्त: सर्व एव हि ||",
-    "text_transliteration": "ayaneṣhu cha sarveṣhu yathā-bhāgamavasthitāḥ | bhīṣhmamevābhirakṣhantu bhavantaḥ sarva eva hi ||",
-    "text_english": "Therefore, I call upon all the generals of the Kaurava army now to give full support to Grandsire Bheeshma, even as you defend your respective strategic points.",
+    "verse": 30,
+    "text_sanskrit": "न च शक्नोम्यवस्थातुं भ्रमतीव च मे मन: ||",
+    "text_transliteration": "na cha śhaknomy avasthātuṁ bhramatīva cha me manaḥ ||",
+    "text_english": "I am unable to stand firm, and my mind seems to be reeling.",
     "speaker": "Duryodhana",
     "chapter_name": "The Yoga of Arjuna's Dejection",
     "chapter_name_sanskrit": "अर्जुनविषादयोग"
@@ -310,32 +332,10 @@
   {
     "parva_number": 6,
     "chapter": 1,
-    "verse": 11,
-    "text_sanskrit": "अयनेषु च सर्वेषु यथाभागमवस्थिता: | भीष्ममेवाभिरक्षन्तु भवन्त: सर्व एव हि ||",
-    "text_transliteration": "ayaneṣhu cha sarveṣhu yathā-bhāgamavasthitāḥ | bhīṣhmamevābhirakṣhantu bhavantaḥ sarva eva hi ||",
-    "text_english": "Therefore, I call upon all the generals of the Kaurava army now to give full support to Grandsire Bheeshma, even as you defend your respective strategic points.",
-    "speaker": "Duryodhana",
-    "chapter_name": "The Yoga of Arjuna's Dejection",
-    "chapter_name_sanskrit": "अर्जुनविषादयोग"
-  },
-  {
-    "parva_number": 6,
-    "chapter": 1,
-    "verse": 11,
-    "text_sanskrit": "अयनेषु च सर्वेषु यथाभागमवस्थिता: | भीष्ममेवाभिरक्षन्तु भवन्त: सर्व एव हि ||",
-    "text_transliteration": "ayaneṣhu cha sarveṣhu yathā-bhāgamavasthitāḥ | bhīṣhmamevābhirakṣhantu bhavantaḥ sarva eva hi ||",
-    "text_english": "Therefore, I call upon all the generals of the Kaurava army now to give full support to Grandsire Bheeshma, even as you defend your respective strategic points.",
-    "speaker": "Duryodhana",
-    "chapter_name": "The Yoga of Arjuna's Dejection",
-    "chapter_name_sanskrit": "अर्जुनविषादयोग"
-  },
-  {
-    "parva_number": 6,
-    "chapter": 1,
-    "verse": 11,
-    "text_sanskrit": "अयनेषु च सर्वेषु यथाभागमवस्थिता: | भीष्ममेवाभिरक्षन्तु भवन्त: सर्व एव हि ||",
-    "text_transliteration": "ayaneṣhu cha sarveṣhu yathā-bhāgamavasthitāḥ | bhīṣhmamevābhirakṣhantu bhavantaḥ sarva eva hi ||",
-    "text_english": "Therefore, I call upon all the generals of the Kaurava army now to give full support to Grandsire Bheeshma, even as you defend your respective strategic points.",
+    "verse": 31,
+    "text_sanskrit": "निमित्तानि च पश्यामि विपरीतानि केशव | न च श्रेयोऽनुपश्यामि हत्वा स्वजनमाहवे ||",
+    "text_transliteration": "nimittāni cha paśhyāmi viparītāni keśhava | na cha śhreyo ’nupaśhyāmi hatvā sva-janam āhave ||",
+    "text_english": "O Keshava, I see omens that are unfavorable, and I do not foresee any good in killing my own people in this battle.",
     "speaker": "Duryodhana",
     "chapter_name": "The Yoga of Arjuna's Dejection",
     "chapter_name_sanskrit": "अर्जुनविषादयोग"
