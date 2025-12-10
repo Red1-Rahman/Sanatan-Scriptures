@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Home')
+@section('title', 'Sanatan Scriptures - Ancient Sanskrit Manuscripts')
 
 @section('content')
 <div class="relative overflow-hidden">
@@ -8,15 +8,21 @@
     <div class="relative bg-gradient-to-r from-saffron-600 to-orange-500 dark:from-saffron-800 dark:to-orange-700">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-24">
             <div class="text-center">
-                <h1 class="text-5xl md:text-6xl font-bold text-white mb-6">
-                    Ancient Vedic Manuscripts
+                <h1 class="text-4xl sm:text-5xl md:text-6xl font-bold text-white mb-6">
+                    Ancient Sanskrit Manuscripts
                 </h1>
-                <p class="text-xl md:text-2xl text-orange-100 mb-8 max-w-3xl mx-auto">
-                    Study the ancient Sanskrit texts through the four Vedas. Read original texts with translations and transliterations for academic research and learning.
+                <p class="text-lg sm:text-xl md:text-2xl text-orange-100 mb-8 max-w-3xl mx-auto">
+                    Study ancient Sanatan texts including the Vedas, Mahabharata, Bhagavad Gita, and Puranas. Read original Sanskrit texts with translations and transliterations. Track your progress with gamification features including points, streaks, and achievements.
                 </p>
                 <div class="flex flex-wrap justify-center gap-4">
-                    <a href="{{ route('vedas.index') }}" class="bg-white text-saffron-600 px-8 py-3 rounded-lg text-lg font-semibold hover:bg-gray-100 transition shadow-lg">
+                    <a href="{{ route('vedas.index') }}" class="bg-white text-saffron-600 px-6 sm:px-8 py-3 rounded-lg text-base sm:text-lg font-semibold hover:bg-gray-100 transition shadow-lg">
                         Browse Vedas
+                    </a>
+                    <a href="{{ route('mahabharata.index') }}" class="bg-white text-saffron-600 px-6 sm:px-8 py-3 rounded-lg text-base sm:text-lg font-semibold hover:bg-gray-100 transition shadow-lg">
+                        Mahabharata
+                    </a>
+                    <a href="{{ route('puranas.index') }}" class="bg-white text-saffron-600 px-6 sm:px-8 py-3 rounded-lg text-base sm:text-lg font-semibold hover:bg-gray-100 transition shadow-lg">
+                        Puranas
                     </a>
                 </div>
             </div>
@@ -32,18 +38,22 @@
 
     <!-- Statistics Section -->
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-16">
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 mb-16">
             <div class="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-6 text-center">
                 <div class="text-4xl font-bold text-saffron-600 dark:text-saffron-400 mb-2">{{ $stats['total_vedas'] }}</div>
                 <div class="text-gray-600 dark:text-gray-300">Sacred Vedas</div>
             </div>
             <div class="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-6 text-center">
-                <div class="text-4xl font-bold text-saffron-600 dark:text-saffron-400 mb-2">{{ number_format($stats['total_verses']) }}</div>
-                <div class="text-gray-600 dark:text-gray-300">Verses Available</div>
+                <div class="text-4xl font-bold text-saffron-600 dark:text-saffron-400 mb-2">2</div>
+                <div class="text-gray-600 dark:text-gray-300">Mahabharata Parvas</div>
             </div>
             <div class="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-6 text-center">
-                <div class="text-4xl font-bold text-saffron-600 dark:text-saffron-400 mb-2">{{ number_format($stats['total_users']) }}</div>
-                <div class="text-gray-600 dark:text-gray-300">Active Learners</div>
+                <div class="text-4xl font-bold text-saffron-600 dark:text-saffron-400 mb-2">3</div>
+                <div class="text-gray-600 dark:text-gray-300">Puranas</div>
+            </div>
+            <div class="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-6 text-center">
+                <div class="text-4xl font-bold text-saffron-600 dark:text-saffron-400 mb-2">{{ number_format($stats['total_verses']) }}</div>
+                <div class="text-gray-600 dark:text-gray-300">Total Verses</div>
             </div>
         </div>
 
@@ -71,6 +81,77 @@
                         </div>
                         <a href="{{ route('vedas.show', $veda->veda_number) }}" class="block w-full bg-saffron-500 hover:bg-saffron-600 text-white text-center py-2 rounded-lg font-semibold transition">
                             Browse
+                        </a>
+                    </div>
+                </div>
+                @endforeach
+            </div>
+        </div>
+
+        <!-- Mahabharata -->
+        <div class="mb-16">
+            <h2 class="text-3xl font-bold text-center text-gray-900 dark:text-white mb-4">Mahabharata</h2>
+            <p class="text-center text-gray-600 dark:text-gray-400 mb-8 max-w-2xl mx-auto">The great Indian epic including the Bhagavad Gita</p>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                @foreach($mahabharataParvas as $parva)
+                <div class="bg-white dark:bg-gray-800 rounded-xl shadow-lg hover:shadow-xl transition-shadow overflow-hidden">
+                    <div class="bg-gradient-to-br from-orange-500 to-amber-500 p-6 text-white">
+                        <div class="text-2xl font-sanskrit mb-2">{{ $parva->name_sanskrit }}</div>
+                        <div class="text-lg font-semibold">{{ $parva->name_english }}</div>
+                        <div class="text-sm italic opacity-90">{{ $parva->name_transliteration }}</div>
+                    </div>
+                    <div class="p-6">
+                        <p class="text-gray-600 dark:text-gray-400 text-sm mb-4">{{ $parva->description }}</p>
+                        <div class="space-y-2 mb-4">
+                            <div class="flex justify-between text-sm">
+                                <span class="text-gray-600 dark:text-gray-400">Chapters:</span>
+                                <span class="font-semibold text-gray-900 dark:text-white">{{ number_format($parva->total_chapters) }}</span>
+                            </div>
+                            <div class="flex justify-between text-sm">
+                                <span class="text-gray-600 dark:text-gray-400">Verses:</span>
+                                <span class="font-semibold text-gray-900 dark:text-white">{{ number_format($parva->total_verses) }}</span>
+                            </div>
+                        </div>
+                        <a href="{{ route('mahabharata.show', $parva->parva_number) }}" class="block w-full bg-orange-500 hover:bg-orange-600 text-white text-center py-2 rounded-lg font-semibold transition">
+                            Explore
+                        </a>
+                    </div>
+                </div>
+                @endforeach
+            </div>
+        </div>
+
+        <!-- Puranas -->
+        <div class="mb-16">
+            <h2 class="text-3xl font-bold text-center text-gray-900 dark:text-white mb-4">Puranas</h2>
+            <p class="text-center text-gray-600 dark:text-gray-400 mb-8 max-w-2xl mx-auto">Ancient texts containing history, mythology, and philosophy</p>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+                @foreach($puranas as $purana)
+                <div class="bg-white dark:bg-gray-800 rounded-xl shadow-lg hover:shadow-xl transition-shadow overflow-hidden">
+                    <div class="bg-gradient-to-br from-orange-500 to-saffron-500 p-6 text-white">
+                        <div class="text-2xl font-sanskrit mb-2">{{ $purana->name_sanskrit }}</div>
+                        <div class="text-lg font-semibold">{{ $purana->name_english }}</div>
+                        <div class="text-sm italic opacity-90">{{ $purana->name_transliteration }}</div>
+                    </div>
+                    <div class="p-6">
+                        <div class="mb-4">
+                            <span class="inline-block px-3 py-1 bg-orange-100 dark:bg-orange-900 text-orange-800 dark:text-orange-200 text-xs font-semibold rounded-full">
+                                {{ $purana->category }}
+                            </span>
+                        </div>
+                        <p class="text-gray-600 dark:text-gray-400 text-sm mb-4 line-clamp-3">{{ $purana->description }}</p>
+                        <div class="space-y-2 mb-4">
+                            <div class="flex justify-between text-sm">
+                                <span class="text-gray-600 dark:text-gray-400">Chapters:</span>
+                                <span class="font-semibold text-gray-900 dark:text-white">{{ number_format($purana->total_chapters) }}</span>
+                            </div>
+                            <div class="flex justify-between text-sm">
+                                <span class="text-gray-600 dark:text-gray-400">Verses:</span>
+                                <span class="font-semibold text-gray-900 dark:text-white">{{ number_format($purana->total_verses) }}</span>
+                            </div>
+                        </div>
+                        <a href="{{ route('puranas.show', $purana->purana_number) }}" class="block w-full bg-amber-500 hover:bg-amber-600 text-white text-center py-2 rounded-lg font-semibold transition">
+                            Explore
                         </a>
                     </div>
                 </div>

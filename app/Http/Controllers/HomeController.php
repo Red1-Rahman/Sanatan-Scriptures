@@ -5,6 +5,8 @@ namespace App\Http\Controllers;
 use App\Models\Veda;
 use App\Models\Verse;
 use App\Models\User;
+use App\Models\MahabharataParva;
+use App\Models\Purana;
 use Illuminate\Http\Request;
 
 class HomeController extends Controller
@@ -15,6 +17,8 @@ class HomeController extends Controller
     public function index()
     {
         $vedas = Veda::all();
+        $mahabharataParvas = MahabharataParva::all();
+        $puranas = Purana::all();
         
         // Statistics
         $stats = [
@@ -34,6 +38,6 @@ class HomeController extends Controller
                 ->get();
         }
 
-        return view('home', compact('vedas', 'stats', 'recentActivity'));
+        return view('home', compact('vedas', 'mahabharataParvas', 'puranas', 'stats', 'recentActivity'));
     }
 }

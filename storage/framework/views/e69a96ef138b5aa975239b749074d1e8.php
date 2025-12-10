@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="csrf-token" content="<?php echo e(csrf_token()); ?>">
 
-    <title><?php echo e(config('app.name', 'Sanatan Scriptures')); ?> - <?php echo $__env->yieldContent('title', 'Discover the Vedas'); ?></title>
+    <title><?php echo $__env->yieldContent('title', 'Sanatan Scriptures - Ancient Sanskrit Manuscripts'); ?></title>
 
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -20,36 +20,36 @@
 <body class="h-full bg-gradient-to-br from-orange-50 to-amber-100 dark:from-gray-900 dark:to-gray-800">
     <div class="min-h-full">
         <!-- Navigation -->
-        <nav class="bg-white dark:bg-gray-800 shadow-lg border-b-4 border-saffron-500">
+        <nav class="bg-white dark:bg-gray-800 shadow-lg border-b-4 border-saffron-500" x-data="{ mobileMenuOpen: false }">
             <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                 <div class="flex justify-between h-16">
-                    <div class="flex">
+                    <div class="flex items-center space-x-4">
                         <!-- Logo -->
                         <div class="flex-shrink-0 flex items-center">
-                            <a href="<?php echo e(route('home')); ?>" class="flex items-center space-x-3">
-                                <span class="text-xl font-bold text-saffron-600 dark:text-saffron-400">📜 Sanatan Scriptures</span>
+                            <a href="<?php echo e(route('home')); ?>" class="flex items-center">
+                                <span class="text-lg sm:text-xl lg:text-2xl font-bold text-saffron-600 dark:text-saffron-400">📜 Sanatan Scriptures</span>
                             </a>
                         </div>
                         
-                        <!-- Navigation Links -->
-                        <div class="hidden sm:ml-6 sm:flex sm:space-x-8">
-                            <a href="<?php echo e(route('home')); ?>" class="border-transparent hover:border-saffron-500 text-gray-900 dark:text-gray-100 inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium transition">
+                        <!-- Desktop Navigation Links -->
+                        <div class="hidden md:flex md:space-x-4 lg:space-x-8">
+                            <a href="<?php echo e(route('home')); ?>" class="border-transparent hover:border-saffron-500 text-gray-900 dark:text-gray-100 inline-flex items-center px-1 pt-1 border-b-2 text-sm lg:text-base font-medium transition">
                                 Home
                             </a>
-                            <a href="<?php echo e(route('vedas.index')); ?>" class="border-transparent hover:border-saffron-500 text-gray-900 dark:text-gray-100 inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium transition">
+                            <a href="<?php echo e(route('vedas.index')); ?>" class="border-transparent hover:border-saffron-500 text-gray-900 dark:text-gray-100 inline-flex items-center px-1 pt-1 border-b-2 text-sm lg:text-base font-medium transition">
                                 Vedas
                             </a>
-                            <a href="<?php echo e(route('mahabharata.index')); ?>" class="border-transparent hover:border-saffron-500 text-gray-900 dark:text-gray-100 inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium transition">
+                            <a href="<?php echo e(route('mahabharata.index')); ?>" class="border-transparent hover:border-saffron-500 text-gray-900 dark:text-gray-100 inline-flex items-center px-1 pt-1 border-b-2 text-sm lg:text-base font-medium transition">
                                 Mahabharata
                             </a>
-                            <a href="<?php echo e(route('puranas.index')); ?>" class="border-transparent hover:border-saffron-500 text-gray-900 dark:text-gray-100 inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium transition">
+                            <a href="<?php echo e(route('puranas.index')); ?>" class="border-transparent hover:border-saffron-500 text-gray-900 dark:text-gray-100 inline-flex items-center px-1 pt-1 border-b-2 text-sm lg:text-base font-medium transition">
                                 Puranas
                             </a>
                             <?php if(auth()->guard()->check()): ?>
-                                <a href="<?php echo e(route('dashboard')); ?>" class="border-transparent hover:border-saffron-500 text-gray-900 dark:text-gray-100 inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium transition">
+                                <a href="<?php echo e(route('dashboard')); ?>" class="border-transparent hover:border-saffron-500 text-gray-900 dark:text-gray-100 inline-flex items-center px-1 pt-1 border-b-2 text-sm lg:text-base font-medium transition">
                                     Dashboard
                                 </a>
-                                <a href="<?php echo e(route('leaderboard.index')); ?>" class="border-transparent hover:border-saffron-500 text-gray-900 dark:text-gray-100 inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium transition">
+                                <a href="<?php echo e(route('leaderboard.index')); ?>" class="border-transparent hover:border-saffron-500 text-gray-900 dark:text-gray-100 inline-flex items-center px-1 pt-1 border-b-2 text-sm lg:text-base font-medium transition">
                                     Leaderboard
                                 </a>
                             <?php endif; ?>
@@ -57,7 +57,7 @@
                     </div>
 
                     <!-- Right Side -->
-                    <div class="flex items-center space-x-4">
+                    <div class="flex items-center space-x-2 sm:space-x-4 lg:space-x-6">
                         <!-- Dark Mode Toggle -->
                         <button id="theme-toggle" class="p-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition">
                             <svg id="theme-toggle-dark-icon" class="hidden w-5 h-5 text-gray-800 dark:text-gray-200" fill="currentColor" viewBox="0 0 20 20">
@@ -70,9 +70,9 @@
 
                         <?php if(auth()->guard()->check()): ?>
                             <!-- User Points -->
-                            <div class="hidden md:flex items-center space-x-2 px-3 py-1 bg-saffron-100 dark:bg-saffron-900 rounded-full">
-                                <span class="text-sm font-semibold text-saffron-900 dark:text-saffron-100"><?php echo e(auth()->user()->total_points); ?></span>
-                                <span class="text-xs text-saffron-700 dark:text-saffron-300">pts</span>
+                            <div class="hidden md:flex items-center space-x-2 px-3 py-1 lg:px-4 lg:py-1.5 bg-saffron-100 dark:bg-saffron-900 rounded-full">
+                                <span class="text-sm lg:text-base font-semibold text-saffron-900 dark:text-saffron-100"><?php echo e(auth()->user()->total_points); ?></span>
+                                <span class="text-xs lg:text-sm text-saffron-700 dark:text-saffron-300">pts</span>
                             </div>
 
                             <!-- User Dropdown -->
@@ -93,7 +93,31 @@
                                 </div>
                             </div>
                         <?php else: ?>
-                            <span class="text-gray-500 dark:text-gray-400 px-3 py-2 rounded-md text-sm">Authentication coming soon</span>
+                            <span class="hidden sm:inline text-gray-500 dark:text-gray-400 px-2 sm:px-3 py-2 rounded-md text-xs sm:text-sm">Auth Soon</span>
+                        <?php endif; ?>
+
+                        <!-- Mobile Menu Button -->
+                        <button @click="mobileMenuOpen = !mobileMenuOpen" class="md:hidden p-2 rounded-lg text-gray-700 dark:text-gray-200 hover:bg-gray-100 dark:hover:bg-gray-700">
+                            <svg class="h-6 w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path x-show="!mobileMenuOpen" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/>
+                                <path x-show="mobileMenuOpen" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/>
+                            </svg>
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Mobile Menu -->
+                <div x-show="mobileMenuOpen" @click.away="mobileMenuOpen = false" class="md:hidden border-t border-gray-200 dark:border-gray-700">
+                    <div class="px-2 pt-2 pb-3 space-y-1">
+                        <a href="<?php echo e(route('home')); ?>" class="block px-3 py-2 rounded-md text-base font-medium text-gray-900 dark:text-gray-100 hover:bg-saffron-50 dark:hover:bg-gray-700 hover:text-saffron-600">Home</a>
+                        <a href="<?php echo e(route('vedas.index')); ?>" class="block px-3 py-2 rounded-md text-base font-medium text-gray-900 dark:text-gray-100 hover:bg-saffron-50 dark:hover:bg-gray-700 hover:text-saffron-600">Vedas</a>
+                        <a href="<?php echo e(route('mahabharata.index')); ?>" class="block px-3 py-2 rounded-md text-base font-medium text-gray-900 dark:text-gray-100 hover:bg-saffron-50 dark:hover:bg-gray-700 hover:text-saffron-600">Mahabharata</a>
+                        <a href="<?php echo e(route('puranas.index')); ?>" class="block px-3 py-2 rounded-md text-base font-medium text-gray-900 dark:text-gray-100 hover:bg-saffron-50 dark:hover:bg-gray-700 hover:text-saffron-600">Puranas</a>
+                        <?php if(auth()->guard()->check()): ?>
+                            <a href="<?php echo e(route('dashboard')); ?>" class="block px-3 py-2 rounded-md text-base font-medium text-gray-900 dark:text-gray-100 hover:bg-saffron-50 dark:hover:bg-gray-700 hover:text-saffron-600">Dashboard</a>
+                            <a href="<?php echo e(route('leaderboard.index')); ?>" class="block px-3 py-2 rounded-md text-base font-medium text-gray-900 dark:text-gray-100 hover:bg-saffron-50 dark:hover:bg-gray-700 hover:text-saffron-600">Leaderboard</a>
+                            <a href="<?php echo e(route('progress.index')); ?>" class="block px-3 py-2 rounded-md text-base font-medium text-gray-900 dark:text-gray-100 hover:bg-saffron-50 dark:hover:bg-gray-700 hover:text-saffron-600">My Progress</a>
+                            <a href="<?php echo e(route('achievements.index')); ?>" class="block px-3 py-2 rounded-md text-base font-medium text-gray-900 dark:text-gray-100 hover:bg-saffron-50 dark:hover:bg-gray-700 hover:text-saffron-600">Achievements</a>
                         <?php endif; ?>
                     </div>
                 </div>
