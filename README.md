@@ -2,6 +2,9 @@
 
 A Laravel web application for studying ancient Sanskrit manuscripts including the Vedas, Mahabharata (with Bhagavad Gita), and Puranas. Built with a focus on academic research and learning, featuring gamification elements for progress tracking.
 
+**Developed by:** [Redwan Rahman](https://github.com/red1-rahman)  
+**Manuscripts Maintained by:** [Sudipta Paul](https://github.com/paul-shuvro)
+
 ## 📖 About
 
 Sanatan Scriptures is an educational platform for studying ancient Sanatan/Hindu texts with:
@@ -540,6 +543,11 @@ To contribute additional content to any scripture:
 - Provide accurate translations
 - Include proper verse numbering
 - Preserve original formatting and diacritical marks
+
+## 👥 Contributors
+
+- **Developer**: [Redwan Rahman](https://github.com/red1-rahman) - Application development and architecture
+- **Manuscript Maintainer**: [Sudipta Paul](https://github.com/paul-shuvro) - Sanskrit texts curation and verification
 
 ## 📜 License
 

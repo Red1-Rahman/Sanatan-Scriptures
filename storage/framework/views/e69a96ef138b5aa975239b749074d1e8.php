@@ -109,6 +109,27 @@
         <div id="toast-container" class="fixed top-20 right-4 z-50 space-y-2"></div>
     </div>
 
+    <!-- Footer -->
+    <footer class="bg-white dark:bg-gray-800 border-t border-gray-200 dark:border-gray-700 mt-16">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+            <div class="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
+                <div class="text-center md:text-left">
+                    <p class="text-gray-600 dark:text-gray-400 text-sm">
+                        &copy; <?php echo e(date('Y')); ?> Sanatan Scriptures. Built for educational purposes.
+                    </p>
+                </div>
+                <div class="text-center md:text-right text-sm">
+                    <p class="text-gray-600 dark:text-gray-400">
+                        Developed by <a href="https://github.com/red1-rahman" target="_blank" class="text-saffron-600 dark:text-saffron-400 hover:underline font-medium">Redwan Rahman</a>
+                    </p>
+                    <p class="text-gray-600 dark:text-gray-400 mt-1">
+                        Manuscripts maintained by <a href="https://github.com/paul-shuvro" target="_blank" class="text-saffron-600 dark:text-saffron-400 hover:underline font-medium">Sudipta Paul</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
     <script src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js" defer></script>
     <?php echo $__env->yieldPushContent('scripts'); ?>
 </body>
