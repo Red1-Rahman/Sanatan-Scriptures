@@ -35,7 +35,7 @@
         <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-16">
             <div class="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-6 text-center">
                 <div class="text-4xl font-bold text-saffron-600 dark:text-saffron-400 mb-2">{{ $stats['total_vedas'] }}</div>
-                <div class="text-gray-600 dark:text-gray-300">Ancient Vedas</div>
+                <div class="text-gray-600 dark:text-gray-300">Sacred Vedas</div>
             </div>
             <div class="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-6 text-center">
                 <div class="text-4xl font-bold text-saffron-600 dark:text-saffron-400 mb-2">{{ number_format($stats['total_verses']) }}</div>

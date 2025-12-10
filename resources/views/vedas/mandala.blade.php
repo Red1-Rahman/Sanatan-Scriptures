@@ -40,7 +40,7 @@
                     </h2>
                     <div class="flex flex-wrap gap-4 text-sm text-gray-700 dark:text-gray-300">
                         @if($verse->deity)
-                        <div><span class="font-semibold">Subject:</span> {{ $verse->deity }}</div>
+                        <div><span class="font-semibold">Deity:</span> {{ $verse->deity }}</div>
                         @endif
                         @if($verse->rishi)
                         <div><span class="font-semibold">Rishi:</span> {{ $verse->rishi }}</div>

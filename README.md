@@ -47,14 +47,13 @@ _Note: Sample data included - Rig Veda Mandala 1 Sukta 1 (9 verses) and Bhagavad
 
 ## 🎨 Design Philosophy
 
-This application is developed with a **scholarly and academic focus**:
+This application is developed to help people access and study ancient Sanskrit texts:
 
-- ✅ Educational content presentation (manuscripts as historical/literary texts)
+- ✅ Respectful presentation of Hindu religious texts
 - ✅ Sanskrit preservation and transliteration accuracy
 - ✅ JSON-based content for easy community contribution
 - ✅ Clean, minimal UI focusing on readability
 - ❌ No religious imagery or worship elements
-- ❌ Pure academic and research-oriented approach
 
 ## 🎯 Features
 
