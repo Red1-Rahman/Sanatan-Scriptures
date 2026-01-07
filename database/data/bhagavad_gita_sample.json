@@ -3,8 +3,8 @@
     "parva_number": 6,
     "chapter": 1,
     "verse": 1,
-    "text_sanskrit": "धृतराष्ट्र उवाच | धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः | मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ||",
-    "text_transliteration": "dhṛtarāṣṭra uvāca | dharma-kṣetre kuru-kṣetre samavetā yuyutsavaḥ | māmakāḥ pāṇḍavāś caiva kim akurvata sañjaya ||",
+    "text_sanskrit": "धृतराष्ट्र उवाच: धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः | मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ||",
+    "text_transliteration": "dhṛtarāṣṭra uvāca: dharma-kṣetre kuru-kṣetre samavetā yuyutsavaḥ | māmakāḥ pāṇḍavāś caiva kim akurvata sañjaya ||",
     "text_english": "Dhritarashtra said: O Sanjaya, assembled on the sacred field of Kurukshetra, eager to fight, what did my sons and the sons of Pandu do?",
     "speaker": "Dhritarashtra",
     "chapter_name": "The Yoga of Arjuna's Dejection",
@@ -14,8 +14,8 @@
     "parva_number": 6,
     "chapter": 1,
     "verse": 2,
-    "text_sanskrit": "सञ्जय उवाच | दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा | आचार्यमुपसङ्गम्य राजा वचनमब्रवीत् ||",
-    "text_transliteration": "sañjaya uvāca | dṛṣṭvā tu pāṇḍavānīkaṃ vyūḍhaṃ duryodhanas tadā | ācāryam upasaṅgamya rājā vacanam abravīt ||",
+    "text_sanskrit": "सञ्जय उवाच: दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा | आचार्यमुपसङ्गम्य राजा वचनमब्रवीत् ||",
+    "text_transliteration": "sañjaya uvāca: dṛṣṭvā tu pāṇḍavānīkaṃ vyūḍhaṃ duryodhanas tadā | ācāryam upasaṅgamya rājā vacanam abravīt ||",
     "text_english": "Sanjaya said: Having seen the army of the Pandavas drawn up in battle formation, King Duryodhana approached his teacher Drona and spoke these words.",
     "speaker": "Sanjaya",
     "chapter_name": "The Yoga of Arjuna's Dejection",
@@ -28,7 +28,7 @@
     "text_sanskrit": "पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् | व्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता ||",
     "text_transliteration": "paśyaitāṃ pāṇḍu-putrāṇām ācārya mahatīṃ camūm | vyūḍhāṃ drupada-putreṇa tava śiṣyeṇa dhīmatā ||",
     "text_english": "Behold, O Teacher, this mighty army of the sons of Pandu, arrayed by your intelligent disciple, the son of Drupada.",
-    "speaker": "Duryodhana",
+    "speaker": "Sanjaya",
     "chapter_name": "The Yoga of Arjuna's Dejection",
     "chapter_name_sanskrit": "अर्जुनविषादयोग"
   },
@@ -39,7 +39,7 @@
     "text_sanskrit": "अत्र शूरा महेष्वासा भीमार्जुनसमा युधि | युयुधानो विराटश्च द्रुपदश्च महारथः ||",
     "text_transliteration": "atra śūrā maheṣvāsā bhīmārjuna-samā yudhi | yuyudhāno virāṭaś ca drupadaś ca mahā-rathaḥ ||",
     "text_english": "Here are heroes, mighty archers, equal in battle to Bhima and Arjuna: Yuyudhana, Virata, and Drupada, the great chariot-warrior.",
-    "speaker": "Duryodhana",
+    "speaker": "Sanjaya",
     "chapter_name": "The Yoga of Arjuna's Dejection",
     "chapter_name_sanskrit": "अर्जुनविषादयोग"
   },
@@ -50,7 +50,7 @@
     "text_sanskrit": "धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान् | पुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुङ्गवः ||",
     "text_transliteration": "dhṛṣṭaketuś cekitānaḥ kāśirājaś ca vīryavān | purujit kuntibhojaś ca śaibyaś ca nara-puṅgavaḥ ||",
     "text_english": "Dhrishtaketu, Chekitana, the valiant King of Kashi, Purujit, Kuntibhoja, and Shaibya, the best among men.",
-    "speaker": "Duryodhana",
+    "speaker": "Sanjaya",
     "chapter_name": "The Yoga of Arjuna's Dejection",
     "chapter_name_sanskrit": "अर्जुनविषादयोग"
   },
@@ -61,7 +61,7 @@
     "text_sanskrit": "युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान् | सौभद्रो द्रौपदेयाश्च सर्व एव महारथाः ||",
     "text_transliteration": "yudhāmanyuś ca vikrānta uttamaujāś ca vīryavān | saubhadro draupadeyāś ca sarva eva mahā-rathāḥ ||",
     "text_english": "The heroic Yudhamanyu, the valiant Uttamauja, the son of Subhadra, and the sons of Draupadi—all great chariot-warriors.",
-    "speaker": "Duryodhana",
+    "speaker": "Sanjaya",
     "chapter_name": "The Yoga of Arjuna's Dejection",
     "chapter_name_sanskrit": "अर्जुनविषादयोग"
   },
@@ -72,7 +72,7 @@
     "text_sanskrit": "अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम | नायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते ||",
     "text_transliteration": "asmākaṃ tu viśiṣṭā ye tān nibodha dvi-jottama | nāyakā mama sainyasya saṃjñārthaṃ tān bravīmi te ||",
     "text_english": "O best of the twice-born, know also the distinguished ones among us, the leaders of my army. I shall name them for your information.",
-    "speaker": "Duryodhana",
+    "speaker": "Sanjaya",
     "chapter_name": "The Yoga of Arjuna's Dejection",
     "chapter_name_sanskrit": "अर्जुनविषादयोग"
   },
@@ -83,7 +83,7 @@
     "text_sanskrit": "भवान्भीष्मश्च कर्णश्च कृपश्च समितिञ्जयः | अश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च ||",
     "text_transliteration": "bhavān bhīṣmaś ca karṇaś ca kṛpaś ca samitiñjayaḥ | aśvatthāmā vikarṇaś ca saumadattis tathaiva ca ||",
     "text_english": "Yourself, Bhishma, Karna, Kripa—ever victorious in battle—Ashwatthama, Vikarna, and also the son of Somadatta.",
-    "speaker": "Duryodhana",
+    "speaker": "Sanjaya",
     "chapter_name": "The Yoga of Arjuna's Dejection",
     "chapter_name_sanskrit": "अर्जुनविषादयोग"
   },
@@ -94,7 +94,7 @@
     "text_sanskrit": "अन्ये च बहवः शूरा मदर्थे त्यक्तजीविताः | नानाशस्त्रप्रहरणाः सर्वे युद्धविशारदाः ||",
     "text_transliteration": "anye ca bahavaḥ śūrā mad-arthe tyakta-jīvitāḥ | nānā-śastra-praharaṇāḥ sarve yuddha-viśāradāḥ ||",
     "text_english": "And many other heroes ready to give up their lives for my sake, equipped with various weapons and missiles, all skilled in the art of warfare.",
-    "speaker": "Duryodhana",
+    "speaker": "Sanjaya",
     "chapter_name": "The Yoga of Arjuna's Dejection",
     "chapter_name_sanskrit": "अर्जुनविषादयोग"
   },
@@ -105,7 +105,7 @@
     "text_sanskrit": "अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम् | पर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम् ||",
     "text_transliteration": "aparyāptaṃ tad asmākaṃ balaṃ bhīṣmābhirakṣitam | paryāptaṃ tv idam eteṣāṃ balaṃ bhīmābhirakṣitam ||",
     "text_english": "The strength of our army is unlimited and we are safely marshalled by Grandsire Bheeshma, while the strength of the Pandava army, carefully marshalled by Bheem, is limited.",
-    "speaker": "Duryodhana",
+    "speaker": "Sanjaya",
     "chapter_name": "The Yoga of Arjuna's Dejection",
     "chapter_name_sanskrit": "अर्जुनविषादयोग"
   },
