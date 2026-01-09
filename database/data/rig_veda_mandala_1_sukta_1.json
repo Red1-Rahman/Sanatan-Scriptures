@@ -1,83 +1,67 @@
 [
   {
+    "veda": "Rigveda",
     "veda_number": 1,
     "mandala_number": 1,
     "sukta_number": 1,
+    "sukta_name": "Agni Sukta",
+    "rishi": "Madhuchchhandas Vaishvamitra",
+    "devata": "Agni",
+    "chandas": "Gāyatrī",
+    "total_verses": 9
+  },
+  {
     "verse_number": 1,
     "sanskrit_text": "अग्निमीळे पुरोहितं यज्ञस्य देवमृत्विजम् । होतारं रत्नधातमम् ॥",
-    "transliteration": "Agnim īḷe purohitaṃ yajñasya devam ṛtvijam | Hotāraṃ ratnadhātamam ||",
-    "translation_english": "I praise Agni, the chosen Priest, the divine minister of sacrifice, the one who bestows the greatest treasure."
+    "transliteration": "agním īḷe purohitaṁ yajñasya devam ṛtvijam | hotāraṁ ratna-dhātamam ||",
+    "translation_english": "I praise Agni, the household priest, the divine officiant of the sacrifice, the invoker who bestows the greatest wealth."
   },
   {
-    "veda_number": 1,
-    "mandala_number": 1,
-    "sukta_number": 1,
     "verse_number": 2,
     "sanskrit_text": "अग्निः पूर्वेभिरृषिभिरीड्यो नूतनैरुत । स देवाँ एह वक्षति ॥",
-    "transliteration": "Agniḥ pūrvebhir ṛṣibhir īḍyo nūtanair uta | Sa devām̐ eha vakṣati ||",
-    "translation_english": "Agni, worthy of praise by ancient and modern seers alike, may he bring the gods here."
+    "transliteration": "agniḥ pūrvebhir ṛṣibhir īḍyo nūtanair uta | sa devān eha vakṣati ||",
+    "translation_english": "Agni, worthy of praise by ancient seers and by the modern ones, shall bring the gods here."
   },
   {
-    "veda_number": 1,
-    "mandala_number": 1,
-    "sukta_number": 1,
     "verse_number": 3,
     "sanskrit_text": "अग्निना रयिमश्नवत्पोषमेव दिवेदिवे । यशसं वीरवत्तमम् ॥",
-    "transliteration": "Agninā rayim aśnavat poṣam eva dive-dive | Yaśasaṃ vīravattamam ||",
-    "translation_english": "Through Agni, one may obtain wealth and prosperity day by day, which brings glory and valiant offspring."
+    "transliteration": "agninā rayim aśnavat poṣam eva dive-dive | yaśasaṁ vīravattamam ||",
+    "translation_english": "Through Agni one gains wealth and nourishment day by day, glorious and rich in heroic sons."
   },
   {
-    "veda_number": 1,
-    "mandala_number": 1,
-    "sukta_number": 1,
     "verse_number": 4,
     "sanskrit_text": "अग्ने यं यज्ञमध्वरं विश्वतः परिभूरसि । स इद्देवेषु गच्छति ॥",
-    "transliteration": "Agne yaṃ yajñam adhvaraṃ viśvataḥ paribhūr asi | Sa id deveṣu gacchati ||",
-    "translation_english": "Agni, the sacrifice which you encompass on all sides, that indeed reaches the gods."
+    "transliteration": "agne yaṁ yajñam adhvaraṁ viśvataḥ paribhūr asi | sa id deveṣu gacchati ||",
+    "translation_english": "O Agni, the sacrifice that you encompass on every side, that alone goes to the gods."
   },
   {
-    "veda_number": 1,
-    "mandala_number": 1,
-    "sukta_number": 1,
     "verse_number": 5,
     "sanskrit_text": "अग्निर्होता कविक्रतुः सत्यश्चित्रश्रवस्तमः । देवो देवेभिरागमत् ॥",
-    "transliteration": "Agnir hotā kavikratuḥ satyaś citraśravastama | Devo devebhir āgamat ||",
-    "translation_english": "Agni, the priest, the wise one of true purpose and most glorious fame, may the god come with the gods."
+    "transliteration": "agnir hotā kavikratuḥ satyaś citraśravastamaḥ | devo devebhir āgamat ||",
+    "translation_english": "Agni, the priest with inspired wisdom, truthful and of most radiant fame—may the god come with the gods."
   },
   {
-    "veda_number": 1,
-    "mandala_number": 1,
-    "sukta_number": 1,
     "verse_number": 6,
     "sanskrit_text": "यदङ्ग दाशुषे त्वमग्ने भद्रं करिष्यसि । तवेत्तत्सत्यमङ्गिरः ॥",
-    "transliteration": "Yad aṅga dāśuṣe tvam agne bhadraṃ kariṣyasi | Tavet tat satyam aṅgiraḥ ||",
-    "translation_english": "Whatever good you will do for the worshipper, O Agni, that indeed is true, O Angiras."
+    "transliteration": "yad aṅga dāśuṣe tvam agne bhadraṁ kariṣyasi | tavet tat satyam aṅgiraḥ ||",
+    "translation_english": "Whatever good you will do for the giver, O Agni, that is indeed true of you, O Angiras."
   },
   {
-    "veda_number": 1,
-    "mandala_number": 1,
-    "sukta_number": 1,
     "verse_number": 7,
     "sanskrit_text": "उप त्वाग्ने दिवेदिवे दोषावस्तर्धिया वयम् । नमो भरन्त एमसि ॥",
-    "transliteration": "Upa tvāgne dive-dive doṣāvastar dhiyā vayam | Namo bharanta emasi ||",
-    "translation_english": "To you, Agni, day by day, at dusk and dawn, we come with devotion, bringing homage."
+    "transliteration": "upa tvāgne dive-dive doṣāvastar dhiyā vayam | namo bharanta emasi ||",
+    "translation_english": "To you, O Agni, day after day, at dusk and dawn, we approach with reverence, bearing homage."
   },
   {
-    "veda_number": 1,
-    "mandala_number": 1,
-    "sukta_number": 1,
     "verse_number": 8,
     "sanskrit_text": "राजन्तमध्वराणां गोपामृतस्य दीदिवम् । वर्धमानं स्वे दमे ॥",
-    "transliteration": "Rājantam adhvarāṇāṃ gopām ṛtasya dīdivam | Vardhamānaṃ sve dame ||",
-    "translation_english": "The king of sacrifices, guardian of cosmic order, shining bright, growing in his own abode."
+    "transliteration": "rājantam adhvarāṇāṁ gopām ṛtasya dīdivam | vardhamānaṁ sve dame ||",
+    "translation_english": "Shining as the king of sacrifices, the guardian of cosmic order, radiant and growing in his own dwelling."
   },
   {
-    "veda_number": 1,
-    "mandala_number": 1,
-    "sukta_number": 1,
     "verse_number": 9,
     "sanskrit_text": "स नः पितेव सूनवेऽग्ने सूपायनो भव । सचस्वा नः स्वस्तये ॥",
-    "transliteration": "Sa naḥ piteva sūnave'gne sūpāyano bhava | Sacasvā naḥ svastaye ||",
-    "translation_english": "Be to us like a father to his son, Agni, be easily accessible to us. Abide with us for our well-being."
+    "transliteration": "sa naḥ piteva sūnave agne sūpāyano bhava | sacasvā naḥ svastaye ||",
+    "translation_english": "Be to us like a father to his son, O Agni—easy of access. Abide with us for our well-being."
   }
 ]
