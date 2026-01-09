@@ -9,12 +9,156 @@
     "total_verses": 7984
   },
   {
+    "parva_number": 2,
+    "name_sanskrit": "सभापर्व",
+    "name_english": "Sabha Parva",
+    "name_transliteration": "Sabhā Parva",
+    "description": "The Book of the Assembly Hall. Describes Yudhishthira’s Rajasuya sacrifice, the game of dice, and the exile of the Pandavas.",
+    "total_chapters": 81,
+    "total_verses": 2515
+  },
+  {
+    "parva_number": 3,
+    "name_sanskrit": "वनपर्व",
+    "name_english": "Vana Parva",
+    "name_transliteration": "Vana Parva",
+    "description": "The Book of the Forest. Chronicles the 12-year forest exile of the Pandavas and contains many philosophical and moral stories.",
+    "total_chapters": 313,
+    "total_verses": 11664
+  },
+  {
+    "parva_number": 4,
+    "name_sanskrit": "विराटपर्व",
+    "name_english": "Virata Parva",
+    "name_transliteration": "Virāṭa Parva",
+    "description": "The Book of Virata. Describes the Pandavas’ one-year incognito exile in the kingdom of King Virata.",
+    "total_chapters": 67,
+    "total_verses": 2050
+  },
+  {
+    "parva_number": 5,
+    "name_sanskrit": "उद्योगपर्व",
+    "name_english": "Udyoga Parva",
+    "name_transliteration": "Udyoga Parva",
+    "description": "The Book of Effort. Focuses on diplomatic efforts to avoid war and preparations for the Kurukshetra battle.",
+    "total_chapters": 186,
+    "total_verses": 6698
+  },
+  {
     "parva_number": 6,
     "name_sanskrit": "भीष्मपर्व",
     "name_english": "Bhishma Parva",
     "name_transliteration": "Bhīṣma Parva",
-    "description": "The Book of Bhishma. Narrates the first 10 days of the Kurukshetra war under Bhishma's command. Contains the Bhagavad Gita (Chapters 25-42).",
+    "description": "The Book of Bhishma. Narrates the first 10 days of the Kurukshetra war under Bhishma's command. Contains the Bhagavad Gita.",
     "total_chapters": 124,
     "total_verses": 5884
+  },
+  {
+    "parva_number": 7,
+    "name_sanskrit": "द्रोणपर्व",
+    "name_english": "Drona Parva",
+    "name_transliteration": "Droṇa Parva",
+    "description": "The Book of Drona. Covers battles under Dronacharya’s leadership and the death of Abhimanyu.",
+    "total_chapters": 170,
+    "total_verses": 8909
+  },
+  {
+    "parva_number": 8,
+    "name_sanskrit": "कर्णपर्व",
+    "name_english": "Karna Parva",
+    "name_transliteration": "Karṇa Parva",
+    "description": "The Book of Karna. Describes Karna’s command of the Kaurava army and his eventual death.",
+    "total_chapters": 69,
+    "total_verses": 4964
+  },
+  {
+    "parva_number": 9,
+    "name_sanskrit": "शल्यपर्व",
+    "name_english": "Shalya Parva",
+    "name_transliteration": "Śalya Parva",
+    "description": "The Book of Shalya. Narrates the final day of the war and the fall of Duryodhana.",
+    "total_chapters": 64,
+    "total_verses": 3220
+  },
+  {
+    "parva_number": 10,
+    "name_sanskrit": "सौप्तिकपर्व",
+    "name_english": "Sauptika Parva",
+    "name_transliteration": "Sauptika Parva",
+    "description": "The Book of the Sleeping Warriors. Describes Ashwatthama’s night massacre of the Pandava camp.",
+    "total_chapters": 18,
+    "total_verses": 870
+  },
+  {
+    "parva_number": 11,
+    "name_sanskrit": "स्त्रीपर्व",
+    "name_english": "Stri Parva",
+    "name_transliteration": "Strī Parva",
+    "description": "The Book of Women. Focuses on the grief and lamentations of the women after the war.",
+    "total_chapters": 27,
+    "total_verses": 775
+  },
+  {
+    "parva_number": 12,
+    "name_sanskrit": "शान्तिपर्व",
+    "name_english": "Shanti Parva",
+    "name_transliteration": "Śānti Parva",
+    "description": "The Book of Peace. Bhishma imparts teachings on dharma, governance, and ethics.",
+    "total_chapters": 353,
+    "total_verses": 14525
+  },
+  {
+    "parva_number": 13,
+    "name_sanskrit": "अनुशासनपर्व",
+    "name_english": "Anushasana Parva",
+    "name_transliteration": "Anuśāsana Parva",
+    "description": "The Book of Instructions. Continues Bhishma’s discourse on moral duties and charity.",
+    "total_chapters": 154,
+    "total_verses": 7968
+  },
+  {
+    "parva_number": 14,
+    "name_sanskrit": "अश्वमेधिकपर्व",
+    "name_english": "Ashvamedhika Parva",
+    "name_transliteration": "Aśvamedhika Parva",
+    "description": "The Book of the Horse Sacrifice. Describes Yudhishthira’s Ashvamedha Yajna.",
+    "total_chapters": 92,
+    "total_verses": 3320
+  },
+  {
+    "parva_number": 15,
+    "name_sanskrit": "आश्रमवासिकपर्व",
+    "name_english": "Ashramavasika Parva",
+    "name_transliteration": "Āśramavāsika Parva",
+    "description": "The Book of Hermitage Life. Chronicles the retirement of Dhritarashtra and Gandhari.",
+    "total_chapters": 47,
+    "total_verses": 1685
+  },
+  {
+    "parva_number": 16,
+    "name_sanskrit": "मौसलपर्व",
+    "name_english": "Mausala Parva",
+    "name_transliteration": "Mausala Parva",
+    "description": "The Book of Clubs. Describes the destruction of the Yadava clan.",
+    "total_chapters": 9,
+    "total_verses": 320
+  },
+  {
+    "parva_number": 17,
+    "name_sanskrit": "महाप्रस्थानिकपर्व",
+    "name_english": "Mahaprasthanika Parva",
+    "name_transliteration": "Mahāprasthānika Parva",
+    "description": "The Book of the Great Journey. The Pandavas renounce their kingdom and depart for the Himalayas.",
+    "total_chapters": 3,
+    "total_verses": 120
+  },
+  {
+    "parva_number": 18,
+    "name_sanskrit": "स्वर्गारोहणपर्व",
+    "name_english": "Svargarohana Parva",
+    "name_transliteration": "Svargārohaṇa Parva",
+    "description": "The Book of Ascension to Heaven. Concludes the epic with Yudhishthira’s ascent to heaven.",
+    "total_chapters": 5,
+    "total_verses": 209
   }
 ]
