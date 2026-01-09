@@ -2,37 +2,96 @@
   {
     "veda_number": 1,
     "name_sanskrit": "ऋग्वेद",
-    "name_english": "Rig Veda",
+    "name_english": "Rigveda",
     "name_transliteration": "Ṛgveda",
-    "description": "The oldest of the four Vedas, consisting of hymns (suktas) dedicated to various deities. Composed between 1500-1200 BCE, it contains philosophical and cosmological insights.",
+    "language": "Vedic Sanskrit",
+    "period_estimated": "c. 1500–1200 BCE",
+    "primary_theme": "Cosmic forces, deities, hymns of praise",
+    "total_books": 10,
     "total_mandalas": 10,
-    "total_verses": 10552
+    "total_suktas": 1028,
+    "total_verses": 10552,
+    "major_deities": [
+      "Agni",
+      "Indra",
+      "Varuna",
+      "Soma",
+      "Mitra"
+    ],
+    "main_recension": "Śākala Śākhā",
+    "status": "Fully preserved",
+    "notes": "Oldest surviving Indo-European religious text."
   },
   {
     "veda_number": 2,
-    "name_sanskrit": "सामवेद",
-    "name_english": "Sama Veda",
-    "name_transliteration": "Sāmaveda",
-    "description": "The Veda of melodies and chants. Most of its verses are derived from the Rig Veda but set to musical notation for liturgical purposes.",
-    "total_mandalas": 2,
-    "total_verses": 1875
+    "name_sanskrit": "यजुर्वेद",
+    "name_english": "Yajurveda",
+    "name_transliteration": "Yajurveda",
+    "language": "Vedic Sanskrit",
+    "period_estimated": "c. 1400–1000 BCE",
+    "primary_theme": "Ritual procedures and sacrificial formulas",
+    "divisions": [
+      {
+        "type": "Krishna (Black) Yajurveda",
+        "major_shakhas": [
+          "Taittirīya",
+          "Maitrāyaṇī",
+          "Kāṭhaka"
+        ],
+        "description": "Mantras mixed with explanatory prose."
+      },
+      {
+        "type": "Shukla (White) Yajurveda",
+        "major_shakhas": [
+          "Vājasaneyi Mādhyaṃdina",
+          "Vājasaneyi Kāṇva"
+        ],
+        "description": "Mantras and explanations clearly separated."
+      }
+    ],
+    "total_chapters_estimated": 40,
+    "total_verses_estimated": 2000,
+    "main_recension": "Vājasaneyi Saṁhitā",
+    "status": "Fully preserved",
+    "notes": "Foundation of Vedic ritual science (yajña)."
   },
   {
     "veda_number": 3,
-    "name_sanskrit": "यजुर्वेद",
-    "name_english": "Yajur Veda",
-    "name_transliteration": "Yajurveda",
-    "description": "The Veda of prose mantras and ceremonial formulas. It serves as a practical guidebook for priests performing ceremonial rites.",
-    "total_mandalas": 40,
-    "total_verses": 1975
+    "name_sanskrit": "सामवेद",
+    "name_english": "Samaveda",
+    "name_transliteration": "Sāmaveda",
+    "language": "Vedic Sanskrit",
+    "period_estimated": "c. 1200–1000 BCE",
+    "primary_theme": "Musical chanting and liturgical melodies",
+    "total_books": 2,
+    "total_chapters": 9,
+    "total_verses": 1875,
+    "unique_verses": 75,
+    "source_relation": "Mostly derived from Rigveda",
+    "main_recensions": [
+      "Kauthuma",
+      "Rāṇāyanīya",
+      "Jaiminīya"
+    ],
+    "status": "Fully preserved",
+    "notes": "Basis of Indian classical music and chant traditions."
   },
   {
     "veda_number": 4,
     "name_sanskrit": "अथर्ववेद",
-    "name_english": "Atharva Veda",
+    "name_english": "Atharvaveda",
     "name_transliteration": "Atharvaveda",
-    "description": "The Veda of everyday life, containing hymns, spells, and incantations. It deals with practical aspects of daily living and healing practices.",
-    "total_mandalas": 20,
-    "total_verses": 5977
+    "language": "Vedic Sanskrit",
+    "period_estimated": "c. 1200–900 BCE",
+    "primary_theme": "Daily life, healing, philosophy, social order",
+    "total_books": 20,
+    "total_suktas": 730,
+    "total_verses": 5977,
+    "main_recensions": [
+      "Śaunaka",
+      "Paippalāda"
+    ],
+    "status": "Fully preserved",
+    "notes": "Bridges ritual religion and early philosophical thought."
   }
 ]
