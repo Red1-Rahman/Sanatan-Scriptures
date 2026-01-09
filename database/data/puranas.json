@@ -4,29 +4,179 @@
     "name_sanskrit": "ब्रह्मपुराण",
     "name_english": "Brahma Purana",
     "name_transliteration": "Brahma Purāṇa",
-    "description": "One of the eighteen Mahapuranas. Focuses on cosmology, geography, and sacred places. Also known as Adi Purana (the first Purana).",
+    "description": "Focuses on cosmology, geography, sacred places, and rituals. Also called Ādi Purāṇa.",
     "total_chapters": 246,
     "total_verses": 13000,
     "category": "Rajasic"
   },
   {
     "purana_number": 2,
+    "name_sanskrit": "पद्मपुराण",
+    "name_english": "Padma Purana",
+    "name_transliteration": "Padma Purāṇa",
+    "description": "Discusses creation, genealogies, dharma, and devotion to Vishnu. Contains five sections (khandas).",
+    "total_chapters": 550,
+    "total_verses": 55000,
+    "category": "Sattvic"
+  },
+  {
+    "purana_number": 3,
     "name_sanskrit": "विष्णुपुराण",
     "name_english": "Vishnu Purana",
     "name_transliteration": "Viṣṇu Purāṇa",
-    "description": "One of the eighteen Mahapuranas. Contains teachings on cosmology, dharma, and stories of various incarnations. Divided into six parts (amshas).",
+    "description": "One of the most systematic Puranas. Covers cosmology, dharma, and avatars of Vishnu.",
     "total_chapters": 126,
     "total_verses": 7000,
     "category": "Sattvic"
   },
   {
-    "purana_number": 3,
-    "name_sanskrit": "शिवपुराण",
-    "name_english": "Shiva Purana",
-    "name_transliteration": "Śiva Purāṇa",
-    "description": "One of the eighteen Mahapuranas. Focuses on philosophy, cosmology, and various aspects of yoga and meditation practices.",
-    "total_chapters": 100,
+    "purana_number": 4,
+    "name_sanskrit": "वायुपुराण",
+    "name_english": "Vayu Purana",
+    "name_transliteration": "Vāyu Purāṇa",
+    "description": "Among the oldest Puranas. Emphasizes cosmology, genealogies, and Shaiva traditions.",
+    "total_chapters": 112,
     "total_verses": 24000,
     "category": "Tamasic"
+  },
+  {
+    "purana_number": 5,
+    "name_sanskrit": "भागवतपुराण",
+    "name_english": "Bhagavata Purana",
+    "name_transliteration": "Bhāgavata Purāṇa",
+    "description": "Highly devotional text centered on Krishna. Major text of Bhakti Yoga.",
+    "total_chapters": 335,
+    "total_verses": 18000,
+    "category": "Sattvic"
+  },
+  {
+    "purana_number": 6,
+    "name_sanskrit": "नारदपुराण",
+    "name_english": "Narada Purana",
+    "name_transliteration": "Nārada Purāṇa",
+    "description": "Focuses on devotion, music, ethics, and temple worship. Strong Vaishnava influence.",
+    "total_chapters": 125,
+    "total_verses": 25000,
+    "category": "Sattvic"
+  },
+  {
+    "purana_number": 7,
+    "name_sanskrit": "मार्कण्डेयपुराण",
+    "name_english": "Markandeya Purana",
+    "name_transliteration": "Mārkaṇḍeya Purāṇa",
+    "description": "Contains the Devi Mahatmya, foundational text of Shaktism.",
+    "total_chapters": 137,
+    "total_verses": 9000,
+    "category": "Tamasic"
+  },
+  {
+    "purana_number": 8,
+    "name_sanskrit": "अग्निपुराण",
+    "name_english": "Agni Purana",
+    "name_transliteration": "Agni Purāṇa",
+    "description": "Encyclopedic in nature: warfare, architecture, medicine, grammar, and rituals.",
+    "total_chapters": 383,
+    "total_verses": 15000,
+    "category": "Rajasic"
+  },
+  {
+    "purana_number": 9,
+    "name_sanskrit": "भविष्यपुराण",
+    "name_english": "Bhavishya Purana",
+    "name_transliteration": "Bhaviṣya Purāṇa",
+    "description": "Discusses future events, dynasties, festivals, and religious observances.",
+    "total_chapters": 215,
+    "total_verses": 14500,
+    "category": "Rajasic"
+  },
+  {
+    "purana_number": 10,
+    "name_sanskrit": "ब्रह्मवैवर्तपुराण",
+    "name_english": "Brahma Vaivarta Purana",
+    "name_transliteration": "Brahma-Vaivarta Purāṇa",
+    "description": "Emphasizes Krishna and Radha. Focus on devotion and divine play (lila).",
+    "total_chapters": 276,
+    "total_verses": 18000,
+    "category": "Rajasic"
+  },
+  {
+    "purana_number": 11,
+    "name_sanskrit": "लिङ्गपुराण",
+    "name_english": "Linga Purana",
+    "name_transliteration": "Liṅga Purāṇa",
+    "description": "Dedicated to Shiva in the form of the Linga. Discusses creation and dissolution.",
+    "total_chapters": 163,
+    "total_verses": 11000,
+    "category": "Tamasic"
+  },
+  {
+    "purana_number": 12,
+    "name_sanskrit": "वराहपुराण",
+    "name_english": "Varaha Purana",
+    "name_transliteration": "Varāha Purāṇa",
+    "description": "Centered on Vishnu’s Varaha avatar. Discusses dharma and sacred geography.",
+    "total_chapters": 217,
+    "total_verses": 24000,
+    "category": "Sattvic"
+  },
+  {
+    "purana_number": 13,
+    "name_sanskrit": "स्कन्दपुराण",
+    "name_english": "Skanda Purana",
+    "name_transliteration": "Skanda Purāṇa",
+    "description": "Largest Purana. Focuses on Shiva, Kartikeya, and pilgrimage sites.",
+    "total_chapters": 567,
+    "total_verses": 81000,
+    "category": "Tamasic"
+  },
+  {
+    "purana_number": 14,
+    "name_sanskrit": "वामनपुराण",
+    "name_english": "Vamana Purana",
+    "name_transliteration": "Vāmana Purāṇa",
+    "description": "Focuses on Vishnu’s Vamana avatar and the story of King Bali.",
+    "total_chapters": 95,
+    "total_verses": 10000,
+    "category": "Sattvic"
+  },
+  {
+    "purana_number": 15,
+    "name_sanskrit": "कूर्मपुराण",
+    "name_english": "Kurma Purana",
+    "name_transliteration": "Kūrma Purāṇa",
+    "description": "Includes both Vaishnava and Shaiva teachings, plus cosmology and rituals.",
+    "total_chapters": 53,
+    "total_verses": 17000,
+    "category": "Tamasic"
+  },
+  {
+    "purana_number": 16,
+    "name_sanskrit": "मत्स्यपुराण",
+    "name_english": "Matsya Purana",
+    "name_transliteration": "Matsya Purāṇa",
+    "description": "One of the earliest Puranas. Covers the flood myth, architecture, and genealogy.",
+    "total_chapters": 291,
+    "total_verses": 14000,
+    "category": "Tamasic"
+  },
+  {
+    "purana_number": 17,
+    "name_sanskrit": "गरुडपुराण",
+    "name_english": "Garuda Purana",
+    "name_transliteration": "Garuḍa Purāṇa",
+    "description": "Known for afterlife, death rites, ethics, and Vishnu devotion.",
+    "total_chapters": 279,
+    "total_verses": 19000,
+    "category": "Sattvic"
+  },
+  {
+    "purana_number": 18,
+    "name_sanskrit": "ब्रह्माण्डपुराण",
+    "name_english": "Brahmanda Purana",
+    "name_transliteration": "Brahmāṇḍa Purāṇa",
+    "description": "Deals with cosmic creation, cycles of time, and includes the Lalita Sahasranama.",
+    "total_chapters": 156,
+    "total_verses": 12000,
+    "category": "Rajasic"
   }
 ]
