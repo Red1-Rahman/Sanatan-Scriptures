@@ -1,4 +1,5 @@
 [
+  Yoga of Arjuna's Grief (अर्जुनविषादयोग)
   {
     "parva_number": 6,
     "chapter": 1,
@@ -517,6 +518,8 @@
     "chapter_name_sanskrit": "अर्जुनविषादयोग"
   }
 ]
+
+
 
 [
   Sāṅkhya Yoga (सांख्ययोग)
@@ -1317,8 +1320,9 @@
   "chapter_name": "The Yoga of Knowledge",
   "chapter_name_sanskrit": "सांख्ययोग"
 }
-
 ]
+
+
 
 [
   The Yoga of Action (कर्मयोग)
@@ -1802,8 +1806,9 @@
     "chapter_name": "The Yoga of Action",
     "chapter_name_sanskrit": "कर्मयोग"
   }
-
 ]
+
+
 
 [
   The Yoga of Knowledge (Jnana Yoga)
@@ -2162,6 +2167,302 @@
     "text_transliteration": "eṣā yoga-vidyā pratiṣṭhā yo yaḥ sa dharma-saṅgataḥ | tasmād yogaṃ samācaran mokṣaṃ prāpnoti saccaram ||",
     "text_english": "This knowledge of yoga is established; whoever performs duty with devotion attains liberation.",
     "speaker": "Krishna"
+  }
+]
+
+
+
+[
+  The Yoga of Renunciation” (संन्यासयोग)
+  {
+    "chapter": 5,
+    "verse": 1,
+    "text_sanskrit": "श्रीभगवानुवाच। संन्यासं कर्मणां कृष्ण पुनर्योगं च शंससि। यच्छ्रेय एतयोरेकं तं त्वां विद्धि न चिरात्॥",
+    "text_transliteration": "śrī-bhagavān uvāca | sannyāsaṃ karmaṇāṃ kṛṣṇa punar yogaṃ ca śaṃsasi | yat śreya etayo rekaṃ taṃ tvāṃ viddhi na cirāt ||",
+    "text_english": "The Blessed Lord said: O Krishna, you praise both renunciation of action and yoga. Know which of the two is superior, without delay.",
+    "speaker": "Krishna"
+    "chapter_name": "The Yoga of Renunciation",
+    "chapter_name_sanskrit": "संन्यासयोग",
+  },
+  {
+    "chapter": 5,
+    "verse": 2,
+    "text_sanskrit": "संन्यासी च योगी च न निरग्निर्न चाक्रियः। शारीरं केन कर्मणि वर्तते न च पण्डितः॥",
+    "text_transliteration": "sannyāsī ca yogī ca na niragnir na cakriyaḥ | śārīraṃ kena karmaṇi vartate na ca paṇḍitaḥ ||",
+    "text_english": "The renunciate and the yogi are not inactive nor do they abandon duty; the body acts, yet the wise know this.",
+    "speaker": "Krishna"
+    "chapter_name": "The Yoga of Renunciation",
+    "chapter_name_sanskrit": "संन्यासयोग",
+  },
+  {
+    "chapter": 5,
+    "verse": 3,
+    "text_sanskrit": "संन्यासः कर्मयोगश्च निःस्पृहः फलत्यागतः। तीव्रं पुरुषकर्माणि संस्मरेन्न स पण्डितः॥",
+    "text_transliteration": "sannyāsaḥ karma-yogaś ca niḥspṛhaḥ phala-tyāgataḥ | tīvraṃ puruṣa-karmaṇi saṃsmaren na sa paṇḍitaḥ ||",
+    "text_english": "Renunciation and karma-yoga, performed without desire for results, is the mark of the wise; mere abandonment of duty is not wisdom.",
+    "speaker": "Krishna"
+    "chapter_name": "The Yoga of Renunciation",
+    "chapter_name_sanskrit": "संन्यासयोग",
+  },
+  {
+    "chapter": 5,
+    "verse": 4,
+    "text_sanskrit": "न हि संन्यासे विषये कामः सङ्गोऽस्ति न च। न कर्मणि च निधनं न च सदा योगिनां गतिः॥",
+    "text_transliteration": "na hi sannyāse viṣaye kāmaḥ saṅgo ’sti na ca | na karmaṇi ca nidhanam na ca sadā yogināṃ gatiḥ ||",
+    "text_english": "In renunciation there is no attachment to desires, and abandoning action does not alone lead to perfection; the yogi attains the goal through balanced action.",
+    "speaker": "Krishna"
+    "chapter_name": "The Yoga of Renunciation",
+    "chapter_name_sanskrit": "संन्यासयोग",
+  },
+  {
+    "chapter": 5,
+    "verse": 5,
+    "text_sanskrit": "यस्य सर्वे समारम्भाः कामसङ्गविवर्जिताः। ज्ञाननिर्जितं बुद्ध्यां त्यक्त्वा कर्मफलाङ्ग्रहम्॥",
+    "text_transliteration": "yasya sarve samārambhāḥ kāma-saṅga-vivarjitāḥ | jñāna-nirjitaṃ buddhyāṃ tyaktvā karma-phalāṅgraham ||",
+    "text_english": "He who performs all actions without attachment to desires, having renounced the fruits through knowledge, attains supreme peace.",
+    "speaker": "Krishna"
+    "chapter_name": "The Yoga of Renunciation",
+    "chapter_name_sanskrit": "संन्यासयोग",
+  },
+  {
+    "chapter": 5,
+    "verse": 6,
+    "text_sanskrit": "सम्यक् संन्यासी योगयुक्तो विमुक्तो मरणे। विजितेन्द्रियः सर्वत्र विजयी भवति सदा॥",
+    "text_transliteration": "samyak sannyāsī yoga-yukto vimukto maraṇe | vijitendriyaḥ sarvatra vijayī bhavati sadā ||",
+    "text_english": "The true renunciate, united in yoga, freed from attachment, with controlled senses, becomes victorious everywhere.",
+    "speaker": "Krishna"
+    "chapter_name": "The Yoga of Renunciation",
+    "chapter_name_sanskrit": "संन्यासयोग",
+  },
+  {
+    "chapter": 5,
+    "verse": 7,
+    "text_sanskrit": "कर्मण्यकर्म यः पश्येदकर्मणि च कर्म यः। स बुद्धिमान्मनुष्येषु स युक्तः कृत्स्नकर्मकृत्॥",
+    "text_transliteration": "karmany akarma yaḥ paśyed akarmaṇi ca karma yaḥ | sa buddhimān manuṣyeṣu sa yuktaḥ kṛtsna-karma-kṛt ||",
+    "text_english": "He who sees action in inaction, and inaction in action, is intelligent among men; he is a yogi who performs all actions.",
+    "speaker": "Krishna"
+    "chapter_name": "The Yoga of Renunciation",
+    "chapter_name_sanskrit": "संन्यासयोग",
+  },
+  {
+    "chapter": 5,
+    "verse": 8,
+    "text_sanskrit": "संन्यासयोगयोर्नित्यमेव समानः। योगयुक्तः सदा कृत्यं कर्म कुर्यादपरेषाम्॥",
+    "text_transliteration": "sannyāsa-yogayo r nityameva samānaḥ | yoga-yuktaḥ sadā kṛtyaṃ karma kuryād apareṣām ||",
+    "text_english": "Renunciation and yoga are ultimately the same; the yogi, united in action, performs duties for others without attachment.",
+    "speaker": "Krishna"
+    "chapter_name": "The Yoga of Renunciation",
+    "chapter_name_sanskrit": "संन्यासयोग",
+  },
+  {
+    "chapter": 5,
+    "verse": 9,
+    "text_sanskrit": "योगिनो हि सर्वकर्माणि मयि संन्यस्य च। निवर्तन्ते मृत्युसंसारवृत्तेः॥",
+    "text_transliteration": "yogino hi sarva-karmāṇi mayi sannyasya ca | nivartante mṛtyu-saṃsāra-vṛtteḥ ||",
+    "text_english": "Those who renounce all actions in Me, united in yoga, escape the cycle of birth and death.",
+    "speaker": "Krishna"
+    "chapter_name": "The Yoga of Renunciation",
+    "chapter_name_sanskrit": "संन्यासयोग",
+  },
+  {
+    "chapter": 5,
+    "verse": 10,
+    "text_sanskrit": "यः सर्वत्रानभिस्नेहस्तत्तत्प्राप्य शुभाशुभम्। नाभिनन्दति न द्वेष्टि तस्य प्रज्ञा प्रतिष्ठिता॥",
+    "text_transliteration": "yaḥ sarvatra-anabhisnehah tat-tat prāpya śubhā-śubham | nābhinandati na dveṣṭi tasya prajñā pratiṣṭhitā ||",
+    "text_english": "He who is detached, seeing all beings alike, neither rejoices nor hates, his wisdom is firm and steady.",
+    "speaker": "Krishna"
+    "chapter_name": "The Yoga of Renunciation",
+    "chapter_name_sanskrit": "संन्यासयोग",
+  },
+  {
+    "chapter": 5,
+    "verse": 11,
+    "text_sanskrit": "सर्वकर्माणि मनसः संन्यस्यास्तु मधुसूदन। निर्विचारः स महात्मा सुखं बन्धात् प्रपद्यते॥",
+    "text_transliteration": "sarva-karmāṇi manasaḥ sannyasyāstu madhusūdana | nirvicāraḥ sa mahātmā sukhaṃ bandhāt prapadyate ||",
+    "text_english": "O Madhusudana, the great soul who renounces all actions in the mind, without doubt, attains bliss and is freed from bondage.",
+    "speaker": "Krishna"
+    "chapter_name": "The Yoga of Renunciation",
+    "chapter_name_sanskrit": "संन्यासयोग",
+  },
+  {
+    "chapter": 5,
+    "verse": 12,
+    "text_sanskrit": "योगिनः कर्म कुर्वन्ति सङ्गं त्यक्त्वा फलं च। निःस्पृहः सन्त्यज्यते मर्त्यलोकसंशयम्॥",
+    "text_transliteration": "yoginaḥ karma kurvanti saṅgaṃ tyaktvā phalaṃ ca | niḥspṛhaḥ santyajyate martya-loka-saṃśayam ||",
+    "text_english": "Yogis perform actions abandoning attachment to results; desireless, they renounce worldly doubts.",
+    "speaker": "Krishna"
+    "chapter_name": "The Yoga of Renunciation",
+    "chapter_name_sanskrit": "संन्यासयोग",
+  },
+  {
+    "chapter": 5,
+    "verse": 13,
+    "text_sanskrit": "समं सर्वेषु भूतेषु तिष्ठन्तं परमेश्वरम्। न हिनस्ति न म्रियते य: सर्वत्र समदर्शिनः॥",
+    "text_transliteration": "samaṃ sarveṣhu bhūteṣhu tiṣṭhantaṃ parameśvaram | na hinasti na mriyate yaḥ sarvatra samadarśinaḥ ||",
+    "text_english": "The Supreme Lord dwells equally in all beings; he who sees all alike neither harms nor is harmed.",
+    "speaker": "Krishna"
+    "chapter_name": "The Yoga of Renunciation",
+    "chapter_name_sanskrit": "संन्यासयोग",
+  },
+  {
+    "chapter": 5,
+    "verse": 14,
+    "text_sanskrit": "यो न हृष्यति न द्वेष्टि न शोचति न काङ्क्षति। शिबं मयि पश्यन्ति योऽभ्यसेतात्मविवेकतः॥",
+    "text_transliteration": "yo na hṛṣyati na dveṣṭi na śochati na kāṅkṣati | śibaṃ mayi paśyanti yo ’bhyasetātma-vivekataḥ ||",
+    "text_english": "He who neither rejoices nor hates, neither grieves nor desires, sees the auspicious in Me and cultivates self-knowledge.",
+    "speaker": "Krishna"
+    "chapter_name": "The Yoga of Renunciation",
+    "chapter_name_sanskrit": "संन्यासयोग",
+  },
+  {
+    "chapter": 5,
+    "verse": 15,
+    "text_sanskrit": "योगिनामपि सर्वेषां मयि संन्यस्य कर्मणि। मनसैव मन्यन्ते बुद्ध्या सर्वार्थान् समन्विताः॥",
+    "text_transliteration": "yoginām api sarveṣhāṃ mayi sannyasya karmaṇi | manasaiva manyante buddhyā sarvārthān samanvitāḥ ||",
+    "text_english": "Even among yogis, all actions are done in Me; with mind and intellect united, they accomplish all purposes.",
+    "speaker": "Krishna"
+    "chapter_name": "The Yoga of Renunciation",
+    "chapter_name_sanskrit": "संन्यासयोग",
+  },
+  {
+    "chapter": 5,
+    "verse": 16,
+    "text_sanskrit": "सर्वकर्माणि मन्‍यन्ति य: स कर्मफलत्यागी। समाधिस्थो हि योगी मुमुक्षुर्न केवलं स्मृतिः॥",
+    "text_transliteration": "sarva-karmāṇi manyanti yaḥ sa karma-phala-tyāgī | samādhi-stho hi yogī mumu kṣur na kevalaṃ smṛtiḥ ||",
+    "text_english": "The one who renounces the fruits of actions, even while performing them, is a yogi; the seeker of liberation abides in meditation, not merely memory.",
+    "speaker": "Krishna"
+    "chapter_name": "The Yoga of Renunciation",
+    "chapter_name_sanskrit": "संन्यासयोग",
+  },
+  {
+    "chapter": 5,
+    "verse": 17,
+    "text_sanskrit": "संन्यासयोगयोर्नित्यमेव समः। योगयुक्तः सदा कर्म कुर्वन्नपि न बन्ध्यते॥",
+    "text_transliteration": "sannyāsa-yogayo r nityameva samaḥ | yoga-yuktaḥ sadā karma kurvann api na bandhyate ||",
+    "text_english": "Renunciation and yoga are ultimately the same; the yogi, performing duties, is never bound.",
+    "speaker": "Krishna"
+    "chapter_name": "The Yoga of Renunciation",
+    "chapter_name_sanskrit": "संन्यासयोग",
+  },
+  {
+    "chapter": 5,
+    "verse": 18,
+    "text_sanskrit": "विद्याविनयसम्पन्ने ब्राह्मणे गवि हस्तिनि। शुनि चैव श्वपाके च पण्डिता: समदर्शिन:॥",
+    "text_transliteration": "vidyā-vinaya-sampanne brāhmaṇe gavi hastini | śuni caiva śvapāke ca paṇḍitāḥ samadarśinaḥ ||",
+    "text_english": "The learned see the same equality in the Brahmin, cow, elephant, dog, and outcaste.",
+    "speaker": "Krishna"
+    "chapter_name": "The Yoga of Renunciation",
+    "chapter_name_sanskrit": "संन्यासयोग",
+  },
+  {
+    "chapter": 5,
+    "verse": 19,
+    "text_sanskrit": "यस्तु सर्वाणि भूतानि आत्मन्य एवाभूद् भवति। तत्र को निर्योगः कस्य च नात्र संशयः सदा॥",
+    "text_transliteration": "yastu sarvāṇi bhūtāni ātmanya evābhūd bhavati | tatra ko niryogaḥ kasya ca nātra saṃśayaḥ sadā ||",
+    "text_english": "He who sees all beings as his own self, who can bind him? There is no doubt for such a one.",
+    "speaker": "Krishna"
+    "chapter_name": "The Yoga of Renunciation",
+    "chapter_name_sanskrit": "संन्यासयोग",
+  },
+  {
+    "chapter": 5,
+    "verse": 20,
+    "text_sanskrit": "सुखी न हि योगिन: प्राप्यते। सुखं कर्म फलत्यागिनाम्। तदर्थं संन्यासयोगेण। बुद्धियोगेन च सदा॥",
+    "text_transliteration": "sukhī na hi yoginaḥ prāpyate | sukhaṃ karma-phalatyāginām | tadarthaṃ sannyāsa-yogena | buddhi-yogena ca sadā ||",
+    "text_english": "Happiness is not attained by mere renunciation; bliss comes to those who renounce the fruits through the yoga of knowledge and wisdom.",
+    "speaker": "Krishna"
+    "chapter_name": "The Yoga of Renunciation",
+    "chapter_name_sanskrit": "संन्यासयोग",
+  },
+  {
+    "chapter": 5,
+    "verse": 21,
+    "text_sanskrit": "योऽवस्थितः सर्वकर्मेन्द्रियैः। कर्माणि नियतं कुरुते। मयि सम्प्रवृद्धं मनः। संयतं चात्मनोऽवस्थितम्॥",
+    "text_transliteration": "yo ’vasthitaḥ sarva-karma-indriyaiḥ | karmāṇi niyataṃ kurute | mayi sampravṛddhaṃ manaḥ | saṃyataṃ cātmano ’vasthitam ||",
+    "text_english": "One who is established in all actions with the senses controlled, with mind fixed in Me and self disciplined, attains perfection.",
+    "speaker": "Krishna"
+    "chapter_name": "The Yoga of Renunciation",
+    "chapter_name_sanskrit": "संन्यासयोग",
+  },
+  {
+    "chapter": 5,
+    "verse": 22,
+    "text_sanskrit": "अयं योगः परमः शान्तिमायाति। न हि द्वेष्टि न प्रियं वदति। न शोचति न हृष्यति। सर्वत्र समदर्शी भवति॥",
+    "text_transliteration": "ayaṃ yogaḥ paramaḥ śāntim āyāti | na hi dveṣṭi na priyaṃ vadati | na śochati na hṛṣyati | sarvatra samadarśī bhavati ||",
+    "text_english": "This supreme yoga brings peace; one neither hates, nor speaks pleasingly or displeasingly, nor grieves or rejoices, seeing all equally.",
+    "speaker": "Krishna" 
+    "chapter_name": "The Yoga of Renunciation",
+    "chapter_name_sanskrit": "संन्यासयोग",
+  },
+  {
+    "chapter": 5,
+    "verse": 23,
+    "text_sanskrit": "समत्वं योग उच्यते। दारिद्र्यं वा सम्यक्। चक्षुर्वा वा सम्यक्। सर्वेभ्यः समदर्शी भव।",
+    "text_transliteration": "samatvaṃ yoga ucyate | dāridryaṃ vā samyak | cakṣurvā vā samyak | sarvebhyaḥ samadarśī bhava ||",
+    "text_english": "Yoga is equanimity; see poverty, vision, and all beings alike with even-mindedness.",
+    "speaker": "Krishna"
+    "chapter_name": "The Yoga of Renunciation",
+    "chapter_name_sanskrit": "संन्यासयोग",
+  },
+  {
+    "chapter": 5,
+    "verse": 24,
+    "text_sanskrit": "सर्वभूतहिते रतः। सदा निःस्पृहः। सर्वत्र समदर्शी। स योगी सदा समाधातुम्॥",
+    "text_transliteration": "sarva-bhūta-hite rataḥ | sadā niḥspṛhaḥ | sarvatra samadarśī | sa yogī sadā samādhātum ||",
+    "text_english": "The yogi devoted to the welfare of all beings, desireless, and seeing all equally, is ever established in meditation.",
+    "speaker": "Krishna" 
+    "chapter_name": "The Yoga of Renunciation",
+    "chapter_name_sanskrit": "संन्यासयोग",
+  },
+  {
+    "chapter": 5,
+    "verse": 25,
+    "text_sanskrit": "सततं योगिनं भज। बुद्ध्या युक्तः समाचर। सर्वकर्माणि मयि। संन्यस्याचल बुद्धयः॥",
+    "text_transliteration": "satataṃ yoginaṃ bhaja | buddhyā yuktaḥ samācara | sarva-karmāṇi mayi | sannyasyācal buddhiyaḥ ||",
+    "text_english": "Always worship the yogi, united in intellect, performing all actions in Me, having renounced attachment with steady wisdom.",
+    "speaker": "Krishna"
+    "chapter_name": "The Yoga of Renunciation",
+    "chapter_name_sanskrit": "संन्यासयोग",
+  },
+  {
+    "chapter": 5,
+    "verse": 26,
+    "text_sanskrit": "न हि ज्ञानेन सदृशं। पवित्रमिह विद्यते। तत्त्वं ज्ञात्वा मोक्षः। स्यान्निर्योगिनो भृता॥",
+    "text_transliteration": "na hi jñānena sadṛśaṃ | pavitram iha vidyate | tattvaṃ jñātvā mokṣaḥ | syān niryogino bhṛtā ||",
+    "text_english": "There is nothing as pure as knowledge; knowing the truth, the renunciate attains liberation.",
+    "speaker": "Krishna"
+    "chapter_name": "The Yoga of Renunciation",
+    "chapter_name_sanskrit": "संन्यासयोग",
+  },
+  {
+    "chapter": 5,
+    "verse": 27,
+    "text_sanskrit": "यः सर्वत्रानभिस्नेहस्तत्। प्राप्य सर्वभूतहितम्। समदर्शी स योगी। स निःस्पृहः सुखी भवेत्॥",
+    "text_transliteration": "yaḥ sarvatra-anabhisneha tat | prāpya sarva-bhūta-hitam | samadarśī sa yogī | sa niḥspṛhaḥ sukhī bhavet ||",
+    "text_english": "He who is detached, devoted to the welfare of all, seeing all alike, is a yogi; desireless, he is happy.",
+    "speaker": "Krishna"
+    "chapter_name": "The Yoga of Renunciation",
+    "chapter_name_sanskrit": "संन्यासयोग",
+  },
+  {
+    "chapter": 5,
+    "verse": 28,
+    "text_sanskrit": "न हृष्यति न द्वेष्टि न शोचति न काङ्क्षति। सर्वत्र समदर्शी योगिनं प्राप्यते सुखम्॥",
+    "text_transliteration": "na hṛṣyati na dveṣṭi na śochati na kāṅkṣati | sarvatra samadarśī yoginaṃ prāpyate sukham ||",
+    "text_english": "Neither rejoicing nor hating, neither grieving nor desiring, seeing all equally, the yogi attains bliss.",
+    "speaker": "Krishna"
+    "chapter_name": "The Yoga of Renunciation",
+    "chapter_name_sanskrit": "संन्यासयोग",
+  },
+  {
+    "chapter": 5,
+    "verse": 29,
+    "text_sanskrit": "यो मामेव सर्वभूतहिते रतः। स योगी सदा मुक्तः। संन्यासयोगे स्थिरबुद्धिः। स परमं सुखं प्राप्नोति॥",
+    "text_transliteration": "yo mām eva sarva-bhūta-hite rataḥ | sa yogī sadā muktaḥ | sannyāsa-yoge sthira-buddhiḥ | sa paramaṃ sukhaṃ prāpnoti ||",
+    "text_english": "He who is devoted to My welfare and that of all beings, the yogi, steady in renunciation and yoga, attains supreme happiness.",
+    "speaker": "Krishna"
+    "chapter_name": "The Yoga of Renunciation",
+    "chapter_name_sanskrit": "संन्यासयोग",
   }
 ]
 
