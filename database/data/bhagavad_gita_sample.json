@@ -6541,6 +6541,1215 @@
   }
 ]
 
+[
+  Śhraddhā Traya Vibhāga Yoga
+
+  {
+    "parva_number": 6,
+    "chapter": 17,
+    "verse": 1,
+    "text_sanskrit": "अर्जुन उवाच |\nएवं सततयुक्ता ये भक्तास्त्वां पर्युपासते |\nये चाप्यविश्वासोऽन्तर्यामि पश्यन्ति तेषु ते ||",
+    "text_transliteration": "arjuna uvāca | evaṃ satata-yuktā ye bhaktās tvāṃ paryupāsate | ye cāpy viśvāso ’ntaryāmi paśyanti teṣu te ||",
+    "text_english": "Arjuna said: O Krishna, please explain the nature of faith. How do the devotees of the different modes of material nature worship You, and how do they attain results according to their faith?",
+    "speaker": "Arjuna",
+    "chapter_name": "The Yoga of Division of the Threefold Faith",
+    "chapter_name_sanskrit": "श्रद्धात्रयविभागयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 17,
+    "verse": 2,
+    "text_sanskrit": "श्रीभगवानुवाच |\nत्रैगुण्यविषया वेदा निस्त्रैगुण्यं प्रदर्शनम् |\nनिर्द्वन्द्वं समाचरित्वा यत्तत्सुखं शान्तिमाप्नुयात् ||",
+    "text_transliteration": "śrī-bhagavān uvāca | trai-guṇya-viṣayā vedā nistraiguṇyaṃ pradarśanam | nirdvandvaṃ samācaritvā yat tat sukhaṃ śāntim āpnuyāt ||",
+    "text_english": "The Blessed Lord said: The Vedas deal with the three modes of material nature. Those who are beyond the influence of these modes, who are neutral and act without attachment, achieve true peace.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Division of the Threefold Faith",
+    "chapter_name_sanskrit": "श्रद्धात्रयविभागयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 17,
+    "verse": 3,
+    "text_sanskrit": "त्रिविधा भवति श्रद्धा देहिनां सा स्वभावजा |\nसात्त्विकी राजसि चैव तामसी च पञ्चमां स्मृताम् ||",
+    "text_transliteration": "trividha bhavati śraddhā dehināṃ sā svabhāvajā | sāttvikī rājasī caiva tāmasī ca pañcamāṃ smṛtām ||",
+    "text_english": "O Arjuna, faith in living beings arises according to their own nature. It is of three kinds: sattvic, rajasic, and tamasic, corresponding to goodness, passion, and ignorance.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Division of the Threefold Faith",
+    "chapter_name_sanskrit": "श्रद्धात्रयविभागयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 17,
+    "verse": 4,
+    "text_sanskrit": "सत्त्वसम्भवां शुद्धां ज्ञानार्जनमात्मनः |\nराजसं कर्माणि लोभात्तामसं च विक्रियते ||",
+    "text_transliteration": "sattva-sambhavam śuddhāṃ jñānārjanam ātmanaḥ | rājasam karmāṇi lobhāt tāmasaṃ ca vikriyate ||",
+    "text_english": "Faith born of goodness is pure and leads to knowledge and self-realization. Faith born of passion or ignorance leads to selfish or harmful actions.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Division of the Threefold Faith",
+    "chapter_name_sanskrit": "श्रद्धात्रयविभागयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 17,
+    "verse": 5,
+    "text_sanskrit": "सत्त्वं प्रमोदनं चित्तस्य संतोषः समृद्धि च |\nराजसं प्रेति: कामश्च तामसं मदोऽभिमानश्च ||",
+    "text_transliteration": "sattvaṃ pramodanaṃ cittasya santoṣaḥ samṛddhi ca | rājasam pretiḥ kāmaś ca tāmasaṃ mado ’bhimānaś ca ||",
+    "text_english": "Sattvic faith brings joy, contentment, and prosperity. Rajasic faith is driven by desire and attachment. Tamasic faith is rooted in delusion, pride, and ignorance.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Division of the Threefold Faith",
+    "chapter_name_sanskrit": "श्रद्धात्रयविभागयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 17,
+    "verse": 6,
+    "text_sanskrit": "अन्नाद्यश्राद्धध्यानं तपो दानं यथाशक्ति |\nसात्त्विकं समाश्रित्य फलमेतद्विदो विदुः ||",
+    "text_transliteration": "annādyaśraddhadhyānaṃ tapo dānaṃ yathāśakti | sāttvikaṃ samāśritya phalametad vido viduḥ ||",
+    "text_english": "Worship, austerity, and charity should be performed according to one’s ability. When performed with sattvic faith, the wise understand the results are pure and beneficial.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Division of the Threefold Faith",
+    "chapter_name_sanskrit": "श्रद्धात्रयविभागयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 17,
+    "verse": 7,
+    "text_sanskrit": "राजसस्तु प्रवृत्तमात्मविनियोगाय कामतः |\nहृष्यत्यात्मबलो मित्रं चान्यदिष्टं प्रियताम् ||",
+    "text_transliteration": "rājasastu pravṛttam ātmaviniyogāya kāmataḥ | hṛṣyaty ātma-balo mitraṃ cānyadiṣṭaṃ priyatām ||",
+    "text_english": "Actions done out of passion, for personal gain, bring attachment and pride. One is happy only when results favor them and they may act for the benefit of friends or relatives.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Division of the Threefold Faith",
+    "chapter_name_sanskrit": "श्रद्धात्रयविभागयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 17,
+    "verse": 8,
+    "text_sanskrit": "तामसं च यत्कर्म ज्ञानहीनं मतमुत्तमम् |\nअसन्तोषं अनित्यं च अन्यायमथ चानघ ||",
+    "text_transliteration": "tāmasaṃ ca yat karma jñāna-hīnaṃ matamuttham | asantoṣaṃ anityaṃ ca anyāyam atha cānagha ||",
+    "text_english": "Actions performed in ignorance, without understanding, bring dissatisfaction, suffering, and wrongdoing. Such deeds are considered tamasic.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Division of the Threefold Faith",
+    "chapter_name_sanskrit": "श्रद्धात्रयविभागयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 17,
+    "verse": 9,
+    "text_sanskrit": "अन्नं बलं त्यागो दानं योषित्पुंसञ्च समाश्रितम् |\nसात्त्विकं प्राहुः सोऽयं लोकसुखाय कल्याणे ||",
+    "text_transliteration": "annaṃ balaṃ tyāgo dānaṃ yoṣit puṃsañca samāśritam | sāttvikaṃ prāhuḥ so ’yaṃ lokasukhāya kalyāṇe ||",
+    "text_english": "Food, strength, sacrifice, charity, and penances, when offered according to one’s ability and in the mode of goodness, promote welfare and happiness in the world.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Division of the Threefold Faith",
+    "chapter_name_sanskrit": "श्रद्धात्रयविभागयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 17,
+    "verse": 10,
+    "text_sanskrit": "राजसि प्राहुः यत्कर्म प्रीत्यार्तं स्वकर्मणि च वा |\nलोभात्तामसमाश्रितं फलं दैवं किल्बिषम् ||",
+    "text_transliteration": "rājasi prāhuḥ yat karma prītyārtaṃ svakarmaṇi ca vā | lobhāt tāmasa-māśritaṃ phalaṃ daivaṃ kilbiṣam ||",
+    "text_english": "Actions performed in passion, for personal enjoyment or gain, are influenced by desire and lead to bondage and sinful reactions.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Division of the Threefold Faith",
+    "chapter_name_sanskrit": "श्रद्धात्रयविभागयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 17,
+    "verse": 11,
+    "text_sanskrit": "तामसि कर्माणि लोभात् प्रवृत्तानि भयानकानि |\nअनाथसंतापकराणि निष्कलुषं च यान्ति ते ||",
+    "text_transliteration": "tāmasi karmāṇi lobhāt pravṛttāni bhayānakāni | anāthasantāpakarāṇi niṣkaluṣaṃ ca yānti te ||",
+    "text_english": "Actions done in ignorance, motivated by greed and delusion, cause fear, misery, and suffering and do not purify the soul.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Division of the Threefold Faith",
+    "chapter_name_sanskrit": "श्रद्धात्रयविभागयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 17,
+    "verse": 12,
+    "text_sanskrit": "सात्त्विकं शौचं प्रीत्यर्थं तपो दानमादरम् |\nराजसि प्रवृत्तं काम्यं तामसि प्रसादवर्जितम् ||",
+    "text_transliteration": "sattvikaṃ śaucaṃ prītyarthaṃ tapo dānam ādarām | rājasī pravṛttaṃ kāmyaṃ tāmasī prasādavarjitam ||",
+    "text_english": "Cleanliness, contentment, austerity, and respectful giving, performed in goodness, are sattvic. Actions driven by desire are rajasic, and those done heedless of proper guidance are tamasic.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Division of the Threefold Faith",
+    "chapter_name_sanskrit": "श्रद्धात्रयविभागयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 17,
+    "verse": 13,
+    "text_sanskrit": "आचारः सत्त्वं श्रद्धा दानं प्राणेषु वासः |\nराजसि क्रोधः प्रमादो लोभः शृङ्गारोऽतिव्यसनः |\nतामसि नीचताप्रसादो मदोभयं चानघ ||",
+    "text_transliteration": "ācāraḥ sattvaṃ śraddhā dānaṃ prāṇeṣu vāsaḥ | rājasī krodhaḥ pramādo lobhaḥ śṛṅgāro ’tivyasanaḥ | tāmasī nīcatā-prasādo mado bhayaṃ cānagha ||",
+    "text_english": "Proper conduct, faith, charity, and regulation of vital energies are sattvic. Rajasic behavior arises from anger, negligence, greed, and excessive passion. Tamasic conduct is low, heedless, arrogant, and fear-driven.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Division of the Threefold Faith",
+    "chapter_name_sanskrit": "श्रद्धात्रयविभागयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 17,
+    "verse": 14,
+    "text_sanskrit": "सात्त्विकं यज्ञः प्रीत्यर्थं सम्प्रयतः फलदः |\nराजसस्त्यागस्त्रिविधः फलालाभाय तामसः ||",
+    "text_transliteration": "sattvikaṃ yajñaḥ prītyarthaṃ samprayataḥ phaladaḥ | rājasas tyāgas trividhaḥ phalālābhāya tāmasaḥ ||",
+    "text_english": "Sacrifice performed with devotion and in the mode of goodness yields beneficial results. Sacrifices in passion aim at gain, and in ignorance are done without proper guidance or respect.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Division of the Threefold Faith",
+    "chapter_name_sanskrit": "श्रद्धात्रयविभागयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 17,
+    "verse": 15,
+    "text_sanskrit": "सात्त्विकं मांसं राजसि चान्यतामांसमाश्रितम् |\nतामसि चान्यतो भक्षणं विषं शुद्ध्यधिकं फलम् ||",
+    "text_transliteration": "sattvikaṃ māṃsaṃ rājasī cānyatamāṃsam āśritam | tāmasī cānyato bhakṣaṇaṃ viṣaṃ śuddhyadhikaṃ phalam ||",
+    "text_english": "Food that increases life, purity, strength, health, happiness, and satisfaction is sattvic. Food that is bitter, too hot, too sour, salty, or pungent is rajasic. Food that is stale, decomposed, putrid, and impure is tamasic.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Division of the Threefold Faith",
+    "chapter_name_sanskrit": "श्रद्धात्रयविभागयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 17,
+    "verse": 16,
+    "text_sanskrit": "सात्त्विकं शयनं प्रीत्यर्थं राजसि उत्साहतः |\nतामसि जडं निद्रा दुःखाय शोचविकल्पतः ||",
+    "text_transliteration": "sattvikaṃ śayanaṃ prītyarthaṃ rājasī utsāhataḥ | tāmasī jaḍaṃ nidrā duḥkhāya śoca-vikalpataḥ ||",
+    "text_english": "Sattvic sleep is peaceful and for the purpose of maintaining the body. Rajasic sleep is restless and excessive, for pleasure or business. Tamasic sleep is lazy, in inappropriate places, and neglectful of duties.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Division of the Threefold Faith",
+    "chapter_name_sanskrit": "श्रद्धात्रयविभागयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 17,
+    "verse": 17,
+    "text_sanskrit": "सात्त्विकं ब्रह्मचर्यं यत्प्रयत्नेन संश्रितम् |\nराजसस्तु कामात्मको लोभात्स्वार्थनिष्क्रियम् ||",
+    "text_transliteration": "sattvikaṃ brahmacaryaṃ yat prayatnena saṃśritam | rājasastu kāmātmako lobhāt svārtha-niṣkriyam ||",
+    "text_english": "Sattvic celibacy is practiced with discipline and for spiritual purposes. Rajasic celibacy is for satisfying desires or for personal gain.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Division of the Threefold Faith",
+    "chapter_name_sanskrit": "श्रद्धात्रयविभागयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 17,
+    "verse": 18,
+    "text_sanskrit": "तामसः क्रोधप्रेरितं कामात्मकोऽशुद्धात्मा |\nसुतिष्ठन्नेति मूढो ब्रह्मचर्यमपाकुर्यात् ||",
+    "text_transliteration": "tāmasaḥ krodha-preritaṃ kāmātmako ’śuddhātmā | sutiṣṭhannetī mūḍho brahmacaryam apākur yāt ||",
+    "text_english": "Tamasic celibacy is undertaken without guidance, in delusion or anger, leading to harm rather than spiritual benefit.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Division of the Threefold Faith",
+    "chapter_name_sanskrit": "श्रद्धात्रयविभागयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 17,
+    "verse": 19,
+    "text_sanskrit": "सात्त्विकं वाक्यं प्रियं सत्यमप्युपयुक्तम् |\nराजसि रोषप्रेरितं तामसि सत्यमनृतं च ||",
+    "text_transliteration": "sattvikaṃ vākyaṃ priyaṃ satyam apy upayuktam | rājasī roṣa-preritaṃ tāmasī satyam anṛtaṃ ca ||",
+    "text_english": "Sattvic speech is truthful, pleasing, and beneficial. Rajasic speech is harsh, argumentative, and driven by anger. Tamasic speech is false, divisive, and harmful.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Division of the Threefold Faith",
+    "chapter_name_sanskrit": "श्रद्धात्रयविभागयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 17,
+    "verse": 20,
+    "text_sanskrit": "सात्त्विकं अर्थं यत्नेन गृह्यं राजसि चान्यथा |\nतामसि हानिप्रदं चेष्टितं कुर्वतां पुनः ||",
+    "text_transliteration": "sattvikaṃ arthaṃ yatnena gṛhyaṃ rājasī cānyathā | tāmasī hāni-pradaṃ ceṣṭitaṃ kurvatāṃ punaḥ ||",
+    "text_english": "Sattvic material acquisition is obtained through honest means. Rajasic acquisition is driven by ambition. Tamasic acquisition is harmful, deceitful, and causes suffering.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Division of the Threefold Faith",
+    "chapter_name_sanskrit": "श्रद्धात्रयविभागयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 17,
+    "verse": 21,
+    "text_sanskrit": "सात्त्विकं शौचं तपः स्वाध्यायसमाश्रितम् |\nराजसि द्रव्यबलाध्यायः तामसि मिथ्याज्ञानतः ||",
+    "text_transliteration": "sattvikaṃ śaucaṃ tapaḥ svādhyāya-samāśritam | rājasī dravya-bala-adhyāyaḥ tāmasī mithyājñānataḥ ||",
+    "text_english": "Sattvic purity, austerity, and study of scripture purify the soul. Rajasic austerity is motivated by show or gain. Tamasic austerity is done without knowledge and is fruitless.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Division of the Threefold Faith",
+    "chapter_name_sanskrit": "श्रद्धात्रयविभागयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 17,
+    "verse": 22,
+    "text_sanskrit": "सात्त्विकं धर्म आचारो राजसि मानहिता |\nतामसि निराधारं चेष्टितं क्रियते मूढतः ||",
+    "text_transliteration": "sattvikaṃ dharma ācāro rājasī mānahitā | tāmasī nirādhāraṃ ceṣṭitaṃ kriyate mūḍhataḥ ||",
+    "text_english": "Sattvic behavior follows dharma and benefits society. Rajasic conduct seeks personal honor, and tamasic conduct is aimless and foolish.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Division of the Threefold Faith",
+    "chapter_name_sanskrit": "श्रद्धात्रयविभागयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 17,
+    "verse": 23,
+    "text_sanskrit": "सर्वभूतस्थमात्मानं सर्वभूतानि चात्मनि |\nईश्वरं सर्वभूतानां हृदयेषु तिष्ठति च ||",
+    "text_transliteration": "sarvabhūtastham ātmānaṃ sarvabhūtāni cātmani | īśvaraṃ sarvabhūtānāṃ hṛdayeṣu tiṣṭhati ca ||",
+    "text_english": "One who worships God as the indwelling spirit in all beings, seeing all beings in the Self, attains the supreme result.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Division of the Threefold Faith",
+    "chapter_name_sanskrit": "श्रद्धात्रयविभागयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 17,
+    "verse": 24,
+    "text_sanskrit": "एकभूतं च सर्वभूतान्तरात्मानं च जानाति |\nस सर्वभूतानि चात्मनि श्रीकृष्णं चैतद्विदुः ||",
+    "text_transliteration": "ekabhūtaṃ ca sarvabhūtāntarātmānaṃ ca jānāti | sa sarvabhūtāni cātmani śrīkṛṣṇaṃ caitad viduḥ ||",
+    "text_english": "Those who understand the Self as one with all beings, and all beings as part of the Self, recognize Krishna as the Supreme Spirit dwelling within.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Division of the Threefold Faith",
+    "chapter_name_sanskrit": "श्रद्धात्रयविभागयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 17,
+    "verse": 25,
+    "text_sanskrit": "सततं कीर्तयन्तो मां यथाशक्ति निर्विच्यते |\nभक्त्या परया नित्यं योगेन मां धारयन्ति च ||",
+    "text_transliteration": "satataṃ kīrtayanto māṃ yathāśakti nirvicyate | bhaktyā parayā nityaṃ yogena māṃ dhārayanti ca ||",
+    "text_english": "Those who constantly praise Me according to their ability, and who worship Me with supreme devotion and yoga, are dear to Me.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Division of the Threefold Faith",
+    "chapter_name_sanskrit": "श्रद्धात्रयविभागयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 17,
+    "verse": 26,
+    "text_sanskrit": "भक्त्या परया तु युक्ताः सर्वकर्माणि संयुज्यते |\nमयि सर्वाणि कर्माणि संन्यस्याध्यात्मचेतसा ||",
+    "text_transliteration": "bhaktyā parayā tu yuktāḥ sarvakarmāṇi saṃyujyate | mayi sarvāṇi karmāṇi saṃnyasyādhyātma-cetasā ||",
+    "text_english": "Those who dedicate all actions to Me, with supreme devotion and a spiritual mindset, transcend the three modes and achieve liberation.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Division of the Threefold Faith",
+    "chapter_name_sanskrit": "श्रद्धात्रयविभागयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 17,
+    "verse": 27,
+    "text_sanskrit": "सर्वेषामात्मभावो भक्त्या मम समर्पितः |\nएवं ज्ञायते योऽयं भक्तिमार्गः परमं सुखम् ||",
+    "text_transliteration": "sarveṣām ātmabhāvo bhaktyā mama samarpitaḥ | evaṃ jñāyate yo ’yaṃ bhakti-mārgaḥ paramaṃ sukham ||",
+    "text_english": "When all beings are viewed as the Self and all actions are offered to Me with devotion, the path of devotion leads to supreme happiness.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Division of the Threefold Faith",
+    "chapter_name_sanskrit": "श्रद्धात्रयविभागयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 17,
+    "verse": 28,
+    "text_sanskrit": "अयमात्मा समस्तभूतानां हृदि स्थितोऽयं ममेश्वरः |\nयस्त्वं भजत्यनन्यभक्त्या स मे प्रियतमः सदा ||",
+    "text_transliteration": "ayaṃ ātmā samastabhūtānāṃ hṛdi sthito ’yaṃ mameśvaraḥ | yastvaṃ bhajaty ananya-bhaktyā sa me priyatamaḥ sadā ||",
+    "text_english": "The Self, residing in the hearts of all beings, is My indwelling Spirit. One who worships Me with exclusive devotion is always dear to Me.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Division of the Threefold Faith",
+    "chapter_name_sanskrit": "श्रद्धात्रयविभागयोग"
+  }
+]
+
+
+[
+  Mokṣa‑Sannyāsa Yoga
+
+
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 1,
+    "text_sanskrit": "अर्जुन उवाच |\nश्रीभगवानुवाच चत्वारि ते गुणनिर्देशान्यहम् |\nअशेषेण यस्य पश्य मे योगं चरितं हृषीकेश ||",
+    "text_transliteration": "arjuna uvāca | śrī-bhagavān uvāca catvāri te guṇa-nirdeśāny aham | aśeṣeṇa yasya paśya me yogaṃ caritaṃ hṛṣīkeśa ||",
+    "text_english": "Arjuna said: The Blessed Lord said: I shall now describe to you the fourfold division of faith according to the three qualities. O Hrishikesh, perceive in full My teaching about yoga.",
+    "speaker": "Arjuna & Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 2,
+    "text_sanskrit": "श्रद्धया परयाऽपिह वैष्णवीं प्राङ्मिमां इच्छया चानघ |\nभक्त्या योगेन सांन्यस्य तदा मतं परं नृणाम् ||",
+    "text_transliteration": "śraddhayā parayā ’pi hā vaiṣṇavīm prāṅ-mimāṃ ichchayā cānagha | bhaktyā yogena sānyasya tadā mataṃ paraṃ nṛṇām ||",
+    "text_english": "O sinless one, the supreme opinion of men who have renounced with unflinching faith, loving desire for liberation, devotion, and yoga is this.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 3,
+    "text_sanskrit": "यत्तु लोकस्यैष देवत्रैव विष्णुरेव वा |\nसर्वमेतदुत्तरं मां तद्व्याख्यास्यति तत्वतः ||",
+    "text_transliteration": "yattu lokasya eṣa devatr aiva viṣṇur eva vā | sarvam etad uttaraṃ māṃ tad vyākhyāsyati tattvataḥ ||",
+    "text_english": "That which is beneficial for the world — be it Vishnu or another dispensation — know that as My ultimate word, and I shall explain it to you in truth.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 4,
+    "text_sanskrit": "न त्यज्यसे वस्तुनात्मानं प्रकृतिं च कर्म च य: |\nस बुद्धिमान्मुनिर्मां प्राप्नोति नाश्चाश्नाति दोषवर्जित: ||",
+    "text_transliteration": "na tyajyase vastunātmānaṃ prakṛtiṃ ca karma ca yaḥ | sa buddhimān muniḥ māṃ prāpnoti nāś chāśnāti doṣa-varjitaḥ ||",
+    "text_english": "He who does not abandon attachment to objects, nature, and action — yet is wise and free of faults — attains Me, O muni; he is not destroyed.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 5,
+    "text_sanskrit": "प्रकृतिं स्वामधिष्ठाय संभवाम्यात्मनि वास하여 |\nभूत्वा प्रतिजाने प्राकृत्यै न कार्यमवशोऽयम् ||",
+    "text_transliteration": "prakṛtiṃ svā madhīṣṭhāya saṃbhavāmy ātmani vāsaḥ | bhūtvā pratijāne prākṛtyai na kāryam avaśo ’yam ||",
+    "text_english": "I reside in the unmanifest nature, and by My power I sustain the manifested. Knowing Me thus, you should not be bewildered.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 6,
+    "text_sanskrit": "यस्मात्कर्तारमिप सर्वस्य परमँ मन्यते |\nमम तत्त्वमिदं पुरुषं प्राहुर्मे भक्तात्मन: ||",
+    "text_transliteration": "yasmāt kartāram ipa sarvasya paramaṃ manyate | mama tattvam idaṃ puruṣaṃ prāhur me bhaktātmanaḥ ||",
+    "text_english": "For My devotees who think of Me as the Supreme Doer of all, My divine nature is thus declared by those of contemplative mind.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 7,
+    "text_sanskrit": "यन्मानुषे लोकेऽस्मिन् प्रवर्तते शुभाशुभम् |\nन तत्कर्म निबध्यते न तं सङ्गं कुर्वते मन: ||",
+    "text_transliteration": "yan mānuṣe loke ’smin pravartate śubhāśubham | na tat karma nibadhyate na taṃ saṅgaṃ kurvate manaḥ ||",
+    "text_english": "That action in this human world which leads neither to bondage nor to attachment is determined by Me as renunciation.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 8,
+    "text_sanskrit": "सत्त्वं सुखे सञ्जयत्यात्मनि तुष्ट: सत्त्वसमाश्रित: |\nरजसि रोषेण वर्धते कामार्थोऽभिवर्धते च ||",
+    "text_transliteration": "sattvaṃ sukhe sañjayaty ātmani tuṣṭaḥ sattva-samāśritaḥ | rajasi roṣeṇa vardhate kāmārtho ’bhivardhate ca ||",
+    "text_english": "Sattva, when allied with a satisfied mind, brings joy. Rajas grows through anger and fosters desire and acquisition.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 9,
+    "text_sanskrit": "तं तमसः परिकीर्तितं कर्म यन्मोहया जायते |\nभवितारं न कर्माणि विद्धि तच्छ्रेयसमावन्तम् ||",
+    "text_transliteration": "taṃ tamasaḥ parikīrtitaṃ karma yan mohayā jāyate | bhavitāraṃ na karmāṇi viddhi tacchreyasamaāvantam ||",
+    "text_english": "That which is attributed to tamas — birth of delusion — know that work which leads to degradation and not to higher good.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 10,
+    "text_sanskrit": "श्रेयो हि तत्वतस्तु कर्म तत्त्वं यत्ति न काङ्क्ष्यते |\nअपरि शोचितुम अपि च कर्म करिष्यति यः शान्तवत् ||",
+    "text_transliteration": "śreyo hi tattvatastu karma tattvaṃ yat ti na kāṅkṣyate | aparaśocitum api ca karma kariṣyati yaḥ śāntavat ||",
+    "text_english": "But work done from real understanding — even without desire for result — is superior. One who acts thus, without attachment, does not lament.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 11,
+    "text_sanskrit": "प्रकृतिं पुरुषं चैव परस्परं कर्मणि भर्ता भवेत् |\nतदर्थं कर्माणि रिपूं विद्धि तत्त्वतः सर्वश: ||",
+    "text_transliteration": "prakṛtiṃ puruṣaṃ caiva parasparaṃ karmaṇi bhartā bhavet | tadarthaṃ karmāṇi ripūṃ viddhi tattvataḥ sarvaśaḥ ||",
+    "text_english": "Nature and the soul intermesh in action; knowledge of this truth explains all action. Without understanding this, one is bewildered.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 12,
+    "text_sanskrit": "इन्द्रियाणि मनो बुद्धिर्याज्यं कर्म प्रजहि मत्स्थम् |\nबुद्धियुक्तो यदा युज्यते तदा न पापमवाप्स्यति ||",
+    "text_transliteration": "indriyāṇi mano buddhiḥ yājyaṃ karma prajahi matstham | buddhi-yukto yadā yujyate tadā na pāpam avāpsyati ||",
+    "text_english": "Restrain your senses, mind, and intellect. When action is regulated by the intellect, one does not incur sin.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 13,
+    "text_sanskrit": "शुद्धात्मा विशुद्धकर्मा विशुद्धा मन एव च |\nविशुद्धो विज्ञानसहितो युक्तः स वै पुरुषो मोट ||",
+    "text_transliteration": "śuddhātmā viśuddha-karmaā viśuddhā mana eva cha | viśuddho jñāna-sahito yuktaḥ sa vai puruṣo mota ||",
+    "text_english": "The pure in heart, the pure of action, and the pure in mind, united with true knowledge — such a person is the exalted soul.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 14,
+    "text_sanskrit": "यदि ह्येष पुरुषः सत्त्वशुद्धौ भूय एव तिष्ठति |\nस योऽप्येति तु तं लोकान् विद्धि नायं मतो मम ||",
+    "text_transliteration": "yadi hyeṣa puruṣaḥ sattva-śuddhau bhūya eva tiṣṭhati | sa yo ’py eti tu taṃ lokān viddhi nāyaṃ mato mama ||",
+    "text_english": "If this person remains firmly established in purity, yet still performs action, know that he too reaches the supreme worlds. This is My opinion.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 15,
+    "text_sanskrit": "यत्तु सङ्गं त्यक्त्वा कर्माण्यात्मविशुद्धये |\nनियोजयित्वा तिष्ठन्तं सङ्गं त्यक्त्वा विचिन्तयेत् ||",
+    "text_transliteration": "yattu saṅgaṃ tyaktvā karmāṇy ātma-viśuddhaye | niyojayitvā tiṣṭhantaṃ saṅgaṃ tyaktvā vicintayet ||",
+    "text_english": "One should abandon attachment and act for the purification of the self; one who rises above attachments and acts without them attains peace.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 16,
+    "text_sanskrit": "यदृच्छया हि संसिद्धिं प्राप्नोति यदाचारतः |\nकोऽप्यत्र तिष्ठत्यकर्मकृत्स्नः समो मम मतः ||",
+    "text_transliteration": "yadṛcchayā hi saṃsiddhiṃ prāpnoti yadācārataḥ | ko ’pya tra tiṣṭhaty akarma-kṛtsnaḥ samo mama mataḥ ||",
+    "text_english": "Even if one attains perfection by chance or externally, who fully established in this way — unattached to action — stands equal to him? Such equanimity is My opinion.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 17,
+    "text_sanskrit": "तान्येव कृत्यानि वर्तन्त प्रवर्तन्त चेमनि भारत |\nनान्यत्कर्मणा तान्येव कर्तव्यानि निबध्नन्ति ||",
+    "text_transliteration": "tānyeva kṛtyāṇi vartanta pravartanta cēmani bhārata | nānyat karmaṇā tānyeva kartavyāni nibadhnanti ||",
+    "text_english": "These duties in this world are the ones that arise and continue, O Bharata; bound not by other acts, but only by these prescribed duties.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 18,
+    "text_sanskrit": "कर्तव्ये चिन्त्यन्ते कर्माणि नियताः सदा मन्यसे |\nयेषां संसिद्धिर्भवति तेऽप्यार्हन्तो विजानतः ||",
+    "text_transliteration": "kartavye cintyante karmāṇi niyatāḥ sadā manyase | yeṣāṃ saṃsiddhir bhavati te ’py arhanto vijānataḥ ||",
+    "text_english": "These prescribed duties are to be thoughtfully performed. Those whose wisdom ripens this way also deserve honour.", 
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 19,
+    "text_sanskrit": "सङ्गं त्यक्त्वा हि मुनिर्ज्ञाते कर्म प्रजहि मत्स्थः |\nसंन्यस्तसङ्गः समाः शान्तिं नचिरेणाधिगच्छति ||",
+    "text_transliteration": "saṅgaṃ tyaktvā hi muniḥ jñāte karma prajahi matsthaḥ | saṃnyasta-saṅgaḥ samāḥ śāntiṃ nacireṇa adhigacchati ||",
+    "text_english": "When a muni, knowing this, abandons attachment to action yet performs the work, he whose attachment is truly gone soon attains peace.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 20,
+    "text_sanskrit": "नियतं कुरु कर्म त्वं कर्म ज्यायो ह्यकिर्त्याय |\nशरीरयात्रा अपि च ते न प्रसिद्ध्यिद्ध мяс ॥",
+    "text_transliteration": "niyataṃ kuru karma tvaṃ karma jyāyo hy akirtyāya | śarīra-yātrā api ca te na prasiddhy iddha mayā ||",
+    "text_english": "Do your prescribed duty; action is better than inaction. By not doing your duty, you incur guilt even in the course of life.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 21,
+    "text_sanskrit": "कर्तव्यमिति यदज्ञानां पाण्डव\nनैकं मतं मनुष्यलोके\nयत्सङ्गं त्यक्त्वा फलमाप्नोति\nन कर्मणामपि चाधिकारः ॥",
+    "text_transliteration": "kartavyaṃ iti yad ajñānāṃ pāṇḍava naikaṃ mataṃ manuṣya-loke | yat saṅgaṃ tyaktvā phalam āpnoti na karmaṇāmapi cādhikāraḥ ||",
+    "text_english": "The duty which the ignorant declare — “one must act” — and one which, relinquishing attachment, leads to fruit without attachment; even inaction is no duty for such a person.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 22,
+    "text_sanskrit": "इदं विधानमिच्छन्तः सर्वकर्माण्यपि तथैव |\nयेऽपि नित्यसंन्यस्ताः सन्तो मयि तेष्वनुज्झते ||",
+    "text_transliteration": "idaṃ vidhānam icchantaḥ sarva-karmāṇy api tathaiva | ye ’pi nitya-saṃnyastāḥ santo mayi teṣv anujjhate ||",
+    "text_english": "This is the regulation for those desirous of union with Me: even those who are always renounced, having conquered attachment, incline toward Me.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 23,
+    "text_sanskrit": "यं विद्धि प्रणश्यन्तं प्रपञ्चलोकमहंकारम् |\nअभावात्कर्मणः प्रोक्तं छेदं पार्थ मे मतः स्मृतः ||",
+    "text_transliteration": "yaṃ viddhi praṇaśyantaṃ prapañca-loka-mahaṃkāram | abhāvāt karmaṇaḥ proktaṃ chēdaṃ pārtha me mataḥ smṛtaḥ ||",
+    "text_english": "Those objectives by knowledge which destroy the great bond of worldly egotism — departure from which is the cutting off of action — this is My remembered opinion.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 24,
+    "text_sanskrit": "विषयेन्द्रियसंयोगादयमत्सङ्गोऽस्य मतो मम |\nविषयेन्द्रियसंयोगाद्योगोऽस्य मतो मम च ||",
+    "text_transliteration": "viṣayendriya-saṃyogādayaṃ ta saṅgo ’sya mato mama | viṣayendriya-saṃyogād yogo ’sya mato mama ca ||",
+    "text_english": "That which is attachment due to contact of the senses with objects — that is my opinion of bondage, and that which is yoga.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 25,
+    "text_sanskrit": "सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज |\nअहं त्वां सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः ||",
+    "text_transliteration": "sarva-dharmān parityajya mām ekaṃ śaraṇaṃ vraja | ahaṃ tvāṃ sarva-pāpebhyo mokṣayiṣyāmi mā śucaḥ ||",
+    "text_english": "Renounce all dharmas and surrender unto Me alone; I will liberate you from all sinful reactions. Do not fear.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 26,
+    "text_sanskrit": "ब्राह्मणक्षत्रियविशां च शूद्राणां च भावनम् |\nभावनातोऽभिभवन्नर्थो भवति धनंजय ||",
+    "text_transliteration": "brāhmaṇa-kṣatriya-viśāṃ ca śūdrāṇāṃ ca bhāvanam | bhāvanāto ’bhibhavann arthō bhavati dhanañjaya ||",
+    "text_english": "The conceptions of a Brahmin, a Kshatriya, a Vaishya, and a Shudra — the motivating dispositions of each superimpose their respective duties, O Dhananjaya.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 27,
+    "text_sanskrit": "श्रोतव्यश्चैव श्रेयसोऽधिकतरस्तु श्रोता: |\nये चापरे परस्परं पश्यन्त्याद्यार्थसंहितम् ||",
+    "text_transliteration": "śrotavyaś caiva śreyaso ’dhikatarastu śrotāḥ | ye cāpare parasparaṃ paśyanty ārtha-saṃhitam ||",
+    "text_english": "One should hear more about the supreme welfare from the scriptures, and also mutually discuss matters pertaining to the pursuit of the highest good.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 28,
+    "text_sanskrit": "ये ह्येतेऽभ्यस्यन्ते मनसा नैव किञ्चन मतिम् |\nमोहमेव ते बुद्धेः स्थितं धीराणां मतं मम ||",
+    "text_transliteration": "ye hye te ’bhyasyante manasā naiva kiñcana matim | moha meva te buddheḥ sthitaṃ dhīrāṇāṃ mataṃ mama ||",
+    "text_english": "Those who practice without understanding, with minds that do not grasp anything, are bewildered — their intellect clouded by delusion. Such confusion is My view of the wise.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 29,
+    "text_sanskrit": "श्रीभगवानुवाच |\nसत्त्वं राजसं तमसश्च त्रिविधं नरकर्मणि ॥",
+    "text_transliteration": "śrī-bhagavān uvāca | sattvaṃ rājaṃ tamaś ca trividhaṃ narakarmaṇi ||",
+    "text_english": "The Blessed Lord said: Sattva, Rajas, and Tamas are the threefold modes of action in human deeds.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 30,
+    "text_sanskrit": "सत्त्वे प्रजाननं ज्ञानं शान्तिरस्मितार्जवम् |\nराजसि कामः क्रोधश्च रजसा भूतलाभनम् ||",
+    "text_transliteration": "sattve prajānanaṃ jñānaṃ śāntiḥ asmitārjavam | rājasī kāmaḥ krodhaś ca rajasā bhūta-lābhanam ||",
+    "text_english": "In Sattva are birth, knowledge, peace, self-control, and honesty. In Rajas are desire, anger, and greed for acquisition.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 31,
+    "text_sanskrit": "तमसि प्रलयं याति मूढाः संमोहिता मूढता |\nअज्ञानमोहनं च यं तमसा भिन्नम् अद्भुतम् ||",
+    "text_transliteration": "tamasi pralayaṃ yāti mūḍhāḥ saṃmohitā mūḍhatā | ajñānam ohanam ca yaṃ tamasā bhinnam adbhutam ||",
+    "text_english": "In Tamas is delusion, ignorance, sleep, and laziness; it brings ruin, bewilderment, and obstructs knowledge.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 32,
+    "text_sanskrit": "सत्त्वात्स्वधर्मे निधनं श्रेयः\nराजसात्स्वधर्मे भीतः फलम्\nतमसात्स्वधर्मे परित्यागः\nश्रेयो नाङ्गिकविनश्यति ||",
+    "text_transliteration": "sattvāt svadharme nidhaṃ śreyaḥ | rājasāt svadharme bhītaḥ phalam | tamasāt svadharme parityāgaḥ | śreyaḥ nāṅgika-vinaśyati ||",
+    "text_english": "Better is the death in one’s own duty in Sattva. Fearful is the result in Rajas. Abandonment in Tamas brings disaster; following one’s duty rightly never perishes.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 33,
+    "text_sanskrit": "सत्त्वात्स्वधर्मे निधनं श्रेयः\nराजसात्स्वधर्मे भीतः फलम्\nतमसात्स्वधर्मे परित्यागः\nश्रेयो नाङ्गिकविनश्यति ||",
+    "text_transliteration": "sattvāt svadharme nidhaṃ śreyaḥ | rājasāt svadharme bhītaḥ phalam | tamasāt svadharme parityāgaḥ | śreyaḥ nāṅgika-vinaśyati ||",
+    "text_english": "Better is death in one’s own duty in Sattva; fearful are results in Rajas; abandonment in Tamas destroys good; right action in duty never perishes.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 34,
+    "text_sanskrit": "एवं सत्त्वं रजस्तम इत्येकं कर्मणे\nपरिगण्यते पुरुषः शुद्धज्ञेः प्रवर्तते\nयस्य सत्त्वं राजस तं तं तमोति प्रजायत ||",
+    "text_transliteration": "evaṃ sattvaṃ rajas tam ity ekaṃ karmaṇe | parigaṇyate puruṣaḥ śuddhajñeḥ pravartate | yasya sattvaṃ rajas taṃ taṃ tamo ti prajāyat ||",
+    "text_english": "Thus in one’s deeds Sattva, Rajas, and Tamas are considered; a person of true wisdom acts accordingly. Sattva gives happiness, Rajas stimulates desire, Tamas breeds ignorance.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 35,
+    "text_sanskrit": "यथा काष्ठं समुत्सृज्य ज्वलति अग्नौ मानुषम् |\nक्षीणं च यथा तस्येव तस्माद्देहं न संशयः ||",
+    "text_transliteration": "yathā kāṣṭhaṃ samutsṛjya jvalati agnau mānuṣam | kṣīṇaṃ ca yathā tasy eva tasmād dehaṃ na saṃśayaḥ ||",
+    "text_english": "Just as a piece of wood burns in fire, and then is consumed, similarly the body is perishable; no doubt about it.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 36,
+    "text_sanskrit": "सत्त्वात्स्वधर्मे निधनं श्रेयः\nराजसात्स्वधर्मे भीतः फलम्\nतमसात्स्वधर्मे परित्यागः\nश्रेयो नाङ्गिकविनश्यति ||",
+    "text_transliteration": "sattvāt svadharme nidhaṃ śreyaḥ | rājasāt svadharme bhītaḥ phalam | tamasāt svadharme parityāgaḥ | śreyaḥ nāṅgika-vinaśyati ||",
+    "text_english": "Better is the death in one’s own duty in Sattva; fearful is the result in Rajas; abandonment in Tamas destroys good; right action never perishes.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 37,
+    "text_sanskrit": "यस्त्वसक्तः सततं कर्म रूपं त्यक्त्वा शान्तिमचिरेणाधिगच्छति ||",
+    "text_transliteration": "yastv asaktaḥ satataṃ karma rūpaṃ tyaktvā śāntim acireṇ ādhigacchati ||",
+    "text_english": "But one who performs actions detachedly, abandoning attachment, quickly attains peace.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 38,
+    "text_sanskrit": "सर्वकर्माणि मनसा संन्यास्यास्ते सुखं वशीकरोति ||",
+    "text_transliteration": "sarva-karmāṇi manasā saṃnāsyāste sukhaṃ vaśīkaroti ||",
+    "text_english": "He who renounces all actions in mind alone, controls happiness and gains mastery over joy.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 39,
+    "text_sanskrit": "अहं सर्वस्य प्रभवो मत्तः सर्वं प्रवर्तते ||",
+    "text_transliteration": "ahaṃ sarvasya prabhavo mattaḥ sarvaṃ pravartate ||",
+    "text_english": "I am the source of all; everything emanates from Me.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 40,
+    "text_sanskrit": "अर्जुन उवाच |\nएवं ज्ञात्वा निश्चिन्तो भवामि शरणागतः ||",
+    "text_transliteration": "arjuna uvāca | evaṃ jñātvā niścinto bhavāmi śaraṇāgataḥ ||",
+    "text_english": "Arjuna said: Knowing this, I am free from doubt, and fully surrendered.",
+    "speaker": "Arjuna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 41,
+    "text_sanskrit": "श्रीभगवानुवाच |\nसर्वधर्मान्परित्यज्य मामेकं शरणं व्रज ||",
+    "text_transliteration": "śrī-bhagavān uvāca | sarva-dharmān parityajya mām ekaṃ śaraṇaṃ vraja ||",
+    "text_english": "The Blessed Lord said: Abandon all forms of dharma and take refuge in Me alone.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 42,
+    "text_sanskrit": "अहं त्वां सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः ||",
+    "text_transliteration": "ahaṃ tvāṃ sarva-pāpebhyo mokṣayiṣyāmi mā śucaḥ ||",
+    "text_english": "I shall liberate you from all sins; do not grieve.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 43,
+    "text_sanskrit": "सर्वधर्मान्परित्यज्य केवलं मम शरणं गच्छ ||",
+    "text_transliteration": "sarva-dharmān parityajya kevalaṃ mama śaraṇaṃ gaccha ||",
+    "text_english": "Abandon all duties and take complete refuge in Me alone.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 44,
+    "text_sanskrit": "ततो युद्धाय युज्यस्व नैवं पापमवाप्स्यसि ||",
+    "text_transliteration": "tato yuddhāya yujyasva naiva pāpam avāpsyasi ||",
+    "text_english": "Therefore, take up arms for the battle; by doing so you will incur no sin.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 45,
+    "text_sanskrit": "सत्यं ब्रूयात्प्रियं ब्रूयात्स न ब्रूयात्सत्यप्रियं |\nएस नित्यमावश्यं ब्रूयात्सत्यं प्रियं च यत् ||",
+    "text_transliteration": "satyaṃ brūyāt priyaṃ brūyāts na brūyāt satya-priyaṃ | esā nityam āvaśyaṃ brūyāt satyaṃ priyaṃ ca yat ||",
+    "text_english": "Speak the truth; speak pleasantly; do not speak truth that is unpleasant; always speak that which is both true and pleasing.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 46,
+    "text_sanskrit": "योगः कर्मसु कौशलं मोक्षं चैतद्विजानतः ||",
+    "text_transliteration": "yogaḥ karmasu kauśalaṃ mokṣaṃ ca etad vijānataḥ ||",
+    "text_english": "Skill in action is yoga; know this also leads to liberation.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 47,
+    "text_sanskrit": "धर्म्याद्धर्मन्याधिकरः स्वधर्मे निधनं श्रेयः ||",
+    "text_transliteration": "dharmyāddharmany adhikaraḥ svadharme nidhaṃ śreyaḥ ||",
+    "text_english": "Better is one’s own dharma, though imperfectly performed, than the dharma of another well performed.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 48,
+    "text_sanskrit": "स्वकर्मणा धनं याति न कृतकर्मणा जनः ||",
+    "text_transliteration": "svakarmaṇā dhanaṃ yāti na kṛtakarmaṇā janaḥ ||",
+    "text_english": "By one’s own action alone one attains success; not by the deeds of others.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 49,
+    "text_sanskrit": "सत्त्वानुरागो जिज्ञासा शमः दया नम्रता च ||",
+    "text_transliteration": "sattvānurāgo jijñāsā śamaḥ dayā namratā ca ||",
+    "text_english": "Attachment to Sattva, inquiry, self-restraint, compassion, and humility are marks of the wise.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 50,
+    "text_sanskrit": "एताभ्यः सर्वैः सम्प्राप्तः सत्त्वं रजस्तम इति विभज्यते ||",
+    "text_transliteration": "etābhyaḥ sarvaiḥ samprāptaḥ sattvaṃ rajas tam iti vibhajyate ||",
+    "text_english": "Thus all qualities in beings are classified as Sattva, Rajas, and Tamas.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 51,
+    "text_sanskrit": "सर्वभूतस्थमात्मानं सर्वभूतानि चात्मनि |\nइह प्रबन्धं कर्तुं नैव कर्तव्यं भवति ||",
+    "text_transliteration": "sarva-bhūtastham ātmānaṃ sarva-bhūtāni cātmani | iha prabandhaṃ kartuṃ naiva kartavyaṃ bhavati ||",
+    "text_english": "One should see the Self as present in all beings; one should not interfere unnecessarily with others.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 52,
+    "text_sanskrit": "यथा प्रकाशयति सूर्यः सर्वं लोकमावृतम् |\nतथा बुद्ध्या प्रवृत्तः कर्म करोति मानवः ||",
+    "text_transliteration": "yathā prakāśayati sūryaḥ sarvaṃ lokam āvṛtam | tathā buddhyā pravṛttaḥ karma karoti mānavaḥ ||",
+    "text_english": "Just as the Sun illuminates everything, a person guided by intellect performs action.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 53,
+    "text_sanskrit": "मय्येव मन आधत्स्व मयि बुद्धिं निवेशय |\nनिवसिष्यसि मय्येव अत ऊर्ध्वं न संशयः ||",
+    "text_transliteration": "mayyeva mana ādhatsva mayi buddhiṃ niveśaya | nivasishyasi mayyeva ata ūrdhvaṃ na saṃśayaḥ ||",
+    "text_english": "Focus your mind on Me, set your intellect upon Me; you will dwell in Me alone, beyond doubt.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 54,
+    "text_sanskrit": "एवं योऽध्यात्मं नित्यं चित्त्वा मुच्यते सः |\nसर्वकर्माणि परमं योगं परित्यज्य च ||",
+    "text_transliteration": "evaṃ yo ’dhyātmaṃ nityaṃ cittvā mucyate saḥ | sarva-karmāṇi paramaṃ yogaṃ parityajya ca ||",
+    "text_english": "Thus, one who always keeps the Self in mind and abandons all actions attains supreme yoga.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 55,
+    "text_sanskrit": "यथैष धर्मः स्त्रीणां स्त्रीणां च पुरुषेषु च |\nतथा धर्मः स्वधर्मेण यथाशक्ति यथाश्रयः ||",
+    "text_transliteration": "yathaiṣa dharmaḥ strīṇāṃ strīṇāṃ ca puruṣeṣu ca | tathā dharmaḥ svadharmeṇa yathāśakti yathāśrayaḥ ||",
+    "text_english": "Just as duties vary according to one’s station and gender, so one should act according to one’s own dharma, with effort and refuge.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 56,
+    "text_sanskrit": "अत्यन्तं कर्मणि चित्तं यदि निवेशयेत् मानवः |\nसार्थकं तस्य कर्म धर्मयुक्तं च लभ्यते ||",
+    "text_transliteration": "atyantaṃ karmaṇi cittaṃ yadi niveśayet mānavaḥ | sārthakaṃ tasya karma dharma-yuktaṃ ca labhyate ||",
+    "text_english": "If one dedicates the mind fully to action, that action becomes meaningful and aligned with dharma.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 57,
+    "text_sanskrit": "यः सर्वत्रानभिषिक्तः सर्वं कर्म योगसंन्यसः |\nस नष्टः पापेनैव मोक्षं प्राप्नोति तं गतिम् ||",
+    "text_transliteration": "yaḥ sarvatra anabhiṣiktaḥ sarvaṃ karma yoga-sannyasaḥ | sa naṣṭaḥ pāpenaiva mokṣaṃ prāpnoti taṃ gatim ||",
+    "text_english": "One who renounces attachment to all actions and dedicates them as yoga attains liberation, free from sin.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 58,
+    "text_sanskrit": "यद्यदाचार्यते पृथिव्यां पुरुषैः धर्मनिष्ठैः |\nतदन्याय्यं न कुर्यात् सर्वकर्म परित्यज्य च ||",
+    "text_transliteration": "yadyad āchāryate pṛthivyāṃ puruṣaiḥ dharma-niṣṭhaiḥ | tad anyāyyaṃ na kuryāt sarva-karma parityajya ca ||",
+    "text_english": "Whatever dharmic practices are followed by righteous people on earth, do not disregard them, even while renouncing all actions.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 59,
+    "text_sanskrit": "एतत्सर्वं संसारं दुःखमयमुत्तमम् |\nसर्वं त्यक्त्वा मोक्षं प्राप्नुयात् यथा साधकः ||",
+    "text_transliteration": "etat sarvaṃ saṃsāraṃ duḥkham ayam uttamam | sarvaṃ tyaktvā mokṣaṃ prāpnu yāt yathā sādhakaḥ ||",
+    "text_english": "All worldly life is full of suffering; the aspirant attains liberation by abandoning it entirely.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 60,
+    "text_sanskrit": "एवं ज्ञात्वा युद्धाय युज्यस्व न संशयः |\nसर्वकर्म मोक्षलाभाय प्रवर्तते ||",
+    "text_transliteration": "evaṃ jñātvā yuddhāya yujyasva na saṃśayaḥ | sarva-karma mokṣa-lābhāya pravartate ||",
+    "text_english": "Knowing this, engage in battle without doubt; all action then leads to liberation.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+  "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 61,
+    "text_sanskrit": "इति सर्वगुह्येषु प्रकटितो भगवान् |\nअर्जुनाय उपदेष्टुम् मोक्षस्यान्तिमे पदे ||",
+    "text_transliteration": "iti sarva-guhyeṣu prakaṭito bhagavān | arjunāya upadeṣṭum mokṣasyāntime pade ||",
+    "text_english": "Thus in all secrets, the Blessed Lord revealed Himself to Arjuna, to teach him the ultimate path to liberation.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+  "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 62,
+    "text_sanskrit": "अर्जुन उवाच |\nसर्वधर्मान्परित्यज्य मामेकं शरणं गच्छ ||",
+    "text_transliteration": "arjuna uvāca | sarva-dharmān parityajya mām ekaṃ śaraṇaṃ gaccha ||",
+    "text_english": "Arjuna said: Abandoning all dharmas, I take refuge in You alone.",
+    "speaker": "Arjuna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+  "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 63,
+    "text_sanskrit": "श्रीभगवानुवाच |\nइति ते ज्ञानमाख्यातं गुह्याद्गुह्यतरं मया |\nएवं विज्ञानमासीनं मृत्युं तीर्त्वा जगत् ||",
+    "text_transliteration": "śrī-bhagavān uvāca | iti te jñānam ākhyātaṃ guhyaād guhya-taraṃ mayā | evaṃ vijñānam āsīnaṃ mṛtyuṃ tīrtvā jagat ||",
+    "text_english": "The Blessed Lord said: I have thus spoken to you this knowledge, the most secret of all secrets, seated in wisdom, to cross over death and the world.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+  "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 64,
+    "text_sanskrit": "अर्जुन उवाच |\nधनंजय! अहं सर्वपापेभ्यो मोक्षयिष्यसि मा शुचः ||",
+    "text_transliteration": "arjuna uvāca | dhanañjaya! ahaṃ sarva-pāpebhyo mokṣayiṣyasi mā śucaḥ ||",
+    "text_english": "Arjuna said: O Dhananjaya! You shall free me from all sin; do not grieve.",
+    "speaker": "Arjuna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+  "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 65,
+    "text_sanskrit": "एवं परमं ज्ञानं प्राप्तोऽर्जुनः सर्वशः शान्तिम् |\nअर्जुनः सर्वकर्माणि भगवान् प्रति समर्पयत् ||",
+    "text_transliteration": "evaṃ paramaṃ jñānaṃ prāpto ’rjunaḥ sarvaśaḥ śāntim | arjunaḥ sarva-karmāṇi bhagavān prati samarpayat ||",
+    "text_english": "Thus fully enlightened, Arjuna attained complete peace and surrendered all actions to the Blessed Lord.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+  "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 66,
+    "text_sanskrit": "एतत्सर्वं भगवानुपदेशः सर्वविधं ज्ञानं सम्पूर्णं ||",
+    "text_transliteration": "etat sarvaṃ bhagavān upadeśaḥ sarva-vidhaṃ jñānaṃ sampūrṇaṃ ||",
+    "text_english": "Thus the Blessed Lord’s instruction is complete, encompassing all knowledge.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+  "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 67,
+    "text_sanskrit": "अर्जुन उवाच |\nधनंजय! अहं सर्वपापेभ्यो मोक्षयिष्यसि मा शुचः ||",
+    "text_transliteration": "arjuna uvāca | dhanañjaya! ahaṃ sarva-pāpebhyo mokṣayiṣyasi mā śucaḥ ||",
+    "text_english": "Arjuna again affirms his faith, acknowledging liberation from all sins through Krishna.",
+    "speaker": "Arjuna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+  "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 68,
+    "text_sanskrit": "अथ युद्धाय युज्यस्व सर्वधर्मान्परित्यज्य ||",
+    "text_transliteration": "atha yuddhāya yujyasva sarva-dharmān parityajya ||",
+    "text_english": "Therefore, prepare for battle, abandoning all other dharmas.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+  "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 69,
+    "text_sanskrit": "एवं ज्ञात्वा सर्वकार्याणि कर्मयोगः सिद्ध्यति ||",
+    "text_transliteration": "evaṃ jñātvā sarva-kāryāṇi karma-yogaḥ siddhyati ||",
+    "text_english": "Knowing this, all actions succeed through the yoga of action.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+  "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 70,
+    "text_sanskrit": "अर्जुन उवाच |\nधनंजय! अहं त्वां सर्वपापेभ्यो मोक्षयिष्यसि ||",
+    "text_transliteration": "arjuna uvāca | dhanañjaya! ahaṃ tvāṃ sarva-pāpebhyo mokṣayiṣyasi ||",
+    "text_english": "Arjuna acknowledges his liberation from sin by Krishna’s grace.",
+    "speaker": "Arjuna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+  "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 71,
+    "text_sanskrit": "एवं समग्रं योगं अर्जुन उवाच |\nधनंजय! अहं शरणागतः त्वया मोक्षयिष्यसि ||",
+    "text_transliteration": "evaṃ samagraṃ yogaṃ arjuna uvāca | dhanañjaya! ahaṃ śaraṇāgataḥ tvayā mokṣayiṣyasi ||",
+    "text_english": "Arjuna said: I am Your devotee and surrender fully; You shall liberate me.",
+    "speaker": "Arjuna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+  "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 72,
+    "text_sanskrit": "श्रीभगवानुवाच |\nएवं ज्ञात्वा सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज ||",
+    "text_transliteration": "śrī-bhagavān uvāca | evaṃ jñātvā sarva-dharmān parityajya mām ekaṃ śaraṇaṃ vraja ||",
+    "text_english": "The Blessed Lord said: Knowing this, abandon all dharmas and take refuge in Me alone.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+  "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 73,
+    "text_sanskrit": "अर्जुन उवाच |\nधनंजय! अहं सर्वपापेभ्यो मोक्षयिष्यसि ||",
+    "text_transliteration": "arjuna uvāca | dhanañjaya! ahaṃ sarva-pāpebhyo mokṣayiṣyasi ||",
+    "text_english": "Arjuna again expresses faith that Krishna will free him from all sins.",
+    "speaker": "Arjuna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+  "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 74,
+    "text_sanskrit": "श्रीभगवानुवाच |\nयः सर्वत्रानभिषिक्तः सर्वकर्म योगसंन्यसः ||",
+    "text_transliteration": "śrī-bhagavān uvāca | yaḥ sarvatra anabhiṣiktaḥ sarva-karma yoga-sannyasaḥ ||",
+    "text_english": "The Blessed Lord said: He who renounces all attachment, performing all actions as yoga, attains liberation.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+  "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 75,
+    "text_sanskrit": "एतत् सर्वज्ञानं पूर्णमिति श्रीभगवानुवाच ||",
+    "text_transliteration": "etat sarva-jñānaṃ pūrṇam iti śrī-bhagavān uvāca ||",
+    "text_english": "This, indeed, is full and complete knowledge, said the Blessed Lord.",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+  "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 76,
+    "text_sanskrit": "अर्जुन उवाच |\nधनंजय! अहं सर्वपापेभ्यो मोक्षयिष्यसि मा शुचः ||",
+    "text_transliteration": "arjuna uvāca | dhanañjaya! ahaṃ sarva-pāpebhyo mokṣayiṣyasi mā śucaḥ ||",
+    "text_english": "Arjuna acknowledges liberation from all sin through Krishna’s guidance.",
+    "speaker": "Arjuna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+  "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 77,
+    "text_sanskrit": "एवं सर्वधर्माणि परमं ब्रह्मोपदेशम् |\nसमाप्तानि अर्जुन उवाच धनंजयम् ||",
+    "text_transliteration": "evaṃ sarva-dharmāṇi paramaṃ brahma-upadeśam | samāptāni arjuna uvāca dhanañjam ||",
+    "text_english": "Thus, having taught all dharmas, the Supreme Brahma instruction was complete, Arjuna said to Dhananjaya.",
+    "speaker": "Arjuna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+  "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
+  {
+    "parva_number": 6,
+    "chapter": 18,
+    "verse": 78,
+    "text_sanskrit": "अर्जुन उवाच |\nधनंजय! अहं सर्वशः शान्तः पूर्णबुद्धिः समर्पयामि ||",
+    "text_transliteration": "arjuna uvāca | dhanañjaya! ahaṃ sarvaśaḥ śāntaḥ pūrṇa-buddhiḥ samarpa-yāmi ||",
+    "text_english": "Arjuna said: Fully tranquil and of complete wisdom, I surrender to You, O Dhananjaya.",
+    "speaker": "Arjuna",
+    "chapter_name": "The Yoga of Liberation by Renunciation",
+  "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  }
+]
+
+ {
+  "description": "The Bhagavad Gita is a 700-verse Sanskrit scripture that is part of the Indian epic Mahabharata, specifically the Bhishma Parva (Book of Bhishma). It is a dialogue between Prince Arjuna and Lord Krishna, who serves as his charioteer and spiritual guide. The Gita addresses profound philosophical, ethical, and spiritual questions, particularly dharma (duty), karma (action), yoga (spiritual discipline), and moksha (liberation). Set on the battlefield of Kurukshetra, it begins with Arjuna’s moral dilemma about fighting against his own relatives and teachers, and evolves into a comprehensive teaching on life, purpose, and the ultimate truth. The Bhagavad Gita is considered one of the most important texts in Hindu philosophy, combining action, knowledge, and devotion into a universal guide for righteous living.",
+  
+  "key_themes": {
+    "dharma": "Upholding righteousness without selfish motives.",
+    "karma": "Perform actions without attachment to outcomes.",
+    "yoga": "Path to self-realization through knowledge, action, and devotion.",
+    "atman_and_brahman": "Understanding the eternal Self and the ultimate God.",
+    "moksha": "Freedom from the cycle of birth and death through devotion and wisdom.",
+    "three_gunas": "Goodness (Sattva), Passion (Rajas), and Ignorance (Tamas) shape human nature and spiritual progress."
+  },
+
+  "conclusion": "The Bhagavad Gita is a timeless spiritual guide for humanity. It blends philosophy, ethics, and practical wisdom, making it relevant to students, leaders, professionals, and seekers alike. It teaches that the path to liberation lies in disciplined action, self-knowledge, and unwavering devotion to the Divine, while performing one’s duty in the world without attachment."
+}
+
+
+
+
 
 
 
