@@ -16,6 +16,11 @@ Sanatan Scriptures is an educational platform for studying ancient Sanatan/Hindu
 - **Responsive Design**: Beautiful UI with dark mode support
 - **Multi-language Support**: Sanskrit (Devanagari), Transliteration (IAST), English
 
+## Screenshot
+
+![Sanatan Scriptures - Ancient Sanskrit Manuscripts (1)_page-0001](https://github.com/user-attachments/assets/8a7ca941-e33b-47ef-8765-f481717bb917)
+
+
 ### Currently Available Scriptures
 
 #### Vedas (वेद)
