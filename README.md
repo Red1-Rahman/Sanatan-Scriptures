@@ -202,14 +202,17 @@ npm run build
 #### Option A: Using Laravel's Built-in Server
 
 ```powershell
+# Use port 8000 (doesn't conflict with Apache on 8080)
 D:\Apps\XAMPP\php\php.exe artisan serve --host=127.0.0.1 --port=8000
 ```
 
 Access at: `http://localhost:8000`
 
+**Note:** Port 8000 is used to avoid conflicts with XAMPP Apache (8080), HTTPS (4443), and MySQL (3306).
+
 #### Option B: Using XAMPP Apache
 
-1. Ensure Apache is running in XAMPP Control Panel
+1. Ensure Apache is running in XAMPP Control Panel (port 8080)
 2. Access at: `http://localhost:8080/sanatan-scriptures/public`
 
 **For cleaner URLs**, configure a virtual host:
@@ -472,9 +475,16 @@ netstat -ano | findstr :8000
 # Kill the process
 taskkill /PID <process_id> /F
 
-# Use different port
+# Use different port (avoid 8080 - Apache, 4443 - HTTPS, 3306 - MySQL)
 D:\Apps\XAMPP\php\php.exe artisan serve --port=8001
 ```
+
+**XAMPP Port Reference:**
+
+- Apache HTTP: 8080
+- Apache HTTPS: 4443
+- MySQL: 3306
+- Artisan Serve: 8000 (recommended)
 
 ### MySQL Connection Error
 
