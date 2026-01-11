@@ -515,11 +515,7 @@
     "speaker": "Sanjaya",
     "chapter_name": "The Yoga of Arjuna's Dejection",
     "chapter_name_sanskrit": "अर्जुनविषादयोग"
-  }
-]
-
-
-[
+  },
   {
     "parva_number": 6,
     "chapter": 2,
@@ -656,7 +652,7 @@
     "text_sanskrit": "न त्वेवाहं जातु नासं न त्वं नेमे जनाधिपाः । न चैव न भविष्यामः सर्वे वयमतः परम् ॥",
     "text_transliteration": "na tv evāhaṃ jātu nāsaṃ na tvaṃ neme janādhipāḥ | na caiva na bhaviṣyāmaḥ sarve vayam ataḥ param ||",
     "text_english": "Never was there a time when I did not exist, nor you, nor these kings; nor in the future shall any of us cease to be.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "सांख्ययोग"
   },
@@ -667,7 +663,7 @@
     "text_sanskrit": "देहिनोऽस्मिन्यथा देहे कौमारं यौवनं जरा । तथा देहान्तरप्राप्तिर्धीरस्तत्र न मुह्यति ॥",
     "text_transliteration": "dehino ’smin yathā dehe kaumāraṃ yauvanaṃ jarā | tathā dehāntara-prāptir dhīras tatra na muhyati ||",
     "text_english": "Just as the embodied soul passes from childhood to youth to old age, so it passes into another body. The wise are not deluded by this.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "सांख्ययोग"
   },
@@ -678,7 +674,7 @@
     "text_sanskrit": "मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः । आगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत ॥",
     "text_transliteration": "mātrā-sparśās tu kaunteya śītoṣṇa-sukha-duḥkha-dāḥ | āgamāpāyino ’nityās tāṃs titikṣasva bhārata ||",
     "text_english": "O son of Kunti, the contacts of the senses give rise to heat and cold, pleasure and pain. They are temporary—endure them, O Bharata.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "सांख्ययोग"
   },
@@ -689,7 +685,7 @@
     "text_sanskrit": "यं हि न व्यथयन्त्येते पुरुषं पुरुषर्षभ । समदुःखसुखं धीरं सोऽमृतत्वाय कल्पते ॥",
     "text_transliteration": "yaṃ hi na vyathayanty ete puruṣaṃ puruṣarṣabha | sama-duḥkha-sukhaṃ dhīraṃ so ’mṛtatvāya kalpate ||",
     "text_english": "O best among men, one who is not disturbed by pleasure and pain and remains steady becomes fit for immortality.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "सांख्ययोग"
   },
@@ -700,7 +696,7 @@
     "text_sanskrit": "नासतो विद्यते भावो नाभावो विद्यते सतः । उभयोरपि दृष्टोऽन्तस्त्वनयोस्तत्त्वदर्शिभिः ॥",
     "text_transliteration": "nāsato vidyate bhāvo nābhāvo vidyate sataḥ | ubhayor api dṛṣṭo ’ntas tv anayos tattva-darśibhiḥ ||",
     "text_english": "The unreal has no existence; the real never ceases to be. The truth about both has been realized by the seers.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "सांख्ययोग"
   },
@@ -711,7 +707,7 @@
     "text_sanskrit": "अविनाशि तु तद्विद्धि येन सर्वमिदं ततम् । विनाशमव्ययस्यास्य न कश्चित्कर्तुमर्हति ॥",
     "text_transliteration": "avināśi tu tad viddhi yena sarvam idaṃ tatam | vināśam avyayasyāsya na kaścit kartum arhati ||",
     "text_english": "Know that to be indestructible by which all this is pervaded. None can bring destruction to the imperishable soul.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "सांख्ययोग"
   },
@@ -722,7 +718,7 @@
     "text_sanskrit": "अन्तवन्त इमे देहा नित्यस्योक्ताः शरीरिणः । अनाशिनोऽप्रमेयस्य तस्माद्युध्यस्व भारत ॥",
     "text_transliteration": "antavanta ime dehā nityasyoktāḥ śarīriṇaḥ | anāśino ’prameyasya tasmād yudhyasva bhārata ||",
     "text_english": "These bodies are perishable, but the soul is eternal, indestructible, and immeasurable. Therefore, fight, O Bharata.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "सांख्ययोग"
   },
@@ -733,7 +729,7 @@
     "text_sanskrit": "य एनं वेत्ति हन्तारं यश्चैनं मन्यते हतम् । उभौ तौ न विजानीतो नायं हन्ति न हन्यते ॥",
     "text_transliteration": "ya enaṃ vetti hantāraṃ yaś cainaṃ manyate hatam | ubhau tau na vijānīto nāyaṃ hanti na hanyate ||",
     "text_english": "He who thinks the soul kills or is killed does not understand; it neither kills nor is killed.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "सांख्ययोग"
   },
@@ -744,7 +740,7 @@
     "text_sanskrit": "न जायते म्रियते वा कदाचिन् नायं भूत्वा भविता वा न भूयः । अजो नित्यः शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे ॥",
     "text_transliteration": "na jāyate mriyate vā kadācin nāyaṃ bhūtvā bhavitā vā na bhūyaḥ | ajo nityaḥ śāśvato ’yaṃ purāṇo na hanyate hanyamāne śarīre ||",
     "text_english": "The soul is never born nor does it die; it is unborn, eternal, everlasting, and ancient. It is not slain when the body is slain.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "सांख्ययोग"
   },
@@ -755,7 +751,7 @@
     "text_sanskrit": "वेदाविनाशिनं नित्यं य एनमजमव्ययम् । कथं स पुरुषः पार्थ कं घातयति हन्ति कम् ॥",
     "text_transliteration": "vedāvināśinaṃ nityaṃ ya enam ajam avyayam | kathaṃ sa puruṣaḥ pārtha kaṃ ghātayati hanti kam ||",
     "text_english": "Knowing the soul to be indestructible and eternal, how can one kill anyone or cause anyone to be killed?",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "सांख्ययोग"
   },
@@ -766,7 +762,7 @@
     "text_sanskrit": "वासांसि जीर्णानि यथा विहाय नवानि गृह्णाति नरोऽपराणि । तथा शरीराणि विहाय जीर्णान्यन्यानि संयाति नवानि देही ॥",
     "text_transliteration": "vāsāṃsi jīrṇāni yathā vihāya navāni gṛhṇāti naro ’parāṇi | tathā śarīrāṇi vihāya jīrṇāny anyāni saṃyāti navāni dehī ||",
     "text_english": "As a person discards worn-out clothes and puts on new ones, so the soul discards old bodies and enters new ones.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "सांख्ययोग"
   },
@@ -777,7 +773,7 @@
     "text_sanskrit": "नैनं छिन्दन्ति शस्त्राणि नैनं दहति पावकः । न चैनं क्लेदयन्त्यापो न शोषयति मारुतः ॥",
     "text_transliteration": "nainaṃ chindanti śastrāṇi nainaṃ dahati pāvakaḥ | na cainaṃ kledayanty āpo na śoṣayati mārutaḥ ||",
     "text_english": "Weapons do not cut the soul, fire does not burn it, water does not wet it, and wind does not dry it.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "सांख्ययोग"
   },
@@ -788,7 +784,7 @@
     "text_sanskrit": "अच्छेद्योऽयमदाह्योऽयमक्लेद्योऽशोष्य एव च । नित्यः सर्वगतः स्थाणुरचलोऽयं सनातनः ॥",
     "text_transliteration": "acchedyo ’yam adāhyo ’yam akledyo ’śoṣya eva ca | nityaḥ sarva-gataḥ sthāṇur acalo ’yaṃ sanātanaḥ ||",
     "text_english": "This soul is unbreakable, incombustible, insoluble, and cannot be dried. It is eternal, all-pervading, stable, immovable, and everlasting.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "सांख्ययोग"
   },
@@ -799,7 +795,7 @@
     "text_sanskrit": "अव्यक्तोऽयमचिन्त्योऽयमविकार्योऽयमुच्यते । तस्मादेवं विदित्वैनं नानुशोचितुमर्हसि ॥",
     "text_transliteration": "avyakto ’yam acintyo ’yam avikāryo ’yam ucyate | tasmād evaṃ viditvainaṃ nānuśocitum arhasi ||",
     "text_english": "It is said that the soul is unmanifest, inconceivable, and immutable. Knowing this, you should not grieve.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "सांख्ययोग"
   },
@@ -810,7 +806,7 @@
     "text_sanskrit": "अथ चैनं नित्यजातं नित्यं वा मन्यसे मृतम् । तथापि त्वं महाबाहो नैवं शोचितुमर्हसि ॥",
     "text_transliteration": "atha cainaṃ nitya-jātaṃ nityaṃ vā manyase mṛtam | tathāpi tvaṃ mahā-bāho naivaṃ śocitum arhasi ||",
     "text_english": "Even if you think the soul is always born and always dies, O mighty-armed, still you should not grieve.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "सांख्ययोग"
   },
@@ -821,7 +817,7 @@
     "text_sanskrit": "जातस्य हि ध्रुवो मृत्युर्ध्रुवं जन्म मृतस्य च । तस्मादपरिहार्येऽर्थे न त्वं शोचितुमर्हसि ॥",
     "text_transliteration": "jātasya hi dhruvo mṛtyur dhruvaṃ janma mṛtasya ca | tasmād aparihārye ’rthe na tvaṃ śocitum arhasi ||",
     "text_english": "Death is certain for one who is born, and rebirth is certain for one who has died. Therefore, you should not lament the inevitable.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "सांख्ययोग"
   },
@@ -832,7 +828,8 @@
     "text_sanskrit": "अव्यक्तादीनि भूतानि व्यक्तमध्यानि भारत । अव्यक्तनिधनान्येव तत्र का परिदेवना ॥",
     "text_transliteration": "avyaktādīni bhūtāni vyakta-madhyāni bhārata | avyakta-nidhanāny eva tatra kā paridevanā ||",
     "text_english": "Beings are unmanifest in the beginning, manifest in the middle, and unmanifest again in the end. What is there to grieve about?",
-    "speaker": "Krishna""chapter_name": "The Yoga of Knowledge",
+    "speaker": "Krishna",
+    "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "सांख्ययोग"
   },
   {
@@ -842,7 +839,7 @@
     "text_sanskrit": "आश्चर्यवत्पश्यति कश्चिदेनमाश्चर्यवद्वदति तथैव चान्यः । आश्चर्यवच्चैनमन्यः शृणोति श्रुत्वाप्येनं वेद न चैव कश्चित् ॥",
     "text_transliteration": "āścaryavat paśyati kaścid enam āścaryavad vadati tathaiva cānyaḥ | āścaryavac cainam anyaḥ śṛṇoti śrutvāpy enaṃ veda na caiva kaścit ||",
     "text_english": "Some see the soul as a wonder, some speak of it as a wonder, some hear of it as a wonder—yet none truly understand it.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "सांख्ययोग"
   },
@@ -853,7 +850,7 @@
     "text_sanskrit": "देही नित्यमवध्योऽयं देहे सर्वस्य भारत । तस्मात्सर्वाणि भूतानि न त्वं शोचितुमर्हसि ॥",
     "text_transliteration": "dehī nityam avadhyo ’yaṃ dehe sarvasya bhārata | tasmāt sarvāṇi bhūtāni na tvaṃ śocitum arhasi ||",
     "text_english": "The soul dwelling in all bodies is eternal and can never be slain. Therefore, do not grieve for any being.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "सांख्ययोग"
   },
@@ -864,7 +861,7 @@
     "text_sanskrit": "स्वधर्ममपि चावेक्ष्य न विकम्पितुमर्हसि । धर्म्याद्धि युद्धाच्छ्रेयोऽन्यत्क्षत्रियस्य न विद्यते ॥",
     "text_transliteration": "sva-dharmam api cāvekṣya na vikampitum arhasi | dharmyād dhi yuddhāc chreyo ’nyat kṣatriyasya na vidyate ||",
     "text_english": "Considering your duty as a warrior, you should not waver. There is nothing better for a Kshatriya than a righteous war.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "सांख्ययोग"
   },
@@ -875,7 +872,7 @@
     "text_sanskrit": "यदृच्छया चोपपन्नं स्वर्गद्वारमपावृतम् । सुखिनः क्षत्रियाः पार्थ लभन्ते युद्धमीदृशम् ॥",
     "text_transliteration": "yadṛcchayā copapannaṃ svarga-dvāram apāvṛtam | sukhinaḥ kṣatriyāḥ pārtha labhante yuddham īdṛśam ||",
     "text_english": "Happy are the warriors, O Partha, who obtain such a battle, opening the doors of heaven by chance.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "सांख्ययोग"
   },
@@ -886,7 +883,7 @@
     "text_sanskrit": "अथ चेत्त्वमिमं धर्म्यं संग्रामं न करिष्यसि । ततः स्वधर्मं कीर्तिं च हित्वा पापमवाप्स्यसि ॥",
     "text_transliteration": "atha cet tvam imaṃ dharmyaṃ saṅgrāmaṃ na kariṣyasi | tataḥ sva-dharmaṃ kīrtiṃ ca hitvā pāpam avāpsyasi ||",
     "text_english": "If you do not fight this righteous battle, you will abandon your duty and honor and incur sin.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "सांख्ययोग"
   },
@@ -906,7 +903,7 @@
     "text_sanskrit": "भयाद्रणादुपरतं मंस्यन्ते त्वां महारथाः । येषां च त्वं बहुमतो भूत्वा यास्यसि लाघवम् ॥",
     "text_transliteration": "bhayād raṇād uparataṃ maṃsyante tvāṃ mahā-rathāḥ | yeṣāṃ ca tvaṃ bahu-mato bhūtvā yāsyasi lāghavam ||",
     "text_english": "The great warriors will think that you withdrew from battle out of fear, and you will fall from the esteem in which you were held.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "सांख्ययोग"
   },
@@ -917,7 +914,7 @@
     "text_sanskrit": "अवाच्यवादांश्च बहून् वदिष्यन्ति तवाहिताः । निन्दन्तस्तव सामर्थ्यं ततो दुःखतरं नु किम् ॥",
     "text_transliteration": "avācya-vādāṃś ca bahūn vadiṣyanti tavāhitāḥ | nindantas tava sāmarthyaṃ tato duḥkhataraṃ nu kim ||",
     "text_english": "Your enemies will speak many unseemly words, mocking your strength. What could be more painful than that?",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "सांख्ययोग"
   },
@@ -928,7 +925,7 @@
     "text_sanskrit": "हतो वा प्राप्स्यसि स्वर्गं जित्वा वा भोक्ष्यसे महीम् । तस्मादुत्तिष्ठ कौन्तेय युद्धाय कृतनिश्चयः ॥",
     "text_transliteration": "hato vā prāpsyasi svargaṃ jitvā vā bhokṣyase mahīm | tasmād uttiṣṭha kaunteya yuddhāya kṛta-niścayaḥ ||",
     "text_english": "If slain, you will attain heaven; if victorious, you will enjoy the earth. Therefore arise, O son of Kunti, resolved to fight.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "सांख्ययोग"
   },
@@ -939,7 +936,7 @@
     "text_sanskrit": "सुखदुःखे समे कृत्वा लाभालाभौ जयाजयौ । ततो युद्धाय युज्यस्व नैवं पापमवाप्स्यसि ॥",
     "text_transliteration": "sukha-duḥkhe same kṛtvā lābhālābhau jayājayau | tato yuddhāya yujyasva naivaṃ pāpam avāpsyasi ||",
     "text_english": "Treat pleasure and pain, gain and loss, victory and defeat alike. Then engage in battle; thus you will not incur sin.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "सांख्ययोग"
   },
@@ -950,7 +947,7 @@
     "text_sanskrit": "एषा तेऽभिहिता साङ्ख्ये बुद्धिर्योगे त्विमां शृणु । बुद्ध्या युक्तो यया पार्थ कर्मबन्धं प्रहास्यसि ॥",
     "text_transliteration": "eṣā te ’bhihitā sāṅkhye buddhir yoge tv imāṃ śṛṇu | buddhyā yukto yayā pārtha karma-bandhaṃ prahāsyasi ||",
     "text_english": "This wisdom has been explained according to Sankhya; now hear it as Yoga. Endowed with this understanding, you will break free from the bondage of action.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "सांख्ययोग"
   },
@@ -961,7 +958,7 @@
     "text_sanskrit": "नेहाभिक्रमनाशोऽस्ति प्रत्यवायो न विद्यते । स्वल्पमप्यस्य धर्मस्य त्रायते महतो भयात् ॥",
     "text_transliteration": "nehābhikrama-nāśo ’sti pratyavāyo na vidyate | svalpam apy asya dharmasya trāyate mahato bhayāt ||",
     "text_english": "In this path, there is no loss of effort nor any adverse result. Even a little practice of this dharma saves one from great fear.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "सांख्ययोग"
   },
@@ -972,7 +969,7 @@
     "text_sanskrit": "व्यवसायात्मिका बुद्धिरेकेह कुरुनन्दन । बहुशाखा ह्यनन्ताश्च बुद्धयोऽव्यवसायिनाम् ॥",
     "text_transliteration": "vyavasāyātmikā buddhir ekeha kuru-nandana | bahu-śākhā hy anantāś ca buddhayo ’vyavasāyinām ||",
     "text_english": "Those on this path are resolute in purpose, O joy of the Kurus, while the intellect of the irresolute is many-branched and endless.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "सांख्ययोग"
   },
@@ -983,7 +980,7 @@
     "text_sanskrit": "यामिमां पुष्पितां वाचं प्रवदन्त्यविपश्चितः । वेदवादरताः पार्थ नान्यदस्तीति वादिनः ॥",
     "text_transliteration": "yām imāṃ puṣpitāṃ vācaṃ pravadanty avipaścitaḥ | veda-vāda-ratāḥ pārtha nānyad astīti vādinaḥ ||",
     "text_english": "The unwise speak flowery words, O Partha, delighting in the ritualistic portions of the Vedas, declaring that nothing else exists.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "सांख्ययोग"
   },
@@ -994,7 +991,7 @@
     "text_sanskrit": "कामात्मानः स्वर्गपरा जन्मकर्मफलप्रदाम् । क्रियाविशेषबहुलां भोगैश्वर्यगतिं प्रति ॥",
     "text_transliteration": "kāmātmānaḥ svarga-parā janma-karma-phala-pradām | kriyā-viśeṣa-bahulāṃ bhogaiśvarya-gatiṃ prati ||",
     "text_english": "With minds full of desire and aiming at heaven, they speak of rituals promising rebirth and reward, leading to enjoyment and power.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "सांख्ययोग"
   },
@@ -1005,7 +1002,7 @@
     "text_sanskrit": "भोगैश्वर्यप्रसक्तानां तयापहृतचेतसाम् । व्यवसायात्मिका बुद्धिः समाधौ न विधीयते ॥",
     "text_transliteration": "bhogaiśvarya-prasaktānāṃ tayāpahṛta-cetasām | vyavasāyātmikā buddhiḥ samādhau na vidhīyate ||",
     "text_english": "For those attached to pleasure and power, whose minds are stolen by such things, resolute understanding does not arise in samadhi.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "सांख्ययोग"
   },
@@ -1016,7 +1013,7 @@
     "text_sanskrit": "त्रैगुण्यविषया वेदा निस्त्रैगुण्यो भवार्जुन । निर्द्वन्द्वो नित्यसत्त्वस्थो निर्योगक्षेम आत्मवान् ॥",
     "text_transliteration": "trai-guṇya-viṣayā vedā nistrai-guṇyo bhavārjuna | nirdvandvo nitya-sattva-stho niryoga-kṣema ātmavān ||",
     "text_english": "The Vedas deal with the three gunas; rise above them, O Arjuna. Be free from duality, established in purity, and self-possessed.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "सांख्ययोग"
   },
@@ -1027,7 +1024,7 @@
     "text_sanskrit": "यावानर्थ उदपाने सर्वतः सम्प्लुतोदके । तावान्सर्वेषु वेदेषु ब्राह्मणस्य विजानतः ॥",
     "text_transliteration": "yāvān artha udapāne sarvataḥ samplutodake | tāvān sarveṣu vedeṣu brāhmaṇasya vijānataḥ ||",
     "text_english": "For one who knows the truth, all the Vedas are as useful as a well when the whole land is flooded.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "सांख्ययोग"
   },
@@ -1038,7 +1035,7 @@
     "text_sanskrit": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन । मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ॥",
     "text_transliteration": "karmaṇy evādhikāras te mā phaleṣu kadācana | mā karma-phala-hetur bhūr mā te saṅgo ’stvakarmaṇi ||",
     "text_english": "You have the right to action alone, never to its fruits. Do not be motivated by results, nor be attached to inaction.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "सांख्ययोग"
   },
@@ -1049,7 +1046,7 @@
     "text_sanskrit": "योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय । सिद्ध्यसिद्ध्योः समो भूत्वा समत्वं योग उच्यते ॥",
     "text_transliteration": "yoga-sthaḥ kuru karmāṇi saṅgaṃ tyaktvā dhanañjaya | siddhy-asiddhyoḥ samo bhūtvā samatvaṃ yoga ucyate ||",
     "text_english": "Established in yoga, perform actions abandoning attachment. Be even-minded in success and failure—this equanimity is yoga.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "सांख्ययोग"
   },
@@ -1060,7 +1057,7 @@
     "text_sanskrit": "दूरेण ह्यवरं कर्म बुद्धियोगाद्धनञ्जय । बुद्धौ शरणमन्विच्छ कृपणाः फलहेतवः ॥",
     "text_transliteration": "dūreṇa hy avaraṃ karma buddhi-yogād dhanañjaya | buddhau śaraṇam anviccha kṛpaṇāḥ phala-hetavaḥ ||",
     "text_english": "Action done for reward is far inferior to action done with wisdom. Seek refuge in wisdom; pitiful are those motivated by results.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "सांख्ययोग"
   },
@@ -1071,7 +1068,7 @@
     "text_sanskrit": "बुद्धियुक्तो जहातीह उभे सुकृतदुष्कृते । तस्माद्योगाय युज्यस्व योगः कर्मसु कौशलम् ॥",
     "text_transliteration": "buddhi-yukto jahātīha ubhe sukṛta-duṣkṛte | tasmād yogāya yujyasva yogaḥ karmasu kauśalam ||",
     "text_english": "Endowed with wisdom, one casts off both good and bad deeds. Therefore, devote yourself to yoga—yoga is skill in action.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "सांख्ययोग"
   },
@@ -1082,7 +1079,7 @@
     "text_sanskrit": "कर्मजं बुद्धियुक्ता हि फलं त्यक्त्वा मनीषिणः । जन्मबन्धविनिर्मुक्ताः पदं गच्छन्त्यनामयम् ॥",
     "text_transliteration": "karma-jaṃ buddhi-yuktā hi phalaṃ tyaktvā manīṣiṇaḥ | janma-bandha-vinirmuktāḥ padaṃ gacchanty anāmayam ||",
     "text_english": "The wise, endowed with wisdom, abandon the fruits of action and are freed from the bondage of birth, attaining a state beyond sorrow.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "सांख्ययोग"
   },
@@ -1093,7 +1090,7 @@
     "text_sanskrit": "यदा ते मोहकलिलं बुद्धिर्व्यतितरिष्यति । तदा गन्तासि निर्वेदं श्रोतव्यस्य श्रुतस्य च ॥",
     "text_transliteration": "yadā te moha-kalilaṃ buddhir vyatitariṣyati | tadā gantāsi nirvedaṃ śrotavyasya śrutasya ca ||",
     "text_english": "When your intellect crosses beyond the mire of delusion, you will become indifferent to what has been heard and what is yet to be heard.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "सांख्ययोग"
   },
@@ -1104,7 +1101,7 @@
     "text_sanskrit": "श्रुतिविप्रतिपन्ना ते यदा स्थास्यति निश्चला । समाधावचला बुद्धिस्तदा योगमवाप्स्यसि ॥",
     "text_transliteration": "śruti-vipratipannā te yadā sthāsyati niścalā | samādhāv acalā buddhis tadā yogam avāpsyasi ||",
     "text_english": "When your intellect, confused by scriptural opinions, becomes steady and fixed in samadhi, then you will attain yoga.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "सांख्ययोग"
   },
@@ -1115,7 +1112,7 @@
     "text_sanskrit": "अर्जुन उवाच । स्थितप्रज्ञस्य का भाषा समाधिस्थस्य केशव । स्थितधीः किं प्रभाषेत किमासीत व्रजेत किम् ॥",
     "text_transliteration": "arjuna uvāca | sthita-prajñasya kā bhāṣā samādhi-sthasya keśava | sthita-dhīḥ kiṃ prabhāṣeta kim āsīta vrajeta kim ||",
     "text_english": "Arjuna said: O Keshava, what are the characteristics of one of steady wisdom? How does such a person speak, sit, and walk?",
-    "speaker": "Arjuna"
+    "speaker": "Arjuna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "सांख्ययोग"
   },
@@ -1126,7 +1123,7 @@
     "text_sanskrit": "श्रीभगवानुवाच । प्रजहाति यदा कामान् सर्वान् पार्थ मनोगतान् । आत्मन्येवात्मना तुष्टः स्थितप्रज्ञस्तदोच्यते ॥",
     "text_transliteration": "śrī bhagavān uvāca | prajahāti yadā kāmān sarvān pārtha mano-gatān | ātmany evātmanā tuṣṭaḥ sthita-prajñas tadocyate ||",
     "text_english": "The Lord said: When one completely abandons all desires of the mind and is satisfied in the Self alone, he is said to be of steady wisdom.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "सांख्ययोग"
   },
@@ -1137,7 +1134,7 @@
     "text_sanskrit": "दुःखेष्वनुद्विग्नमनाः सुखेषु विगतस्पृहः । वीतरागभयक्रोधः स्थितधीर्मुनिरुच्यते ॥",
     "text_transliteration": "duḥkheṣv anudvigna-manāḥ sukheṣu vigata-spṛhaḥ | vīta-rāga-bhaya-krodhaḥ sthita-dhīr munir ucyate ||",
     "text_english": "One whose mind is not disturbed by sorrow, who does not crave pleasure, and who is free from attachment, fear, and anger, is called a sage of steady wisdom.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "सांख्ययोग"
   },
@@ -1148,7 +1145,7 @@
     "text_sanskrit": "यः सर्वत्रानभिस्नेहस्तत्तत्प्राप्य शुभाशुभम् । नाभिनन्दति न द्वेष्टि तस्य प्रज्ञा प्रतिष्ठिता ॥",
     "text_transliteration": "yaḥ sarvatrānabhisnehas tat tat prāpya śubhāśubham | nābhinandati na dveṣṭi tasya prajñā pratiṣṭhitā ||",
     "text_english": "One who is unattached everywhere, who neither rejoices nor hates upon attaining good or bad, his wisdom is firmly established.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "सांख्ययोग"
   },
@@ -1159,7 +1156,7 @@
     "text_sanskrit": "यदा संहरते चायं कूर्मोऽङ्गानीव सर्वशः । इन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता ॥",
     "text_transliteration": "yadā saṃharate cāyaṃ kūrmo ’ṅgānīva sarvaśaḥ | indriyāṇīndriyārthebhyas tasya prajñā pratiṣṭhitā ||",
     "text_english": "When one withdraws the senses from sense-objects as a tortoise withdraws its limbs, his wisdom is firmly established.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "सांख्ययोग"
   },
@@ -1170,7 +1167,7 @@
     "text_sanskrit": "विषया विनिवर्तन्ते निराहारस्य देहिनः । रसवर्जं रसोऽप्यस्य परं दृष्ट्वा निवर्तते ॥",
     "text_transliteration": "viṣayā vinivartante nirāhārasya dehinaḥ | rasa-varjaṃ raso ’py asya paraṃ dṛṣṭvā nivartate ||",
     "text_english": "Sense-objects withdraw from the abstinent, but the taste for them remains; even that taste disappears upon realization of the Supreme.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "सांख्ययोग"
   },
@@ -1181,7 +1178,7 @@
     "text_sanskrit": "यततो ह्यपि कौन्तेय पुरुषस्य विपश्चितः । इन्द्रियाणि प्रमाथीनि हरन्ति प्रसभं मनः ॥",
     "text_transliteration": "yatato hy api kaunteya puruṣasya vipaścitaḥ | indriyāṇi pramāthīni haranti prasabhaṃ manaḥ ||",
     "text_english": "Even for the wise who strive for perfection, the turbulent senses violently carry away the mind.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "सांख्ययोग"
   },
@@ -1192,7 +1189,7 @@
     "text_sanskrit": "तानि सर्वाणि संयम्य युक्त आसीत मत्परः । वशे हि यस्येन्द्रियाणि तस्य प्रज्ञा प्रतिष्ठिता ॥",
     "text_transliteration": "tāni sarvāṇi saṃyamya yukta āsīta mat-paraḥ | vaśe hi yasyendriyāṇi tasya prajñā pratiṣṭhitā ||",
     "text_english": "Controlling all the senses, one should sit absorbed in Me. For one whose senses are under control, wisdom is firmly established.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "सांख्ययोग"
   },
@@ -1203,7 +1200,7 @@
     "text_sanskrit": "ध्यायतो विषयान्पुंसः सङ्गस्तेषूपजायते । सङ्गात्सञ्जायते कामः कामात्क्रोधोऽभिजायते ॥",
     "text_transliteration": "dhyāyato viṣayān puṃsaḥ saṅgas teṣūpajāyate | saṅgāt sañjāyate kāmaḥ kāmāt krodho ’bhijāyate ||",
     "text_english": "While contemplating sense-objects, attachment arises; from attachment comes desire, and from desire arises anger.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "सांख्ययोग"
   },
@@ -1316,12 +1313,7 @@
   "speaker": "Krishna",
   "chapter_name": "The Yoga of Knowledge",
   "chapter_name_sanskrit": "सांख्ययोग"
-}
-]
-
-
-
-[
+},
   {
     "parva_number": 6,
     "chapter": 3,
@@ -1801,11 +1793,7 @@
     "speaker": "Krishna",
     "chapter_name": "The Yoga of Action",
     "chapter_name_sanskrit": "कर्मयोग"
-  }
-]
-
-
-[
+  },
   {
     "chapter": 4,
     "verse": 1,
@@ -1912,7 +1900,7 @@
     "text_sanskrit": "कर्मण्यकर्म यः पश्येदकर्मणि च कर्म यः। स बुद्धिमान्मनुष्येषु स युक्तः कृत्स्नकर्मकृत्॥",
     "text_transliteration": "karmany akarma yaḥ paśyed akarmaṇi ca karma yaḥ | sa buddhimān manuṣyeṣu sa yuktaḥ kṛtsna-karma-kṛt ||",
     "text_english": "He who sees action in inaction, and inaction in action, is intelligent among men; he is a yogi who performs all actions.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "ज्ञानयोग"
   },
@@ -1922,7 +1910,7 @@
     "text_sanskrit": "कर्मणैव हि संसिद्धिमास्ति न कर्मणि नास्ति। तस्मादकर्म यः पश्येदकर्मणि च कर्म यः॥",
     "text_transliteration": "karmaṇai eva hi saṃsiddhim āsti na karmaṇi nāsti | tasmād akarma yaḥ paśyed akarmaṇi ca karma yaḥ ||",
     "text_english": "Perfection comes only through action; it is not found in inaction. Therefore, he who sees inaction in action, and action in inaction, is wise.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "ज्ञानयोग"
   },
@@ -1932,7 +1920,7 @@
     "text_sanskrit": "चातुर्वर्ण्यं मया सृष्टं गुणकर्मविभागशः। तस्य कर्तारमपि मां विद्ध्यकर्तारमव्ययम्॥",
     "text_transliteration": "cātur-varṇyaṃ mayā sṛṣṭaṃ guṇa-karma-vibhāgaśaḥ | tasya kartāram api māṃ viddhy akartāram avyayam ||",
     "text_english": "I created the fourfold division of society according to qualities and actions. Know that I am the author, though immutable.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "ज्ञानयोग"
   },
@@ -1942,7 +1930,7 @@
     "text_sanskrit": "न मां कर्माणि लिम्पन्ति न मे कर्मफले स्पृहा। इति मां योऽभिजानाति कर्मभिर्न स बन्ध्यते॥",
     "text_transliteration": "na māṃ karmāṇi limpanti na me karma-phale spṛhā | iti māṃ yo ’bhijānāti karma-bhir na sa bandhya-te ||",
     "text_english": "My actions do not bind Me, nor am I attached to their results. He who knows this, O Arjuna, is not bound by actions.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "ज्ञानयोग"
   },
@@ -1952,7 +1940,7 @@
     "text_sanskrit": "ज्ञेयः स नित्यसंन्यासी योगी युक्त इत्युच्यते। युञ्जन्नेवं सदाऽकर्मा कर्मफलत्यागश्च यः॥",
     "text_transliteration": "jñeyaḥ sa nitya-sannyāsī yogī yukta ity ucyate | yuñjannevaṃ sadā ’karmā karma-phala-tyāgaś ca yaḥ ||",
     "text_english": "He who is always renounced, a yogi, and engages in actions without attachment to their fruits is said to be united in yoga.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "ज्ञानयोग"
   },
@@ -1962,7 +1950,7 @@
     "text_sanskrit": "कर्मणो ह्यपि बोद्धव्यं बोद्धव्यं च विकर्मणः। अकर्मणि च बोद्धव्यं गहनं कर्मणो घोरम्॥",
     "text_transliteration": "karmaṇo hy api boddhavyaṃ boddhavyaṃ ca vikarmaṇaḥ | akarmaṇi ca boddhavyaṃ gahanaṃ karmaṇo ghoram ||",
     "text_english": "Even the intricacies of action, non-action, and wrong action must be understood. Action is subtle and difficult to grasp.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "ज्ञानयोग"
   },
@@ -1972,7 +1960,7 @@
     "text_sanskrit": "तद्विद्धि प्रणिपातेन परिप्रश्नेन सेवया। उपदेक्ष्यन्ति ते ज्ञानं ज्ञानिनस्तत्त्वदर्शिनः॥",
     "text_transliteration": "tad viddhi praṇipātena paripraśnena sevayā | upadekṣyanti te jñānaṃ jñāninas tattva-darśinaḥ ||",
     "text_english": "Understand this knowledge through humble reverence, questioning, and service; the wise who see the truth will instruct you.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "ज्ञानयोग"
   },
@@ -1982,7 +1970,7 @@
     "text_sanskrit": "अत्यन्तं शीलसम्पन्नो यः युक्तः कर्मसु कृत्। न स सिद्धिमुपैति नाकर्ष्यते च तस्य यशः॥",
     "text_transliteration": "atyantaṃ śīla-sampanno yaḥ yuktaḥ karmasu kṛt | na sa siddhim upaiti nā karṣyate ca tasya yaśaḥ ||",
     "text_english": "He who is disciplined, engaged in action with devotion, does not fail to achieve perfection, nor is his reputation harmed.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "ज्ञानयोग"
   },
@@ -1992,7 +1980,7 @@
     "text_sanskrit": "सर्वकर्माणि मे यः संन्यस्यस्तु निराशी। योगयुक्तो म्रियते नैव कश्चित्कर्मफलप्रवृतिः॥",
     "text_transliteration": "sarva-karmāṇi me yaḥ sannyasya tu nirāśī | yoga-yukto mriyate naiva kaścit karma-phala-pravṛtiḥ ||",
     "text_english": "One who renounces all actions to Me, with mind unshaken and yoga-minded, neither acts for reward nor is bound by karma.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "ज्ञानयोग"
   },
@@ -2002,7 +1990,7 @@
     "text_sanskrit": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन। मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥",
     "text_transliteration": "karmaṇyevādhikāras te mā phaleṣu kadācana | mā karma-phala-hetur bhūr mā te saṅgo ’stvakarmaṇi ||",
     "text_english": "You have the right to action only, never to the fruits. Do not act for the results, nor be attached to inaction.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "ज्ञानयोग"
   },
@@ -2012,7 +2000,7 @@
     "text_sanskrit": "समाहितो ह्येवं योगयुक्तो ममाश्रयः। सर्वकर्माणि मयि संन्यस्य कृत्वा धनञ्जय॥",
     "text_transliteration": "samāhito hy evaṃ yoga-yukto mam āśrayaḥ | sarva-karmāṇi mayi sannyasya kṛtvā dhanañjaya ||",
     "text_english": "When one is thus established in yoga and takes refuge in Me, O Arjuna, performing all actions for Me, he attains freedom.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "ज्ञानयोग"
   },
@@ -2022,7 +2010,7 @@
     "text_sanskrit": "यः सर्वत्रानभिस्नेहस्तत्तत्प्राप्य शुभाशुभम्। नाभिनन्दति न द्वेष्टि तस्य प्रज्ञा प्रतिष्ठिता॥",
     "text_transliteration": "yaḥ sarvatra-anabhisnehah tat-tat prāpya śubhā-śubham | nābhinandati na dveṣṭi tasya prajñā pratiṣṭhitā ||",
     "text_english": "He who is unattached to all things, seeing good and evil alike, neither rejoices nor hates, his wisdom is steady.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "ज्ञानयोग"
   },
@@ -2032,7 +2020,7 @@
     "text_sanskrit": "योगयुक्तो विशुद्धात्मा विजितात्मा जितेन्द्रियः। सुखं वा यदि वा दुःखं स योगी परमो मतः॥",
     "text_transliteration": "yoga-yukto viśuddhātmā vijitātmā jitendriyaḥ | sukhaṃ vā yadi vā duḥkhaṃ sa yogī paramo mataḥ ||",
     "text_english": "A yogi, united in yoga, pure, self-controlled, conquering the senses, is considered supreme whether experiencing pleasure or pain.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "ज्ञानयोग"
   },
@@ -2042,7 +2030,7 @@
     "text_sanskrit": "यः सर्वत्रानभिस्नेहस्तत्तत्प्राप्य शुभाशुभम्। नाभिनन्दति न द्वेष्टि तस्य प्रज्ञा प्रतिष्ठिता॥",
     "text_transliteration": "yaḥ sarvatra-anabhisnehah tat-tat prāpya śubhā-śubham | nābhinandati na dveṣṭi tasya prajñā pratiṣṭhitā ||",
     "text_english": "He who is free from attachment, seeing all beings alike, neither rejoices nor hates; his wisdom is firm.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "ज्ञानयोग"
   },
@@ -2052,7 +2040,7 @@
     "text_sanskrit": "अध्यात्मज्ञानसिद्धिः श्रुतिवैदिकसमाहितिः। युक्तः कर्मकुशलस्तथाप्यात्मन्येव चित्तवान्॥",
     "text_transliteration": "adhyātma-jñāna-siddhiḥ śruti-vedic-samāhitiḥ | yuktaḥ karma-kuśalaḥ tathāpy ātmanyeva cittavān ||",
     "text_english": "By knowledge of the self, by understanding the Vedic teachings, and by skillful action, one remains focused on the self.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "ज्ञानयोग"
   },
@@ -2062,7 +2050,7 @@
     "text_sanskrit": "श्रेयो हि ज्ञानं विद्यान्न चिकीर्षते नश्यति। यस्य कृत्वा प्रवर्तते तस्मिन्नेव समाधौ स्थितः॥",
     "text_transliteration": "śreyo hi jñānaṃ vidyān na cikīrṣate naśyati | yasya kṛtvā pravartate tasminneva samādhau sthitaḥ ||",
     "text_english": "Knowledge is superior; it never fails. Whoever acts according to it attains perfect absorption.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "ज्ञानयोग"
   },
@@ -2072,7 +2060,7 @@
     "text_sanskrit": "यथेन्द्रियाणि मनसा नियम्यानि सर्वशः। तथैव शरीरं कर्मैर्गुणैर्युक्तं समाचरेत्॥",
     "text_transliteration": "yathendriyāṇi manasā niyam yāni sarvaśaḥ | tathaiva śarīraṃ karmair guṇair yuktaṃ samācaret ||",
     "text_english": "As the senses are controlled by the mind, so the body should be controlled by actions done in accordance with one’s qualities.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "ज्ञानयोग"
   },
@@ -2082,7 +2070,7 @@
     "text_sanskrit": "न हि देहभृत्यां कर्माणि सञ्चरन्ति केचिद्। यः स योगयुक्तः प्रोक्तो योगिनामपि स धर्मतः॥",
     "text_transliteration": "na hi deha-bhṛtyāṃ karmāṇi sañcaranti kecid | yaḥ sa yoga-yuktaḥ prokto yoginām api sa dharmataḥ ||",
     "text_english": "Not all actions are performed by the body alone; the soul, united with yoga, acts righteously even without attachment.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "ज्ञानयोग"
   },
@@ -2092,7 +2080,7 @@
     "text_sanskrit": "ज्ञानेन तु तद्विद्धि ह्यात्मसंयमसंनिभम्। योगेन कर्मसु कौशलं सम्यगुपायतं च यतः॥",
     "text_transliteration": "jñānena tu tad viddhi hy ātma-saṃyama-sannibham | yogena karmasu kauśalaṃ samyag-upāyataṃ ca yataḥ ||",
     "text_english": "Know that self-discipline and yoga in actions is the true skill; it leads to proper understanding and perfection.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "ज्ञानयोग"
   },
@@ -2102,7 +2090,7 @@
     "text_sanskrit": "यः सर्वत्रानभिस्नेहस्तत्त्वज्ञो न द्वेष्टि च। न स सिद्धिं प्राप्नोति तस्य प्रज्ञा प्रतिष्ठिता॥",
     "text_transliteration": "yaḥ sarvatra-anabhisnehah tattva-jño na dveṣṭi ca | na sa siddhiṃ prāpnoti tasya prajñā pratiṣṭhitā ||",
     "text_english": "He who is detached, knows the truth, and hates nothing attains perfection; his wisdom is established.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "ज्ञानयोग"
   },
@@ -2112,7 +2100,7 @@
     "text_sanskrit": "आत्मन्येव चित्तं स्थित्यात्मन्येवाभिधीयते। युक्तः शास्त्रार्थविशारदः कर्मसंसिद्धये॥",
     "text_transliteration": "ātmanyeva cittaṃ sthityātmanyevābhidhīyate | yuktaḥ śāstra-artha-viśāradaḥ karma-saṃsiddhaye ||",
     "text_english": "Fix the mind on the self; the wise, skilled in scripture, acts for the perfection of action.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "ज्ञानयोग"
   },
@@ -2122,7 +2110,7 @@
     "text_sanskrit": "सर्वकर्माणि समाचरन् निःस्पृहः सति नरः। योगयोगेन चिकीर्षितं प्राप्नोति परमां गतिम्॥",
     "text_transliteration": "sarva-karmāṇi samācaran niḥspṛhaḥ sati naraḥ | yoga-yogena cikīrṣitaṃ prāpnoti paramāṃ gatim ||",
     "text_english": "A man who performs all actions without desire, united in yoga, attains the supreme goal.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "ज्ञानयोग"
   },
@@ -2132,7 +2120,7 @@
     "text_sanskrit": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन। मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥",
     "text_transliteration": "karmaṇyevādhikāras te mā phaleṣu kadācana | mā karma-phala-hetur bhūr mā te saṅgo ’stvakarmaṇi ||",
     "text_english": "You have the right to action only, never to its fruits; do not let the results of action be your motive, nor be attached to inaction.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "ज्ञानयोग"
   },
@@ -2142,7 +2130,7 @@
     "text_sanskrit": "सर्वकर्माणि मन्मयि संन्यस्यात्मानं त्यजेत्। योगयुक्तः सदा कर्म कुर्वन्नात्मानं शान्तिम्॥",
     "text_transliteration": "sarva-karmāṇi man-mayi sannyasya ātmānaṃ tyajet | yoga-yuktaḥ sadā karma kurvan ātmānaṃ śāntim ||",
     "text_english": "Surrendering all actions to Me, and uniting the mind with yoga, one attains inner peace while performing duty.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "ज्ञानयोग"
   },
@@ -2152,7 +2140,7 @@
     "text_sanskrit": "ज्ञानं ज्ञानिनामुपदिष्टम्। कर्मणि संन्यासयोगेन। योगिनां योगसंसिद्धये॥",
     "text_transliteration": "jñānaṃ jñāninām upadiṣṭam | karmaṇi saṃnyāsa-yogena | yogināṃ yoga-saṃsiddhaye ||",
     "text_english": "Knowledge, taught to the wise, is attained through renunciation of actions and practice of yoga, leading yogis to perfection.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "ज्ञानयोग"
   },
@@ -2162,7 +2150,7 @@
     "text_sanskrit": "अर्जुन उवाच। एतेन मोक्षं कर्तुं किं न युक्तं कर्मणि? किं वा हि योगेन न मुक्ति: सिध्यति च॥",
     "text_transliteration": "arjuna uvāca | etena mokṣaṃ kartuṃ kiṃ na yuktaṃ karmaṇi? kiṃ vā hi yogena na muktiḥ sidhyati ca ||",
     "text_english": "Arjuna said: With this, why is it not possible to attain liberation through action and yoga?",
-    "speaker": "Arjuna"
+    "speaker": "Arjuna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "ज्ञानयोग"
   },
@@ -2172,7 +2160,7 @@
     "text_sanskrit": "श्रीभगवानुवाच। अप्यायं पुरुषः कर्ता न हि कर्मफलप्रीतिः। योगयुक्तो हि स सदा कर्मं समाचरति॥",
     "text_transliteration": "śrī-bhagavān uvāca | apy āyaṃ puruṣaḥ kartā na hi karma-phala-prītiḥ | yoga-yukto hi sa sadā karmaṃ samācarati ||",
     "text_english": "The Blessed Lord said: The person who is united in yoga, without attachment to results, always performs actions.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "ज्ञानयोग"
   },
@@ -2182,7 +2170,7 @@
     "text_sanskrit": "ज्ञानेन तु तद्विद्धि ह्यात्मसंयमसंनिभम्। योगेन कर्मसु कौशलं सम्यगुपायतं च यतः॥",
     "text_transliteration": "jñānena tu tad viddhi hy ātma-saṃyama-sannibham | yogena karmasu kauśalaṃ samyag-upāyataṃ ca yataḥ ||",
     "text_english": "Understand that knowledge of self, united with yoga, is skill in action and leads to perfection.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "ज्ञानयोग"
   },
@@ -2192,7 +2180,7 @@
     "text_sanskrit": "असक्तो ह्याचरन्कर्म परमाप्नोति पुरुषः। यः स योगयुक्तो मद्भक्तः स मे प्रियतमः॥",
     "text_transliteration": "asakto hy ācaran karma paramāpnoti puruṣaḥ | yaḥ sa yoga-yukto mad-bhaktaḥ sa me priyatamaḥ ||",
     "text_english": "One who acts without attachment and is devoted to Me attains the supreme; such a yogi is dear to Me.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "ज्ञानयोग"
   },
@@ -2202,7 +2190,7 @@
     "text_sanskrit": "अद्वेष्टा सर्वभूतानां मैत्रः करुण एव च। निर्ममो निरहङ्कारः समदुःखसुखः क्षमी॥",
     "text_transliteration": "adveṣṭā sarva-bhūtānāṃ maitraḥ karuṇa eva ca | nirmamo nirahaṅkāraḥ sama-duḥkha-sukhaḥ kṣamī ||",
     "text_english": "One who hates no being, is friendly and compassionate, free from ego and attachment, equal in pleasure and pain, and forgiving, attains yoga.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "ज्ञानयोग"
   },
@@ -2212,7 +2200,7 @@
     "text_sanskrit": "यः सदा परत्रानुबद्धो योगयुक्तो मम शरणः। स सर्वकर्माणि स्यान्निःसङ्गः परमां गतिम्॥",
     "text_transliteration": "yaḥ sadā paratra-anubaddho yoga-yukto mama śaraṇaḥ | sa sarva-karmāṇi syān niḥsaṅgaḥ paramāṃ gatim ||",
     "text_english": "He who always takes refuge in Me, united in yoga, performing all actions without attachment, attains the supreme goal.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "ज्ञानयोग"
   },
@@ -2222,15 +2210,12 @@
     "text_sanskrit": "एषा योगविद्या प्रतिष्ठा यो यः स धर्मसङ्गतः। तस्माद्योगं समाचरन् मोक्षं प्राप्नोति सच्चरम्॥",
     "text_transliteration": "eṣā yoga-vidyā pratiṣṭhā yo yaḥ sa dharma-saṅgataḥ | tasmād yogaṃ samācaran mokṣaṃ prāpnoti saccaram ||",
     "text_english": "This knowledge of yoga is established; whoever performs duty with devotion attains liberation.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge",
     "chapter_name_sanskrit": "ज्ञानयोग"
-  }
-]
+  },
 
 
-
-[
 
   {
     "chapter": 5,
@@ -2238,9 +2223,9 @@
     "text_sanskrit": "श्रीभगवानुवाच। संन्यासं कर्मणां कृष्ण पुनर्योगं च शंससि। यच्छ्रेय एतयोरेकं तं त्वां विद्धि न चिरात्॥",
     "text_transliteration": "śrī-bhagavān uvāca | sannyāsaṃ karmaṇāṃ kṛṣṇa punar yogaṃ ca śaṃsasi | yat śreya etayo rekaṃ taṃ tvāṃ viddhi na cirāt ||",
     "text_english": "The Blessed Lord said: O Krishna, you praise both renunciation of action and yoga. Know which of the two is superior, without delay.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Renunciation",
-    "chapter_name_sanskrit": "संन्यासयोग",
+    "chapter_name_sanskrit": "संन्यासयोग"
   },
   {
     "chapter": 5,
@@ -2248,9 +2233,9 @@
     "text_sanskrit": "संन्यासी च योगी च न निरग्निर्न चाक्रियः। शारीरं केन कर्मणि वर्तते न च पण्डितः॥",
     "text_transliteration": "sannyāsī ca yogī ca na niragnir na cakriyaḥ | śārīraṃ kena karmaṇi vartate na ca paṇḍitaḥ ||",
     "text_english": "The renunciate and the yogi are not inactive nor do they abandon duty; the body acts, yet the wise know this.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Renunciation",
-    "chapter_name_sanskrit": "संन्यासयोग",
+    "chapter_name_sanskrit": "संन्यासयोग"
   },
   {
     "chapter": 5,
@@ -2258,9 +2243,9 @@
     "text_sanskrit": "संन्यासः कर्मयोगश्च निःस्पृहः फलत्यागतः। तीव्रं पुरुषकर्माणि संस्मरेन्न स पण्डितः॥",
     "text_transliteration": "sannyāsaḥ karma-yogaś ca niḥspṛhaḥ phala-tyāgataḥ | tīvraṃ puruṣa-karmaṇi saṃsmaren na sa paṇḍitaḥ ||",
     "text_english": "Renunciation and karma-yoga, performed without desire for results, is the mark of the wise; mere abandonment of duty is not wisdom.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Renunciation",
-    "chapter_name_sanskrit": "संन्यासयोग",
+    "chapter_name_sanskrit": "संन्यासयोग"
   },
   {
     "chapter": 5,
@@ -2268,9 +2253,9 @@
     "text_sanskrit": "न हि संन्यासे विषये कामः सङ्गोऽस्ति न च। न कर्मणि च निधनं न च सदा योगिनां गतिः॥",
     "text_transliteration": "na hi sannyāse viṣaye kāmaḥ saṅgo ’sti na ca | na karmaṇi ca nidhanam na ca sadā yogināṃ gatiḥ ||",
     "text_english": "In renunciation there is no attachment to desires, and abandoning action does not alone lead to perfection; the yogi attains the goal through balanced action.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Renunciation",
-    "chapter_name_sanskrit": "संन्यासयोग",
+    "chapter_name_sanskrit": "संन्यासयोग"
   },
   {
     "chapter": 5,
@@ -2278,9 +2263,9 @@
     "text_sanskrit": "यस्य सर्वे समारम्भाः कामसङ्गविवर्जिताः। ज्ञाननिर्जितं बुद्ध्यां त्यक्त्वा कर्मफलाङ्ग्रहम्॥",
     "text_transliteration": "yasya sarve samārambhāḥ kāma-saṅga-vivarjitāḥ | jñāna-nirjitaṃ buddhyāṃ tyaktvā karma-phalāṅgraham ||",
     "text_english": "He who performs all actions without attachment to desires, having renounced the fruits through knowledge, attains supreme peace.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Renunciation",
-    "chapter_name_sanskrit": "संन्यासयोग",
+    "chapter_name_sanskrit": "संन्यासयोग"
   },
   {
     "chapter": 5,
@@ -2288,9 +2273,9 @@
     "text_sanskrit": "सम्यक् संन्यासी योगयुक्तो विमुक्तो मरणे। विजितेन्द्रियः सर्वत्र विजयी भवति सदा॥",
     "text_transliteration": "samyak sannyāsī yoga-yukto vimukto maraṇe | vijitendriyaḥ sarvatra vijayī bhavati sadā ||",
     "text_english": "The true renunciate, united in yoga, freed from attachment, with controlled senses, becomes victorious everywhere.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Renunciation",
-    "chapter_name_sanskrit": "संन्यासयोग",
+    "chapter_name_sanskrit": "संन्यासयोग"
   },
   {
     "chapter": 5,
@@ -2298,9 +2283,9 @@
     "text_sanskrit": "कर्मण्यकर्म यः पश्येदकर्मणि च कर्म यः। स बुद्धिमान्मनुष्येषु स युक्तः कृत्स्नकर्मकृत्॥",
     "text_transliteration": "karmany akarma yaḥ paśyed akarmaṇi ca karma yaḥ | sa buddhimān manuṣyeṣu sa yuktaḥ kṛtsna-karma-kṛt ||",
     "text_english": "He who sees action in inaction, and inaction in action, is intelligent among men; he is a yogi who performs all actions.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Renunciation",
-    "chapter_name_sanskrit": "संन्यासयोग",
+    "chapter_name_sanskrit": "संन्यासयोग"
   },
   {
     "chapter": 5,
@@ -2308,9 +2293,9 @@
     "text_sanskrit": "संन्यासयोगयोर्नित्यमेव समानः। योगयुक्तः सदा कृत्यं कर्म कुर्यादपरेषाम्॥",
     "text_transliteration": "sannyāsa-yogayo r nityameva samānaḥ | yoga-yuktaḥ sadā kṛtyaṃ karma kuryād apareṣām ||",
     "text_english": "Renunciation and yoga are ultimately the same; the yogi, united in action, performs duties for others without attachment.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Renunciation",
-    "chapter_name_sanskrit": "संन्यासयोग",
+    "chapter_name_sanskrit": "संन्यासयोग"
   },
   {
     "chapter": 5,
@@ -2318,9 +2303,9 @@
     "text_sanskrit": "योगिनो हि सर्वकर्माणि मयि संन्यस्य च। निवर्तन्ते मृत्युसंसारवृत्तेः॥",
     "text_transliteration": "yogino hi sarva-karmāṇi mayi sannyasya ca | nivartante mṛtyu-saṃsāra-vṛtteḥ ||",
     "text_english": "Those who renounce all actions in Me, united in yoga, escape the cycle of birth and death.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Renunciation",
-    "chapter_name_sanskrit": "संन्यासयोग",
+    "chapter_name_sanskrit": "संन्यासयोग"
   },
   {
     "chapter": 5,
@@ -2328,9 +2313,9 @@
     "text_sanskrit": "यः सर्वत्रानभिस्नेहस्तत्तत्प्राप्य शुभाशुभम्। नाभिनन्दति न द्वेष्टि तस्य प्रज्ञा प्रतिष्ठिता॥",
     "text_transliteration": "yaḥ sarvatra-anabhisnehah tat-tat prāpya śubhā-śubham | nābhinandati na dveṣṭi tasya prajñā pratiṣṭhitā ||",
     "text_english": "He who is detached, seeing all beings alike, neither rejoices nor hates, his wisdom is firm and steady.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Renunciation",
-    "chapter_name_sanskrit": "संन्यासयोग",
+    "chapter_name_sanskrit": "संन्यासयोग"
   },
   {
     "chapter": 5,
@@ -2338,9 +2323,9 @@
     "text_sanskrit": "सर्वकर्माणि मनसः संन्यस्यास्तु मधुसूदन। निर्विचारः स महात्मा सुखं बन्धात् प्रपद्यते॥",
     "text_transliteration": "sarva-karmāṇi manasaḥ sannyasyāstu madhusūdana | nirvicāraḥ sa mahātmā sukhaṃ bandhāt prapadyate ||",
     "text_english": "O Madhusudana, the great soul who renounces all actions in the mind, without doubt, attains bliss and is freed from bondage.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Renunciation",
-    "chapter_name_sanskrit": "संन्यासयोग",
+    "chapter_name_sanskrit": "संन्यासयोग"
   },
   {
     "chapter": 5,
@@ -2348,9 +2333,9 @@
     "text_sanskrit": "योगिनः कर्म कुर्वन्ति सङ्गं त्यक्त्वा फलं च। निःस्पृहः सन्त्यज्यते मर्त्यलोकसंशयम्॥",
     "text_transliteration": "yoginaḥ karma kurvanti saṅgaṃ tyaktvā phalaṃ ca | niḥspṛhaḥ santyajyate martya-loka-saṃśayam ||",
     "text_english": "Yogis perform actions abandoning attachment to results; desireless, they renounce worldly doubts.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Renunciation",
-    "chapter_name_sanskrit": "संन्यासयोग",
+    "chapter_name_sanskrit": "संन्यासयोग"
   },
   {
     "chapter": 5,
@@ -2358,9 +2343,9 @@
     "text_sanskrit": "समं सर्वेषु भूतेषु तिष्ठन्तं परमेश्वरम्। न हिनस्ति न म्रियते य: सर्वत्र समदर्शिनः॥",
     "text_transliteration": "samaṃ sarveṣhu bhūteṣhu tiṣṭhantaṃ parameśvaram | na hinasti na mriyate yaḥ sarvatra samadarśinaḥ ||",
     "text_english": "The Supreme Lord dwells equally in all beings; he who sees all alike neither harms nor is harmed.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Renunciation",
-    "chapter_name_sanskrit": "संन्यासयोग",
+    "chapter_name_sanskrit": "संन्यासयोग"
   },
   {
     "chapter": 5,
@@ -2368,9 +2353,9 @@
     "text_sanskrit": "यो न हृष्यति न द्वेष्टि न शोचति न काङ्क्षति। शिबं मयि पश्यन्ति योऽभ्यसेतात्मविवेकतः॥",
     "text_transliteration": "yo na hṛṣyati na dveṣṭi na śochati na kāṅkṣati | śibaṃ mayi paśyanti yo ’bhyasetātma-vivekataḥ ||",
     "text_english": "He who neither rejoices nor hates, neither grieves nor desires, sees the auspicious in Me and cultivates self-knowledge.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Renunciation",
-    "chapter_name_sanskrit": "संन्यासयोग",
+    "chapter_name_sanskrit": "संन्यासयोग"
   },
   {
     "chapter": 5,
@@ -2378,9 +2363,9 @@
     "text_sanskrit": "योगिनामपि सर्वेषां मयि संन्यस्य कर्मणि। मनसैव मन्यन्ते बुद्ध्या सर्वार्थान् समन्विताः॥",
     "text_transliteration": "yoginām api sarveṣhāṃ mayi sannyasya karmaṇi | manasaiva manyante buddhyā sarvārthān samanvitāḥ ||",
     "text_english": "Even among yogis, all actions are done in Me; with mind and intellect united, they accomplish all purposes.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Renunciation",
-    "chapter_name_sanskrit": "संन्यासयोग",
+    "chapter_name_sanskrit": "संन्यासयोग"
   },
   {
     "chapter": 5,
@@ -2388,9 +2373,9 @@
     "text_sanskrit": "सर्वकर्माणि मन्‍यन्ति य: स कर्मफलत्यागी। समाधिस्थो हि योगी मुमुक्षुर्न केवलं स्मृतिः॥",
     "text_transliteration": "sarva-karmāṇi manyanti yaḥ sa karma-phala-tyāgī | samādhi-stho hi yogī mumu kṣur na kevalaṃ smṛtiḥ ||",
     "text_english": "The one who renounces the fruits of actions, even while performing them, is a yogi; the seeker of liberation abides in meditation, not merely memory.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Renunciation",
-    "chapter_name_sanskrit": "संन्यासयोग",
+    "chapter_name_sanskrit": "संन्यासयोग"
   },
   {
     "chapter": 5,
@@ -2398,9 +2383,9 @@
     "text_sanskrit": "संन्यासयोगयोर्नित्यमेव समः। योगयुक्तः सदा कर्म कुर्वन्नपि न बन्ध्यते॥",
     "text_transliteration": "sannyāsa-yogayo r nityameva samaḥ | yoga-yuktaḥ sadā karma kurvann api na bandhyate ||",
     "text_english": "Renunciation and yoga are ultimately the same; the yogi, performing duties, is never bound.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Renunciation",
-    "chapter_name_sanskrit": "संन्यासयोग",
+    "chapter_name_sanskrit": "संन्यासयोग"
   },
   {
     "chapter": 5,
@@ -2408,9 +2393,9 @@
     "text_sanskrit": "विद्याविनयसम्पन्ने ब्राह्मणे गवि हस्तिनि। शुनि चैव श्वपाके च पण्डिता: समदर्शिन:॥",
     "text_transliteration": "vidyā-vinaya-sampanne brāhmaṇe gavi hastini | śuni caiva śvapāke ca paṇḍitāḥ samadarśinaḥ ||",
     "text_english": "The learned see the same equality in the Brahmin, cow, elephant, dog, and outcaste.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Renunciation",
-    "chapter_name_sanskrit": "संन्यासयोग",
+    "chapter_name_sanskrit": "संन्यासयोग"
   },
   {
     "chapter": 5,
@@ -2418,9 +2403,9 @@
     "text_sanskrit": "यस्तु सर्वाणि भूतानि आत्मन्य एवाभूद् भवति। तत्र को निर्योगः कस्य च नात्र संशयः सदा॥",
     "text_transliteration": "yastu sarvāṇi bhūtāni ātmanya evābhūd bhavati | tatra ko niryogaḥ kasya ca nātra saṃśayaḥ sadā ||",
     "text_english": "He who sees all beings as his own self, who can bind him? There is no doubt for such a one.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Renunciation",
-    "chapter_name_sanskrit": "संन्यासयोग",
+    "chapter_name_sanskrit": "संन्यासयोग"
   },
   {
     "chapter": 5,
@@ -2428,9 +2413,9 @@
     "text_sanskrit": "सुखी न हि योगिन: प्राप्यते। सुखं कर्म फलत्यागिनाम्। तदर्थं संन्यासयोगेण। बुद्धियोगेन च सदा॥",
     "text_transliteration": "sukhī na hi yoginaḥ prāpyate | sukhaṃ karma-phalatyāginām | tadarthaṃ sannyāsa-yogena | buddhi-yogena ca sadā ||",
     "text_english": "Happiness is not attained by mere renunciation; bliss comes to those who renounce the fruits through the yoga of knowledge and wisdom.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Renunciation",
-    "chapter_name_sanskrit": "संन्यासयोग",
+    "chapter_name_sanskrit": "संन्यासयोग"
   },
   {
     "chapter": 5,
@@ -2438,9 +2423,9 @@
     "text_sanskrit": "योऽवस्थितः सर्वकर्मेन्द्रियैः। कर्माणि नियतं कुरुते। मयि सम्प्रवृद्धं मनः। संयतं चात्मनोऽवस्थितम्॥",
     "text_transliteration": "yo ’vasthitaḥ sarva-karma-indriyaiḥ | karmāṇi niyataṃ kurute | mayi sampravṛddhaṃ manaḥ | saṃyataṃ cātmano ’vasthitam ||",
     "text_english": "One who is established in all actions with the senses controlled, with mind fixed in Me and self disciplined, attains perfection.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Renunciation",
-    "chapter_name_sanskrit": "संन्यासयोग",
+    "chapter_name_sanskrit": "संन्यासयोग"
   },
   {
     "chapter": 5,
@@ -2448,9 +2433,9 @@
     "text_sanskrit": "अयं योगः परमः शान्तिमायाति। न हि द्वेष्टि न प्रियं वदति। न शोचति न हृष्यति। सर्वत्र समदर्शी भवति॥",
     "text_transliteration": "ayaṃ yogaḥ paramaḥ śāntim āyāti | na hi dveṣṭi na priyaṃ vadati | na śochati na hṛṣyati | sarvatra samadarśī bhavati ||",
     "text_english": "This supreme yoga brings peace; one neither hates, nor speaks pleasingly or displeasingly, nor grieves or rejoices, seeing all equally.",
-    "speaker": "Krishna" 
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Renunciation",
-    "chapter_name_sanskrit": "संन्यासयोग",
+    "chapter_name_sanskrit": "संन्यासयोग"
   },
   {
     "chapter": 5,
@@ -2458,9 +2443,9 @@
     "text_sanskrit": "समत्वं योग उच्यते। दारिद्र्यं वा सम्यक्। चक्षुर्वा वा सम्यक्। सर्वेभ्यः समदर्शी भव।",
     "text_transliteration": "samatvaṃ yoga ucyate | dāridryaṃ vā samyak | cakṣurvā vā samyak | sarvebhyaḥ samadarśī bhava ||",
     "text_english": "Yoga is equanimity; see poverty, vision, and all beings alike with even-mindedness.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Renunciation",
-    "chapter_name_sanskrit": "संन्यासयोग",
+    "chapter_name_sanskrit": "संन्यासयोग"
   },
   {
     "chapter": 5,
@@ -2468,9 +2453,9 @@
     "text_sanskrit": "सर्वभूतहिते रतः। सदा निःस्पृहः। सर्वत्र समदर्शी। स योगी सदा समाधातुम्॥",
     "text_transliteration": "sarva-bhūta-hite rataḥ | sadā niḥspṛhaḥ | sarvatra samadarśī | sa yogī sadā samādhātum ||",
     "text_english": "The yogi devoted to the welfare of all beings, desireless, and seeing all equally, is ever established in meditation.",
-    "speaker": "Krishna" 
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Renunciation",
-    "chapter_name_sanskrit": "संन्यासयोग",
+    "chapter_name_sanskrit": "संन्यासयोग"
   },
   {
     "chapter": 5,
@@ -2478,9 +2463,9 @@
     "text_sanskrit": "सततं योगिनं भज। बुद्ध्या युक्तः समाचर। सर्वकर्माणि मयि। संन्यस्याचल बुद्धयः॥",
     "text_transliteration": "satataṃ yoginaṃ bhaja | buddhyā yuktaḥ samācara | sarva-karmāṇi mayi | sannyasyācal buddhiyaḥ ||",
     "text_english": "Always worship the yogi, united in intellect, performing all actions in Me, having renounced attachment with steady wisdom.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Renunciation",
-    "chapter_name_sanskrit": "संन्यासयोग",
+    "chapter_name_sanskrit": "संन्यासयोग"
   },
   {
     "chapter": 5,
@@ -2488,9 +2473,9 @@
     "text_sanskrit": "न हि ज्ञानेन सदृशं। पवित्रमिह विद्यते। तत्त्वं ज्ञात्वा मोक्षः। स्यान्निर्योगिनो भृता॥",
     "text_transliteration": "na hi jñānena sadṛśaṃ | pavitram iha vidyate | tattvaṃ jñātvā mokṣaḥ | syān niryogino bhṛtā ||",
     "text_english": "There is nothing as pure as knowledge; knowing the truth, the renunciate attains liberation.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Renunciation",
-    "chapter_name_sanskrit": "संन्यासयोग",
+    "chapter_name_sanskrit": "संन्यासयोग"
   },
   {
     "chapter": 5,
@@ -2498,9 +2483,9 @@
     "text_sanskrit": "यः सर्वत्रानभिस्नेहस्तत्। प्राप्य सर्वभूतहितम्। समदर्शी स योगी। स निःस्पृहः सुखी भवेत्॥",
     "text_transliteration": "yaḥ sarvatra-anabhisneha tat | prāpya sarva-bhūta-hitam | samadarśī sa yogī | sa niḥspṛhaḥ sukhī bhavet ||",
     "text_english": "He who is detached, devoted to the welfare of all, seeing all alike, is a yogi; desireless, he is happy.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Renunciation",
-    "chapter_name_sanskrit": "संन्यासयोग",
+    "chapter_name_sanskrit": "संन्यासयोग"
   },
   {
     "chapter": 5,
@@ -2508,9 +2493,9 @@
     "text_sanskrit": "न हृष्यति न द्वेष्टि न शोचति न काङ्क्षति। सर्वत्र समदर्शी योगिनं प्राप्यते सुखम्॥",
     "text_transliteration": "na hṛṣyati na dveṣṭi na śochati na kāṅkṣati | sarvatra samadarśī yoginaṃ prāpyate sukham ||",
     "text_english": "Neither rejoicing nor hating, neither grieving nor desiring, seeing all equally, the yogi attains bliss.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Renunciation",
-    "chapter_name_sanskrit": "संन्यासयोग",
+    "chapter_name_sanskrit": "संन्यासयोग"
   },
   {
     "chapter": 5,
@@ -2518,18 +2503,12 @@
     "text_sanskrit": "यो मामेव सर्वभूतहिते रतः। स योगी सदा मुक्तः। संन्यासयोगे स्थिरबुद्धिः। स परमं सुखं प्राप्नोति॥",
     "text_transliteration": "yo mām eva sarva-bhūta-hite rataḥ | sa yogī sadā muktaḥ | sannyāsa-yoge sthira-buddhiḥ | sa paramaṃ sukhaṃ prāpnoti ||",
     "text_english": "He who is devoted to My welfare and that of all beings, the yogi, steady in renunciation and yoga, attains supreme happiness.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Renunciation",
-    "chapter_name_sanskrit": "संन्यासयोग",
-  }
-]
-
-
-
-[
-
-  
+    "chapter_name_sanskrit": "संन्यासयोग"
+  },
   {
+    "parva_number": 6,
     "chapter": 6,
     "verse": 1,
     "text_sanskrit": "श्रीभगवानुवाच। जो योद्धव्यं कर्म सम्यक्। सम्यक् सम्यक् समर्पयेत्। संन्यासयोगयोगेन्द्रियं। योगिनं च स्थिरबुद्धिम्॥",
@@ -2545,7 +2524,7 @@
     "text_sanskrit": "यं सर्वकर्माणि मनसा संन्यस्य। संन्यासी च योगिनश्च। तस्यैव निश्चलं स्थितं बुद्ध्यैव योगमुपाश्रितम्॥",
     "text_transliteration": "yaṃ sarva-karmāṇi manasā sannyasya | sannyāsī ca yoginaś ca | tasyaiva niśchalaṃ sthitaṃ buddhyai va yogam upāśritam ||",
     "text_english": "One who renounces all actions in the mind, the renunciate and the yogi, achieves unwavering intellect, firmly established in yoga.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Self-Discipline",
     "chapter_name_sanskrit": "ध्यानयोग"
   },
@@ -2555,7 +2534,7 @@
     "text_sanskrit": "योगिनः कर्म कुर्वन्ति सङ्गं त्यक्त्वा फलं। निःस्पृहाः सन्त्यज्यते मर्त्यलोकसंशयम्॥",
     "text_transliteration": "yoginaḥ karma kurvanti saṅgaṃ tyaktvā phalaṃ | niḥspṛhāḥ santyajyate martya-loka-saṃśayam ||",
     "text_english": "Yogis perform their duties renouncing attachment to the fruit; desireless, they are freed from doubts in the mortal world.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Self-Discipline",
     "chapter_name_sanskrit": "ध्यानयोग"
   },
@@ -2565,7 +2544,7 @@
     "text_sanskrit": "योगी सुखं योगोऽभ्यसेत। मयि चित्तवृत्तिं नियच्छेत्। समाधौ स्थिरबुद्धिः स्यान्मुक्तो ज्ञानयोगसन्न्यासी॥",
     "text_transliteration": "yogī sukhaṃ yogo ’bhyaset | mayi citta-vṛttiṃ niyacchet | samādhau sthira-buddhiḥ syān | mukto jñāna-yoga-sannyāsī ||",
     "text_english": "The yogi attains happiness by practicing yoga, controlling the fluctuations of the mind, being steadfast in meditation, and attaining liberation.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Self-Discipline",
     "chapter_name_sanskrit": "ध्यानयोग"
   },
@@ -2575,7 +2554,7 @@
     "text_sanskrit": "उद्धरेदात्मनाऽत्मानं नात्मानमवसादयेत्। आत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः॥",
     "text_transliteration": "uddhared ātmanā ’tmānaṃ nātmānam avasādayet | ātmāiva hy-ātmano bandhur ātmaiva ripur-ātmanah ||",
     "text_english": "One must uplift oneself by the self, not degrade oneself. For the self is the friend of the self, and the self is the enemy of the self.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Self-Discipline",
     "chapter_name_sanskrit": "ध्यानयोग"
   },
@@ -2585,7 +2564,7 @@
     "text_sanskrit": "बन्धुरात्माऽत्मनस्तस्य येनात्मैव ह्यात्मनः। सुखं वा दुःखं वा मित्रं वा शत्रुं वा परेषु॥",
     "text_transliteration": "bandhur-ātmaātmanaḥ tasya yena ātmaiva hy-ātmanah | sukhaṃ vā duḥkhaṃ vā mitraṃ vā śatruṃ vā pareṣu ||",
     "text_english": "By knowing the self, one realizes that the self alone is the friend and enemy, the source of pleasure and pain, friend and foe.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Self-Discipline",
     "chapter_name_sanskrit": "ध्यानयोग"
   },
@@ -2595,7 +2574,7 @@
     "text_sanskrit": "योगिनं चित्तस्थं कुरु। सुखं वा दुःखं वा शान्तिं वा। त्यक्त्वा सर्वसंशयम्। समत्वं योग उच्यते॥",
     "text_transliteration": "yoginaṃ citta-sthaṃ kuru | sukhaṃ vā duḥkhaṃ vā śāntiṃ vā | tyaktvā sarva-saṃśayam | samatvaṃ yoga ucyate ||",
     "text_english": "Fix your mind on the yogi; by renouncing all doubts, remaining even-minded in pleasure, pain, and peace, this is called yoga.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Self-Discipline",
     "chapter_name_sanskrit": "ध्यानयोग"
   },
@@ -2605,7 +2584,7 @@
     "text_sanskrit": "न हि योगिनोऽवश्यं कर्मैः। बन्ध्यन्ति शारीरसंघैः। समः सर्वेषु भूतेषु। सुखं वा दुःखं वा समदर्शिनः॥",
     "text_transliteration": "na hi yogino ’vaśyaṃ karmaih | bandhyanti śārīra-saṅghaiḥ | samaḥ sarveṣhu bhūteṣhu | sukhaṃ vā duḥkhaṃ vā samadarśinaḥ ||",
     "text_english": "Yogis are not bound by obligatory actions of the body; seeing all beings alike in pleasure and pain, they remain equal-minded.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Self-Discipline",
     "chapter_name_sanskrit": "ध्यानयोग"
   },
@@ -2615,7 +2594,7 @@
     "text_sanskrit": "यः सर्वत्रानभिस्नेहस्तत्। प्राप्य सर्वभूतहितम्। समदर्शी स योगी। स निःस्पृहः सुखी भवेत्॥",
     "text_transliteration": "yaḥ sarvatra-anabhisneha tat | prāpya sarva-bhūta-hitam | samadarśī sa yogī | sa niḥspṛhaḥ sukhī bhavet ||",
     "text_english": "He who is detached, devoted to the welfare of all, seeing all alike, is a yogi; desireless, he attains happiness.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Self-Discipline",
     "chapter_name_sanskrit": "ध्यानयोग"
   },
@@ -2625,7 +2604,7 @@
     "text_sanskrit": "योगिनः सुखं योगोऽभ्यसेत। स चित्तं यत्र निश्चलं कुर्यात्। समाधिस्थः स योगी। मुक्तः स योगसन्न्यासी॥",
     "text_transliteration": "yoginaḥ sukhaṃ yogo ’bhyaset | sa cittaṃ yatra niśchalaṃ kuryāt | samādhisthaḥ sa yogī | muktaḥ sa yoga-sannyāsī ||",
     "text_english": "The yogi attains happiness by practicing yoga, keeping the mind steady, meditating constantly, and as a renunciate, becomes free.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Self-Discipline",
     "chapter_name_sanskrit": "ध्यानयोग"
   },
@@ -2635,7 +2614,7 @@
     "text_sanskrit": "शरीरमाद्यं खलु धर्मसाधनम्। यथोचितं कर्म कुरुते योगिनः। संतुलं चित्तं नायं तत्र हि लाभः॥",
     "text_transliteration": "śarīramādyaṃ khalu dharma-sādhanam | yathocitaṃ karma kurute yoginaḥ | santulaṃ cittaṃ nāyaṃ tatra hi lābhaḥ ||",
     "text_english": "The body is indeed the primary instrument of dharma; the yogi acts appropriately and keeps the mind balanced—therein lies success.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Self-Discipline",
     "chapter_name_sanskrit": "ध्यानयोग"
   },
@@ -2645,7 +2624,7 @@
     "text_sanskrit": "यत्र योगेश्वरः कृष्णो यत्र पार्थो धनुर्धरः। तत्र श्रीर्विजयो भूतिर्ध्रुवा नीतिर्मतिर्मम॥",
     "text_transliteration": "yatra yogeśvaraḥ kṛṣṇo yatra pārtho dhanur-dharaḥ | tatra śrīr vijayo bhūtir dhruvā nītir matir mama ||",
     "text_english": "Wherever there is Lord Krishna, the master of yoga, and Arjuna, the supreme archer, there are prosperity, victory, and firm principles.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Self-Discipline",
     "chapter_name_sanskrit": "ध्यानयोग"
   },
@@ -2655,7 +2634,7 @@
     "text_sanskrit": "आत्मनं रथिनं विद्धि शरीरं रथमेव च। बुद्धिं तु सारथिं विद्धि मनोऽहंकारमेव च॥",
     "text_transliteration": "ātmaṃ rathinaṃ viddhi śarīraṃ rathameva ca | buddhiṃ tu sārathiṃ viddhi mano ’haṅkārameva ca ||",
     "text_english": "Know the self as the charioteer, the body as the chariot, intellect as the reins, and the mind as the horses of the chariot.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Self-Discipline",
     "chapter_name_sanskrit": "ध्यानयोग"
   },
@@ -2665,7 +2644,7 @@
     "text_sanskrit": "यस्य सर्वे समारम्भाः कामसङ्गवर्जिताः। ज्ञानिनः स मुक्तः शान्तो ब्रह्मनिर्वाणसंस्थितः॥",
     "text_transliteration": "yasya sarve samārambhāḥ kāma-saṅga-varjitāḥ | jñāninah sa muktaḥ śānto brahma-nirvāṇa-samsthitaḥ ||",
     "text_english": "One whose every undertaking is free from desire, the wise person is liberated, peaceful, and established in the supreme Brahman.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Self-Discipline",
     "chapter_name_sanskrit": "ध्यानयोग"
   },
@@ -2675,7 +2654,7 @@
     "text_sanskrit": "सम्यक् योगं त्यक्त्वा समाहितं मनोऽवस्थितम्। समत्वं योग उच्यते बुद्धियुक्तो जहाति॥",
     "text_transliteration": "samyak yogaṃ tyaktvā samāhitaṃ mano ’vasthitam | samatvaṃ yoga ucyate buddhi-yukto jahāti ||",
     "text_english": "Having renounced improper actions, with a steady mind, one attains equanimity; this is called yoga. The person united with intellect abandons attachment.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Self-Discipline",
     "chapter_name_sanskrit": "ध्यानयोग"
   },
@@ -2685,7 +2664,7 @@
     "text_sanskrit": "नात्यश्नतस्तु योगोऽस्ति न चैकान्तमनश्नुते। न चातिव्यायामोऽस्ति न च्यते श्रुतिविन्यसे॥",
     "text_transliteration": "nātya-śnataḥ tu yogo ’sti na caikāntama naśnute | na cātiviyāmo ’sti na cyate śruti-vinyase ||",
     "text_english": "Yoga is not possible through excessive eating or abstaining, nor by over-indulgence in activity; balance is the key.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Self-Discipline",
     "chapter_name_sanskrit": "ध्यानयोग"
   },
@@ -2695,7 +2674,7 @@
     "text_sanskrit": "यथायोग्यमेव भुञ्जीत संतुल्यं रसपानम्। योगिनः सुखं योगो भूयोऽभ्यासेन प्रजायत॥",
     "text_transliteration": "yathā-yogyam eva bhuñjīta santulyaṃ rasa-pānam | yoginaḥ sukhaṃ yogo bhūyo ’bhyāsena prajāyat ||",
     "text_english": "A yogi should eat moderately, balanced in taste and quantity. Happiness in yoga arises from regular practice.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Self-Discipline",
     "chapter_name_sanskrit": "ध्यानयोग"
   },
@@ -2705,7 +2684,7 @@
     "text_sanskrit": "सर्वभूतस्थमात्मानं समत्वं योग उच्यते। सुखं वा दुःखं वा चित्ते समाधिस्थं योगिनम्॥",
     "text_transliteration": "sarva-bhūta-sthama-ātmānaṃ samatvaṃ yoga ucyate | sukhaṃ vā duḥkhaṃ vā citte samādhisthaṃ yoginam ||",
     "text_english": "Equanimity toward all beings, remaining in meditation regardless of pleasure or pain, is called yoga.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Self-Discipline",
     "chapter_name_sanskrit": "ध्यानयोग"
   },
@@ -2715,7 +2694,7 @@
     "text_sanskrit": "न हि तस्य काचित् पुरुषस्य योगो भूयोऽभ्यासेन। योगिनो हि नित्यसंयुक्ताः समाधौ सन्ति मुक्ताः॥",
     "text_transliteration": "na hi tasya kācit puruṣasya yogo bhūyo ’bhyāsena | yogino hi nitya-saṃyuktāḥ samādhau santi muktāḥ ||",
     "text_english": "A person cannot reach perfect yoga quickly; only those constantly engaged in meditation become liberated.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Self-Discipline",
     "chapter_name_sanskrit": "ध्यानयोग"
   },
@@ -2725,7 +2704,7 @@
     "text_sanskrit": "यथाऽहं कर्माण्युपयान्ति। तथा योगिनः कर्मसु। समत्वेन संन्यास्यन्ते। समाधिस्थास्ति तिष्ठतः॥",
     "text_transliteration": "yathā ’haṃ karmāṇi upayānti | tathā yoginaḥ karmasu | samatvena sannyāsyante | samādhisthāsti tiṣṭhataḥ ||",
     "text_english": "Just as I act in the world, yogis perform actions with detachment, remaining steady in meditation.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Self-Discipline",
     "chapter_name_sanskrit": "ध्यानयोग"
   },
@@ -2735,7 +2714,7 @@
     "text_sanskrit": "अभ्यासयोगेन तु योगिनः कर्मणा च। समाधावस्था यान्ति तु बुद्ध्या युक्ताः समाहिताः॥",
     "text_transliteration": "abhyāsa-yogena tu yoginaḥ karmaṇā ca | samādhāvasthā yānti tu buddhyā yuktāḥ samāhitāḥ ||",
     "text_english": "Through practice and action, yogis attain a state of meditation, guided by intellect and steadiness of mind.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Self-Discipline",
     "chapter_name_sanskrit": "ध्यानयोग"
   },
@@ -2745,7 +2724,7 @@
     "text_sanskrit": "सर्वभूतान्तरात्मानं योगिनः पश्यन्ति स्थितः। सदा हि आत्मन्येव चात्मानं परिपश्यति॥",
     "text_transliteration": "sarva-bhūtāntar-ātmānaṃ yoginaḥ paśyanti sthitaḥ | sadā hi ātmany eva cātmaānaṃ paripaśyati ||",
     "text_english": "The yogi, established within, perceives the self in all beings and constantly sees the self alone.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Self-Discipline",
     "chapter_name_sanskrit": "ध्यानयोग"
   },
@@ -2755,7 +2734,7 @@
     "text_sanskrit": "योगिनो हि सर्वत्र विद्यमानाः। दुःखं वा सुखं वा न यान्ति। समाधिस्थास्ति तिष्ठतः॥",
     "text_transliteration": "yogino hi sarvatra vidyamānāḥ | duḥkhaṃ vā sukhaṃ vā na yānti | samādhisthāsti tiṣṭhataḥ ||",
     "text_english": "Yogis, established everywhere in the self, are not affected by pleasure or pain, standing firmly in meditation.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Self-Discipline",
     "chapter_name_sanskrit": "ध्यानयोग"
   },
@@ -2765,7 +2744,7 @@
     "text_sanskrit": "सम्यक् योगेन समाहितो हि योगिनः। सर्वत्रान्यतिष्ठन्ति समाधावस्थिताः॥",
     "text_transliteration": "samyak yogena samāhito hi yoginaḥ | sarvatra anyatiṣṭhanti samādhāvasthitāḥ ||",
     "text_english": "Firmly established in true yoga, yogis are present everywhere, absorbed in meditation.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Self-Discipline",
     "chapter_name_sanskrit": "ध्यानयोग"
   },
@@ -2775,7 +2754,7 @@
     "text_sanskrit": "सम्यक् योगिनो हि समाधिस्थाः। आत्मन्येव स्थिताः सुखमुपयान्ति॥",
     "text_transliteration": "samyak yogino hi samādhisthāḥ | ātmany eva sthitāḥ sukham upayānti ||",
     "text_english": "Steadfast in meditation, yogis enjoy happiness within themselves alone.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Self-Discipline",
     "chapter_name_sanskrit": "ध्यानयोग"
   },
@@ -2785,7 +2764,7 @@
     "text_sanskrit": "यथैच्छति न हि यः। स तु योगिनो हि समाधौ स्थितः। निरुद्धचित्तो हि सः॥",
     "text_transliteration": "yathaicchati na hi yaḥ | sa tu yogino hi samādhau sthitaḥ | niruddha-citto hi saḥ ||",
     "text_english": "Even though desires may arise, the yogi in meditation controls the mind, remaining unattached.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Self-Discipline",
     "chapter_name_sanskrit": "ध्यानयोग"
   },
@@ -2795,7 +2774,7 @@
     "text_sanskrit": "योगिनो हि समाधिस्थाः। सर्वत्रान्यथो निश्चलाः। न हि दुःखमुपयान्ति॥",
     "text_transliteration": "yogino hi samādhisthāḥ | sarvatra anyatho niśchalāḥ | na hi duḥkham upayānti ||",
     "text_english": "Yogis, established in meditation and steady everywhere, are not affected by pain.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Self-Discipline",
     "chapter_name_sanskrit": "ध्यानयोग"
   },
@@ -2805,7 +2784,7 @@
     "text_sanskrit": "सर्वभूतस्थितात्मानं योगिनः पश्यन्ति सर्वत्र। योगसम्यक्त्वं हि मोक्षः॥",
     "text_transliteration": "sarva-bhūta-sthita-ātmānaṃ yoginaḥ paśyanti sarvatra | yoga-samyaktvaṃ hi mokṣaḥ ||",
     "text_english": "Yogis see the self abiding in all beings; true yoga leads to liberation.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Self-Discipline",
     "chapter_name_sanskrit": "ध्यानयोग"
   },
@@ -2815,7 +2794,7 @@
     "text_sanskrit": "अहं सर्वभूतानि चात्मानं च नित्यतः। योगिनः पश्यन्ति सर्वत्र एकभावेन॥",
     "text_transliteration": "ahaṃ sarva-bhūtāni cātmaānaṃ ca nityataḥ | yoginaḥ paśyanti sarvatra ekabhāvena ||",
     "text_english": "The yogi sees all beings and the self as one, always abiding in unity.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Self-Discipline",
     "chapter_name_sanskrit": "ध्यानयोग"
   },
@@ -2825,7 +2804,7 @@
     "text_sanskrit": "योगिनः सर्वत्रान्यथो दृष्ट्वा आत्मन्येव स्थिताः। समाधिस्थाः सन्त्यन्ते मुक्ताः॥",
     "text_transliteration": "yoginaḥ sarvatra anyatho dṛṣṭvā ātmany eva sthitāḥ | samādhisthāḥ santyante muktāḥ ||",
     "text_english": "Yogis, seeing all differently yet established in the self, stand firm in meditation and become liberated.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Self-Discipline",
     "chapter_name_sanskrit": "ध्यानयोग"
   },
@@ -2835,7 +2814,7 @@
     "text_sanskrit": "सर्वत्रान्यथो निश्चलः योगिनः। समाधिस्थः स निःस्पृहः सुखी भवेत्॥",
     "text_transliteration": "sarvatra anyatho niśchalaḥ yoginaḥ | samādhisthaḥ sa niḥspṛhaḥ sukhī bhavet ||",
     "text_english": "Everywhere steadfast, the yogi in meditation, free from desire, attains happiness.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Self-Discipline",
     "chapter_name_sanskrit": "ध्यानयोग"
   },
@@ -2845,7 +2824,7 @@
     "text_sanskrit": "योगिनो हि समाधिस्थाः। सर्वत्रान्यथो दृष्ट्वा। निरुद्धचित्ताः सन्ति सर्वत्र सुखी॥",
     "text_transliteration": "yogino hi samādhisthāḥ | sarvatra anyatho dṛṣṭvā | niruddha-cittāḥ santi sarvatra sukhī ||",
     "text_english": "The yogi, established in meditation, seeing all equally, remains unattached and happy everywhere.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Self-Discipline",
     "chapter_name_sanskrit": "ध्यानयोग"
   },
@@ -2855,7 +2834,7 @@
     "text_sanskrit": "सर्वत्र समदर्शी योगिनः। समाधिस्थः स निःस्पृहः। सुखी स्यान्मुक्तः॥",
     "text_transliteration": "sarvatra samadarśī yoginaḥ | samādhisthaḥ sa niḥspṛhaḥ | sukhī syān muktaḥ ||",
     "text_english": "Everywhere seeing equally, the yogi established in meditation, free from desires, attains liberation and happiness.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Self-Discipline",
     "chapter_name_sanskrit": "ध्यानयोग"
   },
@@ -2865,7 +2844,7 @@
     "text_sanskrit": "योगिनः समाधिस्थाः। सर्वत्र समानदर्शी सन्तः। हि मोक्षं प्राप्नुवन्ति॥",
     "text_transliteration": "yoginaḥ samādhisthāḥ | sarvatra samānadarśī santaḥ | hi mokṣaṃ prāpnuvanti ||",
     "text_english": "Yogis, absorbed in meditation and seeing all beings alike, attain liberation.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Self-Discipline",
     "chapter_name_sanskrit": "ध्यानयोग"
   },
@@ -2875,7 +2854,7 @@
     "text_sanskrit": "सम्यक् योगिनः समाधिस्थाः। सर्वत्र समदर्शिनः। सुखं वा दुःखं वा न यान्ति॥",
     "text_transliteration": "samyak yoginaḥ samādhisthāḥ | sarvatra samadarśinaḥ | sukhaṃ vā duḥkhaṃ vā na yānti ||",
     "text_english": "Perfectly established in meditation, yogis see all alike and are unaffected by pleasure or pain.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Self-Discipline",
     "chapter_name_sanskrit": "ध्यानयोग"
   },
@@ -2885,7 +2864,7 @@
     "text_sanskrit": "योगिनः समाधिस्थाः। निरुद्धचित्ताः सन्ति। सर्वत्र समदर्शिनः। सुखी स्यान्मुक्तः॥",
     "text_transliteration": "yoginaḥ samādhisthāḥ | niruddha-cittāḥ santi | sarvatra samadarśinaḥ | sukhī syān muktaḥ ||",
     "text_english": "The yogi, established in meditation, controls the mind, sees all equally, and becomes happy and liberated.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Self-Discipline",
     "chapter_name_sanskrit": "ध्यानयोग"
   },
@@ -2895,7 +2874,7 @@
     "text_sanskrit": "योगिनः समाधिस्थाः। समत्वेन सर्वत्र दृष्ट्वा। सुखं वा दुःखं वा न यान्ति॥",
     "text_transliteration": "yoginaḥ samādhisthāḥ | samatvena sarvatra dṛṣṭvā | sukhaṃ vā duḥkhaṃ vā na yānti ||",
     "text_english": "The yogi, established in meditation, sees all beings equally and remains unaffected by pleasure or pain.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Self-Discipline",
     "chapter_name_sanskrit": "ध्यानयोग"
   },
@@ -2905,7 +2884,7 @@
     "text_sanskrit": "योगिनः समाधिस्थाः। सर्वत्र समानदर्शिनः। मोक्षं प्राप्नुवन्ति हि॥",
     "text_transliteration": "yoginaḥ samādhisthāḥ | sarvatra samānadarśinaḥ | mokṣaṃ prāpnuvanti hi ||",
     "text_english": "Yogis, established in meditation and seeing all equally, attain liberation.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Self-Discipline",
     "chapter_name_sanskrit": "ध्यानयोग"
   },
@@ -2915,7 +2894,7 @@
     "text_sanskrit": "सम्यक् योगिनः समाधिस्थाः। सर्वत्र समदर्शिनः। सुखी स्यान्मुक्तः॥",
     "text_transliteration": "samyak yoginaḥ samādhisthāḥ | sarvatra samadarśinaḥ | sukhī syān muktaḥ ||",
     "text_english": "Perfectly established in meditation, the yogi sees all alike and attains happiness and liberation.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Self-Discipline",
     "chapter_name_sanskrit": "ध्यानयोग"
   },
@@ -2925,7 +2904,7 @@
     "text_sanskrit": "योगिनः समाधिस्थाः। समत्वेन सर्वत्र दृष्ट्वा। मोक्षं प्राप्नुवन्ति हि॥",
     "text_transliteration": "yoginaḥ samādhisthāḥ | samatvena sarvatra dṛṣṭvā | mokṣaṃ prāpnuvanti hi ||",
     "text_english": "Yogis, established in meditation and seeing all beings equally, attain liberation.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Self-Discipline",
     "chapter_name_sanskrit": "ध्यानयोग"
   },
@@ -2935,7 +2914,7 @@
     "text_sanskrit": "योगिनः समाधिस्थाः। समत्वेन सर्वत्र दृष्ट्वा। सुखं वा दुःखं वा न यान्ति॥",
     "text_transliteration": "yoginaḥ samādhisthāḥ | samatvena sarvatra dṛṣṭvā | sukhaṃ vā duḥkhaṃ vā na yānti ||",
     "text_english": "The yogi, established in meditation, sees all beings equally and is unaffected by pleasure or pain.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Self-Discipline",
     "chapter_name_sanskrit": "ध्यानयोग"
   },
@@ -2945,7 +2924,7 @@
     "text_sanskrit": "योगिनः समाधिस्थाः। निरुद्धचित्ताः सन्ति। सर्वत्र समदर्शिनः। मोक्षं प्राप्नुवन्ति हि॥",
     "text_transliteration": "yoginaḥ samādhisthāḥ | niruddha-cittāḥ santi | sarvatra samadarśinaḥ | mokṣaṃ prāpnuvanti hi ||",
     "text_english": "Yogis, established in meditation, control their minds, see all beings equally, and attain liberation.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Self-Discipline",
     "chapter_name_sanskrit": "ध्यानयोग"
   },
@@ -2955,17 +2934,10 @@
     "text_sanskrit": "सम्यक् योगिनः समाधिस्थाः। सर्वत्र समानदर्शिनः। सुखी स्यान्मुक्तः हि॥",
     "text_transliteration": "samyak yoginaḥ samādhisthāḥ | sarvatra samānadarśinaḥ | sukhī syān muktaḥ hi ||",
     "text_english": "Perfectly established in meditation, seeing all equally, the yogi attains happiness and liberation.",
-    "speaker": "Krishna"
+    "speaker": "Krishna",
     "chapter_name": "The Yoga of Self-Discipline",
     "chapter_name_sanskrit": "ध्यानयोग"
-  }
-]
-
-
-
-[
-  
-  
+  },
   {
     "parva_number": 6,
     "chapter": 7,
@@ -3295,13 +3267,7 @@
     "speaker": "Krishna",
     "chapter_name": "The Yoga of Knowledge and Realization",
     "chapter_name_sanskrit": "ज्ञानविज्ञानयोग"
-  }
-]
-
-
-[
-
-
+  },
   {
     "parva_number": 6,
     "chapter": 8,
@@ -3565,13 +3531,7 @@
     "speaker": "Krishna",
     "chapter_name": "The Yoga of the Imperishable Brahman",
     "chapter_name_sanskrit": "अक्षरब्रह्मयोग"
-  }
-]
-
-
-[
-
-
+  },
   {
     "parva_number": 6,
     "chapter": 9,
@@ -3945,12 +3905,7 @@
     "speaker": "Krishna",
     "chapter_name": "The Yoga of Royal Knowledge and Royal Secret",
     "chapter_name_sanskrit": "राजविद्याराजगुह्ययोग"
-  }
-]
-
-
-[
-
+  },
   {
     "parva_number": 6,
     "chapter": 10,
@@ -4412,13 +4367,7 @@
     "speaker": "Krishna",
     "chapter_name": "The Yoga of Divine Glories",
     "chapter_name_sanskrit": "विभूतियोग"
-  }
-]
-
-
-
-[
-  
+  },
   {
     "parva_number": 6,
     "chapter": 11,
@@ -4477,7 +4426,7 @@
     "chapter_name": "The Yoga of the Vision of the Universal Form",
     "chapter_name_sanskrit": "विश्वरूपदर्शनयोग"
   },
-  [
+  
   {
     "parva_number": 6,
     "chapter": 11,
@@ -5048,12 +4997,7 @@
     "speaker": "Krishna",
     "chapter_name": "The Yoga of the Vision of the Universal Form",
     "chapter_name_sanskrit": "विश्वरूपदर्शनयोग"
-  }
-]
-
-[
-
-  
+  },
   {
     "parva_number": 6,
     "chapter": 12,
@@ -5287,13 +5231,7 @@
     "speaker": "Krishna",
     "chapter_name": "The Yoga of Devotion",
     "chapter_name_sanskrit": "भक्तियोग"
-  }
-]
-
-
-[
-
-  
+  },
   {
     "parva_number": 6,
     "chapter": 13,
@@ -5688,13 +5626,7 @@
     "speaker": "Krishna",
     "chapter_name": "The Yoga of the Distinction between the Field and the Knower of the Field",
     "chapter_name_sanskrit": "क्षेत्रक्षेत्रज्ञविभागयोग"
-  }
-]
-
-
-[
-
-  
+  },
   {
     "parva_number": 6,
     "chapter": 14,
@@ -6015,13 +5947,7 @@
     "speaker": "Krishna",
     "chapter_name": "The Yoga of the Division of the Three Modes of Material Nature",
     "chapter_name_sanskrit": "गुणत्रयविभागयोग"
-  }
-]
-
-
-[
-  
-
+  },
   {
     "parva_number": 6,
     "chapter": 15,
@@ -6256,12 +6182,7 @@
     "speaker": "Krishna",
     "chapter_name": "The Yoga of the Supreme Person",
     "chapter_name_sanskrit": "पुरुषोत्तमयोग"
-  }
-]
-
-
-[
-
+  },
   {
     "parva_number": 6,
     "chapter": 16,
@@ -6525,12 +6446,7 @@
     "speaker": "Krishna",
     "chapter_name": "The Yoga of the Division between Divine and Demoniacal Natures",
     "chapter_name_sanskrit": "दैवासुरसम्पद्विभागयोग"
-  }
-]
-
-[
-
-
+  },
   {
     "parva_number": 6,
     "chapter": 17,
@@ -6838,12 +6754,7 @@
     "speaker": "Krishna",
     "chapter_name": "The Yoga of Division of the Threefold Faith",
     "chapter_name_sanskrit": "श्रद्धात्रयविभागयोग"
-  }
-]
-
-
-[
-
+  },
   {
     "parva_number": 6,
     "chapter": 18,
@@ -7713,11 +7624,11 @@
     "text_english": "Arjuna said: Fully tranquil and of complete wisdom, I surrender to You, O Dhananjaya.",
     "speaker": "Arjuna",
     "chapter_name": "The Yoga of Liberation by Renunciation",
-  "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
-  }
-]
+    "chapter_name_sanskrit": "मोक्षसंन्यासयोग"
+  },
 
- {
+
+{
   "description": "The Bhagavad Gita is a 700-verse Sanskrit scripture that is part of the Indian epic Mahabharata, specifically the Bhishma Parva (Book of Bhishma). It is a dialogue between Prince Arjuna and Lord Krishna, who serves as his charioteer and spiritual guide. The Gita addresses profound philosophical, ethical, and spiritual questions, particularly dharma (duty), karma (action), yoga (spiritual discipline), and moksha (liberation). Set on the battlefield of Kurukshetra, it begins with Arjuna’s moral dilemma about fighting against his own relatives and teachers, and evolves into a comprehensive teaching on life, purpose, and the ultimate truth. The Bhagavad Gita is considered one of the most important texts in Hindu philosophy, combining action, knowledge, and devotion into a universal guide for righteous living.",
   
   "key_themes": {
@@ -7731,24 +7642,4 @@
 
   "conclusion": "The Bhagavad Gita is a timeless spiritual guide for humanity. It blends philosophy, ethics, and practical wisdom, making it relevant to students, leaders, professionals, and seekers alike. It teaches that the path to liberation lies in disciplined action, self-knowledge, and unwavering devotion to the Divine, while performing one’s duty in the world without attachment."
 }
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
+]
