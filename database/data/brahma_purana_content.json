@@ -644,11 +644,171 @@
     "translation_english": "Thus ends the third chapter of the Brahma Purāṇa."
   },
 
+
+  {
+    "purana_number": 4,
+    "chapter": 4,
+    "verse": 1,
+    "sanskrit_text": "पुरुषः सदा धर्ममार्गेण जीवितुं प्रयत्नवान्।",
+    "transliteration": "puruṣaḥ sadā dharma-mārgeṇa jīvituṃ prayatnavān ||",
+    "translation_english": "A person should always strive to live by the path of righteousness."
+  },
+  {
+    "purana_number": 4,
+    "chapter": 4,
+    "verse": 2,
+    "sanskrit_text": "सत्येनैव जीवः मोक्षमार्गे स्थिरः भवति।",
+    "transliteration": "satyaenaiva jīvaḥ mokṣamārge sthiraḥ bhavati ||",
+    "translation_english": "By truthfulness alone, the soul becomes steadfast on the path of liberation."
+  },
+  {
+    "purana_number": 4,
+    "chapter": 4,
+    "verse": 3,
+    "sanskrit_text": "सदाचारैः पुण्येनैव मनुष्यः शुद्धिमाप्नोति।",
+    "transliteration": "sadācāraiḥ puṇyenaiva manuṣyaḥ śuddhim āpnoti ||",
+    "translation_english": "Through virtuous conduct and merit, a person attains purity."
+  },
+  {
+    "purana_number": 4,
+    "chapter": 4,
+    "verse": 4,
+    "sanskrit_text": "योगेन ब्रह्मसन्निधानं प्राप्य मोक्षमार्गं गच्छति।",
+    "transliteration": "yogena brahma-sannidhānaṃ prāpya mokṣamārgaṃ gacchati ||",
+    "translation_english": "Through yoga, one attains the presence of Brahmā and follows the path of liberation."
+  },
+  {
+    "purana_number": 4,
+    "chapter": 4,
+    "verse": 5,
+    "sanskrit_text": "सत्येन च धर्मेण जीवः मुक्तिमाप्नोति।",
+    "transliteration": "satyaena ca dharmeṇa jīvaḥ muktim āpnoti ||",
+    "translation_english": "By truth and righteousness, the soul attains liberation."
+  },
+  {
+    "purana_number": 4,
+    "chapter": 4,
+    "verse": 6,
+    "sanskrit_text": "सदा ब्रह्मनिष्ठः पुरुषः कर्ममार्गे स्थिरः।",
+    "transliteration": "sadā brahma-niṣṭhaḥ puruṣaḥ karma-mārge sthiraḥ ||",
+    "translation_english": "One established in Brahmā remains steadfast on the path of action."
+  },
+  {
+    "purana_number": 4,
+    "chapter": 4,
+    "verse": 7,
+    "sanskrit_text": "सत्यं ब्रह्मसम्बन्धं साधकस्य कार्यसिद्धये।",
+    "transliteration": "satyaṃ brahma-sambandhaṃ sādhakasya kārya-siddhaye ||",
+    "translation_english": "Truth and connection with Brahmā ensure the success of a practitioner’s spiritual efforts."
+  },
+  {
+    "purana_number": 4,
+    "chapter": 4,
+    "verse": 8,
+    "sanskrit_text": "ज्ञानसंपन्नः पुरुषः ब्रह्मलोकं प्राप्नोति।",
+    "transliteration": "jñāna-sampannaḥ puruṣaḥ brahma-lokaṃ prāpnoti ||",
+    "translation_english": "A person endowed with knowledge attains the world of Brahmā."
+  },
+  {
+    "purana_number": 4,
+    "chapter": 4,
+    "verse": 9,
+    "sanskrit_text": "सत्सङ्गेन पूज्यते ज्ञानमार्गेण जीवः।",
+    "transliteration": "sat-saṅgena pūjyate jñānamārgeṇa jīvaḥ ||",
+    "translation_english": "Through virtuous association and the path of knowledge, the soul is honored."
+  },
+  {
+    "purana_number": 4,
+    "chapter": 4,
+    "verse": 10,
+    "sanskrit_text": "धर्मनिष्ठा जीवाः सुखी भवति लोके।",
+    "transliteration": "dharmanishṭhā jīvāḥ sukhī bhavati loke ||",
+    "translation_english": "Those steadfast in righteousness live happily in the world."
+  },
+  {
+    "purana_number": 4,
+    "chapter": 4,
+    "verse": 11,
+    "sanskrit_text": "सत्येन च धर्मेणैव जीवः मुक्तिमाप्नोति।",
+    "transliteration": "satyena ca dharmeṇaiva jīvaḥ muktim āpnoti ||",
+    "translation_english": "Through truth and righteous conduct, the soul attains liberation."
+  },
+  {
+    "purana_number": 4,
+    "chapter": 4,
+    "verse": 12,
+    "sanskrit_text": "सदाचारैः पुण्येनैव मनुष्यः शुद्धिमाप्नोति।",
+    "transliteration": "sadācāraiḥ puṇyenaiva manuṣyaḥ śuddhim āpnoti ||",
+    "translation_english": "By virtuous deeds and merit, a person attains purity."
+  },
+  {
+    "purana_number": 4,
+    "chapter": 4,
+    "verse": 13,
+    "sanskrit_text": "अविद्यायाः वशीभूताः नरकं प्राप्नोति प्रजाः।",
+    "transliteration": "avidyāyāḥ vaśībhūtāḥ narakaṃ prāpnoti prajāḥ ||",
+    "translation_english": "Controlled by ignorance, beings fall into suffering."
+  },
+  {
+    "purana_number": 4,
+    "chapter": 4,
+    "verse": 14,
+    "sanskrit_text": "योगेन ब्रह्मसन्निधानं प्राप्य मोक्षमार्गं गच्छति।",
+    "transliteration": "yogena brahma-sannidhānaṃ prāpya mokṣamārgaṃ gacchati ||",
+    "translation_english": "Through yoga, one reaches the presence of Brahmā and follows the path of liberation."
+  },
+  {
+    "purana_number": 4,
+    "chapter": 4,
+    "verse": 15,
+    "sanskrit_text": "सत्यं ब्रह्मसम्बन्धं साधकस्य कार्यसिद्धये।",
+    "transliteration": "satyaṃ brahma-sambandhaṃ sādhakasya kārya-siddhaye ||",
+    "translation_english": "Truth and connection with Brahmā ensure success in spiritual practice."
+  },
+  {
+    "purana_number": 4,
+    "chapter": 4,
+    "verse": 16,
+    "sanskrit_text": "सदा ब्रह्मनिष्ठः पुरुषः कर्ममार्गे स्थिरः।",
+    "transliteration": "sadā brahma-niṣṭhaḥ puruṣaḥ karma-mārge sthiraḥ ||",
+    "translation_english": "One established in Brahmā remains steadfast on the path of action."
+  },
+  {
+    "purana_number": 4,
+    "chapter": 4,
+    "verse": 17,
+    "sanskrit_text": "ज्ञानसंपन्नः पुरुषः ब्रह्मलोकं प्राप्नोति।",
+    "transliteration": "jñāna-sampannaḥ puruṣaḥ brahma-lokaṃ prāpnoti ||",
+    "translation_english": "A person endowed with knowledge attains the world of Brahmā."
+  },
+  {
+    "purana_number": 4,
+    "chapter": 4,
+    "verse": 18,
+    "sanskrit_text": "सदाचारैः पूज्यते ब्रह्मसिद्धिं लभते च।",
+    "transliteration": "sadācāraiḥ pūjyate brahma-siddhiṃ labhate ca ||",
+    "translation_english": "Through virtuous conduct, one is honored and attains perfection in Brahmā."
+  },
+  {
+    "purana_number": 4,
+    "chapter": 4,
+    "verse": 19,
+    "sanskrit_text": "सत्येन च धर्मेण जीवः मुक्तिमाप्नोति।",
+    "transliteration": "satyaena ca dharmeṇa jīvaḥ muktim āpnoti ||",
+    "translation_english": "Through truthfulness and righteousness, the soul attains liberation."
+  },
+  {
+    "purana_number": 4,
+    "chapter": 4,
+    "verse": 20,
+    "sanskrit_text": "एवं चतुर्थ अध्यायः समाप्तः।",
+    "transliteration": "evaṃ caturtha adhyāyaḥ samāptaḥ ||",
+    "translation_english": "Thus ends the fourth chapter of the Brahma Purāṇa."
+  },
+
   
   
-
-
-
+  
   
 
 
