@@ -1624,8 +1624,336 @@
     "translation_english": "Thus ends the eighth chapter of the Brahma Purāṇa."
   },
 
-  
-
+  [
+  {
+    "purana_number": 7,
+    "chapter": 9,
+    "verse": 1,
+    "sanskrit_text": "ऋषय ऊचुः— सर्गं वंशान् मनूंश्चैव विस्तार्य कथय प्रभो।",
+    "transliteration": "ṛṣaya ūcuḥ — sargaṃ vaṃśān manūṃś caiva vistārya kathaya prabho ||",
+    "translation_english": "The sages said: O Lord, please explain in detail the creation, lineages, and the Manus."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 9,
+    "verse": 2,
+    "sanskrit_text": "ब्रह्मोवाच— आदौ नारायणः सृष्टिं स्वेच्छया समकल्पयत्।",
+    "transliteration": "brahmovāca — ādau nārāyaṇaḥ sṛṣṭiṃ svecchayā samakalpayat ||",
+    "translation_english": "Brahmā said: In the beginning, Nārāyaṇa willed the creation by His own desire."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 9,
+    "verse": 3,
+    "sanskrit_text": "अव्यक्तात् प्रथमे ब्रह्मा स्वयंभूः समजायत।",
+    "transliteration": "avyaktāt prathame brahmā svayaṃbhūḥ samajāyata ||",
+    "translation_english": "From the unmanifest arose Brahmā, the self-born creator."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 9,
+    "verse": 4,
+    "sanskrit_text": "हिरण्यगर्भ इत्येष सृष्टिकर्ता प्रकीर्तितः।",
+    "transliteration": "hiraṇyagarbha ityeṣa sṛṣṭikartā prakīrtitaḥ ||",
+    "translation_english": "He is known as Hiraṇyagarbha, the creator of the universe."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 9,
+    "verse": 5,
+    "sanskrit_text": "मनसा सृष्टिमादाय प्रजाः ससर्ज चात्मवान्।",
+    "transliteration": "manasā sṛṣṭim ādāya prajāḥ sasarja cātmavān ||",
+    "translation_english": "Using his mind, the self-possessed Brahmā created living beings."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 9,
+    "verse": 6,
+    "sanskrit_text": "मरीच्यादीन् ऋषीन् पूर्वं मानसाः ससृजे प्रभुः।",
+    "transliteration": "marīcyādīn ṛṣīn pūrvaṃ mānasāḥ sasarje prabhuḥ ||",
+    "translation_english": "First, the Lord created the mind-born sages such as Marīci."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 9,
+    "verse": 7,
+    "sanskrit_text": "तेभ्यः प्रजाः प्रसूयन्ते स्थावराः जङ्गमास्तथा।",
+    "transliteration": "tebhyaḥ prajāḥ prasūyante sthāvarāḥ jaṅgamās tathā ||",
+    "translation_english": "From them arose all beings—both immobile and mobile."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 9,
+    "verse": 8,
+    "sanskrit_text": "मनवो धर्मकर्तारः सृष्टिरक्षणतत्पराः।",
+    "transliteration": "manavo dharmakartāraḥ sṛṣṭirakṣaṇa-tatparāḥ ||",
+    "translation_english": "The Manus became the lawgivers, devoted to preserving creation."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 9,
+    "verse": 9,
+    "sanskrit_text": "स्वायम्भुवो मनुः पूर्वं लोकस्य प्रभवो मतः।",
+    "transliteration": "svāyambhuvo manuḥ pūrvaṃ lokasya prabhavo mataḥ ||",
+    "translation_english": "Svāyambhuva Manu is regarded as the first progenitor of the world."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 9,
+    "verse": 10,
+    "sanskrit_text": "तस्मादिक्ष्वाकुवंशश्च सूर्यवंशः प्रजायते।",
+    "transliteration": "tasmād ikṣvāku-vaṃśaś ca sūryavaṃśaḥ prajāyate ||",
+    "translation_english": "From him arose the Ikṣvāku lineage, the Solar dynasty."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 9,
+    "verse": 11,
+    "sanskrit_text": "चन्द्रवंशश्च विप्रर्षे सोमादेव प्रजायते।",
+    "transliteration": "candravaṃśaś ca viprarṣe somādeva prajāyate ||",
+    "translation_english": "The Lunar dynasty arose from Soma, O sage."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 9,
+    "verse": 12,
+    "sanskrit_text": "एते वंशा महात्मानः पृथिव्यां धर्मकारिणः।",
+    "transliteration": "ete vaṃśā mahātmānaḥ pṛthivyāṃ dharmakāriṇaḥ ||",
+    "translation_english": "These great dynasties upheld righteousness upon the earth."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 9,
+    "verse": 13,
+    "sanskrit_text": "सप्तद्वीपा वसुन्धरा सप्तसागरसंवृता।",
+    "transliteration": "sapta-dvīpā vasundharā sapta-sāgara-saṃvṛtā ||",
+    "translation_english": "The earth consists of seven continents surrounded by seven oceans."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 9,
+    "verse": 14,
+    "sanskrit_text": "मेरुः पर्वतराजोऽत्र लोकानां मध्य उच्यते।",
+    "transliteration": "meruḥ parvatarājo’tra lokānāṃ madhya ucyate ||",
+    "translation_english": "Mount Meru, the king of mountains, stands at the center of the worlds."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 9,
+    "verse": 15,
+    "sanskrit_text": "लोकालोकः परो लोको यत्र सूर्यः न दृश्यते।",
+    "transliteration": "lokālokaḥ paro loko yatra sūryaḥ na dṛśyate ||",
+    "translation_english": "Beyond the known world lies Lokāloka, where the sun does not shine."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 9,
+    "verse": 16,
+    "sanskrit_text": "कालः सृष्टिं लयं चैव नियच्छति न संशयः।",
+    "transliteration": "kālaḥ sṛṣṭiṃ layaṃ caiva niyacchati na saṃśayaḥ ||",
+    "translation_english": "Time governs both creation and dissolution without doubt."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 9,
+    "verse": 17,
+    "sanskrit_text": "कल्पान्ते सर्वभूतानि विष्णौ लीयन्ति शाश्वते।",
+    "transliteration": "kalpānte sarva-bhūtāni viṣṇau līyanti śāśvate ||",
+    "translation_english": "At the end of a cosmic age, all beings dissolve into eternal Viṣṇu."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 9,
+    "verse": 18,
+    "sanskrit_text": "एष सर्गः समाख्यातो यथावद् ऋषिसत्तमाः।",
+    "transliteration": "eṣa sargaḥ samākhyāto yathāvad ṛṣi-sattamāḥ ||",
+    "translation_english": "Thus the process of creation has been properly explained, O great sages."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 9,
+    "verse": 19,
+    "sanskrit_text": "य एतत् शृणुयान्नित्यं स ज्ञानं लभते परम्।",
+    "transliteration": "ya etat śṛṇuyān nityaṃ sa jñānaṃ labhate param ||",
+    "translation_english": "One who regularly hears this attains supreme knowledge."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 9,
+    "verse": 20,
+    "sanskrit_text": "सृष्टिकथां समालोच्य पापैः स मुच्यते नरः।",
+    "transliteration": "sṛṣṭi-kathāṃ samālocya pāpaiḥ sa mucyate naraḥ ||",
+    "translation_english": "By contemplating the account of creation, a person is freed from sins."
+  },
+  [
+  {
+    "purana_number": 7,
+    "chapter": 9,
+    "verse": 21,
+    "sanskrit_text": "भूर् भुवः स्वः इति ख्याता लोकास्त्रय उदाहृताः।",
+    "transliteration": "bhūr bhuvaḥ svaḥ iti khyātā lokās traya udāhṛtāḥ ||",
+    "translation_english": "The three worlds are known as Bhūr, Bhuvaḥ, and Svaḥ."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 9,
+    "verse": 22,
+    "sanskrit_text": "महर्जनस्तपः सत्यं क्रमशः परिकीर्तितम्।",
+    "transliteration": "mahar janas tapaḥ satyaṃ kramaśaḥ parikīrtitam ||",
+    "translation_english": "Above them are the realms of Mahar, Jana, Tapa, and Satya."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 9,
+    "verse": 23,
+    "sanskrit_text": "एषां मध्ये स्थितो मेरुः प्रकाशो लोकदीपकः।",
+    "transliteration": "eṣāṃ madhye sthito meruḥ prakāśo loka-dīpakaḥ ||",
+    "translation_english": "Among these worlds stands Mount Meru, illuminating all realms."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 9,
+    "verse": 24,
+    "sanskrit_text": "देवाः मेरुं समाश्रित्य निवसन्ति सहर्षिभिः।",
+    "transliteration": "devāḥ meruṃ samāśritya nivasanti saha ṛṣibhiḥ ||",
+    "translation_english": "The gods dwell upon Meru along with sages."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 9,
+    "verse": 25,
+    "sanskrit_text": "सूर्यः प्रदक्षिणं मेरुं भ्रमते कालचक्रवत्।",
+    "transliteration": "sūryaḥ pradakṣiṇaṃ meruṃ bhramate kāla-cakra-vat ||",
+    "translation_english": "The sun circles Mount Meru like the wheel of time."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 9,
+    "verse": 26,
+    "sanskrit_text": "ततोऽहोरात्रमासाश्च ऋतवः संवत्सरास्तथा।",
+    "transliteration": "tato’horātra-māsāś ca ṛtavaḥ saṃvatsarās tathā ||",
+    "translation_english": "From this movement arise days, nights, months, seasons, and years."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 9,
+    "verse": 27,
+    "sanskrit_text": "चन्द्रः पुष्णाति भूतानि सोमरूपेण संस्थितः।",
+    "transliteration": "candraḥ puṣṇāti bhūtāni soma-rūpeṇa saṃsthitaḥ ||",
+    "translation_english": "The moon nourishes beings by assuming the form of Soma."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 9,
+    "verse": 28,
+    "sanskrit_text": "वायुरन्नं पचत्यत्र प्राणरूपेण संस्थितः।",
+    "transliteration": "vāyur annaṃ pacaty atra prāṇa-rūpeṇa saṃsthitaḥ ||",
+    "translation_english": "Vāyu digests food by dwelling within beings as vital breath."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 9,
+    "verse": 29,
+    "sanskrit_text": "अग्निर्देहेषु वैश्वानरः सर्वेषां धारणात्मकः।",
+    "transliteration": "agnir deheṣu vaiśvānaraḥ sarveṣāṃ dhāraṇātmakaḥ ||",
+    "translation_english": "Agni resides in all bodies as Vaiśvānara, sustaining life."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 9,
+    "verse": 30,
+    "sanskrit_text": "जलमन्नं स्मृतं देवैः प्राणानां धारणं परम्।",
+    "transliteration": "jalam annaṃ smṛtaṃ devaiḥ prāṇānāṃ dhāraṇaṃ param ||",
+    "translation_english": "Water is considered food by the gods and the supreme support of life."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 9,
+    "verse": 31,
+    "sanskrit_text": "पृथिवी सर्वभूतानां धारिणी पुण्यसंहिता।",
+    "transliteration": "pṛthivī sarva-bhūtānāṃ dhāriṇī puṇya-saṃhitā ||",
+    "translation_english": "The Earth supports all beings and is filled with sacred merit."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 9,
+    "verse": 32,
+    "sanskrit_text": "एते पञ्च महाभूताः सृष्टिस्थितिलयात्मकाः।",
+    "transliteration": "ete pañca mahābhūtāḥ sṛṣṭi-sthiti-layātmakāḥ ||",
+    "translation_english": "These five great elements govern creation, preservation, and dissolution."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 9,
+    "verse": 33,
+    "sanskrit_text": "गुणत्रयसमायुक्तं जगदेतच्चराचरम्।",
+    "transliteration": "guṇa-traya-samāyuktaṃ jagad etac carācaram ||",
+    "translation_english": "This moving and unmoving world is composed of the three guṇas."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 9,
+    "verse": 34,
+    "sanskrit_text": "सत्त्वं रजस्तमश्चैव प्रवर्तन्ते यथाक्रमम्।",
+    "transliteration": "sattvaṃ rajas tamaś caiva pravartante yathākramam ||",
+    "translation_english": "Sattva, Rajas, and Tamas operate in due order."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 9,
+    "verse": 35,
+    "sanskrit_text": "सत्त्वात् ज्ञानं रजः कर्म तमसो मोह उच्यते।",
+    "transliteration": "sattvāt jñānaṃ rajaḥ karma tamaso moha ucyate ||",
+    "translation_english": "From Sattva arises knowledge, from Rajas action, and from Tamas delusion."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 9,
+    "verse": 36,
+    "sanskrit_text": "एतद् गुणमयं विश्वं ज्ञात्वा मुच्येत पण्डितः।",
+    "transliteration": "etad guṇa-mayaṃ viśvaṃ jñātvā mucyeta paṇḍitaḥ ||",
+    "translation_english": "The wise are liberated by understanding this guṇa-based universe."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 9,
+    "verse": 37,
+    "sanskrit_text": "अविद्यया समाविष्टा जीवाः संसारमाश्रिताः।",
+    "transliteration": "avidyayā samāviṣṭā jīvāḥ saṃsāram āśritāḥ ||",
+    "translation_english": "Beings enveloped by ignorance remain bound to worldly existence."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 9,
+    "verse": 38,
+    "sanskrit_text": "विद्यया तु विमुच्यन्ते विष्णुपदमवाप्नुयुः।",
+    "transliteration": "vidyayā tu vimucyante viṣṇu-padam avāpnuyuḥ ||",
+    "translation_english": "Through true knowledge they are liberated and attain Viṣṇu’s abode."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 9,
+    "verse": 39,
+    "sanskrit_text": "विष्णुः सर्वगतः शुद्धो जगतः कारणं परम्।",
+    "transliteration": "viṣṇuḥ sarva-gataḥ śuddho jagataḥ kāraṇaṃ param ||",
+    "translation_english": "Viṣṇu is all-pervading, pure, and the supreme cause of the universe."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 9,
+    "verse": 40,
+    "sanskrit_text": "एवं ब्रह्माण्डमाख्यातं मया ते मुनिसत्तमाः।",
+    "transliteration": "evaṃ brahmāṇḍam ākhyātaṃ mayā te muni-sattamāḥ ||",
+    "translation_english": "Thus the nature of the cosmic universe has been explained to you, O great sages."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 9,
+    "verse": 41,
+    "sanskrit_text": "इति ब्रह्मपुराणे नवमोऽध्यायः समाप्तः।",
+    "transliteration": "iti brahma-purāṇe navamo’dhyāyaḥ samāptaḥ ||",
+    "translation_english": "Thus ends the ninth chapter of the Brahma Purāṇa."
+  }
 
 
 ]
