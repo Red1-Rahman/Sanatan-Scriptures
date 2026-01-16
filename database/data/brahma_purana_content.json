@@ -3563,7 +3563,328 @@
     "translation_english": "Thus ends Chapter Fifteen of the Brahma Purāṇa."
   },
 
-  
+
+  {
+    "purana_number": 7,
+    "chapter": 16,
+    "verse": 1,
+    "sanskrit_text": "ब्रह्मोवाच। शृणु धर्मस्य माहात्म्यं लोके लोकहितावहम्।",
+    "transliteration": "brahmovāca | śṛṇu dharmasya māhātmyaṃ loke loka-hitāvaham ||",
+    "translation_english": "Brahmā said: Hear the greatness of dharma, which brings welfare to the world."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 16,
+    "verse": 2,
+    "sanskrit_text": "धर्मेण धार्यते विश्वं धर्मः सर्वस्य कारणम्।",
+    "transliteration": "dharmeṇa dhāryate viśvaṃ dharmaḥ sarvasya kāraṇam ||",
+    "translation_english": "By dharma the universe is sustained; dharma is the cause of everything."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 16,
+    "verse": 3,
+    "sanskrit_text": "धर्महीनो नरो लोके जीवन्नपि मृतोपमः।",
+    "transliteration": "dharma-hīno naro loke jīvann api mṛtopamaḥ ||",
+    "translation_english": "A man devoid of dharma is like a dead person even while alive."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 16,
+    "verse": 4,
+    "sanskrit_text": "दानं तपः सत्यवाक्यं शौचं दयैव च।",
+    "transliteration": "dānaṃ tapaḥ satya-vākyaṃ śaucaṃ dayaiva ca ||",
+    "translation_english": "Charity, austerity, truthfulness, purity, and compassion—"
+  },
+  {
+    "purana_number": 7,
+    "chapter": 16,
+    "verse": 5,
+    "sanskrit_text": "एतानि धर्ममूलानि सर्ववर्णेषु संस्थितानि।",
+    "transliteration": "etāni dharma-mūlāni sarva-varṇeṣu saṃsthitāni ||",
+    "translation_english": "These are the roots of dharma present in all social classes."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 16,
+    "verse": 6,
+    "sanskrit_text": "यथाशक्ति प्रदातव्यं श्रद्धया च विशेषतः।",
+    "transliteration": "yathā-śakti pradātavyaṃ śraddhayā ca viśeṣataḥ ||",
+    "translation_english": "Charity should be given according to one’s capacity, with sincere faith."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 16,
+    "verse": 7,
+    "sanskrit_text": "अन्नदानं महादानं विद्यादानं ततः परम्।",
+    "transliteration": "anna-dānaṃ mahā-dānaṃ vidyā-dānaṃ tataḥ param ||",
+    "translation_english": "Food-giving is great charity; the gift of knowledge is even greater."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 16,
+    "verse": 8,
+    "sanskrit_text": "अभयप्रदः सदा दाता सर्वलोकप्रियः स्मृतः।",
+    "transliteration": "abhaya-pradaḥ sadā dātā sarva-loka-priyaḥ smṛtaḥ ||",
+    "translation_english": "One who grants fearlessness is always considered beloved by all."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 16,
+    "verse": 9,
+    "sanskrit_text": "न हिंस्यात्सर्वभूतानि मनसा कर्मणा गिरा।",
+    "transliteration": "na hiṃsyāt sarva-bhūtāni manasā karmaṇā girā ||",
+    "translation_english": "One should harm no being—by thought, action, or speech."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 16,
+    "verse": 10,
+    "sanskrit_text": "अहिंसा परमं धर्मं सर्वधर्मेषु विश्रुतम्।",
+    "transliteration": "ahiṃsā paramaṃ dharmaṃ sarva-dharmeṣu viśrutam ||",
+    "translation_english": "Non-violence is proclaimed as the highest dharma among all."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 16,
+    "verse": 11,
+    "sanskrit_text": "सेवया गुरुविप्राणां धर्मः सम्यक् प्रवर्धते।",
+    "transliteration": "sevayā guru-viprāṇāṃ dharmaḥ samyak pravardhate ||",
+    "translation_english": "Through service to teachers and sages, dharma flourishes properly."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 16,
+    "verse": 12,
+    "sanskrit_text": "मातृपितृगुरुश्रद्धा धर्मस्य प्रथमं पदम्।",
+    "transliteration": "mātṛ-pitṛ-guru-śraddhā dharmasya prathamaṃ padam ||",
+    "translation_english": "Reverence for mother, father, and teacher is the first step of dharma."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 16,
+    "verse": 13,
+    "sanskrit_text": "कृतज्ञो धर्मशीलश्च सर्वत्र सुखमश्नुते।",
+    "transliteration": "kṛtajño dharma-śīlaś ca sarvatra sukham aśnute ||",
+    "translation_english": "One who is grateful and righteous enjoys happiness everywhere."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 16,
+    "verse": 14,
+    "sanskrit_text": "धर्मो रक्षति रक्षितः सदा नात्र विचारणा।",
+    "transliteration": "dharmo rakṣati rakṣitaḥ sadā nātra vicāraṇā ||",
+    "translation_english": "Dharma protects those who protect it—there is no doubt in this."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 16,
+    "verse": 15,
+    "sanskrit_text": "धर्मात् अर्थश्च कामश्च मोक्षश्चैव प्रजायते।",
+    "transliteration": "dharmāt arthaś ca kāmaś ca mokṣaś caiva prajāyate ||",
+    "translation_english": "From dharma arise prosperity, pleasure, and liberation."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 16,
+    "verse": 16,
+    "sanskrit_text": "धर्ममूलं जगत्सर्वं धर्मः श्रेष्ठतमः स्मृतः।",
+    "transliteration": "dharma-mūlaṃ jagat sarvaṃ dharmaḥ śreṣṭhatamaḥ smṛtaḥ ||",
+    "translation_english": "The entire world is rooted in dharma; dharma is held to be supreme."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 16,
+    "verse": 17,
+    "sanskrit_text": "न धर्मात्परमं किञ्चित् त्रिषु लोकेषु विद्यते।",
+    "transliteration": "na dharmāt paramam kiñcit triṣu lokeṣu vidyate ||",
+    "translation_english": "Nothing greater than dharma exists in the three worlds."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 16,
+    "verse": 18,
+    "sanskrit_text": "धर्मे स्थितो नरो नित्यं कीर्तिं पुण्यं च विन्दति।",
+    "transliteration": "dharme sthito naro nityaṃ kīrtiṃ puṇyaṃ ca vindati ||",
+    "translation_english": "A person established in dharma gains lasting merit and fame."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 16,
+    "verse": 19,
+    "sanskrit_text": "धर्मयुक्तेन मनसा विष्णोः स्थानं प्रपद्यते।",
+    "transliteration": "dharma-yuktena manasā viṣṇoḥ sthānaṃ prapadyate ||",
+    "translation_english": "With a mind aligned to dharma, one attains the abode of Viṣṇu."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 16,
+    "verse": 20,
+    "sanskrit_text": "एतदुक्तं मया विप्राः धर्मस्य परमं फलम्।",
+    "transliteration": "etad uktaṃ mayā viprāḥ dharmasya paramaṃ phalam ||",
+    "translation_english": "Thus, O sages, I have declared the supreme fruit of dharma."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 16,
+    "verse": 21,
+    "sanskrit_text": "धर्मेण हीनः पुरुषो दुःखमेव समश्नुते।",
+    "transliteration": "dharmeṇa hīnaḥ puruṣo duḥkham eva samaśnute ||",
+    "translation_english": "A person devoid of dharma experiences nothing but suffering."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 16,
+    "verse": 22,
+    "sanskrit_text": "धर्मे प्रतिष्ठितो नित्यं सर्वदुःखात् प्रमुच्यते।",
+    "transliteration": "dharme pratiṣṭhito nityaṃ sarva-duḥkhāt pramucyate ||",
+    "translation_english": "One firmly established in dharma is freed from all sorrow."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 16,
+    "verse": 23,
+    "sanskrit_text": "सत्येन धार्यते लोकः सत्यं धर्मस्य लक्षणम्।",
+    "transliteration": "satyena dhāryate lokaḥ satyaṃ dharmasya lakṣaṇam ||",
+    "translation_english": "The world is upheld by truth; truth is the mark of dharma."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 16,
+    "verse": 24,
+    "sanskrit_text": "असत्येन विनश्यन्ति सर्वे धर्माः कृतत्रिमाः।",
+    "transliteration": "asatyena vinaśyanti sarve dharmāḥ kṛta-trimāḥ ||",
+    "translation_english": "Through falsehood, all artificial forms of righteousness perish."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 16,
+    "verse": 25,
+    "sanskrit_text": "दया धर्मस्य सारोऽयं दयाहीनो न धर्मवित्।",
+    "transliteration": "dayā dharmasya sāro’yaṃ dayā-hīno na dharmavit ||",
+    "translation_english": "Compassion is the essence of dharma; one without compassion knows no dharma."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 16,
+    "verse": 26,
+    "sanskrit_text": "क्षमया भूषणं धर्मः क्षमाहीनो न शोभते।",
+    "transliteration": "kṣamayā bhūṣaṇaṃ dharmaḥ kṣamā-hīno na śobhate ||",
+    "translation_english": "Forgiveness adorns dharma; without it, dharma does not shine."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 16,
+    "verse": 27,
+    "sanskrit_text": "तपसा शुद्ध्यते जीवः कर्मणा बध्यते पुनः।",
+    "transliteration": "tapasā śuddhyate jīvaḥ karmaṇā badhyate punaḥ ||",
+    "translation_english": "Through austerity the soul is purified; through action it becomes bound again."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 16,
+    "verse": 28,
+    "sanskrit_text": "सदाचारः परो धर्मः सर्वेषां हितकारकः।",
+    "transliteration": "sadācāraḥ paro dharmaḥ sarveṣāṃ hita-kārakaḥ ||",
+    "translation_english": "Right conduct is the highest dharma and beneficial to all."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 16,
+    "verse": 29,
+    "sanskrit_text": "सदाचारविहीनो हि नरो नरकगामी स्मृतः।",
+    "transliteration": "sadācāra-vihīno hi naro naraka-gāmī smṛtaḥ ||",
+    "translation_english": "A person devoid of righteous conduct is said to go to hell."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 16,
+    "verse": 30,
+    "sanskrit_text": "सेवया ब्राह्मणानां तु पुण्यं वर्धते नृणाम्।",
+    "transliteration": "sevayā brāhmaṇānāṃ tu puṇyaṃ vardhate nṛṇām ||",
+    "translation_english": "By serving the learned, a person’s merit increases."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 16,
+    "verse": 31,
+    "sanskrit_text": "अतिथिपूजया नित्यं गृहस्थो धर्ममश्नुते।",
+    "transliteration": "atithi-pūjayā nityaṃ gṛhastho dharmam aśnute ||",
+    "translation_english": "Through honoring guests, a householder partakes in dharma."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 16,
+    "verse": 32,
+    "sanskrit_text": "गुरुशुश्रूषया विद्या धर्मश्च समवर्धते।",
+    "transliteration": "guru-śuśrūṣayā vidyā dharmaś ca samavardhate ||",
+    "translation_english": "By serving the teacher, both knowledge and dharma increase."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 16,
+    "verse": 33,
+    "sanskrit_text": "नित्यस्वाध्यायशीलस्य पापं नश्यति सर्वदा।",
+    "transliteration": "nitya-svādhyāya-śīlasya pāpaṃ naśyati sarvadā ||",
+    "translation_english": "For one devoted to daily study, sin is always destroyed."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 16,
+    "verse": 34,
+    "sanskrit_text": "यज्ञदानतपःकर्म धर्मस्यैव विभूतयः।",
+    "transliteration": "yajña-dāna-tapaḥ-karma dharmasyaiva vibhūtayaḥ ||",
+    "translation_english": "Sacrifice, charity, austerity, and action are manifestations of dharma."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 16,
+    "verse": 35,
+    "sanskrit_text": "धर्मेण हीनकर्माणि निष्फलानि भवन्ति हि।",
+    "transliteration": "dharmeṇa hīna-karmāṇi niṣphalāni bhavanti hi ||",
+    "translation_english": "Actions devoid of dharma indeed become fruitless."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 16,
+    "verse": 36,
+    "sanskrit_text": "धर्मसारं समासेन प्रोक्तं वो मुनिसत्तमाः।",
+    "transliteration": "dharma-sāraṃ samāsena proktaṃ vo muni-sattamāḥ ||",
+    "translation_english": "O best of sages, the essence of dharma has been briefly explained to you."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 16,
+    "verse": 37,
+    "sanskrit_text": "एतदाचरतो नित्यं नरः श्रेयः समश्नुते।",
+    "transliteration": "etad ācarato nityaṃ naraḥ śreyaḥ samaśnute ||",
+    "translation_english": "One who practices this daily attains supreme welfare."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 16,
+    "verse": 38,
+    "sanskrit_text": "धर्ममार्गे स्थितो नित्यं विष्णुलोकं स गच्छति।",
+    "transliteration": "dharma-mārge sthito nityaṃ viṣṇu-lokaṃ sa gacchati ||",
+    "translation_english": "Ever established on the path of dharma, one goes to the world of Viṣṇu."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 16,
+    "verse": 39,
+    "sanskrit_text": "इदं धर्मरहस्यं हि गोपनीयं प्रयत्नतः।",
+    "transliteration": "idaṃ dharma-rahasyaṃ hi gopanīyaṃ prayatnataḥ ||",
+    "translation_english": "This secret of dharma should be carefully preserved."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 16,
+    "verse": 40,
+    "sanskrit_text": "धर्मयुक्ताय दातव्यं श्रद्धालवे विशेषतः।",
+    "transliteration": "dharma-yuktāya dātavyaṃ śraddhālave viśeṣataḥ ||",
+    "translation_english": "It should be imparted especially to one devoted and faithful to dharma."
+  },
+
 
   
 
