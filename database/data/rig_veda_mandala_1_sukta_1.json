@@ -130,8 +130,224 @@
     "transliteration": "mitrāvaruṇā suvratau balaṃ naḥ suprajāstvām | vardhayantau na āyuṣā ||",
     "translation_english": "O Mitra-Varuṇa, wide in dominion and strong by birth, vouchsafe us strength that works aright."
   },
- 
 
-  
+  {
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 4,
+  "sukta_name": "Indra Sukta",
+  "rishi": "Madhuchchhandas Vaishvamitra",
+  "devata": "Indra",
+  "chandas": "Gāyatrī",
+  "total_verses": 10
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "सुरूपकृत्नुमूतये सुदुघामिव गोदुहे । जुहूमसि द्यविद्यवि ॥",
+  "transliteration": "surūpakṛtnumūtaye sudughāmiva goduhe | juhūmasi dyavidyavi ||",
+  "translation_english": "Day by day we invoke for our aid the one of beautiful form, like a milkman calls a good‑milking cow." :contentReference[oaicite:0]{index=0}
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "उप नः सवना गहि सोमस्य सोमपाः पिब । गोदा इद्रेवतो मदः ॥",
+  "transliteration": "upa naḥ savanā gahi somasya somapāḥ piba | godā idrevato madaḥ ||",
+  "translation_english": "O drinker of Soma, come to our offerings and drink the Soma; the intoxication of the glorious one is indeed wealth‑giving." :contentReference[oaicite:1]{index=1}
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "अथा ते अन्तमानां विद्याम सुमतीनाम् । मा नो अति ख्य आ गहि ॥",
+  "transliteration": "athā te antamānāṃ vidyāṃ sumatīnām | mā no ati khyā ā gahi ||",
+  "translation_english": "Then may we, who are near you, know your benevolent intentions; do not disregard us, come hither." :contentReference[oaicite:2]{index=2}
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "परेहि विग्रमस्तृतमिन्द्रं पृच्छा विपश्चितम् । यस्ते सखिभ्य आ वरम् ॥",
+  "transliteration": "parehi vigramastṛtam indraṃ pṛcchā vipaścitam | yaste sakhibhya ā varam ||",
+  "translation_english": "Go and ask of Indra, the wise and unconquered hero, him who is best to your friends." :contentReference[oaicite:3]{index=3}
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "उत ब्रुवन्तु नो निदो निरन्यतश्चिदारत । दधाना इन्द्र इद्दुवः ॥",
+  "transliteration": "uta bruvantu no nido niraṇyataścidārata | dadhānā indra idduvaḥ ||",
+  "translation_english": "Whether those who mock us say we lack restraint, or not, ye who serve Indra and none else." :contentReference[oaicite:4]{index=4}
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "उत नः सुभगाँ अरिर्वोचेयुर्दस्म कृष्टयः । स्यामेदिन्द्रस्य शर्मणि ॥",
+  "transliteration": "uta naḥ subhagāṁ arir voceyurdasma kṛṣṭayaḥ | syāmedindrasya śarmaṇi ||",
+  "translation_english": "Let those who serve Indra with praise be free from blame; may we be in Indra’s grace and protection." :contentReference[oaicite:5]{index=5}
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "एம्वामशुर्वाज॑य॒यं सहस्रि॑णं पु॒रुष्टुतम् । इन्द्रं सहस्रसातमम् ॥",
+  "transliteration": "emvāmaśurvājayayaṃ sahasriṇaṃ puruṣṭutam | indraṃ sahasrasātamam ||",
+  "translation_english": "We praise the glorious, thousand‑fold, much‑praised Indra, the greatest winner of a thousand spoils." :contentReference[oaicite:6]{index=6}
+},
+{
+  "verse_number": 8,
+  "sanskrit_text": "नू चित्सहोजा अमृतो न तून्दते । होतार यद् दूतः अभवत् ॥",
+  "transliteration": "nū citsahojā amṛto na tundate | hotā yad dūtaḥ abhavat ||",
+  "translation_english": "Now, the immortal one, born of strength, does not fail when he becomes the messenger of the Hotri priest." :contentReference[oaicite:7]{index=7}
+},
+{
+  "verse_number": 9,
+  "sanskrit_text": "इमा उ त्वा पुरूवसो गिरो वर्धन्तु या मम । पावकवर्णा उच्चयो वि पचिता वि पश्यिता ॥",
+  "transliteration": "imā u tvā purūvaso giro vardhantu yā mama | pāvakavarṇā uccayo vi pacitā vi paśyitā ||",
+  "translation_english": "O you of many riches, may these praises of mine strengthen you — praises that are pure, purifying, and wise." :contentReference[oaicite:8]{index=8}
+},
+{
+  "verse_number": 10,
+  "sanskrit_text": "यस्या त्वमिन्द्र स्तोमेṣu इह श्रुण्वते महे । सद्यः वर्धस्व सुवीर्यः ॥",
+  "transliteration": "yasyā tvam indra stomeṣu iha śruṇvate mahe | sadyaḥ vardhasva suvīryaḥ ||",
+  "translation_english": "O Indra, you who are great, listen to our praises here; grow immediately in strength and heroism." :contentReference[oaicite:9]{index=9}
+},
+
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 5,
+  "sukta_name": "Indra Sukta",
+  "rishi": "Madhuchchhandas Vaishvamitra",
+  "devata": "Indra",
+  "chandas": "Gāyatrī",
+  "total_verses": 10
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "आ त्वेतानि सदीदं विषवे ऋचा वाग्भिः प्र गायत । सखायः स्तोमवाहसः ॥",
+  "transliteration": "ā tvetāni sadīdaṃ viśave ṛcā vāgbhiḥ pra gāyata | sakhāyaḥ stomavāhasaḥ ||",
+  "translation_english": "Come hither with these thoughts, O Indra, sung by all the hymns and voiced by our choirs, O friends bearing the stoma." :contentReference[oaicite:0]{index=0}
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "पुरूतमं पुरूणाम् ईशानं वार्याणाम् इन्द्रं सोमे सचा सुते ।",
+  "transliteration": "purūtamaṃ purūṇām īśānaṃ vāryāṇām indraṃ some sacā sute ||",
+  "translation_english": "Indra, lord of the abundant, the ruler of all glories, come with the Soma and partake of the pressed juice." :contentReference[oaicite:1]{index=1}
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "स॒ घा नो॒ योग॒ आ भु॑वत् स रा॒ये स पुर॑न्ध्याम् । गम॒द्वाजे॑भि॒रा स न॑ः ॥",
+  "transliteration": "sa gha no yoga ā bhuvat sa rāye sa purandhyām | gamadvājebhirā sa naḥ ||",
+  "translation_english": "May he be for us the union of mind and action, the carrier of all wealth and power, the breaker of our foes." :contentReference[oaicite:2]{index=2}
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "यस्य संथे न वृण्वते हरिः समत्सु शत्रवः ।",
+  "transliteration": "yasya saṃsthe na vṛṇvate hariḥ samatsu śatravaḥ ||",
+  "translation_english": "In whose presence the foes cannot stand, in the gathering of the good, let him be ours." :contentReference[oaicite:3]{index=3}
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "मा नो मर्ता अभि द्रुहन्त नूनामिन्द्र गिर्वणः । ईशानो यवया वधम् ॥",
+  "transliteration": "mā no martā abhi druḥanta nūnām indra girvaṇaḥ | īśāno yavyāya vadham ||",
+  "translation_english": "Let not mortals who insult this word harm us, O Indra of swift speech, the powerful ruler against the host." :contentReference[oaicite:4]{index=4}
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "सुतस्य पीतये सद्यो वृद्धः अजायथाः । इन्द्र ज्यैष्ठ्याय सुक्रतो इति सुक्रतो ॥",
+  "transliteration": "sutasya pītaye sadyo vṛddhaḥ ajāyathāḥ | indra jyaiṣṭhyāya sukṛto iti sukṛto ||",
+  "translation_english": "For the drinking of the pressed Soma he was born increased, O Indra of mighty deeds, to be of supreme strength." :contentReference[oaicite:5]{index=5}
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "इन्द्र गिर्वणः सुतस्य पीतये अग्नयः आशवः । धियं तव प्रचेतसे ॥",
+  "transliteration": "indra girvaṇaḥ sutasya pītaye agnayaḥ āśavaḥ | dhiyaṃ tava prachetase ||",
+  "translation_english": "O Indra of swift speech, fiery and full of vigour, may the Soma streams bring peace to thy conscious mind." :contentReference[oaicite:6]{index=6}
+},
+{
+  "verse_number": 8,
+  "sanskrit_text": "अवीवृद्धं त्वां गीरः प्र गायत प्रार्थनाः । इन्द्र सहस्रिणं ते वर्धतु स्तोमाः ॥",
+  "transliteration": "avī-vṛddhaṃ tvāṃ gīraḥ pra gāyata prārthanāḥ | indra sahasriṇaṃ te vardhatu stomāḥ ||",
+  "translation_english": "May the hymns and our prayers increase thee, O Indra of a thousand powers." :contentReference[oaicite:7]{index=7}
+},
+{
+  "verse_number": 9,
+  "sanskrit_text": "अक्षितोतिः सहस्रिणं वाजं ते सनेदः । धृतम् अस्माकं वर्धयतु॥",
+  "transliteration": "akṣitotiḥ sahasriṇaṃ vājaṃ te sanedaḥ | dhṛtam asmākaṃ vardhayatu ||",
+  "translation_english": "May Indra, whose expansion knows no decay, uphold for us the thousand‑fold wealth in which our strength abides." :contentReference[oaicite:8]{index=8}
+},
+{
+  "verse_number": 10,
+  "sanskrit_text": "मा नो मर्ता अभि द्रुहन्तनूनामिन्द्र वायवेभ्यः । वाजेभिरापो गुरो वर्धन्तु ॥",
+  "transliteration": "mā no martā abhi druḥantanūnām indra vāyavebhyaḥ | vājebhir āpo guro vardhantu ||",
+  "translation_english": "Let not those who would harm us prevail; may Indra and the winds and waters increase our might." :contentReference[oaicite:9]{index=9}
+},
+
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 6,
+  "sukta_name": "Indra and Maruts Sukta",
+  "rishi": "Madhuchchhandas Vaishvamitra",
+  "devata": "Indra with the Maruts",
+  "chandas": "Gāyatrī",
+  "total_verses": 10
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "युञ्जन्ति ब्रध्नमरुषं चरन्तं परि तस्थुषः । रोचन्ते रोचना दिवि ॥",
+  "transliteration": "yuñjanti bradhnamaruṣaṃ carantaṃ pari tasthuṣaḥ | rocante rocana divi ||",
+  "translation_english": "Around him stand those who yoke the great, storm‑like forces; they shine brilliantly in the sky." :contentReference[oaicite:1]{index=1}
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "युञ्जन्त्यस्य काम्या हरी विपक्षसा रथे । शोणा धृष्णू नृवाहसा ॥",
+  "transliteration": "yuñjanty asya kāmyā harī vipakṣasā rathe | śoṇā dhṛṣṇū nṛvāhasā ||",
+  "translation_english": "They harness for him the desirable bay horses on either side of the chariot, with firm‑grasping reins." :contentReference[oaicite:2]{index=2}
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "केतुं कृण्वन्नकेतवे पेशो मर्या अपे्शसे । समुषद्भिरजायथाः ॥",
+  "transliteration": "ketuṃ kṛṇvann ketave peśo maryā apeśase | samuṣadbhir ajāyathāḥ ||",
+  "translation_english": "With them he creates a banner of glory; born together in shining brilliance, they have arisen." :contentReference[oaicite:3]{index=3}
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "आदह स्वधामनु पुनर्गर्भत्वमेरिरे । दधाना नाम यज्ञियम् ॥",
+  "transliteration": "ādaha svadhāmanu punar garbhatvamerire | dadhānā nāma yajñiyam ||",
+  "translation_english": "Then after the day of the offering they progress along their destined path, bearing the sacred Name of the rite." :contentReference[oaicite:4]{index=4}
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "वीळु चिदारुजत्नुभिर्गुहा चिदिन्द्र वह्निभिः । अविन्द उस्रिया अनु ॥",
+  "transliteration": "vīḷu cidārujatnubhir guhā cidindra vahnibhiḥ | avinda usriyā anu ||",
+  "translation_english": "Breakers even of what is firm and secret, with Indra and the storm‑fires they find the shining herds even in the cave." :contentReference[oaicite:5]{index=5}
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "देवयन्तो यथा मतिमच्छा विदद्वसुं गिरः । महामनूषत श्रुतम् ॥",
+  "transliteration": "devayanto yathā matim acchā vidadvasuṃ giraḥ | mahāmanūśat śrutam ||",
+  "translation_english": "Even as the worshipping singers praise him who finds wealth, the mighty One is heard resounding in the songs." :contentReference[oaicite:6]{index=6}
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "इन्द्रेण सं हि दृक्षसे संजग्मानो अबिभ्युषा । मन्दू इति समाना वर्चसा ॥",
+  "transliteration": "indreṇa saṃ hi dṛkṣase samjagmānaḥ abibhyuṣā | mandū iti samāna varcasā ||",
+  "translation_english": "Together with Indra shalt thou behold those who travel with him, eager for union, equal in brilliance." :contentReference[oaicite:7]{index=7}
+},
+{
+  "verse_number": 8,
+  "sanskrit_text": "अनव्यद्यैर्भिद्युभिर्मखः सहस्वदर्चति । गणैरिन्द्रस्य काम्यैः ॥",
+  "transliteration": "anavyadyair bhidyubhir makhaḥ sahasvad arcati | gaṇair indrasya kāmyaiḥ ||",
+  "translation_english": "The troop of swift ones, strong and faultless, worship Indra with the bands he desires." :contentReference[oaicite:8]{index=8}
+},
+{
+  "verse_number": 9,
+  "sanskrit_text": "इतः वा सातिम इमहे दिवः वा पार्थिवात् । अधि इन्द्रम् महः वा रजसः ॥",
+  "transliteration": "itaḥ vā sātim īmahe divaḥ vā pārthivāt | adhi indram mahaḥ vā rajasaḥ ||",
+  "translation_english": "From this place, or from heaven, or from above the earth, we invoke Indra for conquest and great wealth." :contentReference[oaicite:9]{index=9}
+},
+{
+  "verse_number": 10,
+  "sanskrit_text": "इन्द्रेण वाजमह्यमादधीत यज्ञश्रेष्ठः । वाजिनामुप सौम्यं वर्धताम् ॥",
+  "transliteration": "indreṇa vājam a myām adadhīta yajña śreṣṭhaḥ | vājinām up saumyam vardhatām ||",
+  "translation_english": "May the best of rituals bestowed by Indra prosper the host; may his blessings increase gently upon the worshippers." :contentReference[oaicite:10]{index=10}
+},
+
+
+
 
 ]
