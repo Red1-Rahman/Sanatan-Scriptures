@@ -4849,7 +4849,329 @@
     "transliteration": "iti bhakti-prasaṅgo’yaṃ mayā proktaḥ sanātanaḥ ||",
     "translation_english": "Thus ends this eternal discourse on devotion as spoken by me."
   },
-  
+
+
+  {
+    "purana_number": 7,
+    "chapter": 20,
+    "verse": 1,
+    "sanskrit_text": "अथ धर्मविधानं तु वर्णाश्रमसमन्वितम्।",
+    "transliteration": "atha dharma-vidhānaṃ tu varṇāśrama-samanvitam ||",
+    "translation_english": "Now the ordinances of dharma, connected with the varṇas and āśramas, are described."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 20,
+    "verse": 2,
+    "sanskrit_text": "ब्रह्मणः क्षत्रियस्यैव वैश्यस्य शूद्रस्य च।",
+    "transliteration": "brāhmaṇasya kṣatriyasyaiva vaiśyasya śūdrasya ca ||",
+    "translation_english": "Of the Brāhmaṇa, Kṣatriya, Vaiśya, and Śūdra—"
+  },
+  {
+    "purana_number": 7,
+    "chapter": 20,
+    "verse": 3,
+    "sanskrit_text": "स्वकर्माणि प्रवक्ष्यामि यथाशास्त्रं पृथक् पृथक्।",
+    "transliteration": "sva-karmāṇi pravakṣyāmi yathā-śāstraṃ pṛthak pṛthak ||",
+    "translation_english": "I shall explain their respective duties according to the scriptures."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 20,
+    "verse": 4,
+    "sanskrit_text": "अध्यापनं तपः शौचं ब्राह्मणस्य विशेषतः।",
+    "transliteration": "adhyāpanaṃ tapaḥ śaucaṃ brāhmaṇasya viśeṣataḥ ||",
+    "translation_english": "Teaching, austerity, and purity are especially the duties of a Brāhmaṇa."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 20,
+    "verse": 5,
+    "sanskrit_text": "दानं प्रतिग्रहं चैव यजनं याजनं तथा।",
+    "transliteration": "dānaṃ pratigrahaṃ caiva yajjanaṃ yājanaṃ tathā ||",
+    "translation_english": "Charity, acceptance of gifts, sacrifice, and officiating sacrifices—"
+  },
+  {
+    "purana_number": 7,
+    "chapter": 20,
+    "verse": 6,
+    "sanskrit_text": "एतानि ब्राह्मणस्योक्तानि कर्माणि द्विजसत्तमाः।",
+    "transliteration": "etāni brāhmaṇasyoktāni karmāṇi dvija-sattamāḥ ||",
+    "translation_english": "These are declared the duties of the Brāhmaṇa, O best of the twice-born."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 20,
+    "verse": 7,
+    "sanskrit_text": "रक्षणं प्रजयानां च दानं यज्ञश्च क्षत्रियः।",
+    "transliteration": "rakṣaṇaṃ prajayānāṃ ca dānaṃ yajñaś ca kṣatriyaḥ ||",
+    "translation_english": "Protection of subjects, charity, and sacrifice are the duties of a Kṣatriya."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 20,
+    "verse": 8,
+    "sanskrit_text": "शौर्यं तेजो धृतिर्दाक्ष्यं युद्धे चाप्यपलायनम्।",
+    "transliteration": "śauryaṃ tejo dhṛtir dākṣyaṃ yuddhe cāpy apalāyanam ||",
+    "translation_english": "Valor, strength, patience, skill, and never fleeing from battle—"
+  },
+  {
+    "purana_number": 7,
+    "chapter": 20,
+    "verse": 9,
+    "sanskrit_text": "एतानि क्षत्रियस्योक्तानि कर्माणि धर्मतः।",
+    "transliteration": "etāni kṣatriyasyoktāni karmāṇi dharmataḥ ||",
+    "translation_english": "These are declared the righteous duties of a Kṣatriya."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 20,
+    "verse": 10,
+    "sanskrit_text": "कृषिगौरक्ष्यवाणिज्यं वैश्यकर्म स्वभावजम्।",
+    "transliteration": "kṛṣi-gaurakṣya-vāṇijyaṃ vaiśya-karma svabhāvajam ||",
+    "translation_english": "Agriculture, cattle-rearing, and trade are the natural duties of a Vaiśya."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 20,
+    "verse": 11,
+    "sanskrit_text": "दानं धर्मे च निष्ठा च वैश्यस्यापि विधीयते।",
+    "transliteration": "dānaṃ dharme ca niṣṭhā ca vaiśyasyāpi vidhīyate ||",
+    "translation_english": "Charity and steadfastness in dharma are also enjoined upon the Vaiśya."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 20,
+    "verse": 12,
+    "sanskrit_text": "शुश्रूषा द्विजवर्णानां शूद्रस्य परमं तपः।",
+    "transliteration": "śuśrūṣā dvija-varṇānāṃ śūdrasya paramaṃ tapaḥ ||",
+    "translation_english": "Service to the twice-born is the supreme duty of the Śūdra."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 20,
+    "verse": 13,
+    "sanskrit_text": "सत्यं शौचं दया क्षान्तिः सर्वेषां धर्मसाधनम्।",
+    "transliteration": "satyaṃ śaucaṃ dayā kṣāntiḥ sarveṣāṃ dharma-sādhanam ||",
+    "translation_english": "Truthfulness, purity, compassion, and patience are duties common to all."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 20,
+    "verse": 14,
+    "sanskrit_text": "स्वकर्मनिरतो नित्यं पुरुषः सिद्धिमाप्नुयात्।",
+    "transliteration": "sva-karma-nirato nityaṃ puruṣaḥ siddhim āpnuyāt ||",
+    "translation_english": "A person devoted to their own duty always attains perfection."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 20,
+    "verse": 15,
+    "sanskrit_text": "परधर्मे भयावहं स्वधर्मे निधनं श्रेयः।",
+    "transliteration": "para-dharme bhayāvahaṃ sva-dharme nidhanaṃ śreyaḥ ||",
+    "translation_english": "Another’s duty is dangerous; even death in one’s own duty is better."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 20,
+    "verse": 16,
+    "sanskrit_text": "एवं धर्मविधिं ज्ञात्वा नरः पापैः प्रमुच्यते।",
+    "transliteration": "evaṃ dharma-vidhiṃ jñātvā naraḥ pāpaiḥ pramucyate ||",
+    "translation_english": "Knowing these rules of dharma, a person is freed from sin."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 20,
+    "verse": 17,
+    "sanskrit_text": "धर्मे स्थितस्य पुरुषस्य विष्णुः प्रीयते ध्रुवम्।",
+    "transliteration": "dharme sthitasya puruṣasya viṣṇuḥ prīyate dhruvam ||",
+    "translation_english": "Viṣṇu is surely pleased with one who stands firm in dharma."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 20,
+    "verse": 18,
+    "sanskrit_text": "धर्मो विष्णुः स्वयं प्रोक्तः शास्त्रज्ञैः सनातनः।",
+    "transliteration": "dharmo viṣṇuḥ svayaṃ proktaḥ śāstra-jñaiḥ sanātanaḥ ||",
+    "translation_english": "Dharma itself is declared to be Viṣṇu by the knowers of scripture."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 20,
+    "verse": 19,
+    "sanskrit_text": "तस्माद् धर्मं समाश्रित्य विष्णुभक्तो भवेद् नरः।",
+    "transliteration": "tasmād dharmaṃ samāśritya viṣṇu-bhakto bhaved naraḥ ||",
+    "translation_english": "Therefore, taking refuge in dharma, one becomes a devotee of Viṣṇu."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 20,
+    "verse": 20,
+    "sanskrit_text": "इदं धर्मसमाख्यानं मया प्रोक्तं यथाक्रमम्।",
+    "transliteration": "idaṃ dharma-samākhyānaṃ mayā proktaṃ yathā-kramam ||",
+    "translation_english": "Thus this explanation of dharma has been given by me in proper order."
+  },
+  [
+  {
+    "purana_number": 7,
+    "chapter": 20,
+    "verse": 21,
+    "sanskrit_text": "गृहस्थस्य विशेषेण धर्मोऽयं परिकीर्तितः।",
+    "transliteration": "gṛhasthasya viśeṣeṇa dharmo'yaṃ parikīrtitaḥ ||",
+    "translation_english": "This dharma is especially proclaimed for the householder."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 20,
+    "verse": 22,
+    "sanskrit_text": "यतः सर्वाश्रमाणां च गृहस्थो मूलमुच्यते।",
+    "transliteration": "yataḥ sarvāśramāṇāṃ ca gṛhastho mūlam ucyate ||",
+    "translation_english": "For the householder is said to be the foundation of all āśramas."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 20,
+    "verse": 23,
+    "sanskrit_text": "अतिथीनां च पूजायां देवतानां च तर्पणे।",
+    "transliteration": "atithīnāṃ ca pūjāyāṃ devatānāṃ ca tarpaṇe ||",
+    "translation_english": "In honoring guests and satisfying the gods—"
+  },
+  {
+    "purana_number": 7,
+    "chapter": 20,
+    "verse": 24,
+    "sanskrit_text": "पितॄणां तर्पणे चैव गृहस्थस्य फलं महत्।",
+    "transliteration": "pitṝṇāṃ tarpaṇe caiva gṛhasthasya phalaṃ mahat ||",
+    "translation_english": "And in offerings to the ancestors, the householder gains great merit."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 20,
+    "verse": 25,
+    "sanskrit_text": "ब्रह्मचर्ये स्थितो विद्वान् वेदाध्ययनतत्परः।",
+    "transliteration": "brahmacarye sthito vidvān vedādhyayana-tatparaḥ ||",
+    "translation_english": "One established in brahmacarya, devoted to Vedic study—"
+  },
+  {
+    "purana_number": 7,
+    "chapter": 20,
+    "verse": 26,
+    "sanskrit_text": "गुरुशुश्रूषणं नित्यं धर्ममार्गे प्रवर्तते।",
+    "transliteration": "guru-śuśrūṣaṇaṃ nityaṃ dharma-mārge pravartate ||",
+    "translation_english": "By constant service to the teacher, proceeds on the path of dharma."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 20,
+    "verse": 27,
+    "sanskrit_text": "वानप्रस्थो वनं गत्वा तपसा शुद्धिमाप्नुयात्।",
+    "transliteration": "vānaprastho vanaṃ gatvā tapasā śuddhim āpnuyāt ||",
+    "translation_english": "The forest-dweller, going to the woods, attains purification through austerity."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 20,
+    "verse": 28,
+    "sanskrit_text": "मूलफलाशनः शान्तो जितेन्द्रियमनोरथः।",
+    "transliteration": "mūla-phalāśanaḥ śānto jitendriya-manorathaḥ ||",
+    "translation_english": "Living on roots and fruits, peaceful, having conquered senses and desires."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 20,
+    "verse": 29,
+    "sanskrit_text": "संन्यासी सर्वकर्माणि परित्यज्य विमुच्यते।",
+    "transliteration": "saṃnyāsī sarva-karmāṇi parityajya vimucyate ||",
+    "translation_english": "The renunciate, abandoning all actions, becomes liberated."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 20,
+    "verse": 30,
+    "sanskrit_text": "न ममेत्यभिमानेन मुक्तो भवति मानवः।",
+    "transliteration": "na mamety-abhimānena mukto bhavati mānavaḥ ||",
+    "translation_english": "By freedom from the sense of ‘mine,’ a person becomes free."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 20,
+    "verse": 31,
+    "sanskrit_text": "अहिंसा सत्यमस्तेयं ब्रह्मचर्यं दयाऽर्जवम्।",
+    "transliteration": "ahiṃsā satyam asteyaṃ brahmacaryaṃ dayā'rjavam ||",
+    "translation_english": "Non-violence, truth, non-stealing, continence, compassion, and straightforwardness—"
+  },
+  {
+    "purana_number": 7,
+    "chapter": 20,
+    "verse": 32,
+    "sanskrit_text": "एतत् सामान्यधर्माणां मूलं प्रोक्तं महर्षिभिः।",
+    "transliteration": "etat sāmānya-dharmāṇāṃ mūlaṃ proktaṃ maharṣibhiḥ ||",
+    "translation_english": "These are declared by the great sages as the roots of universal dharma."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 20,
+    "verse": 33,
+    "sanskrit_text": "ज्ञानयुक्तः सदा योगी विष्णुपादं समश्नुते।",
+    "transliteration": "jñāna-yuktaḥ sadā yogī viṣṇu-pādaṃ samaśnute ||",
+    "translation_english": "The yogin endowed with knowledge always attains the abode of Viṣṇu."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 20,
+    "verse": 34,
+    "sanskrit_text": "न कर्मणा न जन्मेन मोक्षः स्यात् पुरुषोत्तम।",
+    "transliteration": "na karmaṇā na janmena mokṣaḥ syāt puruṣottama ||",
+    "translation_english": "Liberation is attained neither by action nor by birth alone, O best of beings."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 20,
+    "verse": 35,
+    "sanskrit_text": "ज्ञानभक्तिसमन्वित्या मुच्यते नात्र संशयः।",
+    "transliteration": "jñāna-bhakti-samanvityā mucyate nātra saṃśayaḥ ||",
+    "translation_english": "Through knowledge combined with devotion, one is liberated—no doubt of this."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 20,
+    "verse": 36,
+    "sanskrit_text": "विष्णुभक्त्या परं स्थानं प्राप्नोति पुरुषः सदा।",
+    "transliteration": "viṣṇu-bhaktyā paraṃ sthānaṃ prāpnoti puruṣaḥ sadā ||",
+    "translation_english": "By devotion to Viṣṇu, a person always attains the supreme state."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 20,
+    "verse": 37,
+    "sanskrit_text": "धर्मज्ञानविहीनस्तु नरः पापेन लीयते।",
+    "transliteration": "dharma-jñāna-vihīnas tu naraḥ pāpena līyate ||",
+    "translation_english": "But one devoid of dharma and knowledge is consumed by sin."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 20,
+    "verse": 38,
+    "sanskrit_text": "तस्माद् धर्मं च विज्ञानं भजेद् भक्त्या समन्वितम्।",
+    "transliteration": "tasmād dharmaṃ ca vijñānaṃ bhajed bhaktyā samanvitam ||",
+    "translation_english": "Therefore, one should cultivate dharma and wisdom together with devotion."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 20,
+    "verse": 39,
+    "sanskrit_text": "एष धर्मपथो लोके सर्वपापप्रणाशनः।",
+    "transliteration": "eṣa dharma-patho loke sarva-pāpa-praṇāśanaḥ ||",
+    "translation_english": "This is the path of dharma in the world, the destroyer of all sins."
+  },
+  {
+    "purana_number": 7,
+    "chapter": 20,
+    "verse": 40,
+    "sanskrit_text": "इति धर्मविधिं श्रुत्वा नरः सिद्धिमवाप्नुयात्।",
+    "transliteration": "iti dharma-vidhiṃ śrutvā naraḥ siddhim avāpnuyāt ||",
+    "translation_english": "Thus, having heard this doctrine of dharma, a person attains perfection."
+  },
 
 
 ]
