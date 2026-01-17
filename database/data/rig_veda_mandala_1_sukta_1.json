@@ -1865,6 +1865,432 @@
   "translation_english": "We call that Varuṇa for the drinking of Soma and for our well‑being and life that is good for us."  
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 26,
+  "sukta_name": "Agni & Divine Assembly Sukta",
+  "rishi": "Śunahśepa Ājīgarti",
+  "devata": "Agni (with Varuṇa, Mitra, Aryaman in verse 4)",
+  "chandas": "Gāyatrī",
+  "total_verses": 10
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "आ नः होता वरेण्यः सदाऽवेश्ठ मन्मभिः अग्ने दिवितमाता वचः ।",
+  "transliteration": "ā naḥ hotā vareṇyaḥ sadā ’veṣṭha manmabhiḥ agne divitmatā vacaḥ ||",
+  "translation_english": "O Agni, most desirable priest calling the gods, seat yourself among our mind‑born words, bringing illumination to the speech."  
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "सह यशसा सौचरया रथीयं यजऽमहे देवर्षिभिः समगः ।",
+  "transliteration": "saha yaśasā saucharayā rathīyaṃ yaj ’mahe devarṣibhih samagaḥ ||",
+  "translation_english": "With glory and with joyful song together we perform the chariot‑rite, assembled with the seers’ assembly."  
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "यस्मादेवं पितृभिर्यज्ञो यजमानैरुपेतः पितरो जुष्टम ।",
+  "transliteration": "yasmād evaṃ pitṛbhy ir yajño yajamānair upetaḥ pitaro juṣṭam ||",
+  "translation_english": "For when a sacrifice is thus received by ancestral thought and offering, it brings to the worshipper the ancestors’ delight."  
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "आ नो बर्ही रिशादसो वरुणो मित्रो अर्यमा सीदंतु मनुषो यथा ।",
+  "transliteration": "ā no barhī riśādaso varuṇa mitra aryamā sīdantu manuṣo yathā ||",
+  "translation_english": "May the destroyers of foes, Varuṇa, Mitra and Aryaman sit with us on the sacred grass like human friends."  
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "प्रियो नः अस्तु विश्वपति: होता मंद्रो वरेण्यः प्रियाः स्वग्नयः वयम् ।",
+  "transliteration": "priyo naḥ astu viśpatiḥ hotā mandro vareṇyaḥ priyāḥ svagnayaḥ vayam ||",
+  "translation_english": "May the Lord of creatures, our beloved priest, pleasing to us, be dear; and may we, full of Agni’s strength, be devoted to him."  
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "स्वग्नयो हि वार्यम देवासो दधिरे च नः स्वग्नयो मनामहे ।",
+  "transliteration": "svagnayo hi vāryam devāso dadhire ca naḥ svagnayo manāmahe ||",
+  "translation_english": "Truly the gods established for us the opulence filled with Agni; and we hold them in mind, full of Agni."  
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "अथा न उभयेषाममृत मर्त्यानाम् मितः सन्तु प्रशस्तयः ।",
+  "transliteration": "athā na ubhayeṣām amṛta martyānām mithaḥ santu praśastayaḥ ||",
+  "translation_english": "Then may the immortals and mortals alike meet together, united in auspicious praise."  
+},
+{
+  "verse_number": 8,
+  "sanskrit_text": "इन्द्राग्नी वर्धयताम् एतानि यज्ञानि यज्ञं हन्तु यथा ।",
+  "transliteration": "indrāgnī vardhayatām etāni yajñāni yajñaṃ hantu yathā ||",
+  "translation_english": "Indra and Agni, may these sacrifices prosper; as one strikes down foes, so let the rite advance mightily."  
+},
+{
+  "verse_number": 9,
+  "sanskrit_text": "ततः परि विश्वश्चाध्य धारयन्तु अमृतं मारुतो अस्मान् ।",
+  "transliteration": "tataḥ pari viśvaś cādhy dhārayantu amṛtaṃ māruto asmān ||",
+  "translation_english": "Then let the winds uphold for us that immortal delight all around."  
+},
+{
+  "verse_number": 10,
+  "sanskrit_text": "आ नो भद्रः शृणुयाम देवा उन्मदासो वरुणो मित्रो अर्यमा ।",
+  "transliteration": "ā no bhadraḥ śṛṇuyāma devā unmadāso varuṇa mitra aryamā ||",
+  "translation_english": "May the gods, the bestowers of delight, hear us — Varuṇa, Mitra, and Aryaman — and bring good fortune to us."  
+},
+
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 27,
+  "sukta_name": "Agni Sukta",
+  "rishi": "Śunaḥśepa Ājīgarti",
+  "devata": "Agni",
+  "chandas": "Gāyatrī & Triṣṭubh",
+  "total_verses": 13
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "अश्वं न त्वा वारवन्तं वन्दध्या अग्निं नमोभिः सम्राजन्तमध्वराṇाम् ॥",
+  "transliteration": "aśvaṃ na tvā vāravantaṃ vandadhyā agniṃ namobhiḥ samrājantamadhvarāṇām ||",
+  "translation_english": "I adore thee with worship, O Agni — like a swift steed — O Lord of the chariot‑paths."  
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "स घा नः सूनुः शवसा पृथुप्रगामा सुशेवः मीढ्वाँ अस्माकं बभूयात्॥",
+  "transliteration": "sa ghā naḥ sūnuḥ śavasā pṛthupra‑gāmā suśevaḥ mīḍhvāṃ asmākaṃ babhūyāt ||",
+  "translation_english": "May the far‑striding Son of strength, bringing abundant felicity, pouring out his gifts like rain — be ours."  
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "स नो दूराच्चासाच्च नि मर्त्यादघायोः पाहि सदमिद्विश्वायुः ॥",
+  "transliteration": "sa no dūrācca sācac ca ni martyādaghāyoḥ pāhi sadam idviśvāyuḥ ||",
+  "translation_english": "Far and near be thou our protector by the universal vitality — guarding us from mortal sickness."  
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "इमं ऊँ इत्थं त्वं अस्माकं सनि गायत्रं नव्यांशं अग्ने देषु प्र वोचः॥",
+  "transliteration": "imaṃ ūṃ itthaṃ tvaṃ asmākaṃ sani gāyatraṃ navyāṃśaṃ agne deṣu pra vocaḥ ||",
+  "translation_english": "Speak forth perfectly, O Agni — among the gods — this new‑framed hymn of saving power of ours."  
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "आ नः भज परमेṣu आ वाजेषु मध्यमेषु शिक्ष वस्य अन्तमस्य॥",
+  "transliteration": "ā naḥ bhaja parameṣu ā vājeṣu madhyameṣu śikṣa vasya antamasya ||",
+  "translation_english": "Cleave to us in the highest, and in the middle regions of wealth; teach us the riches of the farthest realm."  
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "सा या अग्ने समुद्रे ससावसासि वहन्ती विविधा निश्यन्दवः ॥",
+  "transliteration": "sā yā agne samudre sasāvasāsi vahantī vividhā niśyandavāḥ ||",
+  "translation_english": "O Agni, thou art she who dwells beside the swelling waters of the ocean and distributest them in diverse streams."  
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "यम अग्ने पृत्सु मर्त्यं अवा वाजेषु यं जुनाः स यंता शश्वतीरिषः॥",
+  "transliteration": "yam agne pṛtsu martyam avā vājeṣu yaṃ junāḥ sa yaṃtā śaśvatīriṣaḥ ||",
+  "translation_english": "Whomsoever, O Agni, thou impellest in mortal struggles or in the offerings of wealth, he attains enduring strength."  
+},
+{
+  "verse_number": 8,
+  "sanskrit_text": "सा या मन्त्रविषयः सः वाजस्य विष्णुरेव स वृते यद यच्छता॥",
+  "transliteration": "sā yā mantraviṣayaḥ saḥ vājasya viśnureva sa vṛte yad yac chatā ||",
+  "translation_english": "There is a power of inspiration that encompasses all substance; it embraces every plane of existence like divine force."  
+},
+{
+  "verse_number": 9,
+  "sanskrit_text": "ततः परि विश्वश्चाध्य धारयन्तु अमृतं मारुते अस्मान्॥",
+  "transliteration": "tataḥ pari viśvaś cādhy dhārayantu amṛtaṃ mārute asmān ||",
+  "translation_english": "Therefore may the winds uphold for us that immortal delight all around."  
+},
+{
+  "verse_number": 10,
+  "sanskrit_text": "यज्ञियाय स्तोममुदबुध्य रवः पुंसमेद्यं रुद्राय दृशीकम्॥",
+  "transliteration": "yajñiyāya stomam udabudhya ravaḥ puṃsamedyaṃ rudrāya dṛśīkam ||",
+  "translation_english": "For the sacrificial rite let this visible hymn be performed for Rudra, for all people."  
+},
+{
+  "verse_number": 11,
+  "sanskrit_text": "सः नः महान् अनिमानः धूमकेतुः पुरुचन्द्रः धिये वाजाय हिन्वतु॥",
+  "transliteration": "saḥ naḥ mahān animānaḥ dhūmaketuḥ puru‑candraḥ dhiye vā jāya hinvatu ||",
+  "translation_english": "May he — great, limitless, with smoke for banner and radiant like full moon — urge on our thought and plenitude."  
+},
+{
+  "verse_number": 12,
+  "sanskrit_text": "यजाम देवान यदि शक्नावाम जा यं देवाः श्रवं यथा च वृषा वः॥",
+  "transliteration": "yajāma devān yadi śaknavāma jā yaṃ devāḥ śravaṃ yathā ca vṛṣā vaḥ ||",
+  "translation_english": "We accomplish sacrifice unto the gods if we are able; O gods, let not our self‑expression be impaired."  
+},
+{
+  "verse_number": 13,
+  "sanskrit_text": "नमः महत्वभ्यः नमः अर्भकेभ्यः नमः युवभ्यः नमः आशिनेभ्यः॥",
+  "transliteration": "namaḥ mahatvabhyah namaḥ arbhakebhyaḥ namaḥ yuvabhyaḥ namaḥ āśinebhyaḥ ||",
+  "translation_english": "Salutations to the great ones, the smaller ones, the young and the old — let our rites be complete."  
+},
+
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 28,
+  "sukta_name": "Soma‑pressing for Indra Sukta",
+  "rishi": "Śunahśepa Ājīgarti",
+  "devata": "Indra (Soma invocation)",
+  "chandas": "Anuṣṭup (1–6), Gāyatrī (7–9)",
+  "total_verses": 9
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "यत्र ग्रावा पृष्ठुबुध्न ऊर्ध्वो भवति सोतवे । उलूखलसुतानामवेद्विन्द्र जल्गुलः ॥",
+  "transliteration": "yatra grāvā pṛthubudhna ūrdhvo bhavati sotave | ulūkhalasutānām aved v indra jalgulaḥ ||",
+  "translation_english": "Where the broad‑based stone is raised for pressing, O Indra, drink with eager thirst the droppings which the mortar sheds."  
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "यत्र द्वाविव जघनाधिषवण्याः कृता । उलूखलसुतानामवेद्विन्द्र जल्गुलः ॥",
+  "transliteration": "yatra dvāv iva jaghanādhiṣavaṇyāḥ kṛtā | ulūkhalasutānām aved v indra jalgulaḥ ||",
+  "translation_english": "Where, like two broad hips, the presses are made to hold the juice, O Indra, drink with eager thirst the droppings from the mortar."  
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "यत्र नार्यपच्यवं उपच्यवं च शिक्षते । उलूखलसुतानामवेद्विन्द्र जल्गुलः ॥",
+  "transliteration": "yatra nārya apacyavaṃ upacyavaṃ ca śikṣate | ulūkhalasutānām aved v indra jalgulaḥ ||",
+  "translation_english": "Where a woman marks and leans the pestle’s rise and fall, O Indra, drink with eager thirst the mortar’s shedding."  
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "यत्र मन्थां विबध्नते रश्मीन्यमितवा इव । उलूखलसुतानामवेद्विन्द्र जल्गुलः ॥",
+  "transliteration": "yatra manthāṃ vibadhnate raśmīnyamitavā iva | ulūkhalasutānām aved v indra jalgulaḥ ||",
+  "translation_english": "Where the churning‑stick is bound like reins to hold back the motion, O Indra, drink with eager thirst what the mortar yields."  
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "यच्चिद्धि त्वं गृहगृह उलूखलक युज्यसे । इह द्युमत्तमं वद जयतामिव दुन्दुभिः ॥",
+  "transliteration": "yac ciddhi tvaṃ gṛhegṛha ulūkhalaka yujyase | iha dyumat tamaṃ vada jayatāmiva dundubhiḥ ||",
+  "translation_english": "When in every house thou art set to thy work, O pestle, here give forth thy clearest sound — loud as the drum of conquering hosts."  
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "उत स्म ते वनस्पते वातो वि वात्यग्रमित् । अथो इन्द्राय पातवे सुनु सोममुलूखल ॥",
+  "transliteration": "uta sma te vanaspate vāto vi vātyagrāmit | atho indrāya pātave sunu somam ulūkhal ||",
+  "translation_english": "O Sovran of the woodland, as the wind blows in front of thee, then for Indra’s drinking press the Soma juice, O pestle."  
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "ता नो अद्य वनस्पती ऋष्वावृष्वेभिः सोतृभिः । इन्द्राय मधुमत्सुतम् ॥",
+  "transliteration": "tā no adya vanaspatī ṛṣvā vṛṣvebhiḥ sotṛbhiḥ | indrāya madhumat sutam ||",
+  "translation_english": "Today, O Woodland Lord, by the swift streams and the singers’ hymns, may the honeyed juice flow for Indra."  
+},
+{
+  "verse_number": 8,
+  "sanskrit_text": "तानो असि गोरधि त्वचि पवित्रा सृज ॥",
+  "transliteration": "tā no asi goradhi tvaci pavitrā sṛja ||",
+  "translation_english": "Bring here, in thy purity and upon the cow‑hide, the Soma that remains from the pressing."  
+},
+{
+  "verse_number": 9,
+  "sanskrit_text": "उच्छिष्टं सोमं पवित्र आ सृज नि धेहि गोरधि त्वचि ।",
+  "transliteration": "uc chiṣṭaṃ somaṃ pavitra ā sṛja | ni dhehi gor adhi tvaci ||",
+  "translation_english": "Place the remaining Soma, purified, upon the cow‑hide; pour it forth and fill us with radiance to the skin."  
+},
+
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 29,
+  "sukta_name": "Indra Protection & Abundance Sukta",
+  "rishi": "Śunaḥśepa Ājīgarti",
+  "devata": "Indra",
+  "chandas": "Pañkti",
+  "total_verses": 7
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "यच्चिद्धि सत्व सोमपा अनाशस्ता इव स्मसि । आ तू न इन्द्र शंसय गोष्वश्वेषु शुभ्रिषु सहस्रेṣu तुवीमघ ॥",
+  "transliteration": "yac ciddhi satya somapā anāśastā iva smasi | ā tū na indra śaṃsaya goṣvaśveṣu śubhriṣu sahasreṣu tuvīm agha ||",
+  "translation_english": "Even when the true Soma‑drinker seems as if undeserving, O Indra, do thou make us praised among cows and horses, in thousands, O rich‑bounteous one."  
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "शिप्रिन्वजानां पते शचीवस्तव दंसना । आ तू न इन्द्र शंसय गोष्वश्वेषु शुभ्रिषु सहस्रेṣu तुवीमघ ॥",
+  "transliteration": "śiprinvājānāṃ pate śacīvasta va daṃsanā | ā tū na indra śaṃsaya goṣvaśveṣu śubhriṣu sahasreṣu tuvīm agha ||",
+  "translation_english": "O Lord of quick blessings, O mighty giver of wealth, may Indra make us praised among cows and bright horses in thousands, O rich‑bounteous one."  
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "निर्वापस्मैतस्मन् सोर इन्द्र अस्तु ते प्रोह किरणैः । आ तू न इन्द्र शंसय गोष्वश्वेषु शुभ्रिषु सहस्रेṣu तुवीमघ ॥",
+  "transliteration": "nirvāpasmaitasman sora indra astu te proha kiraṇaiḥ | ā tū na indra śaṃsaya goṣvaśveṣu śubhriṣu sahasreṣu tuvīm agha ||",
+  "translation_english": "When the rapturous light has gone forth, may Indra be with us; do praise us among cows and bright horses in thousands, O rich‑bounteous one."  
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "ससंतु त्याः अरातयो बोधन्तु शूर रातयः । आ तू न इन्द्र शंसय गोष्वश्वेषु शुभ्रिषु सहस्रेṣu तुवीमघ ॥",
+  "transliteration": "sasantu tyāḥ arātayo bodhantu śūra rātayaḥ | ā tū na indra śaṃsaya goṣvaśveṣu śubhriṣu sahasreṣu tuvīm agha ||",
+  "translation_english": "Let hostile forces lie in sleep, and let heroic geniuses awaken; O Indra, praise us among cows and fair horses in thousands, O rich‑bounteous one."  
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "समिन्द्र गर्दभं मृण नुवन्तं पापयामुया । आ तू न इन्द्र शंसय गोष्वश्वेषु शुभ्रिषु सहस्रेṣu तुवीमघ ॥",
+  "transliteration": "samindra gardabhaṃ mṛṇa nuvantaṃ pāpayāmuyā | ā tū na indra śaṃsaya goṣvaśveṣu śubhriṣu sahasreṣu tuvīm agha ||",
+  "translation_english": "Slay with Indra the ass‑like spirit that grows against us with evil intent; O Indra, praise us among cows and bright horses in thousands, O rich‑bounteous one."  
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "पतति कुन्डृणाच्याः दूरं वातो वना अधि । आ तू न इन्द्र शंसय गोष्वश्वेषु शुभ्रिषु सहस्रेṣu तुवीमघ ॥",
+  "transliteration": "patati kuṇḍṛṇācyāḥ dūraṃ vāto vanā adhi | ā tū na indra śaṃsaya goṣvaśveṣu śubhriṣu sahasreṣu tuvīm agha ||",
+  "translation_english": "May the winds blow far from our delights; do thou, Indra, praise us among cows and fair horses in thousands, O rich‑bounteous one."  
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "ससंता याः उप सूर्ये याभिर्वा सूर्यः सह । ताः नः हिन्वन्तु अध्वरम् ॥",
+  "transliteration": "saṃsantā yāḥ upa sūrye yābhir vā sūryaḥ saha | tāḥ naḥ hinvantu adhvaram ||",
+  "translation_english": "Those powers that dwell near the sun or with it — may they destroy obstacles to our ritual and joy."  
+},
+
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 30,
+  "sukta_name": "Indra, Aśvins & Uṣas Sukta",
+  "rishi": "Śunaḥśepa Ājīgarti",
+  "devata": "Indra (with Aśvins and Uṣas in later verses)",
+  "chandas": "Gāyatrī, Pādanicṛt, Triṣṭubh",
+  "total_verses": 22
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "आ व इन्द्रं क्रिविं यथा वाजयंतः शतक्रतुं । मंहिष्ठं सिंच इन्दुभिः ॥",
+  "transliteration": "ā va indram krivim yathā vājayantaḥ śatakratum | maṃhiṣṭham siñca indubhiḥ ||",
+  "translation_english": "Sprinkle Indra the strong slayer with nectar‑drops as one fattens a ram, until he reaches his full strength."  
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "शतं वा यः शुचीनां सहस्रं वा समाशिराम् । एनिम्नं न रीयते ॥",
+  "transliteration": "śataṃ vā yaḥ śucīnāṃ sahasraṃ vā samāśirām | enām na rīyate ||",
+  "translation_english": "Whether a hundred of pure drops or a thousand flow, that stream of nectar never lessens."  
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "सं यन्मदाय शुष्मिण एना ह्यस्योऽदरे समुद्रो न व्यचोदधे ॥",
+  "transliteration": "saṃ yanmadāya śuṣmiṇa eṇā hy asyo’dare samudro na vyacodadhe ||",
+  "translation_english": "As joy fills his belly like the sea, so never may it there be stirred away."  
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "अयमुत ते समतसि कपोत इव गर्भधिम् । यदग्रे तव द्विजाः कृष्णेषु स्वस्तिषु ॥",
+  "transliteration": "ayam uta te samatasi kapota iva garbhdhim | yadv agre tava dvijāḥ kṛṣṇeṣu svastiṣu ||",
+  "translation_english": "As a dove returns to its nest, so may the thought of praise to thee remain with us in every blessing."  
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "धनस्य पात्रधारिणो मनो विभुर्देवर्षिभिः समगः ॥",
+  "transliteration": "dhanasya pātradhāriṇo mano vibhurd evarṣibhih samagaḥ ||",
+  "translation_english": "Possessor of wealth, mighty in mind, thou art gathered with the seers of the gods."  
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "स्थातुं जगता इव वृण्यताम् उदीरितम् इन्द्र विश्ववर्चसा ॥",
+  "transliteration": "sthātuṃ jagatā iva vṛṇyatām udīritam indra viśvavarcasā ||",
+  "translation_english": "Stand firm like the world‑supporting pole, O Indra, with thy abundant glory."  
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "स नो हिरण्यरथं दंसनावा त्स नः सनीता सनये स नो दात् ॥",
+  "transliteration": "sa no hiraṇyarathaṃ daṃsanāvā, tsa naḥ sanītā sanaye sa no dāt ||",
+  "translation_english": "Grant us the bright chariot of riches, O Indra; be thou our giver from the assembled beneficent powers."  
+},
+{
+  "verse_number": 8,
+  "sanskrit_text": "इन्द्राग्नी वर्धयतामेतानि यज्ञानि यज्ञं हन्तु यथा ॥",
+  "transliteration": "indrāgnī vardhayatām etāni yajñāni yajñaṃ hantu yathā ||",
+  "translation_english": "Indra and Agni, may these sacrifices prosper; as one smites foes, so let the rite be victorious."  
+},
+{
+  "verse_number": 9,
+  "sanskrit_text": "ततः परि विश्वश्चाध्य धारयन्तु अमृतं मारुते अस्मान् ॥",
+  "transliteration": "tataḥ pari viśvaś cādhy dhārayantu amṛtaṃ mārute asmān ||",
+  "translation_english": "Then let the winds uphold for us that immortal delight all around."  
+},
+{
+  "verse_number": 10,
+  "sanskrit_text": "आ ते वसुर्विश्ववारा शास्महे पुरुहूत सखे वसो जरितृभ्यः ॥",
+  "transliteration": "ā te vasur viśvavārā śāsmahe puruhūta sakhe vaso jaritṛbhyaḥ ||",
+  "translation_english": "Such we proclaim thee, O bearer of all riches, O friend of men, O Vasu invoked by the singers."  
+},
+{
+  "verse_number": 11,
+  "sanskrit_text": "अस्माकं शिप्रिणीनां सोमपाः सोमपाव्नां सखे वज्रिन्तसखीनाम् ॥",
+  "transliteration": "asmākaṃ śipriṇīnām somapāḥ somapāvnām sakhe vajrintsakhīnām ||",
+  "translation_english": "O Indra, friend of heroes and of friends, thou art ours among the rapid drinkers of Soma."  
+},
+{
+  "verse_number": 12,
+  "sanskrit_text": "रेवतीः नः सधामादे इन्द्रे सन्तु तुविवाजाः क्षुमन्तः याभिः मदेम ॥",
+  "transliteration": "revatīḥ naḥ sadhāmāde indre santu tuvivājāḥ kṣumantaḥ yābhiḥ madema ||",
+  "translation_english": "May those abundant plenitudes of Indra be ours in the common joy of drinking, O we who delight in the rapture."  
+},
+{
+  "verse_number": 13,
+  "sanskrit_text": "आ अश्विनौ अश्वावत्या इषा यातम् शवीरया गोमददस्रा हिरण्यवत् ॥",
+  "transliteration": "ā aśvinau aśvāvatyā iṣā yātam śavīrayā gomadadasrā hiraṇyavat ||",
+  "translation_english": "O Aśvins, come with the wealth of horses, with your impelling force and with rich herds of cows."  
+},
+{
+  "verse_number": 14,
+  "sanskrit_text": "समायोजनः हि वाम् रथः दस्रौ अमर्त्यः समुद्रे अश्विना ईयते ॥",
+  "transliteration": "samāna‑yojanaḥ hi vām rathaḥ dasrau amartyaḥ samudre aśvinā īyate ||",
+  "translation_english": "For your immortal chariot equally yoked is carried over the sea, O Aśvins."  
+},
+{
+  "verse_number": 15,
+  "sanskrit_text": "उषा उवि दिवा उषसो दीना यस्य जन्तुर्विश्वः ॥",
+  "transliteration": "uṣā uvi divā uṣaso dīnā yasya jantur viśvaḥ ||",
+  "translation_english": "O Dawn, at the spreading of day, whose creatures are all the worlds."  
+},
+{
+  "verse_number": 16,
+  "sanskrit_text": "दैव्यं मते जुष्टो वशे तिरो अतस्ते दीयते ॥",
+  "transliteration": "daivyaṃ mate juṣṭo vaśe tiro ataste dīyate ||",
+  "translation_english": "Radiant Dawn, revered in the divine thought, shine forth for us with beauty."  
+},
+{
+  "verse_number": 17,
+  "sanskrit_text": "तं त्वा त्येभिः आ गहि वाजेभिः दुधितः दिवः अस्मे इतिirayim नि धारय ॥",
+  "transliteration": "tvam tyebhiḥ ā gahi vājebhiḥ duhhitaḥ divaḥ asme iti rayim ni dhāraya ||",
+  "translation_english": "O Dawn, bring down thy plenitudes with those riches; hold that wealth in us, O Daughter of Heaven."  
+},
+{
+  "verse_number": 18,
+  "sanskrit_text": "अन्ये रमन्ते तिष्ठन्तः पश्यन्तः उषसो दिवः प्रजाः ॥",
+  "transliteration": "anye ramante tiṣṭhantaḥ paśyantaḥ uṣaso divas prajāḥ ||",
+  "translation_english": "Others rejoice and stand in sight of Dawn’s brilliance and the life it gives."  
+},
+{
+  "verse_number": 19,
+  "sanskrit_text": "विभन्ति जियन्ति जम्मनानामध्वरम् इव ॥",
+  "transliteration": "vibhanti jiyanti jammanānām adhvaram iva ||",
+  "translation_english": "They prosper and live as though upheld by the sacred order."  
+},
+{
+  "verse_number": 20,
+  "sanskrit_text": "तेजसा वः प्रसारयतु प्रीत्ये तपसा च दिवो भुवनः ॥",
+  "transliteration": "tejasā vaḥ prasārayatu prītye tapasā ca divo bhuvanaḥ ||",
+  "translation_english": "May the brightness of heaven and earth expand for your joy and heat."  
+},
+{
+  "verse_number": 21,
+  "sanskrit_text": "उषस्व यत्र जनयन्ति दिवस्य रश्मीनां विशोधयन्तो भुवम् ॥",
+  "transliteration": "uṣasva yatra janayanti divasya raśmīnāṃ viśodhayanto bhuvam ||",
+  "translation_english": "O Dawn’s beams, where they generate and purify the world, bring life to us."  
+},
+{
+  "verse_number": 22,
+  "sanskrit_text": "आ गच्छ दिवा दिवं यत्रास्मा जनयन्ति वै विश्वतः ॥",
+  "transliteration": "ā gaccha divā divaṃ yatrāsmā janayanti vai viśvataḥ ||",
+  "translation_english": "Come, O Dawn, to the light where all beings are born from everywhere."  
+},
+
 
 
 
