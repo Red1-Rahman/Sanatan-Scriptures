@@ -1349,6 +1349,192 @@
   "translation_english": "The bearers of offerings upheld and distributed the sacrificial share among the gods by their good deeds."  
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 21,
+  "sukta_name": "Indra‑Agni Invocation Sukta",
+  "rishi": "Medhātithi Kāṇva",
+  "devata": "Indra and Agni",
+  "chandas": "Gāyatrī",
+  "total_verses": 6
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "इहेन्द्राग्नी उप ह्वये तयोर इत् स्तोममुश्मसि । ता सोमं सोमपातमा ॥",
+  "transliteration": "ihendrāgnī upa hvaye tayor it stomam uśmasi | tā somaṃ somapātamā ||",
+  "translation_english": "Invoke hither Indra and Agni, to whom we desire to present our praise; let them, both great drinkers of Soma, accept the libation."  
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "ता यज्ञेषु प्र शंसतेन्द्राग्नी शुम्भता नरः । ता गायत्रेषु गायत ॥",
+  "transliteration": "tā yajñeṣu pra śaṃsatendrāgnī śumbhatā naraḥ | tā gāyatreṣu gāyata ||",
+  "translation_english": "Praise, O men, Indra and Agni in the sacrifices; adorn them and sing them with hymns."  
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "ता मित्रस्य प्रशस्तय इन्द्राग्नी ता हवामहे । सोमपा सोमपीतये ॥",
+  "transliteration": "tā mitrasya praśastaya indrāgnī tā havāmahe | somapā somapītaye ||",
+  "translation_english": "We invoke Indra and Agni, for the benefit of Mitra and for their praise; to drink the libations of Soma."  
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "उग्रा संता हवामहे उपेदं सवनं सुतं । इन्द्राग्नी एह गच्छतां ॥",
+  "transliteration": "ugrā santā havāmahe upedaṃ savanaṃ sutaṃ | indrāgnī eha gacchatām ||",
+  "translation_english": "We call the strong ones to this pressed‑out libation that stands ready; Indra and Agni, come here."  
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "ता महान्ता सदस्पती इन्द्राग्नी रक्ष उब्जतम् । अप्रजाः सन्तु अत्रिणः ॥",
+  "transliteration": "tā mahāntā sadaspatī indrāgnī rakṣa ubjatam | aprajāḥ santu atriṇaḥ ||",
+  "translation_english": "O great lords of the house, Indra and Agni, expel the foes and let the devourers be childless."  
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "तेन सत्येन जागृतमधि प्रचेतुने पदे । इन्द्राग्नी शर्म यच्छतम् ॥",
+  "transliteration": "tena satyena jāgṛtam adhi pracetune pade | indrāgnī śarma yacchatam ||",
+  "translation_english": "By this truth‑established rite made vigilant, in the station that brings understanding, may Indra and Agni bestow upon us bliss."  
+},
+
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 22,
+  "sukta_name": "Aśvins, Savitar, Agni, Devātā & Viṣṇu Invocation Sukta",
+  "rishi": "Medhātithi Kāṇva",
+  "devata": "Aśvins, Savitar, Agni, Devātā (gods), Viṣṇu",
+  "chandas": "Gāyatrī",
+  "total_verses": 21
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "प्रातर्युजा वि बोधयाश्विनावेह गच्छताम् अस्य सोमस्य पीतये ।",
+  "transliteration": "prātaryujā vi bodhayāśvināveha gacchatām asya somasya pītaye |",
+  "translation_english": "In the early dawn, O Aśvins, who yoke the car, may you come hither to drink this Soma."  
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "या सुरथा रथीतमोभा देवा दिविस्पृशाश्विना ता हवामहे ।",
+  "transliteration": "yā surathā rathītamobhā devā divispṛśā aśvinā tā havāmahe |",
+  "translation_english": "We call upon those two swift chariot‑drivers, the gods who touch the sky — O Aśvins."  
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "या वां कशा मधुमत्यश्विना सूनृतावती तया यज्ञं मिमिक्षतम् ।",
+  "transliteration": "yā vāṃ kaśā madhumaty aśvinā sūnṛtāvatī tayā yajñaṃ mimikṣatam |",
+  "translation_english": "With your honey‑dropped whip, O Aśvins, rich in delight, sprinkle the sacrifice."  
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "नहि वामस्ति दूरके यत्रा रथेन गच्छथः अश्विना सोमिनो गृहं ।",
+  "transliteration": "na hi vāmas ti dūrake yatrā ratheṇa gacchatha aśvinā somino gṛham |",
+  "translation_english": "For as you go in your car, O Aśvins, the home of him who offers Soma is not far off."  
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "हिरण्यपाणिमूतये सवितारामुप ह्वये स चेत्ता देवता पदम् ।",
+  "transliteration": "hiraṇyapāṇimūtaye savitārāmupa hvaye sa cettā devatā padam |",
+  "translation_english": "Invoke Savitar with golden hands for my protection; he knows the divine place."  
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "अपां नपातमवसे सवितारामुप स्तुहि तस्य वृतान्युश्मसि ।",
+  "transliteration": "apāṃ napātam avase savitārāmupa stuhi tasya vratāny uśmasi |",
+  "translation_english": "Praise Savitar, the son of waters, that he may send us aid; we long for his holy ways."  
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "विभक्तारं हवामहे वसोश्चित्रस्य राधसः सवितारं नृचक्षसम् ।",
+  "transliteration": "vibhaktāraṃ havāmahe vasośc itrasya rādhasaḥ savitāraṃ nṛcakṣasam |",
+  "translation_english": "We invoke Savitar, distributor of wondrous riches, the one who looks upon men."  
+},
+{
+  "verse_number": 8,
+  "sanskrit_text": "अग्निः सवितारामुप ह्वये भव स्म कर्षति देवानां यद यच्छ्ता ।",
+  "transliteration": "agniḥ savitārāmupa hvaye bhava sma karṣati devānāṃ yad yac chtā |",
+  "translation_english": "Agni, invoke Savitar, for he draws the gods toward what they desire."  
+},
+{
+  "verse_number": 9,
+  "sanskrit_text": "तान देवासो अग्निरुप ह्वये यत्रा तस्य नो दाधि रूत्रे भवत् ।",
+  "transliteration": "tān devāso agnirupa hvaye yatrā tasya no dādhi rūtre bhavat |",
+  "translation_english": "O Agni, invoke those gods; may their offerings of clarified butter prosper here."  
+},
+{
+  "verse_number": 10,
+  "sanskrit_text": "तां देवीं इन्द्राणी वरुणान्यग्नाय्य इमं हवामहे सुवर्जितम् ।",
+  "transliteration": "tāṃ devīṃ indrāṇī varuṇāny agnāyy a imaṃ havāmahe suvarjitam |",
+  "translation_english": "We invoke the goddess, Indrāṇī, and those united with Varuṇa and Agni, in this well‑adorned rite."  
+},
+{
+  "verse_number": 11,
+  "sanskrit_text": "दिवापृथिव्यौ देवान्युप हवामहे ये तस्या विभागा इन्द्रदत्ताः ।",
+  "transliteration": "divā pṛthiv yau devāny upa havāmahe ye tasyā vibhāgā indr dattāḥ |",
+  "translation_english": "We invoke the gods of heaven and earth, whose portions were given by Indra."  
+},
+{
+  "verse_number": 12,
+  "sanskrit_text": "या पृथिवी दधदिदेवासी या विष्णुर्व्योमुखो भूमिरायात् ।",
+  "transliteration": "yā pṛthivī dadhadidevāsī yā viṣṇur vyomukho bhūmir āyāt |",
+  "translation_english": "Whether earth supports the gods or earth and air that carry them, come unto us."  
+},
+{
+  "verse_number": 13,
+  "sanskrit_text": "पृथिवीं ये श्रद्धन्तो देवानादायांसि धामानि यास्यन्त्यकार्षे ।",
+  "transliteration": "pṛthivīṃ ye śraddhanto devānād āyāṃsi dhāmāni yāsyanti kārṣe |",
+  "translation_english": "May those faithful to the gods journey to the abodes of the blessed upon this earth."  
+},
+{
+  "verse_number": 14,
+  "sanskrit_text": "पृथिवीं यः स विततो वायुरायातु या स नो वसूनिषु सविष्ठताम् ।",
+  "transliteration": "pṛthivīṃ yaḥ sa vitato vāyur āyātu yā sa no vasūniṣu saviṣṭhātām |",
+  "translation_english": "May air spread over earth and bestow for us the richest of riches."  
+},
+{
+  "verse_number": 15,
+  "sanskrit_text": "स्योना पृथिवि भवनाक्षरा निवेशनी यच्छा नः शर्म सप्रथः ।",
+  "transliteration": "syonā pṛthivī bhavān ṛkṣarā niveśanī yacchā naḥ sarma saprathaḥ |",
+  "translation_english": "May the earth be thornless and broad as our dwelling, granting us sure protection."  
+},
+{
+  "verse_number": 16,
+  "sanskrit_text": "अतो देवा अवन्तु नो यतो विष्णुर्विचक्रमे पृथिव्या सप्त धामभिः ।",
+  "transliteration": "ato devā avantu no yato viṣṇur vicakrame pṛthivyāḥ sapta dhāmabhiḥ |",
+  "translation_english": "May the gods be gracious to us from the place where Viṣṇu strode through the seven regions of earth."  
+},
+{
+  "verse_number": 17,
+  "sanskrit_text": "इदं विष्णुर्विचक्रमे तद्विष्णोः परम् पदं दिवीव चक्षुराततम् ।",
+  "transliteration": "idaṃ viṣṇur vicakrame tadv iṣṇoḥ param padaṃ divīva cakṣur ātatam |",
+  "translation_english": "That supreme place attained by Viṣṇu’s stride, as it were an eye set high in heaven, may we see it."  
+},
+{
+  "verse_number": 18,
+  "sanskrit_text": "तद् विप्रासो विपन्यवो जागृवांसः सम्मन्धते विष्णोः परम् पदम् ।",
+  "transliteration": "tad viprāso vipanyavo jāgṛvāṃsaḥ samindhate viṣṇoḥ param padam |",
+  "translation_english": "This highest station of Viṣṇu the singers, ever vigilant and lovers of wisdom, illuminate night and day."  
+},
+{
+  "verse_number": 19,
+  "sanskrit_text": "इन्द्रस्य युज्यः सखा यशो विष्णोः पदं पश्यन्त्यन्ये सन्तो देवासो यत् ।",
+  "transliteration": "indrasya yujyaḥ sakhā yaśo viṣṇoḥ padam paśyanty anye santo devāso yat |",
+  "translation_english": "Other gods behold that supreme station of Viṣṇu, ally of Indra, whose fame is great."  
+},
+{
+  "verse_number": 20,
+  "sanskrit_text": "तत् विप्रासो विपन्यवो जागृवांसः इन्द्रस्य जिनो विष्णुर्वरुणस्य ।",
+  "transliteration": "tat viprāso vipanyavo jāgṛvāṃsaḥ indrasya jino viṣṇur varuṇasya |",
+  "translation_english": "The vigilant singers, lovers of wisdom, worship that realm of Viṣṇu who is allied with Indra and Varuṇa."  
+},
+{
+  "verse_number": 21,
+  "sanskrit_text": "तत् विप्रासो विपन्यवो जागृवांसः विष्णोश्च देवानां परमो यदंम् ।",
+  "transliteration": "tat viprāso vipanyavo jāgṛvāṃsaḥ viṣṇoś ca devānāṃ paramo yaṃ |",
+  "translation_english": "That supreme of gods is Viṣṇu whom the vigilant singers and wise ones praise above all."  
+},
+
 
 
 
