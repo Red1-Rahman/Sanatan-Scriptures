@@ -63,5 +63,75 @@
     "sanskrit_text": "स नः पितेव सूनवेऽग्ने सूपायनो भव । सचस्वा नः स्वस्तये ॥",
     "transliteration": "sa naḥ piteva sūnave agne sūpāyano bhava | sacasvā naḥ svastaye ||",
     "translation_english": "Be to us like a father to his son, O Agni—easy of access. Abide with us for our well-being."
-  }
+  },
+
+  {
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 2,
+  "sukta_name": "Vāyu Sukta",
+  "rishi": "Madhuchchhandas Vaishvamitra",
+  "devata": "Vāyu (with Indra, Mitra–Varuṇa)",
+  "chandas": "Gāyatrī",
+  "total_verses": 9
+  },
+  {  
+    "verse_number": 1,
+    "sanskrit_text": "वायवा याहि दर्शतेमे सोमा अरंकृताः । तेषां पाहि श्रुधी हवम् ॥",
+    "transliteration": "vāyavā yāhi darśateme somā araṃkṛtāḥ | teṣāṃ pāhi śrudhī havam ||",
+    "translation_english": "O beautiful Vāyu, come: these Soma drops are prepared. Drink of them; hear our call."
+  },
+  {
+    "verse_number": 2,
+    "sanskrit_text": "वाय उक्थेभिर् जरन्ते सोमासश्चक्रिरे दिवि । यज्ञो देवेषु गच्छति ॥",
+    "transliteration": "vāya ukthebhir jarante somāsaś cakrire divi | yajño deveṣu gacchati ||",
+    "translation_english": "Knowing the days, with Soma juice poured forth, the singers glorify you, O Vāyu, with hymns of praise."
+  },
+  {
+    "verse_number": 3,
+    "sanskrit_text": "वायो तव प्रप्रथिता धारा दिवा नृभ्यः । याभिः सीदसि दाशुषे ॥",
+    "transliteration": "vāyo tava praprathitā dhārā divā nṛbhyaḥ | yābhiḥ sīdasi dāśuṣe ||",
+    "translation_english": "Vāyu, your far-spreading, penetrating stream goes forth to the worshipper who offers sacrifice."
+  },
+  {
+    "verse_number": 4,
+    "sanskrit_text": "इन्द्रवायू इमे सुता उप प्रयाणि दध्महे । ते यज्ञं यासथो गतम् ॥",
+    "transliteration": "indravāyū ime sutā upa prayāṇi dadhmahe | te yajñaṃ yāsatho gatam ||",
+    "translation_english": "Indra-Vāyu, these Soma drops are poured for you: come for the sake of our offered dainties."
+  },
+  {
+    "verse_number": 5,
+    "sanskrit_text": "इन्द्रवायू हवामहे यातमुप प्र यच्छतम् । मध्वः सोमस्य पीतये ॥",
+    "transliteration": "indravāyū havāmahe yātam upa pra yacchatam | madhvaḥ somasya pītaye ||",
+    "translation_english": "Well do you mark libations, O Vāyu and Indra, rich in spoil; so come swiftly hitherward."
+  },
+  {
+    "verse_number": 6,
+    "sanskrit_text": "इन्द्रवायू उप व्रजं सोमस्य गन्तनं । त्वा हवामहे सुहवम् ॥",
+    "transliteration": "indravāyū upa vrajaṃ somasya gantanam | tvā havāmahe suhavām ||",
+    "translation_english": "Vāyu and Indra, come to what the Soma-presser has prepared: soon, heroes, thus I make my prayer."
+  },
+  {
+    "verse_number": 7,
+    "sanskrit_text": "मित्रं हुवे पूतदक्षं वरुणं च रिशादसम् । धियं घृताचीं साधयन् ॥",
+    "transliteration": "mitraṃ huve pūtadakṣaṃ varuṇaṃ ca riśādasam | dhiyaṃ ghṛtācīṃ sādhayan ||",
+    "translation_english": "Mitra of holy strength I call, and foe-destroying Varuṇa, who make the oil-fed rite complete."
+  },
+  {
+    "verse_number": 8,
+    "sanskrit_text": "मित्रा वरुणा महान्ता ऋतेन यज्ञमाशाथे । तौ नः पान्तु सुक्रतू ॥",
+    "transliteration": "mitrā varuṇā mahāntā ṛtena yajñam āśāthe | tau naḥ pāntu sukratū ||",
+    "translation_english": "Mitra and Varuṇa, through Law, lovers and cherishers of Law, we have obtained your mighty power."
+  },
+  {
+    "verse_number": 9,
+    "sanskrit_text": "मित्रावरुणा सुव्रतौ बलं नः सुप्रजास्त्वम् । वर्धयन्तौ न आयुषा ॥",
+    "transliteration": "mitrāvaruṇā suvratau balaṃ naḥ suprajāstvām | vardhayantau na āyuṣā ||",
+    "translation_english": "O Mitra-Varuṇa, wide in dominion and strong by birth, vouchsafe us strength that works aright."
+  },
+ 
+
+  
+
 ]
