@@ -419,6 +419,78 @@
   "translation_english": "We invoke Indra, who is everywhere among men; may he be exclusively ours.":contentReference[oaicite:10]{index=10}
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 8,
+  "sukta_name": "Indra Sukta",
+  "rishi": "Madhuchchhandas Vaishvamitra",
+  "devata": "Indra",
+  "chandas": "Gāyatrī",
+  "total_verses": 10
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "एन्द्र सानसिं रयिं सजित्वानं सदासहम् । वर्षिष्ठमूतये भरा ॥",
+  "transliteration": "endra sānasiṃ rayiṃ sajitvānaṃ sadāsaham | varṣiṣṭham ūtaye bhara ||",
+  "translation_english": "Indra, bring for our protection abundant wealth, delightful and supreme, the source of victory, humbling our foes." :contentReference[oaicite:1]{index=1}
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "ये वृत्रासो यजमानस्य न उवाचन्ति मदन्तः ।",
+  "transliteration": "ye vṛtrāso yajamānasya na uvāchanti madantaḥ ||",
+  "translation_english": "Those hostile to the sacrificer who do not speak boldly have been conquered by you." :contentReference[oaicite:2]{index=2}
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "ओ भूत इन्द्र वज्रेण आमिषां दधाय धिष्ण्या ।",
+  "transliteration": "o bhūta indra vajreṇa āmiṣāṃ dadhāya dhiṣṇyā ||",
+  "translation_english": "O Indra, with your thunderbolt may you establish our wishes with strong resolve." :contentReference[oaicite:3]{index=3}
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "वयं शूरेभिरस्तृभिरिन्द्र त्वया युजा वयम् ।",
+  "transliteration": "vayaṃ śūrebhir astribhir indra tvayā yujā vayam ||",
+  "translation_english": "By your support, O Indra, we, united with your brave weapons, conquer." :contentReference[oaicite:4]{index=4}
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "इन्द्रेणैव युज्यमाना वाजेश्च वर्धताम् ।",
+  "transliteration": "indreṇai va yujyamānā vājeś ca vardhatām ||",
+  "translation_english": "May we, yoked with Indra, prosper in wealth upon your mighty strength." :contentReference[oaicite:5]{index=5}
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "यासां त्वा अग्रे यथाऽस्मादन्तरि विश्वे वषन्ति ।",
+  "transliteration": "yāsāṃ tvā agre yathāʼsmād antari viśve vaṣanti ||",
+  "translation_english": "As those whom you support prosper before us, so may all be brought under your sway." :contentReference[oaicite:6]{index=6}
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "इन्द्रेण वृषांसि धेनवः स्म एव दधीत धरः ।",
+  "transliteration": "indreṇa vṛṣāṃsi dhenavaḥ sma eva dadhīta dharaḥ ||",
+  "translation_english": "O Indra, may bulls and cows be firmly established for us by your might." :contentReference[oaicite:7]{index=7}
+},
+{
+  "verse_number": 8,
+  "sanskrit_text": "आ नो वाजं सुपर्णा दधामा इन्द्र ज्यैष्ठ्याय ।",
+  "transliteration": "ā no vājaṃ suparṇā dadhāmā indra jyaiṣṭhyāya ||",
+  "translation_english": "Grant us abundant wealth, O Indra of splendid wings, for supreme prosperity." :contentReference[oaicite:8]{index=8}
+},
+{
+  "verse_number": 9,
+  "sanskrit_text": "यच्छेन्द्र पृणाति शत्रूंर्यथा स नरः स वृषः ।",
+  "transliteration": "yac chendra pṛṇāti śatrūn yathā sa naraḥ sa vṛṣaḥ ||",
+  "translation_english": "Just as a valiant man, even a bull, scatters his enemies, so may Indra fill us with strength." :contentReference[oaicite:9]{index=9}
+},
+{
+  "verse_number": 10,
+  "sanskrit_text": "इन्द्रेणैव युज्यमाना वाजेश्च वर्धताम् ।",
+  "transliteration": "indreṇai va yujyamānā vājeś ca vardhatām ||",
+  "translation_english": "May we increase in might and wealth while being yoked with Indra’s power." :contentReference[oaicite:10]{index=10}
+},
+
 
 
 
