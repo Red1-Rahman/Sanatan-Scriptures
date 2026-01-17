@@ -16,4 +16,9 @@ class Purana extends Model
         'total_verses',
         'category',
     ];
+
+    public function verses()
+    {
+        return $this->hasMany(PuranaVerse::class, 'purana_number', 'purana_number');
+    }
 }

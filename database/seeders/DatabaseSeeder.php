@@ -18,6 +18,7 @@ class DatabaseSeeder extends Seeder
             MahabharataParvaSeeder::class,
             BhagavadGitaSeeder::class,
             PuranaSeeder::class,
+            BrahmaPuranaSeeder::class,
         ]);
     }
 }
