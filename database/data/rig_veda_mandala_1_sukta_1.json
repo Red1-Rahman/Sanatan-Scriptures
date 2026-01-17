@@ -347,6 +347,80 @@
   "translation_english": "May the best of rituals bestowed by Indra prosper the host; may his blessings increase gently upon the worshippers." :contentReference[oaicite:10]{index=10}
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 7,
+  "sukta_name": "Indra Sukta",
+  "rishi": "Madhuchchhandas Vaishvamitra",
+  "devata": "Indra",
+  "chandas": "Gāyatrī",
+  "total_verses": 10
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "इन्द्रमिद्गाथिनो बृहदिन्द्रमर्केभिरर्किणः । इन्द्रं वाणीर्नूषत ॥",
+  "transliteration": "indram id gāthino bṛhad indram arkebhir arkiṇaḥ | indraṃ vāṇīr anūṣata ||",
+  "translation_english": "The chanters extol Indra with songs, the reciters of the Ṛk with prayers, and the priests with their sacred texts.":contentReference[oaicite:1]{index=1}
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "इन्द्र इद्धर्योः सचा संमिश्ला वचोयुजा । इन्द्रो वाज्री हिरण्ययः ॥",
+  "transliteration": "indra iddharyoḥ sacā saṃmiślā vacoyujā | indro vājrī hiraṇyayāḥ ||",
+  "translation_english": "Indra comes ever inseparably with his two bright steeds and the car yoked by the word; Indra the thunder‑armed, all resplendent.":contentReference[oaicite:2]{index=2}
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "इन्द्रो दीर्घाय चक्षस आ सूर्यं रोहयद् दिवि । वि गोभिरद्रिमैरयत् ॥",
+  "transliteration": "indro dīrghāya cakṣasa ā sūryaṃ rohayad divi | vi gobhir adrim airayat ||",
+  "translation_english": "Indra, to render far vision, caused the sun to ascend into heaven, dispelling darkness with his radiant rays.":contentReference[oaicite:3]{index=3}
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "इन्द्र वाजेषु नोऽव सहस्रप्रधनेषु च ।",
+  "transliteration": "indra vājeṣu noʼva sahasrapradhaneṣu ca ||",
+  "translation_english": "O Indra, grant us victory in wealth and in battles where thousand spoils are won, through your bold might.":contentReference[oaicite:4]{index=4}
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "इन्द्रं नो वाजं सुचरमधनेषु च वयं हवामहे । अस्य भव अरिरोधन ॥",
+  "transliteration": "indraṃ no vājaṃ sucaram adhaneṣu ca vayaṃ havāmahe | asya bhava arirodhana ||",
+  "translation_english": "We invoke Indra for both modest and great wealth; make him our ally to overcome foes in conflict.":contentReference[oaicite:5]{index=5}
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "स नो वृषन्नमुं चरुं सत्रादावन्नपा वृधि । अस्मभ्यमप्रतिष्कुतः ॥",
+  "transliteration": "sa no vṛṣann‑amum caruṃ satrādāvan‑napā vṛdhi | asmabhyam apratiṣkutaḥ ||",
+  "translation_english": "Constant giver and mighty, pour down this bounty for us, O Indra; come forth unshielded to aid us.":contentReference[oaicite:6]{index=6}
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "तुंジェतुंジェ य उत्तरे स्तोमा इन्द्रस्य वज्रिणः । न विंधे अस्य सुष्टुतिम् ॥",
+  "transliteration": "tuñje tuñje ya uttare stomā indrasya vajriṇaḥ | na vindhe asya suṣṭutim ||",
+  "translation_english": "Still higher, at every strain of praise, rise Indra’s hymns; I find no laud that fully matches his glory.":contentReference[oaicite:7]{index=7}
+},
+{
+  "verse_number": 8,
+  "sanskrit_text": "वृषा यूथेव वंसगः कृष्टीरियर्त्योजसा । ईशानो अप्रतिष्कुतः ॥",
+  "transliteration": "vṛṣā yūtheva vaṃsagaḥ kṛṣṭī‑iryartyojasā | īśāno apratiṣkutaḥ ||",
+  "translation_english": "Like a stately bull driving the herds, he comes to the people with might — the irresistible lord.":contentReference[oaicite:8]{index=8}
+},
+{
+  "verse_number": 9,
+  "sanskrit_text": "य एकश्चर्षणीनां वसूनामिरज्यति । इन्द्रः पञ्च क्षितीनाम् ॥",
+  "transliteration": "ya ekaś carṣaṇīnāṃ vasūnāmirajyati | indraḥ pañca kṣitīnām ||",
+  "translation_english": "One who alone governs men and the gods and presides over all five regions, — that Indra we call forth.":contentReference[oaicite:9]{index=9}
+},
+{
+  "verse_number": 10,
+  "sanskrit_text": "इन्द्रं वो विश्वतस्परि हवामहे जनेभ्यः । अस्माकमस्तु केवलः ॥",
+  "transliteration": "indraṃ vo viśvatas pari havāmahe janebhyaḥ | asmākam astu kevalaḥ ||",
+  "translation_english": "We invoke Indra, who is everywhere among men; may he be exclusively ours.":contentReference[oaicite:10]{index=10}
+},
+
+
+
 
 
 
