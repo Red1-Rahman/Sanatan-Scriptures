@@ -635,12 +635,317 @@
   "translation_english": "Grant us abundant wealth, O Indra of splendid wings, for supreme strength and prosperity." 
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 11,
+  "sukta_name": "Indra Sukta",
+  "rishi": "Madhuchchhandas Vaishvamitra",
+  "devata": "Indra",
+  "chandas": "Anuṣṭup",
+  "total_verses": 8
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "इन्द्रं विश्वा अवीवृधन्त् समुද්्रव्यचसं गिरः । रथीतमं रथीनां वाजनां सत्पतिं पतिम् ॥",
+  "transliteration": "indraṃ viśvā avīvṛdhant samūdravyacasaṃ giraḥ | rathītamaṃ rathīnāṃ vājānāṃ satpatiṃ patim ||",
+  "translation_english": "All sacred songs have magnified Indra as expansive as the sea, the foremost of chariot heroes, lord of wealth and strength."  
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "सख्ये त इन्द्र वाजिनो मा भेम शवसस्पते । त्वामभि प्रणोनु मो जेवारामपरा जितम् ॥",
+  "transliteration": "sakhye ta indra vājino mā bhema śavasaspate | tvāmabhi praṇonu mo jevāraṃ aparā jitam ||",
+  "translation_english": "Strong in friendship, Indra, lord of power, do not let fear come upon us; we invoke thee, unconquered among heroes."  
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "पूर्वीरिन्द्रस्य रातयो न विस्यन्त्यूत्तयः । यदी वाजस्य गोमतः स्तोत्रभ्यो मंहते मग्म ॥",
+  "transliteration": "pūrvīr indrasya rātayo na visyanty uttayaḥ | yadī vājasya goma taḥ stotrabhyo maṃhate magha ||",
+  "translation_english": "The ancient gifts and support of Indra never fail; when he gives abundant wealth from the source of cattle to the singers of praise."  
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "पुरां भिन्दुर्इुवा कविरमितौजा अजायत । इन्द्रो विश्वस्य कर्मणो धर्ता वज्री पुरुष्टुतः ॥",
+  "transliteration": "purāṃ bhindur iuvā kavi ramitaujā ajāyata | indro viśvasya karmaṇo dhartā vajrī puruṣṭutaḥ ||",
+  "translation_english": "He who breaks open the stronghold, the youthful seer of mighty strength was born — Indra, supporter of all action, thunder‑armed, praised by many."  
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "त्वं वलस्य गोमतो अपावरद्रिवो बिलम् । त्वां देवाः अभिभ्युषस् तुज्यमानास आविषुः ॥",
+  "transliteration": "tvaṃ valasya gomato apāvaradrivo bilam | tvāṃ devāḥ abhibhyusas tujyamānāsa āviṣuḥ ||",
+  "translation_english": "Thou didst uncover Vala’s cave rich in cows; the gods, confident in thee, entered speedily into thy protection."  
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "तवाहं शूर रातिभिः प्रत्यास सिन्धुमावदन् । उपातिष्ठन्त गिर्वणो विदुष्टे तस्य कारवः ॥",
+  "transliteration": "tavāhaṃ śūra rātibhiḥ pratyās sindhumā vadan | upātiṣṭhanta girvaṇo viduṣṭe tasya kāravaḥ ||",
+  "translation_english": "I, the hero through thy gifts, speak to thee; the singers of praise stand ready like roaring waves before thee."  
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "मायाभिरिन्द्र मायिनं त्वं शुष्णमावातिरः । विदुष्टे तस्य मेधिरास् तेषां श्रवांस्युत्तिर ॥",
+  "transliteration": "māyābhir indra māyinaṃ tvaṃ śuṣṇam āvatirah | viduṣṭe tasya medhir ās teṣāṃ śravān sy uttir ||",
+  "translation_english": "O Indra skilled in maya (mystic power), come with thy inspiring strength; may their understanding increase and their fame rise high."  
+},
+{
+  "verse_number": 8,
+  "sanskrit_text": "इन्द्रमीशानमोजसाभि स्तोमा अनूषत । सहस्रं यस्य रातयः उत वा सन्ति भूयसिः ॥",
+  "transliteration": "indram īśānam ojasābhi stomā anūṣat | sahasraṃ yasya rātayaḥ uta vā santi bhūyasiḥ ||",
+  "translation_english": "The hymns have sounded forth to Indra ruling with might; whose gifts are a thousandfold, yea, even more abundant."  
+},
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 12,
+  "sukta_name": "Agni Sukta",
+  "rishi": "Medhātithi Kāṇva",
+  "devata": "Agni",
+  "chandas": "Gāyatrī",
+  "total_verses": 12
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "अग्निं दूतं वृणीमहे होतारं विश्ववेदसं सुक्रतुं ।",
+  "transliteration": "agniṃ dūtaṃ vṛṇīmahe hotāraṃ viśvavedasaṃ sukratum ||",
+  "translation_english": "We choose Agni, the messenger and invoker of the gods, the knower of all, the fulfiller of this sacrifice."  
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "अग्निमग्निं हवीमभिः सदा हवंत विश्पतिं हव्यवाहं पुरुप्रियम् ।",
+  "transliteration": "agnimagnim havīmabhiḥ sadā havanta viśpatim havyavāham purupriyam ||",
+  "translation_english": "They ever invoke Agni, Agni, with hymns calling the gods, O Lord of all, beloved of humans, bearer of the offerings."  
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "अग्ने देवां इहा वह जज्ञानो वृक्तबर्हिषे असि होता नः ईड्यः ।",
+  "transliteration": "agne devāṃ ihā vaha jajñāno vṛktabarhiṣe asi hotā naḥ īḍyaḥ ||",
+  "translation_english": "O Agni, bearer of the gods hither to him who strews the sacred grass, thou art our desired priest calling them."  
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "तान उशतो वि बोधय यदग्ने यासि दूत्यम् देवैः आ सत्सि बर्हिषि ।",
+  "transliteration": "tān uśato vi bodhaya yad agne yāsi dūtyam devaiḥ ā satsi barhiṣi ||",
+  "translation_english": "O Agni, awaken those gods who desire offerings when thou goest as our envoy; sit together with the gods on the sacred grass."  
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "घृताहवन दीदिवः प्रति स्म रिषतो दह अग्ने त्वं रक्षस्विनः ।",
+  "transliteration": "ghṛtāhavana dīdivaḥ prati sma riṣato daha agne tvaṃ rakṣasvinaḥ ||",
+  "translation_english": "O Agni, to whom clarified butter is offered and shining with light — burn down the hater, O destroyer of foes."  
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "अग्निना अग्निः समिध्यते कविर्गृहपति॑र युवा हव्यवाट् जुह्वास्यः ।",
+  "transliteration": "agninā agniḥ samidhyate kavir gṛhapatiḥ yuvā havyavāṭ juhvāsyah ||",
+  "translation_english": "By Agni the fire is kindled perfectly; the seer‑lord of the house, young and bearer of offerings, whose mouth is flame‑tongues."  
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "कविमग्निमुप स्तुहि सत्यधर्माणमध्वरे देवममीवचातनम् ।",
+  "transliteration": "kavim agnim upa stuhi satyadharmāṇam adhvare devam amīvacātanam ||",
+  "translation_english": "O Agni, praise the divine fire who upholds truth and righteousness in the sacrifice, like a god revealing the path."  
+},
+{
+  "verse_number": 8,
+  "sanskrit_text": "स नः स्तवान आ भर गायत्रेण नवीयसा रयिं वीरवतीमिषम् ।",
+  "transliteration": "sa naḥ stavāna ā bhara gāyatreṇa navīyasā rayiṃ vīravatīm iṣam ||",
+  "translation_english": "Praised with our newest Gayatri hymn, bestow on us wealth and food, the source of strength."  
+},
+{
+  "verse_number": 9,
+  "sanskrit_text": "अग्नयः सप्त सप्त इह देवा विवस्वन्तो नः परतरं यान्ताम ।",
+  "transliteration": "agnayaḥ sapta sapta iha devā vivasvanto naḥ parataraṃ yāntām ||",
+  "translation_english": "May the seven sacred flames, the gods, and the radiant ones go before us and lead us onward."  
+},
+{
+  "verse_number": 10,
+  "sanskrit_text": "अग्नेऽस्मान्प्र पूष्णा रयिं यज्ञस्य देवेभियुत वह ।",
+  "transliteration": "agne ’smān pra pūṣṇā rayiṃ yajñasya devebhiyuta vaha ||",
+  "translation_english": "O Agni, richly bestowing wealth, carry us forward in this sacrifice united with the gods."  
+},
+{
+  "verse_number": 11,
+  "sanskrit_text": "अपां दादा गा यन्तो यज्ञे देवा अपामिव । सह इन्द्र आ गच्छताम् ।",
+  "transliteration": "apāṃ dādā gā yanto yajñe devā apām iva | saha indra ā gacchatām ||",
+  "translation_english": "May the gods come together like waters in the sacred rite — O Indra — united in Agni’s flame."  
+},
+{
+  "verse_number": 12,
+  "sanskrit_text": "अग्ने शुक्रेण शोचिषा विश्वाभिर्देवाहूतिभिः इमं स्तोमं जुषस्व नः ।",
+  "transliteration": "agne śukreṇa śociṣā viśvābhir devahūtibhiḥ imaṃ stomaṃ juṣasva naḥ ||",
+  "translation_english": "Agni, shining with pure radiance and invoked by all divine calls, accept this our hymn with delight."  
+},
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 13,
+  "sukta_name": "Agni and Invocation Sukta",
+  "rishi": "Medhātithi Kāṇva",
+  "devata": "Agni and various divine forces",
+  "chandas": "Gāyatrī",
+  "total_verses": 12
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "सुसमिद्धो न आ वह देवाँ अग्ने हविष्मते । होतः पावक यक्षि च ॥",
+  "transliteration": "susamiddho na ā vaha devāṃ agne haviṣmate | hotaḥ pāvaka yakṣi ca ||",
+  "translation_english": "Agni, well‑kindled, bring the gods hither for him who offers holy gifts; O invoker and purifier, accomplish the sacrifice.":contentReference[oaicite:1]{index=1}
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "मधुमन्तं तनूनपाद्यज्ञं देवेषु नः कवे । अद्या कृणुहि वीतेय ॥",
+  "transliteration": "madhumantaṃ tanūnapādya yajñaṃ deveṣu naḥ kave | adyā kṛṇuhi vīteya ||",
+  "translation_english": "O Agni, giver of sweetness, present this auspicious sacrifice to the gods for our benefit today.":contentReference[oaicite:2]{index=2}
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "नराशंसमिह प्रियं अस्मिन्न्यज्ञ उप ह्वये । मधुजिह्वं हविष्कृतम् ॥",
+  "transliteration": "narāśaṃsam iha priyaṃ asmin yajña upa hvaye | madhujihvaṃ haviṣkṛtam ||",
+  "translation_english": "I invoke here the beloved Narāśaṃsa, sweet‑tongued and giver of oblations, to this sacrifice.":contentReference[oaicite:3]{index=3}
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "अग्नि सुखतमे रथे देवाँ ईळित आ वह । असि होता मनुर्हितः ॥",
+  "transliteration": "agni sukhata me rathe devāṃ īḷita ā vaha | asi hotā manurhitaḥ ||",
+  "translation_english": "O Agni, in thy swift and joyful chariot, bring the gods here, for thou art the invoker accepted by men.":contentReference[oaicite:4]{index=4}
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "तान उशतो वि बोधय यदग्ने यासि दूत्यम् । देवैः आ सति बर्हिषि ॥",
+  "transliteration": "tān uśato vi bodhaya yad agne yāsi dūtyam | devaiḥ ā sati barhiṣi ||",
+  "translation_english": "O Agni, prepare the seat strewn with sacred grass and make ready the offering when thou goest as envoy among the gods.":contentReference[oaicite:5]{index=5}
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "द्वारं देवीर द्वारं पयसा । यासां अर्चयस्व यज्ञे स्थिताः ॥",
+  "transliteration": "dvāraṃ devīr dvāraṃ payasā | yāsāṃ arcayasva yajñe sthitāḥ ||",
+  "translation_english": "Open, O goddesses, doors for us, opened with milk — worship those who stand in the sacrifice.":contentReference[oaicite:6]{index=6}
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "उषसां नक्ता रक्तो मनुस्ते । यत्रानृतस्य क्रियते ॥",
+  "transliteration": "uṣasāṃ naktā rakto manuste | yatrānṛtasya kriyate ||",
+  "translation_english": "To Night and Dawn, radiant and red, to the place where untruth falters, I call.":contentReference[oaicite:7]{index=7}
+},
+{
+  "verse_number": 8,
+  "sanskrit_text": "स्वधा उ चास्ते देव्यो होतारौ प्रचेतसौ । यथा कृतं देवानाम् ॥",
+  "transliteration": "svadhā u cāste devyo hotārau prachetasau | yathā kṛtaṃ devānām ||",
+  "translation_english": "O Svadhā and O Cāste, the two invokers wise in mind, as it was done for the gods, do for us.":contentReference[oaicite:8]{index=8}
+},
+{
+  "verse_number": 9,
+  "sanskrit_text": "इलाभारत्यो देव्या आसन् सन्तो नः । यज्ञे स्थिताः ॥",
+  "transliteration": "ilābhāratyo devyā āsan santo naḥ | yajñe sthitāḥ ||",
+  "translation_english": "May the goddesses Ila, Sarasvatī and Bhāratī, who give delight, be present with us and stand in this sacrifice.":contentReference[oaicite:9]{index=9}
+},
+{
+  "verse_number": 10,
+  "sanskrit_text": "त्वष्टा विश्वाकार इदम् अहम् आबध्ने । अस्माभिः शुद्धैर्युक्तैः ॥",
+  "transliteration": "tvaṣṭā viśvākāra idam aham ābandhne | asmābhiḥ śuddhair yuktaiḥ ||",
+  "translation_english": "O Tvaṣṭṛ of all forms, I call thee here; unite us with purity and strength.":contentReference[oaicite:10]{index=10}
+},
+{
+  "verse_number": 11,
+  "sanskrit_text": "वनस्पति प्रभो यो विसृज्य । यज्ञाय देवान् प्र चकार ॥",
+  "transliteration": "vanaspati prabho yo visṛjya | yajñāya devān pra cakāra ||",
+  "translation_english": "O Lord of the woods, who sends forth offerings, bring the gods to this sacrifice.":contentReference[oaicite:11]{index=11}
+},
+{
+  "verse_number": 12,
+  "sanskrit_text": "स्वाहा कृत्याः स्वाहाग्नये इन्द्राय पुरोहिताय । देवान् आ गच्छताम् ॥",
+  "transliteration": "svāhā kṛtyāḥ svāhāgnaye indrāya purohitaḥ | devān ā gacchatām ||",
+  "translation_english": "Svāhā to our rites, Svāhā to Agni; to Indra, the priest — may the gods come.":contentReference[oaicite:12]{index=12}
+},
 
-
-
-
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 14,
+  "sukta_name": "Vishvedevas & Agni Invocation Sukta",
+  "rishi": "Medhātithi Kāṇva",
+  "devata": "Vishvedevas (all gods) with special focus on Agni",
+  "chandas": "Gāyatrī",
+  "total_verses": 12
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "अग्नि यो विश्वेभि: सोम्यं गाति: साधयस्व देवासि हविष्मते ।",
+  "transliteration": "agni yo viśvebhiḥ somyaṃ gātiḥ sādhayasva devāsi haviṣmate ||",
+  "translation_english": "O Agni, who makes the Soma‑joyful paths successful with all the gods, come, O giver of offerings."  
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "तान आग्ने कनवा हविष्मन्तो वाचो जीविष्मन्तो विदथ्यवन्तु ।",
+  "transliteration": "tān āgne kanavā haviṣmanto vāco jīvīṣmanto vidthavyavantu ||",
+  "translation_english": "O Agni, the Kanvas inviting, desirous of speech and life, have called thee — come with the gods."  
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "इन्द्र वायु बृहस्पति: मित्र अग्नि पुषण भागा आदित्याः मारुत: ।",
+  "transliteration": "indra vāyu bṛhaspatiḥ mitra agni puṣaṇa bhāgā ādityāḥ mārutaḥ ||",
+  "translation_english": "Indra and Vāyu, Brihaspati, Mitra and Agni, Pūshan, Bhaga, the Ādityas and the Maruts."  
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "तान् हवो अमृतांशु मधु गच्छन्तो मद्भिर हृतं रमणीयमसि भेषजम् ।",
+  "transliteration": "tān havo amṛtāṃśu madhu gacchanto madbhir hṛtaṃ ramaṇīyamasibheṣajam ||",
+  "translation_english": "For you they bring nectar‑drops of delight; those delights, lovely like medicine, settle into the Soma pot."  
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "तान् आग्ने कनवा अस्मिन सति बर्हिषि धृत्या गरमभिः सिंधूनिधिभिः ।",
+  "transliteration": "tān āgne kanavā asmin sati barhiṣi dhṛtyā garamabhiḥ sindhūnidhibhiḥ ||",
+  "translation_english": "O Agni, the Kanvas at the sacred grass seat prepare thee with vigor and bring offerings along with the treasures of rivers."  
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "घृतपृष्ठा मनःयुजा वहन्या ये त्वा वहन्ति देवान एह सोमपीतये ।",
+  "transliteration": "ghṛtapṛṣṭhā manaḥyujā vahanā ye tvā vahanti devān eha somapītaye ||",
+  "translation_english": "Agni, lit with clarified butter, yoked by mind, the bearers who bring thee here also bring the gods for drinking Soma."  
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "ते मानसो यज्ञेषु देवासो वर्धन्तु सत्येन पत्निभिः सह पिबन्तु मधुम् ।",
+  "transliteration": "te mānaso yajñeṣu devāso vardhantu satyena patnibhiḥ saha pibantu madhum ||",
+  "translation_english": "May those gods, vigorous in sacrificial mind and upheld by truth, drink the sweet Soma together with their mates."  
+},
+{
+  "verse_number": 8,
+  "sanskrit_text": "ये यज्ञेषु देवाः सभ्यं यज्ञं मनसा च तिष्ठन्तु । पिबन्तु मधु तम् स्वदु: शर्करा: ।",
+  "transliteration": "ye yajñeṣu devāḥ sabhyaṃ yajñaṃ manasā ca tiṣṭhantu | pibantu madhu tam svaduḥ śarkarāḥ ||",
+  "translation_english": "Those gods who uphold the sacred sacrifice, may they with their minds stand firm and drink the honey‑sweet Soma."  
+},
+{
+  "verse_number": 9,
+  "sanskrit_text": "सूर्यलोकवर्णो रात्रुदा जागृध्य सोमपान: पुरोहित: ।",
+  "transliteration": "sūryalokavarṇo rātrudā jāgṛdhya somapānaḥ purohitaḥ ||",
+  "translation_english": "In the realm of the sun’s radiance, the Soma‑drinkers awake at dawn; the priest has arisen here for the sacrifice."  
+},
+{
+  "verse_number": 10,
+  "sanskrit_text": "तान् आग्ने समे पिब मधु विश्वेभिर इन्द्रेण वायुन: मित्रस्य धामभि: ।",
+  "transliteration": "tān āgne same piba madhu viśvebhiḥ indreṇa vāyunaḥ mitrasya dhāmabhiḥ ||",
+  "translation_english": "O Agni, drink the sweet Soma with them, with Indra and Vāyu, and with the splendors of Mitra."  
+},
+{
+  "verse_number": 11,
+  "sanskrit_text": "त्वं अग्निः प्राप्तः पुरोहितो मनु: यज्ञेषु उपविश । यज्ञेन अस्माकं कर्म कुरुत् ।",
+  "transliteration": "tvaṃ agniḥ prāptaḥ purohitaḥ manuḥ yajñeṣu upaviśa | yajñena asmākaṃ karma kurut ||",
+  "translation_english": "O Agni, thou art our priest and guide; sit among the sacrifices and perform our deed with the ritual."  
+},
+{
+  "verse_number": 12,
+  "sanskrit_text": "युक्ष्वा हि अरुषी रथे हरितो देवरोहित: ताभिर्देवान् इहा वह ।",
+  "transliteration": "yukṣvā hi aruṣī rathe harito devarohitaḥ tābhir devān ihā vaha ||",
+  "translation_english": "Yoke, O shining one, thy green and rosy horses to the chariot, and by these bring the gods here."  
+},
 
 
 
