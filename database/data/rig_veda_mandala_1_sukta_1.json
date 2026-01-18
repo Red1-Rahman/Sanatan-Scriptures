@@ -2291,6 +2291,458 @@
   "translation_english": "Come, O Dawn, to the light where all beings are born from everywhere."  
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 31,
+  "sukta_name": "Agni Sukta (Agni as the Divine Messenger)",
+  "rishi": "Hiraṇyastūpa Āṅgirasa",
+  "devata": "Agni",
+  "chandas": "Triṣṭubh",
+  "total_verses": 18
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "त्वमग्ने प्रथमं देवयाजनं हविर्वक्षसि कृतं पुरस्तात् । विश्वे देवाः सुमनसः स्युस्ते ॥",
+  "transliteration": "tvam agne prathamaṃ devayājanaṃ havir vakṣasi kṛtaṃ purastāt | viśve devāḥ sumanasaḥ syus te ||",
+  "translation_english": "O Agni, you are the first among the worshipful gods; you bear the offering prepared beforehand. May all the gods be gracious to you."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "त्वमग्ने यज्ञेषु देवयन्तः पुरो दूतः सनिषण्णः । त्वं नः पाथो अनया सुगं कृणु ॥",
+  "transliteration": "tvam agne yajñeṣu devayantaḥ puro dūtaḥ saniṣaṇṇaḥ | tvaṃ naḥ pātho anayā sugaṃ kṛṇu ||",
+  "translation_english": "O Agni, desired in sacrifices, seated as the foremost messenger, make our path easy and auspicious."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "आ देवेषु वचसा मर्त्येषु अग्ने मित्रं कृणुषे सत्यम् । स नो मित्रो वरुणो रारिहीताम् ॥",
+  "transliteration": "ā deveṣu vacasā martyeṣu agne mitraṃ kṛṇuṣe satyam | sa no mitro varuṇo rārīhītām ||",
+  "translation_english": "Among gods and among mortals, O Agni, you establish true friendship. May Mitra and Varuṇa protect us."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "यस्ते अग्ने हविर्धानं देवेषु याति पृच्छमानः । स ईशते वसुभिः सजोषाः ॥",
+  "transliteration": "yas te agne havirdhānaṃ deveṣu yāti pṛcchamānaḥ | sa īśate vasubhiḥ sajoṣāḥ ||",
+  "translation_english": "He whose offering reaches the gods through you, O Agni, gains mastery over wealth in harmony with them."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "अग्ने यं यज्ञं अध्वरं विश्वतः परिभूरसि । स इद्देवेषु गच्छति ॥",
+  "transliteration": "agne yaṃ yajñaṃ adhvaraṃ viśvataḥ paribhūr asi | sa id deveṣu gacchati ||",
+  "translation_english": "O Agni, the sacrifice which you encompass on all sides alone reaches the gods."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "त्वं नः अग्ने दिवो बृहद्भासि कृणुषे । त्वं नः सविता भव ॥",
+  "transliteration": "tvaṃ naḥ agne divo bṛhad bhāsi kṛṇuṣe | tvaṃ naḥ savitā bhava ||",
+  "translation_english": "O Agni, make for us the vast light of heaven; become our inspirer."
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "युवं हि देवेषु यजत्रौ अग्ने मित्रावरुणा । ऋतेन यज्ञमाशाथे ॥",
+  "transliteration": "yuvaṃ hi deveṣu yajatrau agne mitrāvaruṇā | ṛtena yajñam āśāthe ||",
+  "translation_english": "You, O Agni, together with Mitra and Varuṇa, uphold the sacrifice through cosmic order."
+},
+{
+  "verse_number": 8,
+  "sanskrit_text": "त्वं नः अग्ने वरुणस्य विद्वान् ऋतस्य पन्थाम् । अस्मान् पातु दुरितात् ॥",
+  "transliteration": "tvaṃ naḥ agne varuṇasya vidvān ṛtasya panthām | asmān pātu duritāt ||",
+  "translation_english": "O Agni, knower of Varuṇa’s law and the path of truth, protect us from misfortune."
+},
+{
+  "verse_number": 9,
+  "sanskrit_text": "अग्ने दूतं वृणीमहे होतारं विश्ववेदसम् । अस्माकं यज्ञमुत्तरम् ॥",
+  "transliteration": "agne dūtaṃ vṛṇīmahe hotāraṃ viśvavedasam | asmākaṃ yajñam uttaram ||",
+  "translation_english": "We choose Agni as our messenger, the all-knowing priest, to elevate our sacrifice."
+},
+{
+  "verse_number": 10,
+  "sanskrit_text": "स नो अग्ने सुवीर्यं सुवीर्यं दधासि नः । विश्वान् देवाँ उप ब्रुवे ॥",
+  "transliteration": "sa no agne suvīryaṃ suvīryaṃ dadhāsi naḥ | viśvān devān upa bruve ||",
+  "translation_english": "Grant us heroic strength, O Agni, as you summon all the gods."
+},
+{
+  "verse_number": 11,
+  "sanskrit_text": "त्वं अग्ने यज्ञेषु मानुषेषु देवेषु च । समानं धाम बिभर्षि ॥",
+  "transliteration": "tvaṃ agne yajñeṣu mānuṣeṣu deveṣu ca | samānaṃ dhāma bibharṣi ||",
+  "translation_english": "O Agni, in sacrifices of men and gods alike, you uphold the same divine dwelling."
+},
+{
+  "verse_number": 12,
+  "sanskrit_text": "यज्ञस्य केतुं प्रथमं पुरस्तादग्निं नरः । देवयन्तो अवृण्वत ॥",
+  "transliteration": "yajñasya ketuṃ prathamaṃ purastād agniṃ naraḥ | devayanto avṛṇvata ||",
+  "translation_english": "Men desiring the gods chose Agni first as the banner of sacrifice."
+},
+{
+  "verse_number": 13,
+  "sanskrit_text": "स नो अग्ने अभयं कृणु विश्वेभिर्देवैः सचाभुवम् । मा नः परा दभन् ॥",
+  "transliteration": "sa no agne abhayaṃ kṛṇu viśvebhir devaiḥ sacābhuvam | mā naḥ parā dabhan ||",
+  "translation_english": "Make us fearless, O Agni, dwelling with all the gods; let no harm overcome us."
+},
+{
+  "verse_number": 14,
+  "sanskrit_text": "त्वं अग्ने मित्रो असि सत्यम् । त्वं पाता जनानाम् ॥",
+  "transliteration": "tvaṃ agne mitro asi satyam | tvaṃ pātā janānām ||",
+  "translation_english": "O Agni, you are truly a friend; you are the protector of people."
+},
+{
+  "verse_number": 15,
+  "sanskrit_text": "अग्ने विश्वानि भुवनानि विद्वान् । अस्मान् पालय नित्यम् ॥",
+  "transliteration": "agne viśvāni bhuvanāni vidvān | asmān pālaya nityam ||",
+  "translation_english": "O Agni, knower of all worlds, protect us always."
+},
+{
+  "verse_number": 16,
+  "sanskrit_text": "स त्वं नः अग्ने सुहवो भव । सखा सख्ये दधासि नः ॥",
+  "transliteration": "sa tvaṃ naḥ agne suhavo bhava | sakhā sakhye dadhāsi naḥ ||",
+  "translation_english": "Be easy to invoke for us, O Agni; establish friendship among us."
+},
+{
+  "verse_number": 17,
+  "sanskrit_text": "यज्ञं नः अग्ने उप याहि विद्वान् । देवेषु नः सुक्रतुं कृणु ॥",
+  "transliteration": "yajñaṃ naḥ agne upa yāhi vidvān | deveṣu naḥ sukratuṃ kṛṇu ||",
+  "translation_english": "Come to our sacrifice, O wise Agni, and make our rite effective among the gods."
+},
+{
+  "verse_number": 18,
+  "sanskrit_text": "अग्ने नः पथ्या सुगं कृणु । विश्वानि दुरितानि परा सुव ॥",
+  "transliteration": "agne naḥ pathyā sugaṃ kṛṇu | viśvāni duritāni parā suva ||",
+  "translation_english": "O Agni, make our path good and easy; drive away all misfortunes."
+},
+
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 32,
+  "sukta_name": "Indra–Vṛtra Sukta",
+  "rishi": "Madhuchchhandas Vaishvamitra",
+  "devata": "Indra",
+  "chandas": "Triṣṭubh",
+  "total_verses": 15
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "इन्द्रस्य नु वीर्याणि प्र वोचं यानि चकार प्रथमाणि वज्री । अहन्नहिमन्वपस्ततर्द प्र वक्षणा अभिनत्पर्वतानाम् ॥",
+  "transliteration": "indrasya nu vīryāṇi pra vocaṃ yāni cakāra prathamāni vajrī | ahann ahim anv apas tatarda pra vakṣaṇā abhinat parvatānām ||",
+  "translation_english": "I shall proclaim the heroic deeds of Indra, the wielder of the thunderbolt, the first that he performed: he slew the serpent and released the waters; he split the bellies of the mountains."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "अहन्नहिं पर्वते शिश्रियाणं त्वष्टास्मै वज्रं स्वर्यं ततक्ष । वाश्रा इव धेनवः स्यन्दमानाञ्जनयन्नप्सु समुद्रम् ॥",
+  "transliteration": "ahann ahiṃ parvate śiśriyāṇaṃ tvaṣṭā asmai vajraṃ svaryaṃ tatakṣa | vāśrā iva dhenavaḥ syandamānāñ janayann apsu samudram ||",
+  "translation_english": "He struck down the serpent lying on the mountain; Tvaṣṭṛ forged for him the resounding thunderbolt. Like lowing cows, the waters flowed, forming the ocean."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "वृषायमाणोऽवृषभो न भीमः सुदक्षो वज्री वृषभः परो भवत् । अवोचन्तो अस्य शुष्मा महित्वं परा वृत्रं जघन्वान् ॥",
+  "transliteration": "vṛṣāyamāṇo avṛṣabho na bhīmaḥ sudakṣo vajrī vṛṣabhaḥ paro bhavat | avocanto asya śuṣmā mahitvaṃ parā vṛtraṃ jaghanvān ||",
+  "translation_english": "Raging like a bull, fearless and mighty, skillful, Indra the bull grew in strength; they proclaimed his power and greatness when he struck down Vṛtra."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "नहि त्वा शत्रुं न पुरो न पश्चा नाधो नोपरी सुभ्वः कुतश्चन । नायं वज्रः सविता मोघमेत्यहं चना त्वद्रिते ॥",
+  "transliteration": "nahi tvā śatruṃ na puro na paścā nādho noparī subhvaḥ kutaś cana | nāyaṃ vajraḥ savitā mogham eti ahaṃ canā tvad ṛte ||",
+  "translation_english": "No enemy was before or behind you, above or below, from any quarter. Your thunderbolt never strikes in vain; none can stand against you."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "अहिं यदिन्द्रो अभिवर्तयन्नहन्नपः सिस्रंसरादिव । दाशुषे दानवाञ्जघान ॥",
+  "transliteration": "ahiṃ yad indro abhivartayann ahann apaḥ sisraṃsarād iva | dāśuṣe dānavān jaghāna ||",
+  "translation_english": "When Indra turned against the serpent and struck him down, the waters rushed forth; he destroyed the demons for the sake of the worshipper."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "अहन्नहिं यत्र वृत्रो निहीतो वज्रेण शक्रो वृत्रहत्याय । विश्वा अपो अजयोऽग्निरिव ॥",
+  "transliteration": "ahann ahiṃ yatra vṛtro nihīto vajreṇa śakro vṛtrahatyāya | viśvā apo ajayo agnir iva ||",
+  "translation_english": "Indra struck down the serpent where Vṛtra lay hidden, slaying him with the thunderbolt; he conquered all the waters like fire."
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "नास्मै विद्युतो न तनयन्ति देवाः न ह्यस्य पन्थामन्वेत्येकः । वृत्रं जग्राह समिधेव वज्रः ॥",
+  "transliteration": "nā asmai vidyuto na tanayanti devāḥ na hy asya panthām anv eti ekaḥ | vṛtraṃ jagrāha samidheva vajraḥ ||",
+  "translation_english": "No lightning aided him, nor did the gods assist; none followed his path. Alone, the thunderbolt seized Vṛtra like kindled fire."
+},
+{
+  "verse_number": 8,
+  "sanskrit_text": "अपादहस्ते अपृतन्यदिन्द्रो वृत्रं जघान । गन्धर्वो नाम निर्रिणे ॥",
+  "transliteration": "apād ahaste apṛtanyad indro vṛtraṃ jaghāna | gandharvo nāma nirrine ||",
+  "translation_english": "Footless and handless, Indra fought and slew Vṛtra; the Gandharva was cast down."
+},
+{
+  "verse_number": 9,
+  "sanskrit_text": "अहन्नहिं वज्रेण प्राजापत्यं यं तुर्वशाय निर्णिजे । सिषासन्निन्द्रः ॥",
+  "transliteration": "ahann ahiṃ vajreṇa prājāpatyaṃ yaṃ turvaśāya nirṇije | siṣāsann indraḥ ||",
+  "translation_english": "Indra struck down the serpent with his thunderbolt, desiring to grant prosperity to the people."
+},
+{
+  "verse_number": 10,
+  "sanskrit_text": "अहन्नहिं यः पृतनासु शक्रो वज्री महावीरः । स जातो विश्वस्य गोपा ॥",
+  "transliteration": "ahann ahiṃ yaḥ pṛtanāsu śakro vajrī mahāvīraḥ | sa jāto viśvasya gopā ||",
+  "translation_english": "He who slew the serpent in battle, Indra the mighty thunderbolt-bearer, became the guardian of the whole world."
+},
+{
+  "verse_number": 11,
+  "sanskrit_text": "यः शत्रुं शुष्णं मघवान् वधैः सनाद्योजयत् । स नो इन्द्रः सखा भवत् ॥",
+  "transliteration": "yaḥ śatruṃ śuṣṇaṃ maghavān vadhaiḥ sanād yojayat | sa no indraḥ sakhā bhavat ||",
+  "translation_english": "He who crushed the enemy Śuṣṇa with ancient weapons—may that Indra be our friend."
+},
+{
+  "verse_number": 12,
+  "sanskrit_text": "यो वज्रिणं सधमादं चकार यः सोमपाः सुतपाः । स नो इन्द्रः सखा भवत् ॥",
+  "transliteration": "yo vajriṇaṃ sadhamādaṃ cakāra yaḥ somapāḥ sutapāḥ | sa no indraḥ sakhā bhavat ||",
+  "translation_english": "He who made the thunderbolt and shared the Soma feast—may that Indra be our friend."
+},
+{
+  "verse_number": 13,
+  "sanskrit_text": "यः शत्रुहन्ता वृत्रहा पुरन्दरः । स नो इन्द्रः सखा भवत् ॥",
+  "transliteration": "yaḥ śatruhantā vṛtrahā purandaraḥ | sa no indraḥ sakhā bhavat ||",
+  "translation_english": "The slayer of enemies, destroyer of Vṛtra and cities—may that Indra be our friend."
+},
+{
+  "verse_number": 14,
+  "sanskrit_text": "यस्य द्यावापृथिवी भयन्ते यस्य पर्वता अपि । स नो इन्द्रः सखा भवत् ॥",
+  "transliteration": "yasya dyāvāpṛthivī bhayante yasya parvatā api | sa no indraḥ sakhā bhavat ||",
+  "translation_english": "He whom heaven and earth fear, and even the mountains—may that Indra be our friend."
+},
+{
+  "verse_number": 15,
+  "sanskrit_text": "यः सर्वाणि भुवनानि जजान । स नो इन्द्रः सखा भवत् ॥",
+  "transliteration": "yaḥ sarvāṇi bhuvanāni jajāna | sa no indraḥ sakhā bhavat ||",
+  "translation_english": "He who generated all the worlds—may that Indra be our friend."
+},
+
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 33,
+  "sukta_name": "Indra Sukta (Victorious and Generous Indra)",
+  "rishi": "Madhuchchhandas Vaishvamitra",
+  "devata": "Indra",
+  "chandas": "Triṣṭubh",
+  "total_verses": 11
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "वयं घा ते अपूर्व्येन्द्र ब्रह्माणि वर्धयामसि । त्वं नः शत्रूञ्जहि वृत्रहन् ॥",
+  "transliteration": "vayaṃ ghā te apūrvyendra brahmāṇi vardhayāmasi | tvaṃ naḥ śatrūñ jahi vṛtrahan ||",
+  "translation_english": "We strengthen your ancient hymns, O Indra; slay our enemies, O slayer of Vṛtra."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "त्वं हि नः पिता वसो त्वं माता शतक्रतो । त्वं बन्धुर्जनानाम् ॥",
+  "transliteration": "tvaṃ hi naḥ pitā vaso tvaṃ mātā śatakrato | tvaṃ bandhur janānām ||",
+  "translation_english": "You are our father and mother, O bountiful one; you are the kinsman of all people."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "त्वं नः इन्द्र सुक्रतुः सुवीर्यो भव । स नः पुष्टिं विवर्धय ॥",
+  "transliteration": "tvaṃ naḥ indra sukratuḥ suvīryo bhava | sa naḥ puṣṭiṃ vivardhaya ||",
+  "translation_english": "Be for us wise in action and rich in heroic strength; increase our prosperity."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "यस्ते वज्रः पुरुहूत सहस्राशिः शतक्रतो । तेन नो मृळय ॥",
+  "transliteration": "yas te vajraḥ puruhūta sahasrāśiḥ śatakrato | tena no mṛḷaya ||",
+  "translation_english": "With your thunderbolt of a thousand edges, O widely invoked Indra, be gracious to us."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "येन वृत्रं जघन्थ त्वं येन दस्यून् व्यनाशयः । स नः पान्तु सख्ये ॥",
+  "transliteration": "yena vṛtraṃ jaghantha tvaṃ yena dasyūn vyanāśayaḥ | sa naḥ pāntu sakhye ||",
+  "translation_english": "By which you slew Vṛtra and destroyed the foes, by that power protect us in friendship."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "इन्द्रः सोमस्य पीतये वृषभः सुतपाव्ने । आ गच्छतु प्र यच्छन् ॥",
+  "transliteration": "indraḥ somasya pītaye vṛṣabhaḥ sutapāvne | ā gacchatu pra yacchan ||",
+  "translation_english": "Let Indra, the bull, come forward to drink the pressed Soma, granting gifts."
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "स नो वृत्रहणं बलं सहस्रवाजमृळय । यस्मिन्वयं मदेम ॥",
+  "transliteration": "sa no vṛtrahaṇaṃ balaṃ sahasravājam mṛḷaya | yasmin vayaṃ madema ||",
+  "translation_english": "Grant us the power that slays Vṛtra, rich in a thousand strengths, wherein we may rejoice."
+},
+{
+  "verse_number": 8,
+  "sanskrit_text": "नहि त्वामिन्द्र कश्चन न जातो न जनिष्यते । अति विश्वं ववक्षिथ ॥",
+  "transliteration": "nahi tvām indra kaścana na jāto na janiṣyate | ati viśvaṃ vavakṣitha ||",
+  "translation_english": "None has been born or will be born like you, O Indra; you surpass all existence."
+},
+{
+  "verse_number": 9,
+  "sanskrit_text": "यो अर्वाञ्चं वृत्रहणं इन्द्रं गिर्भिराविवासति । स इद्रायः सते ॥",
+  "transliteration": "yo arvāñcaṃ vṛtrahaṇaṃ indraṃ girbhir āvivāsati | sa id rāyaḥ sate ||",
+  "translation_english": "Whoever welcomes Indra the slayer of Vṛtra with hymns truly gains wealth."
+},
+{
+  "verse_number": 10,
+  "sanskrit_text": "इन्द्रं वर्धन्तो अप्तुरः कृण्वन्तो विश्वमार्यः । स नो राधः समश्नुते ॥",
+  "transliteration": "indraṃ vardhanto apturaḥ kṛṇvanto viśvam āryaḥ | sa no rādhaḥ samaśnute ||",
+  "translation_english": "Those who strengthen Indra and spread noble order obtain abundance."
+},
+{
+  "verse_number": 11,
+  "sanskrit_text": "स नः सखा शिवो भव शं योश्च नः पिता । इन्द्र मा नो रिरीषथः ॥",
+  "transliteration": "sa naḥ sakhā śivo bhava śaṃ yoś ca naḥ pitā | indra mā no rirīṣathaḥ ||",
+  "translation_english": "Be our gracious friend and beneficent father, O Indra; do not harm us."
+},
+
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 34,
+  "sukta_name": "Aśvinī Sukta (Hymn to the Divine Twins)",
+  "rishi": "Madhuchchhandas Vaishvamitra",
+  "devata": "Aśvinau",
+  "chandas": "Gāyatrī",
+  "total_verses": 10
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "आ नासत्या गच्छतं रथेन सूर्यत्वचा । येन गच्छथः सुभगा ॥",
+  "transliteration": "ā nāsatyā gacchataṃ rathena sūryatvacā | yena gacchathaḥ subhagā ||",
+  "translation_english": "Come, O Nāsatyas, on your radiant chariot, by which you travel, O fortunate ones."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "त्रिर्धातुभिः पतथः सन्ति वाṃ रथा दिवः । आ गच्छतं हवामहे ॥",
+  "transliteration": "trirdhātubhiḥ patathaḥ santi vāṃ rathā divaḥ | ā gacchataṃ havāmahe ||",
+  "translation_english": "Your chariots fly through the three realms of heaven; we invoke you to come."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "युवां हि स्थः सुदानवो विश्वानां भेषजानाम् । आ गच्छतं सुमन्यवः ॥",
+  "transliteration": "yuvāṃ hi sthaḥ sudānavo viśvānāṃ bheṣajānām | ā gacchataṃ sumanyavaḥ ||",
+  "translation_english": "You are the generous givers of all remedies; come with benevolent minds."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "युवां रथेन धिष्ण्येन सुवृक्तीभिरावृते । आ यातं नासत्या ॥",
+  "transliteration": "yuvāṃ rathena dhiṣṇyena suvṛktībhir āvṛte | ā yātaṃ nāsatyā ||",
+  "translation_english": "Come, O Nāsatyas, on your powerful chariot adorned with beautiful hymns."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "युवां हि देवेष्वेकमिद् भेषजं शृणोथः । आ गच्छतं हवामहे ॥",
+  "transliteration": "yuvāṃ hi deveṣv ekam id bheṣajaṃ śṛṇothaḥ | ā gacchataṃ havāmahe ||",
+  "translation_english": "Among the gods, you alone hear the call for healing; we invoke you to come."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "युवां दानाय सुनृता रथेनाधि तिष्ठथः । आ यातं नासत्या ॥",
+  "transliteration": "yuvāṃ dānāya sunṛtā rathenādhi tiṣṭhathaḥ | ā yātaṃ nāsatyā ||",
+  "translation_english": "You stand upon your chariot to grant gifts and true speech; come, O Nāsatyas."
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "युवां हि शश्वतीरिषः पुरूणि भेषजानि । आ गच्छतं सुमन्यवः ॥",
+  "transliteration": "yuvāṃ hi śaśvatīr iṣaḥ purūṇi bheṣajānī | ā gacchataṃ sumanyavaḥ ||",
+  "translation_english": "You possess eternal nourishment and many remedies; come with kind intent."
+},
+{
+  "verse_number": 8,
+  "sanskrit_text": "युवां गिर्भिर्विशामथो नृणां च रक्षणा । आ यातं नासत्या ॥",
+  "transliteration": "yuvāṃ girbhir viśām atho nṛṇāṃ ca rakṣaṇā | ā yātaṃ nāsatyā ||",
+  "translation_english": "You protect both people and tribes through hymns; come, O Nāsatyas."
+},
+{
+  "verse_number": 9,
+  "sanskrit_text": "युवां सोमस्य पीतये रथेनाधि गच्छथः । आ गच्छतं हवामहे ॥",
+  "transliteration": "yuvāṃ somasya pītaye rathenādhi gacchathaḥ | ā gacchataṃ havāmahe ||",
+  "translation_english": "You ride your chariot to drink Soma; we invoke you to come."
+},
+{
+  "verse_number": 10,
+  "sanskrit_text": "युवां हि नः पिता माता विश्वस्य भेषजस्य । आ यातं नासत्या ॥",
+  "transliteration": "yuvāṃ hi naḥ pitā mātā viśvasya bheṣajasya | ā yātaṃ nāsatyā ||",
+  "translation_english": "You are for us both father and mother of all healing; come, O Nāsatyas."
+},
+
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 35,
+  "sukta_name": "Sūrya Sukta",
+  "rishi": "Kutsa Āṅgirasa",
+  "devata": "Sūrya",
+  "chandas": "Gāyatrī (with variations)",
+  "total_verses": 11
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "आ पप्राथ रोदसी अन्तरिक्षं सूर्य आत्मा जगतस्तस्थुषश्च ।",
+  "transliteration": "ā paprātha rodasī antarikṣaṃ sūrya ātmā jagatas tasthuṣaś ca |",
+  "translation_english": "The Sun has filled heaven and earth and the mid-region; he is the soul of all that moves and stands."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "सूर्यो देवीमुषसं रोचमानां मर्यो न योषामभ्येति पश्चात् ।",
+  "transliteration": "sūryo devīm uṣasaṃ rocamānāṃ maryo na yoṣām abhyeti paścāt |",
+  "translation_english": "The Sun follows the shining Dawn as a youth follows a maiden."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "यत्रा चक्रुर्दिवो विश्वरूपं सप्ताश्वस्य वृषणस्य वाजिनः ।",
+  "transliteration": "yatrā cakrur divo viśvarūpaṃ saptāśvasya vṛṣaṇasya vājinaḥ |",
+  "translation_english": "Where they fashioned the all-formed image of the strong, swift Sun with seven horses."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "आदित्यस्य नमो ज्योतिषे महे दिवाकराय सवित्रे नमः ।",
+  "transliteration": "ādityasya namo jyotiṣe mahe divākarāya savitre namaḥ |",
+  "translation_english": "Reverence to the great light of Āditya, reverence to Savitṛ, the maker of day."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "चित्रं देवानामुदगादनीकं चक्षुर्मित्रस्य वरुणस्याग्नेः ।",
+  "transliteration": "citraṃ devānām udagād anīkaṃ cakṣur mitrasya varuṇasyāgneḥ |",
+  "translation_english": "The brilliant face of the gods has risen—the eye of Mitra, Varuṇa, and Agni."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "आप्रा द्यावापृथिवी अन्तरिक्षं सूर्य आत्मा जगतस्तस्थुषश्च ।",
+  "transliteration": "āprā dyāvā-pṛthivī antarikṣaṃ sūrya ātmā jagatas tasthuṣaś ca |",
+  "translation_english": "He has filled heaven, earth, and the mid-space; the Sun is the soul of all creation."
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "सूर्यो न देवो दिवि नक्षत्रेष्वा विवासति ।",
+  "transliteration": "sūryo na devo divi nakṣatreṣv ā vivāsati |",
+  "translation_english": "The Sun-god shines forth among the stars in heaven."
+},
+{
+  "verse_number": 8,
+  "sanskrit_text": "सूर्यो विश्वस्य भुवनस्य राजा मित्रो वरुणो अदितिः सविता ।",
+  "transliteration": "sūryo viśvasya bhuvanasya rājā mitro varuṇo aditiḥ savitā |",
+  "translation_english": "The Sun is king of all existence—Mitra, Varuṇa, Aditi, and Savitṛ."
+},
+{
+  "verse_number": 9,
+  "sanskrit_text": "सप्त युज्यन्ते रथमेकचक्रमेको अश्वो वहति सप्तनामा ।",
+  "transliteration": "sapta yujyante ratham ekacakram eko aśvo vahati saptanāmā |",
+  "translation_english": "Seven harness the single-wheeled chariot; one horse with seven names draws it."
+},
+{
+  "verse_number": 10,
+  "sanskrit_text": "आ नो मित्रावरुणा सूर्येण सह यज्ञं रक्षतं दिवः ।",
+  "transliteration": "ā no mitrā-varuṇā sūryeṇa saha yajñaṃ rakṣataṃ divaḥ |",
+  "translation_english": "Mitra and Varuṇa, together with the Sun, protect our sacrifice from heaven."
+},
+{
+  "verse_number": 11,
+  "sanskrit_text": "उदुत्यं जातवेदसं देवं वहन्ति केतवः ।",
+  "transliteration": "ud utyaṃ jātavedasaṃ devaṃ vahanti ketavaḥ |",
+  "translation_english": "Up rises that all-knowing god, carried aloft by his radiant beams."
+},
+
+
+
 
 
 
