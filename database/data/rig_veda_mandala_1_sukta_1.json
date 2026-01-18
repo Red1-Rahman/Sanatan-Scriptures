@@ -2741,6 +2741,138 @@
   "translation_english": "Up rises that all-knowing god, carried aloft by his radiant beams."
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 36,
+  "sukta_name": "Agni Sukta",
+  "rishi": "Kanva Ghaura",
+  "devata": "Agni",
+  "chandas": "Gāyatrī",
+  "total_verses": 20
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "प्र वो महे सहसानाय शूषे स्तोमं गीर्भिरग्नये भरामः ।",
+  "transliteration": "pra vo mahe sahasānāya śūṣe stomaṃ gīrbhir agnaye bharāmaḥ |",
+  "translation_english": "To the mighty, conquering Agni we bring a hymn of praise with sacred words."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "प्रति ज्येष्ठं हविष्मन्तं वयोधां विश्वेषामर्यं होतारमीडे ।",
+  "transliteration": "prati jyeṣṭhaṃ haviṣmantaṃ vayodhāṃ viśveṣām aryaṃ hotāram īḍe |",
+  "translation_english": "I praise the foremost priest, bearer of offerings, nourisher of life, the noble Hotṛ of all."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "स नो वसिष्ठो अमृतानां दूतः अग्निर्विभावसुः ।",
+  "transliteration": "sa no vasiṣṭho amṛtānāṃ dūtaḥ agnir vibhāvasuḥ |",
+  "translation_english": "May radiant Agni, the best envoy of the immortals, be gracious to us."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "तमु त्वा नूनमर्चन्ति स्वाध्यो मर्तासः ।",
+  "transliteration": "tam u tvā nūnam arcanti svādhyo martāsaḥ |",
+  "translation_english": "Now indeed, inspired mortals praise you with devotion."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "अग्ने यज्ञस्य वोढवे विश्वेषां देवतानाम् ।",
+  "transliteration": "agne yajñasya voḍhave viśveṣāṃ devatānām |",
+  "translation_english": "O Agni, bearer of the sacrifice for all the gods."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "त्वं हि देवो अमर्त्यः पुरुत्रा विविदः कविः ।",
+  "transliteration": "tvaṃ hi devo amartyaḥ purutrā vividāḥ kaviḥ |",
+  "translation_english": "You are the immortal god, the wise seer who knows many paths."
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "विश्वेषां हि त्वा देवतानामग्ने दूतमक्रिण्वत् ।",
+  "transliteration": "viśveṣāṃ hi tvā devatānām agne dūtam akriṇvat |",
+  "translation_english": "All the gods have appointed you, O Agni, as their messenger."
+},
+{
+  "verse_number": 8,
+  "sanskrit_text": "स नो यक्षदसि श्रुधी हवमग्ने समिध्यसे ।",
+  "transliteration": "sa no yakṣad asi śrudhī havam agne samidhyase |",
+  "translation_english": "Grant us worship, hear our call, O Agni, as you blaze forth."
+},
+{
+  "verse_number": 9,
+  "sanskrit_text": "अग्ने बृहन्तं अध्वरं विश्वतः परिभूरसि ।",
+  "transliteration": "agne bṛhantaṃ adhvaraṃ viśvataḥ paribhūr asi |",
+  "translation_english": "O Agni, you encompass the great sacrifice on every side."
+},
+{
+  "verse_number": 10,
+  "sanskrit_text": "स इद्देवेषु गच्छति येनाश्नन्ति हविर्नृपाः ।",
+  "transliteration": "sa id deveṣu gacchati yenāśnanti havir nṛpāḥ |",
+  "translation_english": "Through you the offering reaches the gods, by which they partake."
+},
+{
+  "verse_number": 11,
+  "sanskrit_text": "तमु त्वा नूनमर्चन्ति यज्ञस्य केतवः ।",
+  "transliteration": "tam u tvā nūnam arcanti yajñasya ketavaḥ |",
+  "translation_english": "Now the signs of sacrifice praise you."
+},
+{
+  "verse_number": 12,
+  "sanskrit_text": "अग्निं होतारमीळते दिवो देवममर्त्यम् ।",
+  "transliteration": "agniṃ hotāram īḷate divo devam amartyam |",
+  "translation_english": "They praise Agni, the immortal priest of heaven."
+},
+{
+  "verse_number": 13,
+  "sanskrit_text": "स नः पावक दीदिहि पुरुत्रा देवयान्यः ।",
+  "transliteration": "sa naḥ pāvaka dīdihi purutrā devayānyaḥ |",
+  "translation_english": "Shine for us, O purifying Agni, along many divine paths."
+},
+{
+  "verse_number": 14,
+  "sanskrit_text": "अग्ने यं यज्ञमध्वरं विश्वतः परिभूरसि ।",
+  "transliteration": "agne yaṃ yajñam adhvaraṃ viśvataḥ paribhūr asi |",
+  "translation_english": "The sacrifice you surround on all sides, O Agni."
+},
+{
+  "verse_number": 15,
+  "sanskrit_text": "स इद्देवेषु गच्छति हविर्देवेषु वर्धते ।",
+  "transliteration": "sa id deveṣu gacchati havir deveṣu vardhate |",
+  "translation_english": "It reaches the gods, and the offering grows among the gods."
+},
+{
+  "verse_number": 16,
+  "sanskrit_text": "अग्निर्होता स नो हितः सत्यश्चित्रश्रवस्तमः ।",
+  "transliteration": "agnir hotā sa no hitaḥ satyaś citraśravastamaḥ |",
+  "translation_english": "Agni the priest, true and most glorious, is set for our good."
+},
+{
+  "verse_number": 17,
+  "sanskrit_text": "स नो देवेषु वक्षति रत्नधातमः ।",
+  "transliteration": "sa no deveṣu vakṣati ratnadhātamaḥ |",
+  "translation_english": "He will carry us to the gods, bestower of treasures."
+},
+{
+  "verse_number": 18,
+  "sanskrit_text": "अग्निं वयं नित्यं हवामहे ।",
+  "transliteration": "agniṃ vayaṃ nityaṃ havāmahe |",
+  "translation_english": "We invoke Agni constantly."
+},
+{
+  "verse_number": 19,
+  "sanskrit_text": "स नो मित्रो भवत्वग्निः ।",
+  "transliteration": "sa no mitro bhavatv agniḥ |",
+  "translation_english": "May Agni be our friend."
+},
+{
+  "verse_number": 20,
+  "sanskrit_text": "स्वस्ति नो अग्निः पथिकृद्भवाति ।",
+  "transliteration": "svasti no agniḥ pathikṛd bhavāti |",
+  "translation_english": "May Agni, the maker of paths, grant us well-being."
+},
+
 
 
 
