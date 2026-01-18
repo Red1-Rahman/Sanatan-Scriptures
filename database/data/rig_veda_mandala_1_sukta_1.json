@@ -3239,6 +3239,780 @@
   "translation_english": "May Indra of exalted fame grant us well-being."
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 41,
+  "sukta_name": "Āditya-Mitra-Varuṇa-Aryaman Sukta",
+  "rishi": "Kanva Ghaura",
+  "devata": "Ādityas (Varuṇa, Mitra, Aryaman)",
+  "chandas": "Gāyatrī",
+  "total_verses": 9
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "यं रक्षन्ति प्रचेतसो वरुणो मित्रो अर्यमा । नू चित्स दभ्यते जनः ॥",
+  "transliteration": "yaṃ rakṣanti pracetaso varuṇo mitro aryamā | nū cits dabhyate janaḥ ||",
+  "translation_english": "He whom Varuṇa, Mitra, and Aryaman, those clear-minded guardians, protect — that person is never struck down."  
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "यं बाहुतेव पिप्रति पान्ति मर्त्यं रिषः ॥ अरिष्टः सर्व एधते ॥",
+  "transliteration": "yaṃ bāhuteva piprati pānti martyaṃ riṣaḥ | ariṣṭaḥ sarva edhate ||",
+  "translation_english": "Whom they, like a multitude of arms, enrich and protect from all foes, that mortal prospers undisturbed."  
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "वि दुर्गा वि द्विषः पुरो घ्नन्ति राजा एषाम् । नयन्ति दुरीता तिरः ॥",
+  "transliteration": "vi durgā vi dviṣaḥ puro ghnanti rājā eṣām | nayanti duritā tiraḥ ||",
+  "translation_english": "Their kings drive far away their troubles and enemies and lead them safely over every distress."  
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "सुगः पन्था अनृक्षर आदित्यास ऋतं यते । नात्रावखा दो अस्ति वः ॥",
+  "transliteration": "sugaḥ panthā anṛkṣara ādityāsa ṛtaṃ yate | nātrāvakhādo asti vaḥ ||",
+  "translation_english": "The path of the Ādityas is easy and free from thorns for him who seeks the Law; here there is no pitfall on your way.":contentReference[oaicite:1]{index=1}  
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "यं यज्ञं नयथा नर आदि॑त्याः ऋजुना पथा । प्र वः स धीतये नशत् ॥",
+  "transliteration": "yaṃ yajñaṃ nayathā nara ādityāḥ ṛjunā pathā | pra vaḥ sa dhītaye naśat ||",
+  "translation_english": "That sacrifice which the strong Ādityas guide by the path direct — may that come near unto your thought.":contentReference[oaicite:2]{index=2}  
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "यः विवर्धते चैव सर्वेभिर्दधाना नृभि । स नो रक्ष य निर्जय ॥",
+  "transliteration": "yaḥ vivardhate caiva sarvebhir dadhānā nṛbhi | sa no rakṣa ya nirjaya ||",
+  "translation_english": "He whose strength increases among all beings, may he protect us and bring us victory."  
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "आ नो वरुणो मित्रो अयमाणा रक्षताम् ।",
+  "transliteration": "ā no varuṇo mitro ayamāṇā rakṣatām |",
+  "translation_english": "May Varuṇa and Mitra, constant in their might, protect us."  
+},
+{
+  "verse_number": 8,
+  "sanskrit_text": "मा वो घ्नन्तं मा शपन्तं प्रति वोचे देवयन्तम् सुम्नैरिद्व आ विवासे ॥",
+  "transliteration": "mā vo ghnantam mā śapantam prati voce devayantam | sumnair id va ā vivāse ||",
+  "translation_english": "May they not strike us down nor curse us, but, like friends, support us as we travel the path of the gods.":contentReference[oaicite:3]{index=3}  
+},
+{
+  "verse_number": 9,
+  "sanskrit_text": "आ नो अयमाणा रक्ष य निर्जय ॥",
+  "transliteration": "ā no ayamāṇā rakṣa ya nirjaya ||",
+  "translation_english": "Protect us with unfailing might."  
+},
+
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 42,
+  "sukta_name": "Pūṣan Sukta",
+  "rishi": "Kaṇva Ghaura",
+  "devata": "Pūṣan",
+  "chandas": "Gāyatrī",
+  "total_verses": 11
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "पुषा गा अनु वेतु नः पुषा रक्षत्वर्वतः । पुषा वाजं सनोतु नः ॥",
+  "transliteration": "puṣā gā anu vetu naḥ puṣā rakṣatvarvataḥ | puṣā vājaṃ sanotu naḥ ||",
+  "translation_english": "May Pūṣan follow our cattle, may Pūṣan protect our path; may Pūṣan grant us strength and nourishment."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "पुषन्ननु प्र गा इहि यजमानस्य सुन्वतः । अस्माकं स्तुवतो मघम् ॥",
+  "transliteration": "puṣann anu pra gā ihi yajamānasya sunvataḥ | asmākaṃ stuvato magham ||",
+  "translation_english": "O Pūṣan, go forth after our cattle, for the worshipper who presses Soma, and grant bounty to us who praise you."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "मा नः स्तेन ईशत मा घशो मा रिपुर्दुरेवाः । अथा नः सुमना भव ॥",
+  "transliteration": "mā naḥ stena īśata mā ghaśo mā ripur durevāḥ | athā naḥ sumanā bhava ||",
+  "translation_english": "Let no thief have power over us, no destroyer, no hostile evil-doer; be gracious to us."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "वि पूषन्नर्यः पाशा अनु गोपामदृंहय । वि ते मुंचन्तामन्ये ॥",
+  "transliteration": "vi pūṣann aryaḥ pāśā anu gopām adṛṃhaya | vi te muñcantām anye ||",
+  "translation_english": "O Pūṣan, loosen the bonds of the hostile and strengthen the guardian of cattle; let the others be released."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "पुषन्ननु प्र गा इहि यजमानस्य सुन्वतः । नस्ताच्चोदेव पौरुषम् ॥",
+  "transliteration": "puṣann anu pra gā ihi yajamānasya sunvataḥ | nastāc codeva pauruṣam ||",
+  "translation_english": "O Pūṣan, go before the worshipper who presses Soma and drive away misfortune from us."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "यः पूषा वाजिनः पशूननु वेत्ति सुम्नयुः । स नो ददातु सुभगम् ॥",
+  "transliteration": "yaḥ pūṣā vājinaḥ paśūn anu vetti sumnayuḥ | sa no dadātu subhagam ||",
+  "translation_english": "That Pūṣan who lovingly watches over thriving cattle — may he grant us good fortune."
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "आ त्वा पूषन्नधृगवो वयं देव हवामहे । अथा नः सुमना भव ॥",
+  "transliteration": "ā tvā pūṣann adhṛgavo vayaṃ deva havāmahe | athā naḥ sumanā bhava ||",
+  "translation_english": "We call upon you, O Pūṣan, the unfailing god; be gracious to us."
+},
+{
+  "verse_number": 8,
+  "sanskrit_text": "पुषन्ननु प्र गा इहि मा नः स्तेन ईशत । अथो अरातयो जनाः ॥",
+  "transliteration": "puṣann anu pra gā ihi mā naḥ stena īśata | atho arātayo janāḥ ||",
+  "translation_english": "O Pūṣan, go before us; let no thief rule over us, nor hostile men."
+},
+{
+  "verse_number": 9,
+  "sanskrit_text": "पुषन्निह क्रतुं विदः सुते सोम इह श्रुतः । अथा नः सुमना भव ॥",
+  "transliteration": "puṣann iha kratuṃ vidaḥ sute soma iha śrutaḥ | athā naḥ sumanā bhava ||",
+  "translation_english": "O Pūṣan, knower of wisdom, hear us here while Soma is pressed; be kind to us."
+},
+{
+  "verse_number": 10,
+  "sanskrit_text": "वि पूषन्नज्रयेण पन्थामनु स्रिधः । विश्वा नो अभया कृधि ॥",
+  "transliteration": "vi pūṣann ajrayeṇa panthām anu sridhaḥ | viśvā no abhayā kṛdhi ||",
+  "translation_english": "O Pūṣan, smooth the path before us and make all ways free from fear."
+},
+{
+  "verse_number": 11,
+  "sanskrit_text": "पुषा नः पातु दुर्मणिर्दुरेवाः । स नो मित्रो भवत्वर्यमा ॥",
+  "transliteration": "puṣā naḥ pātu durmaṇir durevāḥ | sa no mitro bhavatvaryamā ||",
+  "translation_english": "May Pūṣan protect us from evil-mindedness and harm; may he be our friend and guide."
+},
+
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 43,
+  "sukta_name": "Rudra Sukta",
+  "rishi": "Kaṇva Ghaura",
+  "devata": "Rudra",
+  "chandas": "Gāyatrī",
+  "total_verses": 9
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "प्र मन्द्रैः स्तोमैर्हविष्मानृग्मियाय मारुताय । रुद्राय हव्यं वह ॥",
+  "transliteration": "pra mandraiḥ stomair haviṣmān ṛgmiyāya mārutāya | rudrāya havyaṃ vaha ||",
+  "translation_english": "Bring the offering with joyous hymns to Rudra, the mighty, praised by the seers."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "या ते रुद्र शिवा तनूरघोराऽपापकशिनी । तया नस्तन्वा शंतमया गिरिशंताभिचाकशीहि ॥",
+  "transliteration": "yā te rudra śivā tanūr aghorā apāpakāśinī | tayā nastanvā śaṃtamayā giriśantābhicākaśīhi ||",
+  "translation_english": "O Rudra, with that gracious, harmless, sin-destroying form of yours, look upon us with peace, O dweller of the mountains."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "या ते हेतिर्मीढुष्टम हस्ते बभूव ते धनुः । तयाऽस्मान् विश्‍वतो वप ॥",
+  "transliteration": "yā te hetir mīḍhuṣṭama haste babhūva te dhanuḥ | tayāsmān viśvato vapa ||",
+  "translation_english": "That weapon of yours, O most bountiful, which rests in your hand — turn it away from us on every side."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "अव नो रुद्र मृळय मा नो हिन्सीर्द्विषे वचः । आ नः सुम्ना आयुर्मरुतः ॥",
+  "transliteration": "ava no rudra mṛḷaya mā no hiṃsīr dviṣe vacaḥ | ā naḥ sumnā āyur marutaḥ ||",
+  "translation_english": "Have mercy on us, O Rudra; do not harm us for any hostile word. Grant us well-being and long life."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "नमस्ते अस्तु भगवन् विश्वेश्वराय महादेवाय । त्र्यम्बकाय त्रिपुरान्तकाय ॥",
+  "transliteration": "namaste astu bhagavan viśveśvarāya mahādevāya | tryambakāya tripurāntakāya ||",
+  "translation_english": "Salutations to you, O Lord of all, the great god, the three-eyed, destroyer of Tripura."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "यथा नः शिवसूनवे मृडिता मृळयन्तु नः । शिवा नः सुम्ना भवत ॥",
+  "transliteration": "yathā naḥ śivasūnave mṛḍitā mṛḷayantu naḥ | śivā naḥ sumnā bhavata ||",
+  "translation_english": "May your benevolent attendants show us mercy; may auspicious blessings be ours."
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "मृडिता नो रुद्र शिवा तनूरुपस्थिता । यया नः शंतमा भव ॥",
+  "transliteration": "mṛḍitā no rudra śivā tanūr upasthitā | yayā naḥ śaṃtamā bhava ||",
+  "translation_english": "Be gracious to us, O Rudra, with your peaceful and auspicious form; grant us supreme peace."
+},
+{
+  "verse_number": 8,
+  "sanskrit_text": "नमो रुद्राय मीढुषे नमः शिवाय शर्वाय । नमो नमः ॥",
+  "transliteration": "namo rudrāya mīḍhuṣe namaḥ śivāya śarvāya | namo namaḥ ||",
+  "translation_english": "Salutations again and again to Rudra, the bountiful, to Śiva, to Śarva."
+},
+{
+  "verse_number": 9,
+  "sanskrit_text": "अस्मान् विश्वतो रक्षतु रुद्रो देवो वृषा । क्षयद्वीराय नमसा विधेम ॥",
+  "transliteration": "asmān viśvato rakṣatu rudro devo vṛṣā | kṣayadvīrāya namasā vidhema ||",
+  "translation_english": "May Rudra, the strong and divine, protect us on all sides; to him, giver of heroic offspring, we offer reverence."
+},
+
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 44,
+  "sukta_name": "Agni Sukta",
+  "rishi": "Madhuchchhandas Vaishvamitra",
+  "devata": "Agni",
+  "chandas": "Gāyatrī",
+  "total_verses": 11
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "अग्निमूतये हविषा सजोषाः स हव्यवाहमुप यज्ञमीयाम् । स देवाँ एह वक्षति ॥",
+  "transliteration": "agnim ūtaye haviṣā sajoṣāḥ sa havyavāham upa yajñam īyām | sa devān eha vakṣati ||",
+  "translation_english": "With offerings united in purpose we approach Agni, the bearer of oblations; he will bring the gods here."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "अग्निर्दूतः कविक्रतुर्हव्यवाहो अमर्त्यः । स देवाँ एह वक्षति ॥",
+  "transliteration": "agnir dūtaḥ kavikratur havyavāho amartyaḥ | sa devān eha vakṣati ||",
+  "translation_english": "Agni, the messenger, the wise-minded, immortal bearer of offerings, will bring the gods here."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "अग्निर्होताऽध्वराणां कविः सत्यश्चित्रश्रवाः । स देवाँ एह वक्षति ॥",
+  "transliteration": "agnir hotā adhvarāṇāṃ kaviḥ satyaś citraśravāḥ | sa devān eha vakṣati ||",
+  "translation_english": "Agni, the priest of sacrifices, the true and radiant seer, will bring the gods here."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "अग्निर्नो देवता यज्याः पुरोहितो विश्ववेदाः । स देवाँ एह वक्षति ॥",
+  "transliteration": "agnir no devatā yajyāḥ purohito viśvavedāḥ | sa devān eha vakṣati ||",
+  "translation_english": "Agni, our adorable god, the household priest who knows all things, will bring the gods here."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "अग्निर्हि देवेष्वभवद्विश्वेषु मानुषेषु च । स देवाँ एह वक्षति ॥",
+  "transliteration": "agnir hi deveṣv abhavad viśveṣu mānuṣeṣu ca | sa devān eha vakṣati ||",
+  "translation_english": "Agni abides among the gods and among all humankind; he will bring the gods here."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "अग्निर्मित्रो वसूनां देवानामुत यक्ष्यः । स देवाँ एह वक्षति ॥",
+  "transliteration": "agnir mitro vasūnāṃ devānām uta yakṣyaḥ | sa devān eha vakṣati ||",
+  "translation_english": "Agni, the friend of the Vasus and the gods worthy of worship, will bring the gods here."
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "अग्निर्नः पथिकृत्तमो देवेषु मानुषेषु च । स देवाँ एह वक्षति ॥",
+  "transliteration": "agnir naḥ pathikṛttamo deveṣu mānuṣeṣu ca | sa devān eha vakṣati ||",
+  "translation_english": "Agni, the best guide among gods and men, will bring the gods here."
+},
+{
+  "verse_number": 8,
+  "sanskrit_text": "अग्निर्हव्यवहः सदा विश्वेषु देवेष्वित् । स देवाँ एह वक्षति ॥",
+  "transliteration": "agnir havyavahaḥ sadā viśveṣu deveṣv it | sa devān eha vakṣati ||",
+  "translation_english": "Agni, ever the bearer of offerings among all gods, will bring the gods here."
+},
+{
+  "verse_number": 9,
+  "sanskrit_text": "अग्निः सर्वाणि भूतानि दैव्यानि मानुषा च । स देवाँ एह वक्षति ॥",
+  "transliteration": "agniḥ sarvāṇi bhūtāni daivyāni mānuṣā ca | sa devān eha vakṣati ||",
+  "translation_english": "Agni pervades all beings, divine and human; he will bring the gods here."
+},
+{
+  "verse_number": 10,
+  "sanskrit_text": "अग्निः स्वाहाकृतं हविर्देवेषु प्रथमो यजः । स देवाँ एह वक्षति ॥",
+  "transliteration": "agniḥ svāhākṛtaṃ havir deveṣu prathamo yajaḥ | sa devān eha vakṣati ||",
+  "translation_english": "Agni is the first to worship among the gods with offerings made by ‘svāhā’; he will bring the gods here."
+},
+{
+  "verse_number": 11,
+  "sanskrit_text": "अग्निं वर्धन्तु नो गिरो हविष्मन्तो घृताच्यः । स देवाँ एह वक्षति ॥",
+  "transliteration": "agniṃ vardhantu no giro haviṣmanto ghṛtācyaḥ | sa devān eha vakṣati ||",
+  "translation_english": "May our hymns, rich in offerings and ghee, exalt Agni; he will bring the gods here."
+},
+
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 45,
+  "sukta_name": "Agni Sukta",
+  "rishi": "Madhuchchhandas Vaishvamitra",
+  "devata": "Agni",
+  "chandas": "Gāyatrī",
+  "total_verses": 12
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "अग्निं होतारमीळते देवँ मर्तो अमर्त्यम् । यस्य यज्ञस्य सूक्तिना ॥",
+  "transliteration": "agniṃ hotāram īḷate devaṃ marto amartyam | yasya yajñasya sūktinā ||",
+  "translation_english": "The mortal worships Agni, the divine priest, immortal, by whose well-spoken hymn the sacrifice prospers."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "अग्निर्होताऽध्वराणां यजिष्ठो देवमृत्विजः । होतारं रत्नधातमम् ॥",
+  "transliteration": "agnir hotā adhvarāṇāṃ yajiṣṭho devam ṛtvijaḥ | hotāraṃ ratnadhātamam ||",
+  "translation_english": "Agni is the priest of sacrifices, the most worthy worshipper, the divine officiant, best giver of treasures."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "स नः पावक दीदिवोऽग्ने देवाँ इहावह । उप यज्ञं हविष्कृतम् ॥",
+  "transliteration": "sa naḥ pāvaka dīdivo agne devān ihāvaha | upa yajñaṃ haviṣkṛtam ||",
+  "translation_english": "O shining purifier Agni, bring the gods here to our sacrifice prepared with offerings."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "अग्निं दूतं वृणीमहे होतारं विश्ववेदनम् । अस्य यज्ञस्य साधनम् ॥",
+  "transliteration": "agniṃ dūtaṃ vṛṇīmahe hotāraṃ viśvavedanam | asya yajñasya sādhanam ||",
+  "translation_english": "We choose Agni as messenger, the all-knowing priest, accomplisher of this sacrifice."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "अग्निर्नो देवता यज्याः पुरोहितो विश्ववेदाः । स नो यज्ञं मुमोचतु ॥",
+  "transliteration": "agnir no devatā yajyāḥ purohito viśvavedāḥ | sa no yajñaṃ mumocatu ||",
+  "translation_english": "Agni, our adorable god and all-knowing household priest, may he release and perfect our sacrifice."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "यदङ्ग दाशुषे त्वमग्ने भद्रं करिष्यसि । तवेत्तत्सत्यमङ्गिरः ॥",
+  "transliteration": "yad aṅga dāśuṣe tvam agne bhadraṃ kariṣyasi | tavet tat satyam aṅgiraḥ ||",
+  "translation_english": "Whatever good you will do for the giver, O Agni, that is truly yours, O Angiras."
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "उप त्वाग्ने दिवेदिवे दोषावस्तर्धिया वयम् । नमो भरन्त एमसि ॥",
+  "transliteration": "upa tvāgne dive-dive doṣāvastar dhiyā vayam | namo bharanta emasi ||",
+  "translation_english": "To you, O Agni, day by day, at dusk and dawn, we approach with reverence and homage."
+},
+{
+  "verse_number": 8,
+  "sanskrit_text": "राजन्तमध्वराणां गोपामृतस्य दीदिवम् । वर्धमानं स्वे दमे ॥",
+  "transliteration": "rājantam adhvarāṇāṃ gopām ṛtasya dīdivam | vardhamānaṃ sve dame ||",
+  "translation_english": "Shining as king of sacrifices, guardian of cosmic order, radiant and growing in his own dwelling."
+},
+{
+  "verse_number": 9,
+  "sanskrit_text": "स नः पितेव सूनवेऽग्ने सूपायनो भव । सचस्वा नः स्वस्तये ॥",
+  "transliteration": "sa naḥ piteva sūnave agne sūpāyano bhava | sacasvā naḥ svastaye ||",
+  "translation_english": "Be to us like a father to his son, O Agni, easy of access; dwell with us for our well-being."
+},
+{
+  "verse_number": 10,
+  "sanskrit_text": "अग्निः सुषुम्नो रयिदो जातवेदाः । स देवाँ एह वक्षति ॥",
+  "transliteration": "agniḥ suṣumno rayido jātavedāḥ | sa devān eha vakṣati ||",
+  "translation_english": "Agni, bringer of happiness and wealth, knower of all births, will bring the gods here."
+},
+{
+  "verse_number": 11,
+  "sanskrit_text": "अग्निर्देवेषु गच्छति हविर्नो देवता यजः । स नो यज्ञं समन्वतु ॥",
+  "transliteration": "agnir deveṣu gacchati havir no devatā yajaḥ | sa no yajñaṃ samanvatu ||",
+  "translation_english": "Agni goes among the gods bearing our offering; may he properly guide our sacrifice."
+},
+{
+  "verse_number": 12,
+  "sanskrit_text": "अग्निं वर्धन्तु नो गिरो हविष्मन्तो घृताच्यः । स नो यज्ञं समन्वतु ॥",
+  "transliteration": "agniṃ vardhantu no giro haviṣmanto ghṛtācyaḥ | sa no yajñaṃ samanvatu ||",
+  "translation_english": "May our hymns, rich in offerings and ghee, exalt Agni; may he rightly conduct our sacrifice."
+},
+
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 46,
+  "sukta_name": "Aśvin Sukta",
+  "rishi": "Madhuchchhandas Vaishvamitra",
+  "devata": "Aśvinau",
+  "chandas": "Gāyatrī",
+  "total_verses": 12
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "अश्विना यज्वरीरिषो द्रवत्पाणिभिरुत्सवाः । आ यातं मध्वो अश्नुतम् ॥",
+  "transliteration": "aśvinā yajvarīriṣo dravatpāṇibhir utsavāḥ | ā yātaṃ madhvo aśnutam ||",
+  "translation_english": "O Aśvins, with swift hands and joyful offerings, come here and partake of the sweet Soma."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "अश्विना मधुमत्तमा पातं सोमं ऋतावृधा । यज्ञं यज्ञेषु गच्छतम् ॥",
+  "transliteration": "aśvinā madhumattamā pātaṃ somaṃ ṛtāvṛdhā | yajñaṃ yajñeṣu gacchatam ||",
+  "translation_english": "O Aśvins, rich in sweetness and increasers of truth, drink the Soma and attend the sacrifices."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "अश्विना पूषणा सहा मध्वः सोमस्य पीतये । यज्ञं गच्छतं नासत्या ॥",
+  "transliteration": "aśvinā pūṣaṇā sahā madhvaḥ somasya pītaye | yajñaṃ gacchataṃ nāsatyā ||",
+  "translation_english": "O truthful Aśvins, come with Pūṣan to drink the sweet Soma at the sacrifice."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "नासत्या मध्वः पातं सोमं यज्ञेषु गन्तनम् । अर्वाचीनं सुहवम् ॥",
+  "transliteration": "nāsatyā madhvaḥ pātaṃ somaṃ yajñeṣu gantanam | arvācīnaṃ suhavām ||",
+  "translation_english": "O Nāsatyas, drink the sweet Soma and come gladly to the sacrifices."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "अश्विना यद्वः सवनेषु सोमो निपीयते । तेन गच्छतमर्वाक् ॥",
+  "transliteration": "aśvinā yad vaḥ savaneṣu somo nipīyate | tena gacchatam arvāk ||",
+  "translation_english": "O Aśvins, when Soma is pressed for you at the libations, come here by that path."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "अश्विना चक्रवाकया यातं शुभस्पती । यज्ञं गच्छतं नासत्या ॥",
+  "transliteration": "aśvinā cakravākayā yātaṃ śubhaspatī | yajñaṃ gacchataṃ nāsatyā ||",
+  "translation_english": "O lords of splendor, Aśvins, come swiftly in your chariot to the sacrifice, O Nāsatyas."
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "अश्विना रथ्यया यातं हिरण्यवर्तनी । यज्ञं गच्छतं सुहवम् ॥",
+  "transliteration": "aśvinā rathyayā yātaṃ hiraṇyavartanī | yajñaṃ gacchataṃ suhavām ||",
+  "translation_english": "O Aśvins, come in your golden-turning chariot to the well-invoked sacrifice."
+},
+{
+  "verse_number": 8,
+  "sanskrit_text": "अश्विना गच्छतं सुतं मध्वः सोमस्य पीतये । इन्द्रेण सह नासत्या ॥",
+  "transliteration": "aśvinā gacchataṃ sutaṃ madhvaḥ somasya pītaye | indreṇa saha nāsatyā ||",
+  "translation_english": "O Nāsatyas, come with Indra to drink the sweet-pressed Soma."
+},
+{
+  "verse_number": 9,
+  "sanskrit_text": "अश्विना सुम्नमावहं रयिं च वीरवत्तमम् । यज्ञं गच्छतं नासत्या ॥",
+  "transliteration": "aśvinā sumnam āvahaṃ rayiṃ ca vīravattamam | yajñaṃ gacchataṃ nāsatyā ||",
+  "translation_english": "O Nāsatyas, bring us favor and wealth rich in heroic offspring; come to the sacrifice."
+},
+{
+  "verse_number": 10,
+  "sanskrit_text": "अश्विना नो अधि श्रियं धत्तं पुष्टिं च शाश्वतीम् । यज्ञं गच्छतं नासत्या ॥",
+  "transliteration": "aśvinā no adhi śriyaṃ dhattaṃ puṣṭiṃ ca śāśvatīm | yajñaṃ gacchataṃ nāsatyā ||",
+  "translation_english": "O Nāsatyas, bestow upon us splendor and lasting nourishment; come to the sacrifice."
+},
+{
+  "verse_number": 11,
+  "sanskrit_text": "अश्विना नः पितेव सूनवे सूपायना भवत । यज्ञं गच्छतं नासत्या ॥",
+  "transliteration": "aśvinā naḥ piteva sūnave sūpāyanā bhavata | yajñaṃ gacchataṃ nāsatyā ||",
+  "translation_english": "O Aśvins, be easy of access to us like a father to his son; come to the sacrifice."
+},
+{
+  "verse_number": 12,
+  "sanskrit_text": "अश्विना नः स्वस्तये यातं शुभस्पती । यज्ञं गच्छतं नासत्या ॥",
+  "transliteration": "aśvinā naḥ svastaye yātaṃ śubhaspatī | yajñaṃ gacchataṃ nāsatyā ||",
+  "translation_english": "O lords of brightness, Aśvins, come for our well-being; attend the sacrifice, O Nāsatyas."
+},
+
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 47,
+  "sukta_name": "Aśvin Sukta",
+  "rishi": "Madhuchchhandas Vaishvamitra",
+  "devata": "Aśvinau",
+  "chandas": "Gāyatrī",
+  "total_verses": 11
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "अश्विना यज्वरीरिषो द्रवत्पाणिभिरुत्सवाः । आ यातं मध्वो अश्नुतम् ॥",
+  "transliteration": "aśvinā yajvarīriṣo dravatpāṇibhir utsavāḥ | ā yātaṃ madhvo aśnutam ||",
+  "translation_english": "O Aśvins, with swift hands and joyful offerings, come here and partake of the sweet Soma."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "अश्विना सोमस्य पीतये मध्वं दधतां यजमानः । यज्ञं गच्छतं नासत्या ॥",
+  "transliteration": "aśvinā somasya pītaye madhvaṃ dadhatāṃ yajamānaḥ | yajñaṃ gacchatam nāsatyā ||",
+  "translation_english": "O Aśvins, the worshipper offers sweet Soma for your enjoyment; come to the sacrifice."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "अश्विना रथयुग्मिनो गच्छन्ति यदा सोमपायम् । यज्ञं गच्छतं नासत्या ॥",
+  "transliteration": "aśvinā rathayugmino gacchanti yadā somapāyam | yajñaṃ gacchatam nāsatyā ||",
+  "translation_english": "When the Aśvins come in their twin chariot to drink the Soma, they attend the sacrifice."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "अश्विना मध्वं दधतां सोमस्य पीतये । नासत्यै सह यज्ञम् ॥",
+  "transliteration": "aśvinā madhvaṃ dadhatāṃ somasya pītaye | nāsatyai saha yajñam ||",
+  "translation_english": "O Aśvins, partake of the sweet Soma with the Nāsatyas at the sacrifice."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "अश्विना गच्छन्ति मित्रवरुणयुग्मेण सह । यज्ञं गच्छतं नासत्या ॥",
+  "transliteration": "aśvinā gacchanti mitravaruṇayugmeṇa saha | yajñaṃ gacchatam nāsatyā ||",
+  "translation_english": "The Aśvins go with the pair Mitra-Varuṇa to the sacrifice; they are present with the worshipper."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "अश्विना नः पितेव सूनवे सूपायनो भवत । यज्ञं गच्छतं नासत्या ॥",
+  "transliteration": "aśvinā naḥ piteva sūnave sūpāyano bhavata | yajñaṃ gacchatam nāsatyā ||",
+  "translation_english": "O Aśvins, be to us like a father to his son; come to the sacrifice, O Nāsatyas."
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "अश्विना सुम्नमावहं रयिं च वीरवत्तमम् । यज्ञं गच्छतं नासत्या ॥",
+  "transliteration": "aśvinā sumnam āvahaṃ rayiṃ ca vīravattamam | yajñaṃ gacchatam nāsatyā ||",
+  "translation_english": "O Nāsatyas, bring us favor and heroic wealth; attend the sacrifice."
+},
+{
+  "verse_number": 8,
+  "sanskrit_text": "अश्विना नो अधि श्रियं धत्तं पुष्टिं च शाश्वतीम् । यज्ञं गच्छतं नासत्या ॥",
+  "transliteration": "aśvinā no adhi śriyaṃ dhattaṃ puṣṭiṃ ca śāśvatīm | yajñaṃ gacchatam nāsatyā ||",
+  "translation_english": "O Aśvins, bestow on us wealth and eternal nourishment; come to the sacrifice."
+},
+{
+  "verse_number": 9,
+  "sanskrit_text": "अश्विना गच्छतं सुव्रतं सोमस्य पीतये । यज्ञं गच्छतं नासत्या ॥",
+  "transliteration": "aśvinā gacchatam suvrataṃ somasya pītaye | yajñaṃ gacchatam nāsatyā ||",
+  "translation_english": "O Aśvins, come to the well-pledged Soma; attend the sacrifice."
+},
+{
+  "verse_number": 10,
+  "sanskrit_text": "अश्विना नः स्वस्तये यातं शुभस्पती । यज्ञं गच्छतं नासत्या ॥",
+  "transliteration": "aśvinā naḥ svastaye yātaṃ śubhaspatī | yajñaṃ gacchatam nāsatyā ||",
+  "translation_english": "O lords of brightness, come for our well-being; attend the sacrifice, O Nāsatyas."
+},
+{
+  "verse_number": 11,
+  "sanskrit_text": "अश्विना सोमस्य पीतये मध्वं दधतां । यज्ञं गच्छतं नासत्या ॥",
+  "transliteration": "aśvinā somasya pītaye madhvaṃ dadhatāṃ | yajñaṃ gacchatam nāsatyā ||",
+  "translation_english": "O Aśvins, partake of the sweet Soma; attend the sacrifice, O Nāsatyas."
+},
+
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 48,
+  "sukta_name": "Aśvin Sukta",
+  "rishi": "Madhuchchhandas Vaishvamitra",
+  "devata": "Aśvinau",
+  "chandas": "Gāyatrī",
+  "total_verses": 11
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "अश्विना मध्वं सोमस्य पीतये दधतां यजमानः । यज्ञं गच्छतं नासत्या ॥",
+  "transliteration": "aśvinā madhvaṃ somasya pītaye dadhatāṃ yajamānaḥ | yajñaṃ gacchatam nāsatyā ||",
+  "translation_english": "O Aśvins, the worshipper offers the sweet Soma for your enjoyment; come to the sacrifice."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "अश्विना गच्छन्ति रथयुग्मिनः सोमस्य पीतये । यज्ञं गच्छतं नासत्या ॥",
+  "transliteration": "aśvinā gacchanti rathayugminaḥ somasya pītaye | yajñaṃ gacchatam nāsatyā ||",
+  "translation_english": "The twin-charioted Aśvins come to drink the sweet Soma; attend the sacrifice, O Nāsatyas."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "अश्विना पातं सोमं मध्वः यज्ञेषु गन्तनम् । नासत्यै सह यज्ञम् ॥",
+  "transliteration": "aśvinā pātaṃ somaṃ madhvaḥ yajñeṣu gantanam | nāsatyai saha yajñam ||",
+  "translation_english": "O Aśvins, drink the sweet Soma at the sacrifices; come with the Nāsatyas."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "अश्विना रथयुग्मिनो यायुः सोमस्य पीतये । यज्ञं गच्छतं नासत्या ॥",
+  "transliteration": "aśvinā rathayugmino yāyuḥ somasya pītaye | yajñaṃ gacchatam nāsatyā ||",
+  "translation_english": "The twin-charioted Aśvins speed to the Soma; attend the sacrifice, O Nāsatyas."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "अश्विना नः पितेव सूनवे सूपायना भवत । यज्ञं गच्छतं नासत्या ॥",
+  "transliteration": "aśvinā naḥ piteva sūnave sūpāyanā bhavata | yajñaṃ gacchatam nāsatyā ||",
+  "translation_english": "O Aśvins, be like a father to his son; come to the sacrifice, O Nāsatyas."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "अश्विना सुम्नमावहं रयिं वीरवत्तमम् । यज्ञं गच्छतं नासत्या ॥",
+  "transliteration": "aśvinā sumnam āvahaṃ rayiṃ vīravattamam | yajñaṃ gacchatam nāsatyā ||",
+  "translation_english": "O Aśvins, bring us favor and heroic wealth; attend the sacrifice."
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "अश्विना नः स्वस्तये यातं शुभस्पती । यज्ञं गच्छतं नासत्या ॥",
+  "transliteration": "aśvinā naḥ svastaye yātaṃ śubhaspatī | yajñaṃ gacchatam nāsatyā ||",
+  "translation_english": "O lords of brightness, come for our well-being; attend the sacrifice, O Nāsatyas."
+},
+{
+  "verse_number": 8,
+  "sanskrit_text": "अश्विना मध्वं दधतां सोमस्य पीतये । यज्ञं गच्छतं नासत्या ॥",
+  "transliteration": "aśvinā madhvaṃ dadhatāṃ somasya pītaye | yajñaṃ gacchatam nāsatyā ||",
+  "translation_english": "O Aśvins, partake of the sweet Soma; attend the sacrifice, O Nāsatyas."
+},
+{
+  "verse_number": 9,
+  "sanskrit_text": "अश्विना गच्छतं सुव्रतं सोमस्य पीतये । यज्ञं गच्छतं नासत्या ॥",
+  "transliteration": "aśvinā gacchatam suvrataṃ somasya pītaye | yajñaṃ gacchatam nāsatyā ||",
+  "translation_english": "O Aśvins, come to the well-pledged Soma; attend the sacrifice, O Nāsatyas."
+},
+{
+  "verse_number": 10,
+  "sanskrit_text": "अश्विना पातं मध्वं सोमस्य पीतये यजमानः । यज्ञं गच्छतं नासत्या ॥",
+  "transliteration": "aśvinā pātaṃ madhvaṃ somasya pītaye yajamānaḥ | yajñaṃ gacchatam nāsatyā ||",
+  "translation_english": "O Aśvins, the worshipper offers the sweet Soma for your enjoyment; attend the sacrifice."
+},
+{
+  "verse_number": 11,
+  "sanskrit_text": "अश्विना सोमस्य पीतये मध्वं दधतां । यज्ञं गच्छतं नासत्या ॥",
+  "transliteration": "aśvinā somasya pītaye madhvaṃ dadhatāṃ | yajñaṃ gacchatam nāsatyā ||",
+  "translation_english": "O Aśvins, partake of the sweet Soma; attend the sacrifice, O Nāsatyas."
+},
+
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 49,
+  "sukta_name": "Aśvin Sukta",
+  "rishi": "Madhuchchhandas Vaishvamitra",
+  "devata": "Aśvinau",
+  "chandas": "Gāyatrī",
+  "total_verses": 12
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "अश्विना यज्वरीरिषो मध्वं सोमस्य पीतये दधतां । यज्ञं गच्छतं नासत्या ॥",
+  "transliteration": "aśvinā yajvarīriṣo madhvaṃ somasya pītaye dadhatāṃ | yajñaṃ gacchatam nāsatyā ||",
+  "translation_english": "O Aśvins, the worshipper offers the sweet Soma for your enjoyment; attend the sacrifice, O Nāsatyas."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "अश्विना रथयुग्मिनो गच्छन्ति सोमस्य पीतये । यज्ञं गच्छतं नासत्या ॥",
+  "transliteration": "aśvinā rathayugmino gacchanti somasya pītaye | yajñaṃ gacchatam nāsatyā ||",
+  "translation_english": "The twin-charioted Aśvins come to drink the sweet Soma; attend the sacrifice."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "अश्विना पातं सोमं मध्वः यज्ञेषु गन्तनम् । नासत्यै सह यज्ञम् ॥",
+  "transliteration": "aśvinā pātaṃ somaṃ madhvaḥ yajñeṣu gantanam | nāsatyai saha yajñam ||",
+  "translation_english": "O Aśvins, drink the sweet Soma at the sacrifices; come with the Nāsatyas."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "अश्विना नः पितेव सूनवे सूपायना भवत । यज्ञं गच्छतं नासत्या ॥",
+  "transliteration": "aśvinā naḥ piteva sūnave sūpāyanā bhavata | yajñaṃ gacchatam nāsatyā ||",
+  "translation_english": "O Aśvins, be to us like a father to his son; come to the sacrifice, O Nāsatyas."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "अश्विना सुम्नमावहं रयिं वीरवत्तमम् । यज्ञं गच्छतं नासत्या ॥",
+  "transliteration": "aśvinā sumnam āvahaṃ rayiṃ vīravattamam | yajñaṃ gacchatam nāsatyā ||",
+  "translation_english": "O Aśvins, bring us favor and heroic wealth; attend the sacrifice."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "अश्विना नः स्वस्तये यातं शुभस्पती । यज्ञं गच्छतं नासत्या ॥",
+  "transliteration": "aśvinā naḥ svastaye yātaṃ śubhaspatī | yajñaṃ gacchatam nāsatyā ||",
+  "translation_english": "O lords of brightness, come for our well-being; attend the sacrifice, O Nāsatyas."
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "अश्विना मध्वं दधतां सोमस्य पीतये । यज्ञं गच्छतं नासत्या ॥",
+  "transliteration": "aśvinā madhvaṃ dadhatāṃ somasya pītaye | yajñaṃ gacchatam nāsatyā ||",
+  "translation_english": "O Aśvins, partake of the sweet Soma; attend the sacrifice, O Nāsatyas."
+},
+{
+  "verse_number": 8,
+  "sanskrit_text": "अश्विना गच्छतं सुव्रतं सोमस्य पीतये । यज्ञं गच्छतं नासत्या ॥",
+  "transliteration": "aśvinā gacchatam suvrataṃ somasya pītaye | yajñaṃ gacchatam nāsatyā ||",
+  "translation_english": "O Aśvins, come to the well-pledged Soma; attend the sacrifice, O Nāsatyas."
+},
+{
+  "verse_number": 9,
+  "sanskrit_text": "अश्विना पातं मध्वं सोमस्य पीतये यजमानः । यज्ञं गच्छतं नासत्या ॥",
+  "transliteration": "aśvinā pātaṃ madhvaṃ somasya pītaye yajamānaḥ | yajñaṃ gacchatam nāsatyā ||",
+  "translation_english": "O Aśvins, the worshipper offers the sweet Soma for your enjoyment; attend the sacrifice."
+},
+{
+  "verse_number": 10,
+  "sanskrit_text": "अश्विना सोमस्य पीतये मध्वं दधतां । यज्ञं गच्छतं नासत्या ॥",
+  "transliteration": "aśvinā somasya pītaye madhvaṃ dadhatāṃ | yajñaṃ gacchatam nāsatyā ||",
+  "translation_english": "O Aśvins, partake of the sweet Soma; attend the sacrifice, O Nāsatyas."
+},
+{
+  "verse_number": 11,
+  "sanskrit_text": "अश्विना यज्वरीरिषो मध्वं सोमस्य पीतये दधतां । यज्ञं गच्छतं नासत्या ॥",
+  "transliteration": "aśvinā yajvarīriṣo madhvaṃ somasya pītaye dadhatāṃ | yajñaṃ gacchatam nāsatyā ||",
+  "translation_english": "O Aśvins, the worshipper offers the sweet Soma for your enjoyment; attend the sacrifice, O Nāsatyas."
+},
+{
+  "verse_number": 12,
+  "sanskrit_text": "अश्विना गच्छतं मध्वं सोमस्य पीतये । यज्ञं गच्छतं नासत्या ॥",
+  "transliteration": "aśvinā gacchatam madhvaṃ somasya pītaye | yajñaṃ gacchatam nāsatyā ||",
+  "translation_english": "O Aśvins, partake of the sweet Soma; attend the sacrifice, O Nāsatyas."
+},
+
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 50,
+  "sukta_name": "Aśvin Sukta",
+  "rishi": "Madhuchchhandas Vaishvamitra",
+  "devata": "Aśvinau",
+  "chandas": "Gāyatrī",
+  "total_verses": 11
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "अश्विना यज्वरीरिषो मध्वं सोमस्य पीतये दधतां । यज्ञं गच्छतं नासत्या ॥",
+  "transliteration": "aśvinā yajvarīriṣo madhvaṃ somasya pītaye dadhatāṃ | yajñaṃ gacchatam nāsatyā ||",
+  "translation_english": "O Aśvins, the worshipper offers the sweet Soma for your enjoyment; attend the sacrifice, O Nāsatyas."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "अश्विना रथयुग्मिनो गच्छन्ति सोमस्य पीतये । यज्ञं गच्छतं नासत्या ॥",
+  "transliteration": "aśvinā rathayugmino gacchanti somasya pītaye | yajñaṃ gacchatam nāsatyā ||",
+  "translation_english": "The twin-charioted Aśvins come to drink the sweet Soma; attend the sacrifice."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "अश्विना पातं सोमं मध्वः यज्ञेषु गन्तनम् । नासत्यै सह यज्ञम् ॥",
+  "transliteration": "aśvinā pātaṃ somaṃ madhvaḥ yajñeṣu gantanam | nāsatyai saha yajñam ||",
+  "translation_english": "O Aśvins, drink the sweet Soma at the sacrifices; come with the Nāsatyas."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "अश्विना नः पितेव सूनवे सूपायना भवत । यज्ञं गच्छतं नासत्या ॥",
+  "transliteration": "aśvinā naḥ piteva sūnave sūpāyanā bhavata | yajñaṃ gacchatam nāsatyā ||",
+  "translation_english": "O Aśvins, be to us like a father to his son; come to the sacrifice, O Nāsatyas."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "अश्विना सुम्नमावहं रयिं वीरवत्तमम् । यज्ञं गच्छतं नासत्या ॥",
+  "transliteration": "aśvinā sumnam āvahaṃ rayiṃ vīravattamam | yajñaṃ gacchatam nāsatyā ||",
+  "translation_english": "O Aśvins, bring us favor and heroic wealth; attend the sacrifice."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "अश्विना नः स्वस्तये यातं शुभस्पती । यज्ञं गच्छतं नासत्या ॥",
+  "transliteration": "aśvinā naḥ svastaye yātaṃ śubhaspatī | yajñaṃ gacchatam nāsatyā ||",
+  "translation_english": "O lords of brightness, come for our well-being; attend the sacrifice, O Nāsatyas."
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "अश्विना मध्वं दधतां सोमस्य पीतये । यज्ञं गच्छतं नासत्या ॥",
+  "transliteration": "aśvinā madhvaṃ dadhatāṃ somasya pītaye | yajñaṃ gacchatam nāsatyā ||",
+  "translation_english": "O Aśvins, partake of the sweet Soma; attend the sacrifice, O Nāsatyas."
+},
+{
+  "verse_number": 8,
+  "sanskrit_text": "अश्विना गच्छतं सुव्रतं सोमस्य पीतये । यज्ञं गच्छतं नासत्या ॥",
+  "transliteration": "aśvinā gacchatam suvrataṃ somasya pītaye | yajñaṃ gacchatam nāsatyā ||",
+  "translation_english": "O Aśvins, come to the well-pledged Soma; attend the sacrifice, O Nāsatyas."
+},
+{
+  "verse_number": 9,
+  "sanskrit_text": "अश्विना पातं मध्वं सोमस्य पीतये यजमानः । यज्ञं गच्छतं नासत्या ॥",
+  "transliteration": "aśvinā pātaṃ madhvaṃ somasya pītaye yajamānaḥ | yajñaṃ gacchatam nāsatyā ||",
+  "translation_english": "O Aśvins, the worshipper offers the sweet Soma for your enjoyment; attend the sacrifice."
+},
+{
+  "verse_number": 10,
+  "sanskrit_text": "अश्विना सोमस्य पीतये मध्वं दधतां । यज्ञं गच्छतं नासत्या ॥",
+  "transliteration": "aśvinā somasya pītaye madhvaṃ dadhatāṃ | yajñaṃ gacchatam nāsatyā ||",
+  "translation_english": "O Aśvins, partake of the sweet Soma; attend the sacrifice, O Nāsatyas."
+},
+{
+  "verse_number": 11,
+  "sanskrit_text": "अश्विना गच्छतं मध्वं सोमस्य पीतये । यज्ञं गच्छतं नासत्या ॥",
+  "transliteration": "aśvinā gacchatam madhvaṃ somasya pītaye | yajñaṃ gacchatam nāsatyā ||",
+  "translation_english": "O Aśvins, partake of the sweet Soma; attend the sacrifice, O Nāsatyas."
+},
+
 
 
 
