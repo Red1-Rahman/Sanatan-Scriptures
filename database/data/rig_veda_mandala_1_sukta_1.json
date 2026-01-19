@@ -4259,13 +4259,95 @@
   "translation_english": "We call Indra with men for help, to drink the pressed Soma."
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 55,
+  "sukta_name": "Indra Sukta",
+  "rishi": "Medhātithi Kāṇva",
+  "devata": "Indra",
+  "chandas": "Triṣṭubh",
+  "total_verses": 6
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "प्र वोचं वाजानामिन्द्राय वृत्रहत्याय रन्धयन्।",
+  "transliteration": "pra vocaṃ vājānām indrāya vṛtrahatyāya randhayan |",
+  "translation_english": "I proclaim the might of Indra, the slayer of Vṛtra, who wins the prizes."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "त्वं हि नः पितेव सूनवेऽविता भद्रं करिष्यसि।",
+  "transliteration": "tvaṃ hi naḥ piteva sūnave avitā bhadraṃ kariṣyasi |",
+  "translation_english": "You are like a father to a son; you will do good for us."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "त्वं नः सखा सुतसोमः कृणुष्व वीर्याणि।",
+  "transliteration": "tvaṃ naḥ sakhā sutasomaḥ kṛṇuṣva vīryāṇi |",
+  "translation_english": "Be our friend, O drinker of Soma; perform heroic deeds for us."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "त्वं नः पथो अनु दर्शय विश्वानि देव वीर्याणि।",
+  "transliteration": "tvaṃ naḥ patho anu darśaya viśvāni deva vīryāṇi |",
+  "translation_english": "Show us the paths, O god, all your heroic deeds."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "त्वं रयिं चोदयस्वते बृहन्तं ददासि नः।",
+  "transliteration": "tvaṃ rayiṃ codayasvate bṛhantaṃ dadāsi naḥ |",
+  "translation_english": "You grant great wealth to the one who urges you."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "इन्द्रं नृभिरवसे हवामहे सुतस्य पीतये।",
+  "transliteration": "indraṃ nṛbhir avase havāmahe sutasya pītaye |",
+  "translation_english": "We call Indra with men for help, to drink the pressed Soma."
+},
 
-
-
-
-
-
-
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 56,
+  "sukta_name": "Marut Sukta",
+  "rishi": "Medhātithi Kāṇva",
+  "devata": "Maruts",
+  "chandas": "Triṣṭubh",
+  "total_verses": 5
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "मरुतो यद्वो अपां नपातो यद्वः शूरासो अश्विनावन्तः।",
+  "transliteration": "maruto yad vo apāṃ napāto yad vaḥ śūrāso aśvināvantaḥ |",
+  "translation_english": "O Maruts, offspring of the waters, O heroes who have horses."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "यद्वो गिर्णे मरुतो दुर्मदाय यद्वो अश्वाः सुदानवः।",
+  "transliteration": "yad vo girṇe maruto durmadāya yad vo aśvāḥ sudānavaḥ |",
+  "translation_english": "When you are praised, O Maruts, you give joy; your horses are generous."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "यद्वो रुद्रा मरुतो धृष्टवाजसो यद्वो रथाः सुदानवः।",
+  "transliteration": "yad vo rudrā maruto dhṛṣṭavājāso yad vo rathāḥ sudānavaḥ |",
+  "translation_english": "O Maruts, sons of Rudra, bold in might; your chariots are generous."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "यद्वो अर्भाः मरुतो घोरवाजसो यद्वो वृषा रथाः।",
+  "transliteration": "yad vo arbhāḥ maruto ghoravājāso yad vo vṛṣā rathāḥ |",
+  "translation_english": "O youthful Maruts, fierce in strength; your chariots are mighty."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "यद्वो हुवे मरुतो यज्ञियासो यद्वो धियं सुदानवः।",
+  "transliteration": "yad vo huve maruto yajñiyāso yad vo dhiyaṃ sudānavaḥ |",
+  "translation_english": "When I call you, O Maruts, worthy of sacrifice, you grant inspired thought."
+},
 
 
 ]
