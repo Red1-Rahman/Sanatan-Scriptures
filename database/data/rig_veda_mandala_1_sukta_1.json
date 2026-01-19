@@ -4643,6 +4643,74 @@
   "translation_english": "May that mighty one remove all misfortunes from all people."
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 63,
+  "sukta_name": "Indra Sukta",
+  "rishi": "Medhātithi Kāṇva",
+  "devata": "Indra",
+  "chandas": "Triṣṭubh",
+  "total_verses": 9
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "इन्द्रं वर्धन्तो अप्तुरः कृण्वन्तो विश्वमार्यम् ।",
+  "transliteration": "indraṃ vardhanto apturaḥ kṛṇvanto viśvam āryam |",
+  "translation_english": "Strengthening Indra, the active worshippers make all things noble."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "शूरो वा शूरमावृतो वज्रिणा वृत्रमवधीत् ।",
+  "transliteration": "śūro vā śūram āvṛto vajriṇā vṛtram avadhīt |",
+  "translation_english": "The hero, facing the hero, slew Vṛtra with the thunderbolt."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "त्वं हि दस्यूनव धूनयः परि वृत्रं रुरोजिथ ।",
+  "transliteration": "tvaṃ hi dasyūn ava dhūnayaḥ pari vṛtraṃ rurojitha |",
+  "translation_english": "You scattered the hostile tribes and crushed Vṛtra."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "अहन्नहिं पर्वते शिश्रियाणं त्वष्टास्मै वज्रं स्वर्यम् ततक्ष ।",
+  "transliteration": "ahann ahiṃ parvate śiśriyāṇaṃ tvaṣṭā asmai vajraṃ svaryaṃ tatakṣa |",
+  "translation_english": "You struck down the serpent lying on the mountain; Tvaṣṭṛ fashioned the radiant thunderbolt for you."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "येन द्यौरुग्रा पृथिवी च दृळ्हा येन स्वः स्तभितं येन नाकः ।",
+  "transliteration": "yena dyaur ugrā pṛthivī ca dṛḷhā yena svaḥ stabhitaṃ yena nākaḥ |",
+  "translation_english": "By whom the fierce heaven and firm earth were fixed, by whom the sky and the firmament were upheld."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "स नः सखा शिवो भव सूनवे पितेव नो भव ।",
+  "transliteration": "sa naḥ sakhā śivo bhava sūnave piteva no bhava |",
+  "translation_english": "Be our gracious friend, like a father to his son."
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "इन्द्रं नृभिरवसे हवामहे सुतस्य पीतये ।",
+  "transliteration": "indraṃ nṛbhir avase havāmahe sutasya pītaye |",
+  "translation_english": "We call upon Indra with men for help, to drink the pressed Soma."
+},
+{
+  "verse_number": 8,
+  "sanskrit_text": "स नो विश्वानि दुरिता नशत् वज्री वृषा जनानाम् ।",
+  "transliteration": "sa no viśvāni duritā naśat vajrī vṛṣā janānām |",
+  "translation_english": "May the thunderbolt-bearer, the strong one, drive away all our misfortunes."
+},
+{
+  "verse_number": 9,
+  "sanskrit_text": "त्वं नो इन्द्र ऋते यज्ञं विश्वतः परिभूरसि ।",
+  "transliteration": "tvaṃ no indra ṛte yajñaṃ viśvataḥ paribhūr asi |",
+  "translation_english": "Without you, O Indra, no sacrifice succeeds; you encompass it on every side."
+},
+
+
+
 
 
 
