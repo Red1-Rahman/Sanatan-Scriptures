@@ -4013,6 +4013,108 @@
   "translation_english": "O Aśvins, partake of the sweet Soma; attend the sacrifice, O Nāsatyas."
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 51,
+  "sukta_name": "Indra Sukta",
+  "rishi": "Medhātithi Kāṇva",
+  "devata": "Indra",
+  "chandas": "Triṣṭubh",
+  "total_verses": 15
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "यदिन्द्र प्रागपि भयं नास्यं बिभेत्योजसा।",
+  "transliteration": "yadindra prāg api bhayaṃ nāsyaṃ bibhety ojasā |",
+  "translation_english": "When Indra goes forth, even fear itself is afraid of his power."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "त्वं वज्रिण् महिना दिवः पृथिव्या अधि स्रिधः।",
+  "transliteration": "tvaṃ vajrin mahinā divaḥ pṛthivyā adhi sridhaḥ |",
+  "translation_english": "O wielder of the thunderbolt, by your greatness you tower over heaven and earth."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "त्वं दस्यूनव धूनयः परि वृत्रं रुरोजिथ।",
+  "transliteration": "tvaṃ dasyūn ava dhūnayaḥ pari vṛtraṃ rurojitha |",
+  "translation_english": "You scattered the hostile tribes and crushed Vṛtra."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "इन्द्रः सोमस्य पीतये वज्रं बिभर्ति तेजसे।",
+  "transliteration": "indraḥ somasya pītaye vajraṃ bibharti tejase |",
+  "translation_english": "Indra bears the thunderbolt in glory after drinking Soma."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "त्वं नृभिरवसे सचा विश्वा कर्माणि चाकृषे।",
+  "transliteration": "tvaṃ nṛbhir avase sacā viśvā karmāṇi cākṛṣe |",
+  "translation_english": "You, together with men, accomplish all deeds of protection."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "युवं हि स्थः सुदानवो विश्वा रूपाणि बिभ्रतौ।",
+  "transliteration": "yuvaṃ hi sthaḥ sudānavo viśvā rūpāṇi bibhratau |",
+  "translation_english": "You two (Indra and Soma) are generous, bearing all forms."
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "त्वं नः पाहि श्रवाय्येन्द्र सोमपाः पिबा सुतम्।",
+  "transliteration": "tvaṃ naḥ pāhi śravāyyeindra somapāḥ pibā sutam |",
+  "translation_english": "Protect us, O glorious Indra; drink the pressed Soma."
+},
+{
+  "verse_number": 8,
+  "sanskrit_text": "त्वं रयिं चोदयस्वते बृहन्तं च ददासि नः।",
+  "transliteration": "tvaṃ rayiṃ codayasvate bṛhantaṃ ca dadāsi naḥ |",
+  "translation_english": "You urge on wealth and grant us great riches."
+},
+{
+  "verse_number": 9,
+  "sanskrit_text": "युधा युद्धमभ्यागमः सवसः सहसा जयः।",
+  "transliteration": "yudhā yuddham abhyāgamaḥ savasaḥ sahasā jayaḥ |",
+  "translation_english": "You advance to battle and win by sheer might."
+},
+{
+  "verse_number": 10,
+  "sanskrit_text": "त्वं वृत्रं हन्ता भुवः पुरुत्रा वीर्यं दधः।",
+  "transliteration": "tvaṃ vṛtraṃ hantā bhuvaḥ purutrā vīryaṃ dadhaḥ |",
+  "translation_english": "You are the slayer of Vṛtra, spreading heroic power everywhere."
+},
+{
+  "verse_number": 11,
+  "sanskrit_text": "त्वं नः पथो अनु दर्शय विश्वानि देव वीर्याणि।",
+  "transliteration": "tvaṃ naḥ patho anu darśaya viśvāni deva vīryāṇi |",
+  "translation_english": "Show us the paths, O god, and all your heroic deeds."
+},
+{
+  "verse_number": 12,
+  "sanskrit_text": "त्वं वाजेषु वाजिनीवो ददासि सुष्टुतिं नः।",
+  "transliteration": "tvaṃ vājeṣu vājinīvo dadāsi suṣṭutiṃ naḥ |",
+  "translation_english": "Among prizes, you grant us strength and worthy praise."
+},
+{
+  "verse_number": 13,
+  "sanskrit_text": "त्वं नो मित्रः पिता चासि सखा विश्वस्य कर्मणः।",
+  "transliteration": "tvaṃ no mitraḥ pitā cāsi sakhā viśvasya karmaṇaḥ |",
+  "translation_english": "You are our friend, our father, our companion in all action."
+},
+{
+  "verse_number": 14,
+  "sanskrit_text": "इन्द्रं नृभिरवसे हवामहे सुतस्य पीतये।",
+  "transliteration": "indraṃ nṛbhir avase havāmahe sutasya pītaye |",
+  "translation_english": "We call Indra with men for help, to drink the pressed Soma."
+},
+{
+  "verse_number": 15,
+  "sanskrit_text": "स नः पवस्व दुहिता वाचः सखा विश्वस्य कर्मणः।",
+  "transliteration": "sa naḥ pavasva duhitā vācaḥ sakhā viśvasya karmaṇaḥ |",
+  "translation_english": "Flow for us, O Soma, daughter of speech, companion of all action."
+},
+
 
 
 
