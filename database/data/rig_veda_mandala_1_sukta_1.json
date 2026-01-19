@@ -4349,5 +4349,55 @@
   "translation_english": "When I call you, O Maruts, worthy of sacrifice, you grant inspired thought."
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 57,
+  "sukta_name": "Indra Sukta",
+  "rishi": "Medhātithi Kāṇva",
+  "devata": "Indra",
+  "chandas": "Triṣṭubh",
+  "total_verses": 6
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "यदिन्द्र पूर्वे अपि माः ससर्जुर्विश्वा मघवन् अवसे नः।",
+  "transliteration": "yadindra pūrve api māḥ sasarjur viśvā maghavan avase naḥ |",
+  "translation_english": "As in former times, O Indra, release all your powers to help us."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "त्वं हि दस्यूनव धूनयः परि वृत्रं रुरोजिथ।",
+  "transliteration": "tvaṃ hi dasyūn ava dhūnayaḥ pari vṛtraṃ rurojitha |",
+  "translation_english": "You scattered the hostile tribes and crushed Vṛtra."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "त्वं नः पावक दीदिहि सोमपाः पिब सुतम्।",
+  "transliteration": "tvaṃ naḥ pāvaka dīdihi somapāḥ piba sutam |",
+  "translation_english": "Shine upon us, O purifier; drink the pressed Soma."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "त्वं रयिं चोदयस्वते बृहन्तं ददासि नः।",
+  "transliteration": "tvaṃ rayiṃ codayasvate bṛhantaṃ dadāsi naḥ |",
+  "translation_english": "You grant great wealth to the one who urges you."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "त्वं नः पथो अनु दर्शय विश्वानि देव वीर्याणि।",
+  "transliteration": "tvaṃ naḥ patho anu darśaya viśvāni deva vīryāṇi |",
+  "translation_english": "Show us the paths, O god, all your heroic deeds."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "इन्द्रं नृभिरवसे हवामहे सुतस्य पीतये।",
+  "transliteration": "indraṃ nṛbhir avase havāmahe sutasya pītaye |",
+  "translation_english": "We call Indra with men for help, to drink the pressed Soma."
+},
+
+
+
 
 ]
