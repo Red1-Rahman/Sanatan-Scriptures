@@ -5045,6 +5045,53 @@
   "translation_english": "May Agni grant us well-being; may Mitra and Varuṇa grant us well-being; may Aditi grant us well-being."
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 69,
+  "sukta_name": "Agni Sukta",
+  "rishi": "Medhātithi Kāṇva",
+  "devata": "Agni",
+  "chandas": "Triṣṭubh",
+  "total_verses": 6
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "अग्निं हुवे पुरोहितं यज्ञस्य देवमृत्विजम् । होतारं रत्नधातमम् ॥",
+  "transliteration": "agniṃ huve purohitaṃ yajñasya devam ṛtvijam | hotāraṃ ratnadhātamam ||",
+  "translation_english": "I invoke Agni, the household priest, the divine officiant of the sacrifice, the invoker who bestows treasures."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "स नो मित्रो वरुणो मा महान्तमदितिः सिन्धुम् । रक्षन्त्वग्ने शवसा ॥",
+  "transliteration": "sa no mitro varuṇo mā mahāntam aditiḥ sindhum | rakṣantv agne śavasā ||",
+  "translation_english": "May Mitra, Varuṇa, great Aditi, and the ocean protect us by your power, O Agni."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "त्वं नः पाहि श्रवाय्याग्ने देवेषु मानुषेषु च ।",
+  "transliteration": "tvaṃ naḥ pāhi śravāyyāgne deveṣu mānuṣeṣu ca |",
+  "translation_english": "Protect us, O glorious Agni, among gods and among humans."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "यदग्ने यानि ते क्रतूनि तानि विद्मसि । तेषु नो अधि चाकन ॥",
+  "transliteration": "yad agne yāni te kratūni tāni vidmasi | teṣu no adhi cākana ||",
+  "translation_english": "We know the wise powers that are yours, O Agni; delight in them for our sake."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "अग्निर्नो देवता यज्याः पुरोहितो विश्ववेदाः । स नो यज्ञं समन्वतु ॥",
+  "transliteration": "agnir no devatā yajyāḥ purohito viśvavedāḥ | sa no yajñaṃ samanvatu ||",
+  "translation_english": "Agni, our adorable god and all-knowing priest, may he rightly guide our sacrifice."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "स्वस्ति नो अग्निर्दधातु स्वस्ति नो मित्रावरुणौ । स्वस्ति नो अदितिः करोतु ॥",
+  "transliteration": "svasti no agnir dadhātu svasti no mitrāvaruṇau | svasti no aditiḥ karotu ||",
+  "translation_english": "May Agni grant us well-being; may Mitra and Varuṇa grant us well-being; may Aditi grant us well-being."
+},
 
 
 
