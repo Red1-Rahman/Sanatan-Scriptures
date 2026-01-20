@@ -4811,6 +4811,144 @@
   "translation_english": "Bestow well-being upon us, O Maruts."
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 65,
+  "sukta_name": "Agni Sukta",
+  "rishi": "Medhātithi Kāṇva",
+  "devata": "Agni",
+  "chandas": "Triṣṭubh",
+  "total_verses": 6
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "अग्निं हुवे पुरोहितं यज्ञस्य देवमृत्विजम् । होतारं रत्नधातमम् ॥",
+  "transliteration": "agniṃ huve purohitaṃ yajñasya devam ṛtvijam | hotāraṃ ratnadhātamam ||",
+  "translation_english": "I invoke Agni, the household priest, the divine minister of the sacrifice, the invoker who bestows treasures."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "स नो मित्रो वरुणो मा महान्तमदितिः सिन्धुम् । रक्षन्त्वग्ने शवसा ॥",
+  "transliteration": "sa no mitro varuṇo mā mahāntam aditiḥ sindhum | rakṣantv agne śavasā ||",
+  "translation_english": "May Mitra, Varuṇa, great Aditi, and the ocean protect us by your power, O Agni."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "त्वं नः पाहि श्रवाय्याग्ने देवेषु मानुषेषु च ।",
+  "transliteration": "tvaṃ naḥ pāhi śravāyyāgne deveṣu mānuṣeṣu ca |",
+  "translation_english": "Protect us, O glorious Agni, among gods and among men."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "यदग्ने यानि ते क्रतूनि तानि विद्मसि । तेषु नो अधि चाकन ॥",
+  "transliteration": "yad agne yāni te kratūni tāni vidmasi | teṣu no adhi cākana ||",
+  "translation_english": "We know the wise powers that are yours, O Agni; delight in them for our sake."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "अग्निर्नो देवता यज्याः पुरोहितो विश्ववेदाः । स नो यज्ञं समन्वतु ॥",
+  "transliteration": "agnir no devatā yajyāḥ purohito viśvavedāḥ | sa no yajñaṃ samanvatu ||",
+  "translation_english": "Agni, our adorable god and all-knowing priest, may he rightly guide our sacrifice."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "स्वस्ति नो अग्निर्दधातु स्वस्ति नो मित्रावरुणौ । स्वस्ति नो अदितिः करोतु ॥",
+  "transliteration": "svasti no agnir dadhātu svasti no mitrāvaruṇau | svasti no aditiḥ karotu ||",
+  "translation_english": "May Agni grant us well-being; may Mitra and Varuṇa grant us well-being; may Aditi grant us well-being."
+},
+
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 66,
+  "sukta_name": "Marut Sukta",
+  "rishi": "Medhātithi Kāṇva",
+  "devata": "Maruts",
+  "chandas": "Triṣṭubh",
+  "total_verses": 13
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "आ यात मरुतो दिवो अन्तान्पृथिव्या उत।",
+  "transliteration": "ā yāta maruto divo antān pṛthivyā uta |",
+  "translation_english": "Come, O Maruts, from the ends of heaven and from the earth."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "येषां शर्धो न मर्यं न स्तोमं निहन्यते।",
+  "transliteration": "yeṣāṃ śardho na maryaṃ na stomaṃ nihanyate |",
+  "translation_english": "Whose troop no mortal restrains, whose praise none can destroy."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "तेषां रथेषु रोचते वृषा वाजिनिवो बलम्।",
+  "transliteration": "teṣāṃ ratheṣu rocate vṛṣā vājinivo balam |",
+  "translation_english": "On their chariots shines strength like that of a powerful bull."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "येषां धूनयो न विक्षिपे शुचयः पतयन्ति।",
+  "transliteration": "yeṣāṃ dhūnayo na vikṣipe śucayaḥ patayanti |",
+  "translation_english": "Whose bright spears fly without being deflected."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "मरुतो हि प्रथमा देवेषु गीष्पतिः।",
+  "transliteration": "maruto hi prathamā deveṣu gīṣpatiḥ |",
+  "translation_english": "The Maruts are foremost among the gods in praise."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "येषां वृषा रथाः सुदानवः।",
+  "transliteration": "yeṣāṃ vṛṣā rathāḥ sudānavaḥ |",
+  "translation_english": "Whose mighty chariots are generous givers."
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "ते नो मरुतः पान्तु विश्वतः।",
+  "transliteration": "te no marutaḥ pāntu viśvataḥ |",
+  "translation_english": "May those Maruts protect us on every side."
+},
+{
+  "verse_number": 8,
+  "sanskrit_text": "मरुतो यज्ञमाशिषम्।",
+  "transliteration": "maruto yajñam āśiṣam |",
+  "translation_english": "O Maruts, accept the blessing of the sacrifice."
+},
+{
+  "verse_number": 9,
+  "sanskrit_text": "ते नो वृष्टीः सुवीर्याः।",
+  "transliteration": "te no vṛṣṭīḥ suvīryāḥ |",
+  "translation_english": "Grant us rains and heroic strength."
+},
+{
+  "verse_number": 10,
+  "sanskrit_text": "येषां पृश्निमातरः शूराः।",
+  "transliteration": "yeṣāṃ pṛśnimātaraḥ śūrāḥ |",
+  "translation_english": "Whose mothers are Pṛśni, whose nature is heroic."
+},
+{
+  "verse_number": 11,
+  "sanskrit_text": "न वः शर्धो न मर्यं विव्यक्तम्।",
+  "transliteration": "na vaḥ śardho na maryaṃ vivyaktam |",
+  "translation_english": "No force can clearly overcome your host."
+},
+{
+  "verse_number": 12,
+  "sanskrit_text": "मरुतः शृणुतं हवम्।",
+  "transliteration": "marutaḥ śṛṇutaṃ havam |",
+  "translation_english": "O Maruts, hear our invocation."
+},
+{
+  "verse_number": 13,
+  "sanskrit_text": "स्वस्ति नो मरुतो दधातन।",
+  "transliteration": "svasti no maruto dadhātana |",
+  "translation_english": "Bestow well-being upon us, O Maruts."
+},
+
 
 
 
