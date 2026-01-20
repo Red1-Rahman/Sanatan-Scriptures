@@ -5093,6 +5093,53 @@
   "translation_english": "May Agni grant us well-being; may Mitra and Varuṇa grant us well-being; may Aditi grant us well-being."
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 70,
+  "sukta_name": "Agni Sukta",
+  "rishi": "Medhātithi Kāṇva",
+  "devata": "Agni",
+  "chandas": "Triṣṭubh",
+  "total_verses": 6
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "अग्निं नरो दीधितिभिर्गिरोभिः समिद्धमाहुः स हविर्दधाति ।",
+  "transliteration": "agniṃ naro dīdhitibhir girobhir samiddham āhuḥ sa havir dadhāti |",
+  "translation_english": "Men, with shining thoughts and hymns, kindle Agni; he places the oblation."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "अग्निर्हि देवाँ अवसे स नो यज्ञेषु वक्षति ।",
+  "transliteration": "agnir hi devān avase sa no yajñeṣu vakṣati |",
+  "translation_english": "Agni indeed brings the gods for our aid; he bears them to our sacrifices."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "स नो देवाँ इहावहत् जातवेदाः पुरोहितः ।",
+  "transliteration": "sa no devān ihāvahat jātavedāḥ purohitaḥ |",
+  "translation_english": "May Jātavedas, the household priest, bring the gods here to us."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "यदग्ने यानि ते क्रतूनि तानि विद्मसि ।",
+  "transliteration": "yad agne yāni te kratūni tāni vidmasi |",
+  "translation_english": "Whatever wise powers are yours, O Agni, we know them."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "अग्निर्नो देवता यज्याः स नो यज्ञं समन्वतु ।",
+  "transliteration": "agnir no devatā yajyāḥ sa no yajñaṃ samanvatu |",
+  "translation_english": "Agni, our adorable god, may he rightly guide our sacrifice."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "स्वस्ति नो अग्निर्दधातु विश्वतः परिभूरसि ।",
+  "transliteration": "svasti no agnir dadhātu viśvataḥ paribhūr asi |",
+  "translation_english": "May Agni grant us well-being, encompassing us on every side."
+},
 
 
 
