@@ -4997,6 +4997,55 @@
   "translation_english": "O Agni, rich in offerings, rich in praise, all-knowing priest of sacrifices, may he rightly guide our sacrifice."
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 68,
+  "sukta_name": "Agni Sukta",
+  "rishi": "Medhātithi Kāṇva",
+  "devata": "Agni",
+  "chandas": "Triṣṭubh",
+  "total_verses": 6
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "अग्निं हुवे जातवेदसं देवां देवेषु यज्ञियम् ।",
+  "transliteration": "agniṃ huve jātavedasaṃ devāṃ deveṣu yajñiyam |",
+  "translation_english": "I invoke Agni, knower of all births, the god worthy of worship among the gods."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "स नो मित्रो वरुणो मा महान्तमदितिः सिन्धुम् । रक्षन्त्वग्ने शवसा ॥",
+  "transliteration": "sa no mitro varuṇo mā mahāntam aditiḥ sindhum | rakṣantv agne śavasā ||",
+  "translation_english": "May Mitra, Varuṇa, great Aditi, and the ocean protect us by your power, O Agni."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "त्वं नः पाहि श्रवाय्याग्ने देवेषु मानुषेषु च ।",
+  "transliteration": "tvaṃ naḥ pāhi śravāyyāgne deveṣu mānuṣeṣu ca |",
+  "translation_english": "Protect us, O glorious Agni, among gods and among men."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "अग्निर्नो देवता यज्याः पुरोहितो विश्ववेदाः ।",
+  "transliteration": "agnir no devatā yajyāḥ purohito viśvavedāḥ |",
+  "translation_english": "Agni, our adorable god and all-knowing priest."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "स नो यज्ञं समन्वतु विश्वतः परिभूरसि ।",
+  "transliteration": "sa no yajñaṃ samanvatu viśvataḥ paribhūr asi |",
+  "translation_english": "May he rightly guide our sacrifice, encompassing it on every side."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "स्वस्ति नो अग्निर्दधातु स्वस्ति नो मित्रावरुणौ । स्वस्ति नो अदितिः करोतु ॥",
+  "transliteration": "svasti no agnir dadhātu svasti no mitrāvaruṇau | svasti no aditiḥ karotu ||",
+  "translation_english": "May Agni grant us well-being; may Mitra and Varuṇa grant us well-being; may Aditi grant us well-being."
+},
+
+
 
 
 
