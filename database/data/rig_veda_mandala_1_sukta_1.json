@@ -4949,6 +4949,56 @@
   "translation_english": "Bestow well-being upon us, O Maruts."
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 67,
+  "sukta_name": "Agni Sukta",
+  "rishi": "Medhātithi Kāṇva",
+  "devata": "Agni",
+  "chandas": "Triṣṭubh",
+  "total_verses": 6
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "अग्निर्होतारमुवाच यज्ञस्य पूरे ऋतवः । त्वां हविषा दधाम्यहम् ॥",
+  "transliteration": "agnir hotāram uvāca yajñasya pūre ṛtavaḥ | tvāṃ haviṣā dadhāmy aham ||",
+  "translation_english": "Agni, the priest, said: “Before the sacrifice, O ṛtava (upholder of order), I place you with offerings.”"
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "अग्निर्हि समिधा धात्रा विश्वान्नो दधातु सुम्ना ।",
+  "transliteration": "agnir hi samidhā dhātrā viśvānn o dadhātu sumnā |",
+  "translation_english": "Agni, the giver of fuel, may he grant us all things with kindly favor."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "तया नः सुम्ना भवतु मित्रवरुणौ ।",
+  "transliteration": "tayā naḥ sumnā bhavatu mitravaruṇau |",
+  "translation_english": "By that kindly (force), may Mitra and Varuṇa be gracious to us."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "अग्निर्जातवेदसो मित्रवरुणस्य शरणं सदा भवति ।",
+  "transliteration": "agnir jātavedaso mitravaruṇasya śaraṇaṃ sadā bhavati |",
+  "translation_english": "Agni, knower of births, is ever the refuge of Mitra and Varuṇa."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "अग्निर्हि नः पथिकृत्तमो देवेषु मानुषेषु च ॥",
+  "transliteration": "agnir hi naḥ pathikṛttamo deveṣu mānuṣeṣu ca ||",
+  "translation_english": "Agni is the best guide for us among gods and among humans."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "अग्निर्हविष्मान् रयिमध्वरे विशवन्तमध्वराणाम् । स नो यज्ञं समन्वतु ॥",
+  "transliteration": "agnir haviṣmān rayim adhvare viśvantam adhvarāṇām | sa no yajñaṃ samanvatu ||",
+  "translation_english": "O Agni, rich in offerings, rich in praise, all-knowing priest of sacrifices, may he rightly guide our sacrifice."
+},
+
+
+
 
 
 
