@@ -5141,6 +5141,54 @@
   "translation_english": "May Agni grant us well-being, encompassing us on every side."
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 71,
+  "sukta_name": "Agni Sukta",
+  "rishi": "Medhātithi Kāṇva",
+  "devata": "Agni",
+  "chandas": "Triṣṭubh",
+  "total_verses": 6
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "उप प्र जिन्वन्ति गिरयः सन्ना अग्निं यमं जनाः ।",
+  "transliteration": "upa pra jinvanti girayaḥ sannā agniṃ yamaṃ janāḥ |",
+  "translation_english": "Men kindle Agni with hymns, bringing him forth like Yama, firmly established."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "अग्निं नरः पूर्वे ऋषयो विध्यन्ति धीतिभिः ।",
+  "transliteration": "agniṃ naraḥ pūrve ṛṣayo vidhyanti dhītibhiḥ |",
+  "translation_english": "Men and the ancient seers set Agni in place with inspired thought."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "स देवेषु मानुषेषु च पुरोहितो विश्ववेदाः ।",
+  "transliteration": "sa deveṣu mānuṣeṣu ca purohito viśvavedāḥ |",
+  "translation_english": "He is the priest among gods and among men, the knower of all."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "अग्निर्दूतः कविक्रतुः सत्यश्चित्रश्रवस्तमः ।",
+  "transliteration": "agnir dūtaḥ kavikratuḥ satyaś citraśravastamaḥ |",
+  "translation_english": "Agni is the messenger, wise in counsel, truthful, and of radiant fame."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "स नो यज्ञं समन्वतु देवेषु च मनुष्येषु ।",
+  "transliteration": "sa no yajñaṃ samanvatu deveṣu ca manuṣyeṣu |",
+  "translation_english": "May he rightly guide our sacrifice among gods and among humans."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "स्वस्ति नो अग्निर्दधातु विश्वतः परिभूरसि ।",
+  "transliteration": "svasti no agnir dadhātu viśvataḥ paribhūr asi |",
+  "translation_english": "May Agni grant us well-being, encompassing us on every side."
+},
+
 
 
 
