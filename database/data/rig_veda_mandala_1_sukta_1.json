@@ -5387,6 +5387,48 @@
   "translation_english": "Purifying Soma brings forth well-being."
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 76,
+  "sukta_name": "Agni Sukta",
+  "rishi": "Medhātithi Kāṇva",
+  "devata": "Agni",
+  "chandas": "Gāyatrī",
+  "total_verses": 5
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "अग्निं नरो दीधितिभिर्गिरोभिः समिद्धमाहुः स हविर्दधाति ।",
+  "transliteration": "agniṃ naro dīdhitibhir girobhir samiddham āhuḥ sa havir dadhāti |",
+  "translation_english": "Men kindle Agni with shining thoughts and hymns; he places the oblation."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "स नो देवाँ अवसे वहाति जातवेदाः पुरोहितः ।",
+  "transliteration": "sa no devān avase vahāti jātavedāḥ purohitaḥ |",
+  "translation_english": "Jātavedas, the household priest, brings the gods to us for our aid."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "अग्निर्दूतः कविक्रतुः सत्यश्चित्रश्रवस्तमः ।",
+  "transliteration": "agnir dūtaḥ kavikratuḥ satyaś citraśravastamaḥ |",
+  "translation_english": "Agni is the messenger, wise in counsel, truthful, and of radiant fame."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "स देवेषु मानुषेषु च पुरोहितो विश्ववेदाः ।",
+  "transliteration": "sa deveṣu mānuṣeṣu ca purohito viśvavedāḥ |",
+  "translation_english": "He is priest among gods and among humans, the knower of all."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "स्वस्ति नो अग्निर्दधातु विश्वतः परिभूरसि ।",
+  "transliteration": "svasti no agnir dadhātu viśvataḥ paribhūr asi |",
+  "translation_english": "May Agni grant us well-being, encompassing us on every side."
+},
+
 
 
 
