@@ -5291,6 +5291,60 @@
   "translation_english": "May Agni grant us well-being, encompassing us on every side."
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 74,
+  "sukta_name": "Agni Sukta",
+  "rishi": "Medhātithi Kāṇva",
+  "devata": "Agni",
+  "chandas": "Triṣṭubh",
+  "total_verses": 7
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "उदग्ने तिष्ठ दिवि शोचिषा यामन्ना सूर्यस्य दुहितेव भासि ।",
+  "transliteration": "ud agne tiṣṭha divi śociṣā yāmannā sūryasya duhiteva bhāsi |",
+  "translation_english": "Rise up, O Agni, and stand in heaven with your flame; you shine like the daughter of the Sun."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "तं त्वा देवा अमृताय दधुः पुरुत्रा यज्ञेषु मानुषेषु ।",
+  "transliteration": "taṃ tvā devā amṛtāya dadhuḥ purutrā yajñeṣu mānuṣeṣu |",
+  "translation_english": "The gods established you for immortality, in many sacrifices among men."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "त्वं नः पावक दीदिहि सोमपाः पिब सुतम् ।",
+  "transliteration": "tvaṃ naḥ pāvaka dīdihi somapāḥ piba sutam |",
+  "translation_english": "Shine upon us, O purifier; drink the pressed Soma."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "अग्निर्हि देवाँ अवसे स नो यज्ञेषु वक्षति ।",
+  "transliteration": "agnir hi devān avase sa no yajñeṣu vakṣati |",
+  "translation_english": "Agni brings the gods to our sacrifices for our aid."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "स देवेषु मानुषेषु च पुरोहितो विश्ववेदाः ।",
+  "transliteration": "sa deveṣu mānuṣeṣu ca purohito viśvavedāḥ |",
+  "translation_english": "He is priest among gods and among men, the knower of all."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "स नो यज्ञं समन्वतु विश्वतः परिभूरसि ।",
+  "transliteration": "sa no yajñaṃ samanvatu viśvataḥ paribhūr asi |",
+  "translation_english": "May he rightly guide our sacrifice, encompassing it on every side."
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "स्वस्ति नो अग्निर्दधातु स्वस्ति नो मित्रावरुणौ ।",
+  "transliteration": "svasti no agnir dadhātu svasti no mitrāvaruṇau |",
+  "translation_english": "May Agni grant us well-being; may Mitra and Varuṇa grant us well-being."
+},
+
 
 
 
