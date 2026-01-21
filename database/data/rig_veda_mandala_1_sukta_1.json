@@ -5345,6 +5345,48 @@
   "translation_english": "May Agni grant us well-being; may Mitra and Varuṇa grant us well-being."
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 75,
+  "sukta_name": "Soma Sukta",
+  "rishi": "Medhātithi Kāṇva",
+  "devata": "Soma",
+  "chandas": "Gāyatrī",
+  "total_verses": 5
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "सोमं पिबेन्द्र वृषभा सुते मध्वः ।",
+  "transliteration": "somaṃ pibendra vṛṣabhā sute madhvaḥ |",
+  "translation_english": "Drink the Soma, O Indra the mighty, pressed and sweet."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "सोमं पवस्व धारया मधोरभि ।",
+  "transliteration": "somaṃ pavasva dhārayā madhor abhi |",
+  "translation_english": "Flow forth, O Soma, in streams of sweetness."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "सोमं देवाः पिबन्ति विश्वदेवाः ।",
+  "transliteration": "somaṃ devāḥ pibanti viśvadevāḥ |",
+  "translation_english": "The gods, all the gods, drink the Soma."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "सोमः पवित्रे अधि रोचते शुभः ।",
+  "transliteration": "somaḥ pavitre adhi rocate śubhaḥ |",
+  "translation_english": "Soma shines brightly upon the filter."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "सोमः पवमानो जनयत् स्वस्ति ।",
+  "transliteration": "somaḥ pavamāno janayat svasti |",
+  "translation_english": "Purifying Soma brings forth well-being."
+},
+
 
 
 
