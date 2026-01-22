@@ -5477,7 +5477,71 @@
   "translation_english": "Glorious and rich in heroic sons."
 },
 
-
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 78,
+  "sukta_name": "Indra Sukta",
+  "rishi": "Medhātithi Kāṇva",
+  "devata": "Indra",
+  "chandas": "Gāyatrī",
+  "total_verses": 9
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "इन्द्राय नूनं अर्चता सुतस्य सोमस्य पीतये ।",
+  "transliteration": "indrāya nūnaṃ arcatā sutasya somasya pītaye |",
+  "translation_english": "Praise Indra now, that he may drink the pressed Soma."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "स घा वीरः सुतावतोऽस्मानवति विश्वचर्षणिः ।",
+  "transliteration": "sa ghā vīraḥ sutāvato asmān avati viśvacarṣaṇiḥ |",
+  "translation_english": "That hero, lord of all peoples, protects us who offer Soma."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "यस्य ते महिना महि वृषभस्येव ते रथः ।",
+  "transliteration": "yasya te mahinā mahi vṛṣabhasyeva te rathaḥ |",
+  "translation_english": "By whose greatness your might is vast, like the chariot of a powerful bull."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "त्वं नः सखा शिवो भव सूनवे पितेव नो भव ।",
+  "transliteration": "tvaṃ naḥ sakhā śivo bhava sūnave piteva no bhava |",
+  "translation_english": "Be our friendly companion, gracious like a father to his son."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "इन्द्रं नृभिरवसे हवामहे सुतस्य पीतये ।",
+  "transliteration": "indraṃ nṛbhir avase havāmahe sutasya pītaye |",
+  "translation_english": "We call Indra with men for help, to drink the pressed Soma."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "स नो वृषा जनानां विश्वेषां दुरिता नशत् ।",
+  "transliteration": "sa no vṛṣā janānāṃ viśveṣāṃ duritā naśat |",
+  "translation_english": "May that mighty one remove all misfortunes from all people."
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "इन्द्रः सोमस्य पीतये वज्रं बिभर्ति तेजसे ।",
+  "transliteration": "indraḥ somasya pītaye vajraṃ bibharti tejase |",
+  "translation_english": "Indra bears the thunderbolt in glory after drinking Soma."
+},
+{
+  "verse_number": 8,
+  "sanskrit_text": "त्वं नः पथो अनु दर्शय विश्वानि देव वीर्याणि ।",
+  "transliteration": "tvaṃ naḥ patho anu darśaya viśvāni deva vīryāṇi |",
+  "translation_english": "Show us the paths, O god, all your heroic deeds."
+},
+{
+  "verse_number": 9,
+  "sanskrit_text": "स नो मित्रः पिता चासि सखा विश्वस्य कर्मणः ।",
+  "transliteration": "sa no mitraḥ pitā cāsi sakhā viśvasya karmaṇaḥ |",
+  "translation_english": "You are our friend and father, companion in all action."
+},
 
 
 
