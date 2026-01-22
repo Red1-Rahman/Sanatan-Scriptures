@@ -5429,6 +5429,54 @@
   "translation_english": "May Agni grant us well-being, encompassing us on every side."
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 77,
+  "sukta_name": "Agni Sukta",
+  "rishi": "Medhātithi Kāṇva",
+  "devata": "Agni",
+  "chandas": "Gāyatrī",
+  "total_verses": 6
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "अग्निं हुवे पुरोहितं यज्ञस्य देवमृत्विजम् ।",
+  "transliteration": "agniṃ huve purohitaṃ yajñasya devam ṛtvijam |",
+  "translation_english": "I invoke Agni, the household priest, the divine officiant of the sacrifice."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "होतारं रत्नधातमम् ।",
+  "transliteration": "hotāraṃ ratnadhātamam |",
+  "translation_english": "The invoker who bestows the greatest treasure."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "अग्निः पूर्वेभिरृषिभिरीड्यो नूतनैरुत ।",
+  "transliteration": "agniḥ pūrvebhir ṛṣibhir īḍyo nūtanair uta |",
+  "translation_english": "Agni, worthy of praise by ancient seers and by the modern ones."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "स देवाँ एह वक्षति ।",
+  "transliteration": "sa devān eha vakṣati |",
+  "translation_english": "He shall bring the gods here."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "अग्निना रयिमश्नवत् पोषमेव दिवे दिवे ।",
+  "transliteration": "agninā rayim aśnavat poṣam eva dive-dive |",
+  "translation_english": "Through Agni one gains wealth and nourishment day by day."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "यशसं वीरवत्तमम् ।",
+  "transliteration": "yaśasaṃ vīravattamam |",
+  "translation_english": "Glorious and rich in heroic sons."
+},
+
 
 
 
