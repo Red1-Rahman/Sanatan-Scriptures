@@ -6185,6 +6185,56 @@
   "translation_english": "May Mitra and Varuṇa grant us well-being; may Aryaman grant us well-being. May Indra and Bṛhaspati grant us well-being; may wide-striding Viṣṇu grant us well-being."
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 90,
+  "sukta_name": "Viśvedevas / Savitṛ Sukta",
+  "rishi": "Gotama Rāhūgaṇa",
+  "devata": "Viśvedevas (with Savitṛ)",
+  "chandas": "Triṣṭubh",
+  "total_verses": 6
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "आ नो देवाः सविता प्रजावत् सुमतिं विश्ववारेण्याम्।",
+  "transliteration": "ā no devāḥ savitā prajāvāt sumatiṃ viśvavāreṇyām |",
+  "translation_english": "May the gods, led by Savitṛ, grant us noble thought, rich in all that is worthy."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "परि नो देवाः सविता सुवृक्तिं परि विश्वानि दुरिता तरन्तु।",
+  "transliteration": "pari no devāḥ savitā suvṛktiṃ pari viśvāni duritā tarantu |",
+  "translation_english": "May the gods, with Savitṛ, carry us beyond all troubles, through perfect prayer."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "विश्वे देवाः सवितुः प्रसूताः सुवृक्तिभिः प्र णयन्तु यज्ञम्।",
+  "transliteration": "viśve devāḥ savituḥ prasūtāḥ suvṛktibhiḥ pra nayantu yajñam |",
+  "translation_english": "May all the gods, impelled by Savitṛ, guide the sacrifice forward by good hymns."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "स नो देवाः सविता सवेम स्यात् पथ्या अस्मभ्यं सुप्रणीतिः।",
+  "transliteration": "sa no devāḥ savitā savema syāt pathyā asmabhyaṃ supranītiḥ |",
+  "translation_english": "May Savitṛ and the gods grant us right guidance and a smooth path."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "शं नो मित्रः शं वरुणः शं नो भवत्वर्यमा।",
+  "transliteration": "śaṃ no mitraḥ śaṃ varuṇaḥ śaṃ no bhavaty aryamā |",
+  "translation_english": "May Mitra bring us peace, may Varuṇa bring us peace, may Aryaman bring us peace."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "शं न इन्द्रो बृहस्पतिः शं नो विष्णुरुरुक्रमः॥",
+  "transliteration": "śaṃ na indro bṛhaspatiḥ śaṃ no viṣṇur urukramaḥ ||",
+  "translation_english": "May Indra and Bṛhaspati bring us peace; may wide-striding Viṣṇu bring us peace."
+},
+
+
+
 
 
 
