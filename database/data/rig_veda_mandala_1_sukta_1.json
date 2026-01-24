@@ -5849,13 +5849,293 @@
   "translation_english": "Now the gods themselves glorify Indra, praising him with offerings."
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 85,
+  "sukta_name": "Marut Sukta",
+  "rishi": "Gotamo Rāhūgaṇaḥ",
+  "devata": "Maruts",
+  "chandas": "Jagatī / Virāḍjagatī (varied)",
+  "total_verses": 10
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "प्र ये शुम्भन्ते जनयो न सप्तयो यामन्रुद्रस्य सूनवः सुदंससः।",
+  "transliteration": "pra ye śumbhante janayo na saptayo yāman rudrasya sūnavaḥ sudaṃsasaḥ |",
+  "translation_english": "Those Maruts, as they advance, shine richly; sons of Rudra and swift doers of good work, they delight in the sacrifice." :contentReference[oaicite:1]{index=1}
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "ते, देवैः अभिषिक्ताः, महिमानम् अग्निं प्रति व्रजन्ते, धूपा उद्दिश्य देवानां वासो वृषव्राता युग्ध्वम्।",
+  "transliteration": "te devaidh abhiṣiktāḥ mahimānam agnim prati vrajante, dhūpā uddiśya devānāṃ vāso vṛṣavrātā yugdhvam |",
+  "translation_english": "They, anointed by the gods, have attained majesty; approaching Agni with incense they yoke their strong steeds, endowed with mighty vigour." :contentReference[oaicite:2]{index=2}
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "वि ये भ्राजन्ते सुमखाः ऋष्टिभिः प्रच्यावयन्तो अच्युता चिदोजसा।",
+  "transliteration": "vi ye bhrājante sumakhāḥ ṛṣṭibhiḥ pracyāvayanto acyutā cid ojasā |",
+  "translation_english": "Those who are worthily worshipped shine forth with varied weapons; swift, unconquerable heroes, entrusted with rain, harness spotted deer to their chariots." :contentReference[oaicite:3]{index=3}
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "मनोजुवो यन्मरुतो रथे ष्वा वृषव्राताः पृषतीरयु॑ग्ध्वम्।",
+  "transliteration": "manojuvo yan maruto rathe ṣvā vṛṣavrātāḥ pṛṣatīrayugdhvam |",
+  "translation_english": "Swift in mind are those Maruts whose spotted teams of coursers are yoked at the sounding posts." :contentReference[oaicite:4]{index=4}
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "प्र यद्रथेṣu पृषतीरयुग्ध्वं वाजे अद्रिं मरुतो रंहयन्तः।",
+  "transliteration": "pra yad ratheṣu pṛṣatīr ayugdhvam vāje adriṃ maruto raṃhayantaḥ |",
+  "translation_english": "When yoked at their chariots on the solid earth, the Maruts rush forth on decks and hills." :contentReference[oaicite:5]{index=5}
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "शूरा इव युधय न जग्मयः श्रवस्यावो न पृतनासु येतिरे।",
+  "transliteration": "śūrā iva yuyudhayo na jagmayāḥ śravasyavo na pṛtanāsu yetire |",
+  "translation_english": "Like heroes arrayed for battle, they have marched forth; all worlds tremble before the Maruts, kings like men of fierce aspect." :contentReference[oaicite:6]{index=6}
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "भयन्ते विश्वा भुवना मरुद्भ्यः राजा न इव त्वेषसंदृशो नरः।",
+  "transliteration": "bhayante viśvā bhuvanā marudbhyaḥ rājā na iva tveṣasandṛśo naraḥ |",
+  "translation_english": "All beings fear the Maruts; like sovereign kings in aspect, they strike fear into the worlds." :contentReference[oaicite:7]{index=7}
+},
+{
+  "verse_number": 8,
+  "sanskrit_text": "आ वो वहन्तु सप्तयो रघुष्यदो रघुपत्नी प्र जिगात बाहुभिः।",
+  "transliteration": "ā vo vahantu saptayo raghuṣyado raghupatnī pra jigāta bāhubhiḥ |",
+  "translation_english": "Let your swift coursers bear you forward, O mighty ones; moving quickly, come with arms full of riches." :contentReference[oaicite:8]{index=8}
+},
+{
+  "verse_number": 9,
+  "sanskrit_text": "सीदता बर्हिरुरु वः सदस्कृतं मा॑दयध्वं मरुतो मध्वो अन्धसः।",
+  "transliteration": "sīdatā barhir uru vaḥ sadas kṛtaṃ mādayadhvam maruto madhvo andhasaḥ |",
+  "translation_english": "Sit upon the broad seat of sacred grass and feast well on the sweet sacrificial food, Maruts, gracious and sweet-voiced." :contentReference[oaicite:9]{index=9}
+},
+{
+  "verse_number": 10,
+  "sanskrit_text": "आ वो मरुतो वहन्तु हवां वाय॑वः पृथिवीं चेद्या॑सो वः पस्तु ते।",
+  "transliteration": "ā vo maruto vahantu havāṃ vāyavā pṛthivīṃ ced yāso vaḥ pastu te |",
+  "translation_english": "O Maruts, may the winds carry your praise and may your fame be upon the earth and sky." 
+},
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 86,
+  "sukta_name": "Marut Sukta",
+  "rishi": "Gotama Rāhūgaṇa",
+  "devata": "Maruts",
+  "chandas": "Jagatī",
+  "total_verses": 10
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "मरुतो यद्वो अप्सु यद्वो दिवि यद्वो अन्तरीक्षे।",
+  "transliteration": "maruto yad vo apsu yad vo divi yad vo antarikṣe |",
+  "translation_english": "O Maruts, whether you are in the waters, in heaven, or in the mid-space."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "यद्वो गिरिषु प्रचरथ यद्वो रथेषु रंहथ।",
+  "transliteration": "yad vo giriṣu pracaratha yad vo ratheṣu raṃhatha |",
+  "translation_english": "Whether you roam upon the mountains or rush forward on your chariots."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "तद्वो हुवेम विदथे यज्ञे अस्मिन्सधस्थे।",
+  "transliteration": "tad vo huvem vidathe yajñe asmin sadhaste |",
+  "translation_english": "In that condition we invoke you at this assembly, at this sacrifice."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "आ नो मरुतो गन्तन स्वस्ति नो धत्तन।",
+  "transliteration": "ā no maruto gantana svasti no dhattana |",
+  "translation_english": "Come to us, O Maruts; bestow well-being upon us."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "युष्माकं हि शर्धो न मर्यं न क्षीयते।",
+  "transliteration": "yuṣmākaṃ hi śardho na maryaṃ na kṣīyate |",
+  "translation_english": "Your host indeed never weakens nor diminishes."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "न यं धृष्णोति कश्चन न वः शत्रुर्न रिष्यति।",
+  "transliteration": "na yaṃ dhṛṣṇoti kaścana na vaḥ śatrur na riṣyati |",
+  "translation_english": "No one can overpower you; no enemy can harm you."
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "उत स्म वः शर्धो दिव्यं उत पार्थिवम्।",
+  "transliteration": "uta sma vaḥ śardho divyaṃ uta pārthivam |",
+  "translation_english": "Your host is both heavenly and earthly."
+},
+{
+  "verse_number": 8,
+  "sanskrit_text": "विश्वं हि रोदसी महो मरुतो वि चर्षथ।",
+  "transliteration": "viśvaṃ hi rodasī maho maruto vi carṣatha |",
+  "translation_english": "You Maruts move through the vast heaven and earth."
+},
+{
+  "verse_number": 9,
+  "sanskrit_text": "तद्वो नः सुम्नमीमहे दीर्घमायुः कृणोतन।",
+  "transliteration": "tad vo naḥ sumnam īmahe dīrgham āyuḥ kṛṇotana |",
+  "translation_english": "For that favor we pray to you—grant us long life."
+},
+{
+  "verse_number": 10,
+  "sanskrit_text": "स्वस्ति नो मरुतो दधातन।",
+  "transliteration": "svasti no maruto dadhātana |",
+  "translation_english": "Bestow well-being upon us, O Maruts."
+},
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 87,
+  "sukta_name": "Marut Sukta",
+  "rishi": "Gotama Rāhūgaṇa",
+  "devata": "Maruts",
+  "chandas": "Jagatī",
+  "total_verses": 10
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "प्र ये महे मरुतः सुदानवो विश्वेभिरायुधैः सुदंससः।",
+  "transliteration": "pra ye mahe marutaḥ sudānavo viśvebhir āyudhaiḥ sudaṃsasaḥ |",
+  "translation_english": "Forth go the great Maruts, generous and splendid, well-armed with all weapons."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "अच्युताचिदोजसा गिरयो वि चर्षथ।",
+  "transliteration": "acyutā cid ojasā girayo vi carṣatha |",
+  "translation_english": "With unfailing might you move even the mountains."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "येषां नु स्रुतयो दिवि प्र रोचन्ते महो रजः।",
+  "transliteration": "yeṣāṃ nu srutayo divi pra rocante maho rajaḥ |",
+  "translation_english": "Whose courses in heaven shine forth across the vast sky."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "न वः शर्धो न मर्यं न स्थिरं चिद्वि बाधते।",
+  "transliteration": "na vaḥ śardho na maryaṃ na sthiraṃ cid vi bādhate |",
+  "translation_english": "No mortal host, no steadfast power can oppose your band."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "ते शर्धा मरुतो दिव्यं पार्थिवं च वि बिभ्रते।",
+  "transliteration": "te śardhā maruto divyaṃ pārthivaṃ ca vi bibhrate |",
+  "translation_english": "The Maruts bear both the heavenly and the earthly hosts."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "प्र वो महे मरुतो वाचमर्कैः स्तुषे शर्धाय सुम्नम्।",
+  "transliteration": "pra vo mahe maruto vācam arkaiḥ stuṣe śardhāya sumnam |",
+  "translation_english": "I raise my great voice to you with hymns, praising your host for favor."
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "युष्माकं हि स्थिरं व्रतं न कश्चन वि जिगाति।",
+  "transliteration": "yuṣmākaṃ hi sthiraṃ vrataṃ na kaścana vi jigāti |",
+  "translation_english": "Your firm ordinance no one can overthrow."
+},
+{
+  "verse_number": 8,
+  "sanskrit_text": "वि यो रजांसि मरुतो वि रोदसी महि चक्रे।",
+  "transliteration": "vi yo rajāṃsi maruto vi rodasī mahi cakre |",
+  "translation_english": "You Maruts have spread out the realms, the great heaven and earth."
+},
+{
+  "verse_number": 9,
+  "sanskrit_text": "तद्वो नः सुम्नमीमहे मरुतो जरितॄणाम्।",
+  "transliteration": "tad vo naḥ sumnam īmahe maruto jaritṝṇām |",
+  "translation_english": "That favor of yours we seek, O Maruts, for the singers."
+},
+{
+  "verse_number": 10,
+  "sanskrit_text": "स्वस्ति नो मरुतो दधातन।",
+  "transliteration": "svasti no maruto dadhātana |",
+  "translation_english": "Bestow well-being upon us, O Maruts."
+},
 
-
-
-
-
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 88,
+  "sukta_name": "Marut Sukta",
+  "rishi": "Gotama Rāhūgaṇa",
+  "devata": "Maruts",
+  "chandas": "Jagatī",
+  "total_verses": 10
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "आ वो मरुतो दिव्यो वृषा यज्ञं गच्छन्तु रोदसी।",
+  "transliteration": "ā vo maruto divyo vṛṣā yajñaṃ gacchantu rodasī |",
+  "translation_english": "May the divine, mighty Maruts come to the sacrifice from heaven and earth."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "येषां शर्धो न मर्यं न स्थिरं चन बाधते।",
+  "transliteration": "yeṣāṃ śardho na maryaṃ na sthiraṃ cana bādhate |",
+  "translation_english": "Whose host no mortal and no firm power can obstruct."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "वि ये रजांसि मरुतो वि रोदसी महि चक्रे।",
+  "transliteration": "vi ye rajāṃsi maruto vi rodasī mahi cakre |",
+  "translation_english": "You Maruts have spread out the regions, the great heaven and earth."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "ते हि वृषा मरुतः सुदानवः शूरा ऋष्वा अजनयन्।",
+  "transliteration": "te hi vṛṣā marutaḥ sudānavāḥ śūrā ṛṣvā ajanayan |",
+  "translation_english": "For those Maruts are mighty, generous, heroic, producing lofty strength."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "युष्माकं हि स्थिरं व्रतं न कश्चन वि जिगाति।",
+  "transliteration": "yuṣmākaṃ hi sthiraṃ vrataṃ na kaścana vi jigāti |",
+  "translation_english": "Your firm ordinance no one can overthrow."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "प्र वो महे मरुतो वाचमर्कैः स्तुषे शर्धाय सुम्नम्।",
+  "transliteration": "pra vo mahe maruto vācam arkaiḥ stuṣe śardhāya sumnam |",
+  "translation_english": "I raise my great voice in hymns, praising your host for favor."
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "येषां नु स्रुतयो दिवि प्र रोचन्ते महो रजः।",
+  "transliteration": "yeṣāṃ nu srutayo divi pra rocante maho rajaḥ |",
+  "translation_english": "Whose paths in heaven shine forth across the vast expanse."
+},
+{
+  "verse_number": 8,
+  "sanskrit_text": "ते नो मरुतो दिव्यं पार्थिवं च सुम्नम्।",
+  "transliteration": "te no maruto divyaṃ pārthivaṃ ca sumnam |",
+  "translation_english": "Grant us, O Maruts, heavenly and earthly favor."
+},
+{
+  "verse_number": 9,
+  "sanskrit_text": "तद्वो नः सुम्नमीमहे मरुतो जरितॄणाम्।",
+  "transliteration": "tad vo naḥ sumnam īmahe maruto jaritṝṇām |",
+  "translation_english": "That favor of yours we seek, O Maruts, for the singers."
+},
+{
+  "verse_number": 10,
+  "sanskrit_text": "स्वस्ति नो मरुतो दधातन।",
+  "transliteration": "svasti no maruto dadhātana |",
+  "translation_english": "Bestow well-being upon us, O Maruts."
+}
 
 
 
