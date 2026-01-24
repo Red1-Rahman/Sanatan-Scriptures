@@ -6135,7 +6135,57 @@
   "sanskrit_text": "स्वस्ति नो मरुतो दधातन।",
   "transliteration": "svasti no maruto dadhātana |",
   "translation_english": "Bestow well-being upon us, O Maruts."
-}
+},
+
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 89,
+  "sukta_name": "Viśvedevas Sukta",
+  "rishi": "Gotama Rāhūgaṇa",
+  "devata": "Viśvedevas (All Gods)",
+  "chandas": "Triṣṭubh",
+  "total_verses": 6
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "आ नो भद्राः क्रतवो यन्तु विश्वतः।",
+  "transliteration": "ā no bhadrāḥ kratavo yantu viśvataḥ |",
+  "translation_english": "May noble thoughts come to us from every side."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "अदब्धासो अपरीतास उद्भिदः।",
+  "transliteration": "adabdhāso aparītāsa udbhidaḥ |",
+  "translation_english": "Unhindered, undefeated, and unbroken."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "देवा नो यथा सदमिद्वृधे असन्नप्रायुवो रक्षिता दिवे-दिवे।",
+  "transliteration": "devā no yathā sadam id vṛdhe asann aprāyuvo rakṣitā dive-dive |",
+  "translation_english": "May the gods always be with us for our growth, unwearied, guarding us day by day."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "शिवा नः सन्तु दिशः प्रदिशश्च।",
+  "transliteration": "śivā naḥ santu diśaḥ pradiśaś ca |",
+  "translation_english": "May the directions and intermediate directions be auspicious to us."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "आदित्या नो अधिते भवन्तु।",
+  "transliteration": "ādityā no adhite bhavantu |",
+  "translation_english": "May the Ādityas be gracious to us."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "स्वस्ति नो मित्रावरुणा स्वस्ति नो भवत्वर्यमा। स्वस्ति न इन्द्रो बृहस्पतिः स्वस्ति नो विष्णुरुरुक्रमः॥",
+  "transliteration": "svasti no mitrāvaruṇā svasti no bhavaty aryamā | svasti na indro bṛhaspatiḥ svasti no viṣṇur urukramaḥ ||",
+  "translation_english": "May Mitra and Varuṇa grant us well-being; may Aryaman grant us well-being. May Indra and Bṛhaspati grant us well-being; may wide-striding Viṣṇu grant us well-being."
+},
+
+
 
 
 
