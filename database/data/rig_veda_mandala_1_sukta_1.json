@@ -6713,5 +6713,59 @@
   "translation_english": "Indra and Agni, grant us well-being and make our life long."
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 100,
+  "sukta_name": "Indra Sukta",
+  "rishi": "Gotama Rāhūgaṇa",
+  "devata": "Indra",
+  "chandas": "Triṣṭubh",
+  "total_verses": 7
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "स घा नो योग आ भुवदिन्द्रो वज्री हिरण्ययः।",
+  "transliteration": "sa ghā no yoga ā bhuvad indro vajrī hiraṇyayaḥ |",
+  "translation_english": "May Indra, wielder of the thunderbolt, radiant with gold, come to our aid."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "स नो वृषा जनानां विश्वेषां दुरिता नशत्।",
+  "transliteration": "sa no vṛṣā janānāṃ viśveṣāṃ duritā naśat |",
+  "translation_english": "May that mighty one drive away all misfortunes of all people."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "इन्द्रं नु देवासो ममृजुर्हविष्मन्तो अर्चत।",
+  "transliteration": "indraṃ nu devāso mamṛjur haviṣmanto arcata |",
+  "translation_english": "Now the gods themselves purify Indra and praise him with offerings."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "यस्य ते महिना महि वृषभस्येव ते रथः।",
+  "transliteration": "yasya te mahinā mahi vṛṣabhasyeva te rathaḥ |",
+  "translation_english": "By whose greatness your might is vast, like the chariot of a powerful bull."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "त्वं नः सखा शिवो भव सूनवे पितेव नो भव।",
+  "transliteration": "tvaṃ naḥ sakhā śivo bhava sūnave piteva no bhava |",
+  "translation_english": "Be our friendly companion, gracious like a father to his son."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "स नो वाजेषु वाजिनीवो रयिं दाशुषे दधातु।",
+  "transliteration": "sa no vājeṣu vājinīvo rayiṃ dāśuṣe dadhātu |",
+  "translation_english": "May he grant wealth to the worshipper, rich in prizes and victories."
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "इन्द्रं नु स्तुषे महिना यज्ञानां पते।",
+  "transliteration": "indraṃ nu stuṣe mahinā yajñānāṃ pate |",
+  "translation_english": "Now I praise Indra in his greatness, the lord of sacrifices."
+}
+
 
 ]
