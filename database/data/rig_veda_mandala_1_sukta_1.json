@@ -6665,7 +6665,53 @@
   "translation_english": "Indra and Agni, grant us well-being and make our life long."
 },
 
-
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 99,
+  "sukta_name": "Indra–Agni Sukta",
+  "rishi": "Gotama Rāhūgaṇa",
+  "devata": "Indra and Agni",
+  "chandas": "Triṣṭubh",
+  "total_verses": 6
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "इन्द्राग्नी यं वां हवामहे तं शृणुतं हवम्।",
+  "transliteration": "indrāgnī yaṃ vāṃ havāmahe taṃ śṛṇutaṃ havam |",
+  "translation_english": "O Indra and Agni, hear this invocation which we address to you."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "इन्द्राग्नी युवं नः सखायौ युवं नः पितरौ।",
+  "transliteration": "indrāgnī yuvam naḥ sakhāyau yuvam naḥ pitarau |",
+  "translation_english": "Indra and Agni, you are our friends; you are our parents."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "इन्द्राग्नी नो दुरितानि विश्वा नाशयतम्।",
+  "transliteration": "indrāgnī no duritāni viśvā nāśayatam |",
+  "translation_english": "Indra and Agni, remove from us all misfortunes."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "इन्द्राग्नी रयिमस्मभ्यं वीरवत्तमं दत्तम्।",
+  "transliteration": "indrāgnī rayim asmabhyaṃ vīravattamaṃ dattam |",
+  "translation_english": "Indra and Agni, grant us wealth rich in heroic strength."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "इन्द्राग्नी रक्षतं नो विश्वतः परि।",
+  "transliteration": "indrāgnī rakṣataṃ no viśvataḥ pari |",
+  "translation_english": "Indra and Agni, protect us completely on every side."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "इन्द्राग्नी स्वस्ति नो दत्तं दीर्घमायुः कृणुतम्।",
+  "transliteration": "indrāgnī svasti no dattaṃ dīrgham āyuḥ kṛṇutam |",
+  "translation_english": "Indra and Agni, grant us well-being and make our life long."
+},
 
 
 ]
