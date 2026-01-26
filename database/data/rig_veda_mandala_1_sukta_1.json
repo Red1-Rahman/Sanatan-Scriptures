@@ -6923,7 +6923,65 @@
   "translation_english": "May Indra grant us well-being and make our life long."
 },
 
-
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 103,
+  "sukta_name": "Indra Sukta",
+  "rishi": "Kutsa Āṅgirasa",
+  "devata": "Indra",
+  "chandas": "Triṣṭubh",
+  "total_verses": 8
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "इन्द्रं वर्धन्तो महीयन्त इष्टमग्महे वाजिनाम्।",
+  "transliteration": "indraṃ vardhanto mahīyanta iṣṭam agmahe vājinām |",
+  "translation_english": "Growing in might, we invoke Indra—may he come to the worship of those who prize wealth."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "यत् ते वीर्येṇa महि बृहत्स न कश्चन प्रतिदर्शति।",
+  "transliteration": "yat te vīryeṇa mahi bṛhats na kaścana pratidarśati |",
+  "translation_english": "No one can stand against your vast heroic power."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "इन्द्रं शत्रूनां निहन्ता वाजिनः सख्याय हवामहे।",
+  "transliteration": "indraṃ śatrūṇāṃ nihantā vājinah sakhyāya havāmahe |",
+  "translation_english": "We call Indra, slayer of enemies, for the friendship of the worshippers."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "नूनं त्वामिह योनिर्विष्णुना सह पृणधातु वाजिभिः कार्यम्।",
+  "transliteration": "nūnaṃ tvāmiha yonir viṣṇunā saha pṛṇadhātu vājinbhiḥ kāryam |",
+  "translation_english": "Here indeed may the source of strength, together with Viṣṇu and the horses, support your work."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "अब्धस्य अहिं शूष्ण इदमेवाग्नावत इदमेवेह जगत्।",
+  "transliteration": "abhdhasya ahiṃ śūṣṇa idamevāgnāvata idameveha jagat |",
+  "translation_english": "Behold this, the mighty and vast realm, as enduring in strength as Agni’s nature."  
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "इन्द्रं न सर्वेभ्यो धनमभवत् पातु स नो रयिं दाशुषे दधातु।",
+  "transliteration": "indraṃ na sarvebhyo dhanam abhavat pātu sa no rayiṃ dāśuṣe dadhātu |",
+  "translation_english": "Indra was lord of all riches; may he guard us and grant wealth to the worshippers."
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "आनन्दं जनयताग्नि कृतानि यज्ञानि वावृध्नन्तु।",
+  "transliteration": "ānandaṃ janayat āgni kṛtāni yajñāni vāvr̥dhnantu |",
+  "translation_english": "May the rites we perform with Agni’s aid bring delight and increase strength."
+},
+{
+  "verse_number": 8,
+  "sanskrit_text": "यत् ते कीर्ते महता वज्री वरीप्सितं वाजिनाम्।",
+  "transliteration": "yat te kīrte mahatā vajrī varīpsitaṃ vājinām |",
+  "translation_english": "For the glorious fame of yours, O thunder-wielder, let the worshippers rejoice."  
+},
 
 
 
