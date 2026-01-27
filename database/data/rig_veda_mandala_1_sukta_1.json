@@ -7176,4 +7176,57 @@
 },
 
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 107,
+  "sukta_name": "Viśvedevas Sukta",
+  "rishi": "Kutsa Āṅgirasa",
+  "devata": "Viśvedevas (All Gods)",
+  "chandas": "Triṣṭubh",
+  "total_verses": 6
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "विश्वे देवासो अध्वरेषु मन्मना धिया विप्रा ऋतसा हवामहे।",
+  "transliteration": "viśve devāso adhvareṣu manmanā dhiyā viprā ṛtasā havāmahe |",
+  "translation_english": "All the gods we invoke in the sacrifices with reverent thought, inspired prayer, and truth."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "ते नो यज्ञं पान्तु सुमनस्यवो विश्वे देवासो अमृता ऋतावृधः।",
+  "transliteration": "te no yajñaṃ pāntu sumanasyavo viśve devāso amṛtā ṛtāvṛdhaḥ |",
+  "translation_english": "May all the immortal gods, upholders of ṛta, kindly protect our sacrifice."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "अदितिर्नः पतयतु सुभगे रक्षो विश्वस्य जगतो अधिपत्नी।",
+  "transliteration": "aditir naḥ patayatu subhage rakṣo viśvasya jagato adhipatnī |",
+  "translation_english": "May gracious Aditi, protectress and sovereign of all the world, guard us."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "इन्द्रश्च नो वरुणश्च बृहस्पतिर्मित्रो अग्निः पूषा सरस्वती।",
+  "transliteration": "indraś ca no varuṇaś ca bṛhaspatir mitro agniḥ pūṣā sarasvatī |",
+  "translation_english": "May Indra and Varuṇa, Bṛhaspati, Mitra, Agni, Pūṣan, and Sarasvatī—"
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "ते नो रयिं दाशुषे वाजयन्तं दीर्घमायुः प्रतिरन्तु रक्षन्।",
+  "transliteration": "te no rayiṃ dāśuṣe vājayantaṃ dīrgham āyuḥ pratirantu rakṣan |",
+  "translation_english": "—grant us prize-winning wealth and protect us with long life."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "स्वस्ति नो विश्वे देवासः स्वस्ति नो बृहस्पतिः।",
+  "transliteration": "svasti no viśve devāsaḥ svasti no bṛhaspatiḥ |",
+  "translation_english": "May all the gods grant us well-being; may Bṛhaspati grant us well-being."
+},
+
+
+
+
+
+  
 ]
