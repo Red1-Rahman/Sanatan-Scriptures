@@ -7302,7 +7302,65 @@
   "translation_english": "May Indra grant us well-being and make our life long."
 },
 
-
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 109,
+  "sukta_name": "Indra Sukta",
+  "rishi": "Kutsa Āṅgirasa",
+  "devata": "Indra",
+  "chandas": "Triṣṭubh",
+  "total_verses": 8
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "इन्द्रं वर्धन्तो अप्तुरः कृण्वन्तो विश्वमार्यम्।",
+  "transliteration": "indraṃ vardhanto apturaḥ kṛṇvanto viśvam āryam |",
+  "translation_english": "Strengthening Indra with devoted effort, making all things noble."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "न तस्य दानं न राधसो न वीर्यस्य कश्चन।",
+  "transliteration": "na tasya dānaṃ na rādhaso na vīryasya kaścana |",
+  "translation_english": "No one rivals him in gift, bounty, or heroic power."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "इन्द्रं नु स्तोमैरर्चता सखायं वृषभं युवम्।",
+  "transliteration": "indraṃ nu stomair arcatā sakhāyaṃ vṛṣabhaṃ yuvam |",
+  "translation_english": "Now praise Indra with hymns, the youthful bull, the friend."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "यः शत्रूणां निहन्ता स सनिता वाजिनाम्।",
+  "transliteration": "yaḥ śatrūṇāṃ nihantā sa sanitā vājinām |",
+  "translation_english": "He who slays enemies is the winner of prizes."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "स नो रयिं दाशुषे वाजयन्तम्।",
+  "transliteration": "sa no rayiṃ dāśuṣe vājayantam |",
+  "translation_english": "May he grant us prize-winning wealth, to the worshipper."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "त्वं नः सखा शिवो भव सूनवे पितेव नः।",
+  "transliteration": "tvaṃ naḥ sakhā śivo bhava sūnave piteva naḥ |",
+  "translation_english": "Be our gracious friend, like a father to his son."
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "इन्द्रः पृतनासु जिन्वतु नो धियः।",
+  "transliteration": "indraḥ pṛtanāsu jinvatu no dhiyaḥ |",
+  "translation_english": "May Indra animate our thoughts in battles."
+},
+{
+  "verse_number": 8,
+  "sanskrit_text": "स्वस्ति नो इन्द्रो दीर्घमायुः कृणोतु।",
+  "transliteration": "svasti no indro dīrgham āyuḥ kṛṇotu |",
+  "translation_english": "May Indra grant us well-being and make our life long."
+},
 
   
 ]
