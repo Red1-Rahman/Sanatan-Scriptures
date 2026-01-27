@@ -7224,7 +7224,83 @@
   "translation_english": "May all the gods grant us well-being; may Bṛhaspati grant us well-being."
 },
 
-
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 108,
+  "sukta_name": "Indra–Saramā Sukta",
+  "rishi": "Kutsa Āṅgirasa",
+  "devata": "Indra and Saramā",
+  "chandas": "Triṣṭubh",
+  "total_verses": 11
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "किं नु ते सख्यं सख्ये कृतं सरमे कथं त्वमागमः।",
+  "transliteration": "kiṃ nu te sakhyaṃ sakhye kṛtaṃ sarame kathaṃ tvam āgamaḥ |",
+  "translation_english": "What kind of friendship is this that you have made, O Saramā? How did you come here?"
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "न मे भ्रातृत्वं न पितृत्वमस्ति इन्द्रस्य दूतीरहमस्मि।",
+  "transliteration": "na me bhrātṛtvaṃ na pitṛtvam asti indrasya dūtīr aham asmi |",
+  "translation_english": "I have no brotherhood or fatherhood here; I am the messenger of Indra."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "अहं सरमा यजमानस्य दूतीरिन्द्रस्य हव्या वहामि।",
+  "transliteration": "ahaṃ saramā yajamānasya dūtīr indrasya havyā vahāmi |",
+  "translation_english": "I am Saramā, the messenger of the sacrificer; I carry Indra’s summons."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "कुहा नु गावः परिहृताः सरमे केन पन्थानं प्रपद्यन्ते।",
+  "transliteration": "kuhā nu gāvaḥ parihṛtāḥ sarame kena panthānaṃ prapadyante |",
+  "translation_english": "Where are the stolen cows hidden, O Saramā? By which path are they reached?"
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "अविन्दं गावो यत्र सोमपानाः परावतः पर्वते अन्तरे।",
+  "transliteration": "avindaṃ gāvo yatra somapānāḥ parāvataḥ parvate antare |",
+  "translation_english": "I have found the cows where the Soma-drinkers dwell, far away between the mountains."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "न त्वा सरमे प्रलोभयन्ति पण्यवो न मृष्ये वाचमृजुं ब्रुवाणि।",
+  "transliteration": "na tvā sarame pralobhayanti paṇyavo na mṛṣye vācam ṛjuṃ bruvāṇi |",
+  "translation_english": "The Paṇis will not deceive you, O Saramā; I will not accept falsehood while speaking truth."
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "इन्द्रस्य नूनं वचसा समन्ये यान्तु गावः पुनरेतुमस्मान्।",
+  "transliteration": "indrasya nūnaṃ vacasā samanye yāntu gāvaḥ punar etum asmān |",
+  "translation_english": "By Indra’s command I seek this: let the cows come back again to us."
+},
+{
+  "verse_number": 8,
+  "sanskrit_text": "नूनं ते पण्यवो दुर्मेधासो न सरमे वाक्यमनु ब्रुवन्ति।",
+  "transliteration": "nūnaṃ te paṇyavo durmedhāso na sarame vākyam anu bruvanti |",
+  "translation_english": "Now the foolish Paṇis do not heed your words, O Saramā."
+},
+{
+  "verse_number": 9,
+  "sanskrit_text": "यज्ञस्य नूनं पतयः समन्ये इन्द्रं हवामहे वाजिनम्।",
+  "transliteration": "yajñasya nūnaṃ patayaḥ samanye indraṃ havāmahe vājinam |",
+  "translation_english": "Now the lords of the sacrifice unite; we call upon Indra, the prize-winner."
+},
+{
+  "verse_number": 10,
+  "sanskrit_text": "स नो गावो दाशुषे वाजयन्ता इन्द्रः पुनर्ददतु।",
+  "transliteration": "sa no gāvo dāśuṣe vājayantā indraḥ punar dadātu |",
+  "translation_english": "May Indra restore to us the cattle, granting prizes to the worshipper."
+},
+{
+  "verse_number": 11,
+  "sanskrit_text": "स्वस्ति नो इन्द्रो दीर्घमायुः कृणोतु।",
+  "transliteration": "svasti no indro dīrgham āyuḥ kṛṇotu |",
+  "translation_english": "May Indra grant us well-being and make our life long."
+},
 
 
 
