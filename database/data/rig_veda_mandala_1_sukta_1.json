@@ -7127,7 +7127,53 @@
   "translation_english": "May Indra grant us well-being and make our life long."
 },
 
-
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 106,
+  "sukta_name": "Viśvedevas Sukta",
+  "rishi": "Kutsa Āṅgirasa",
+  "devata": "Viśvedevas (All Gods)",
+  "chandas": "Triṣṭubh",
+  "total_verses": 6
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "यज्ञेन यज्ञमयजन्त देवास्तानि धर्माणि प्रथमान्यासन्।",
+  "transliteration": "yajñena yajñam ayajanta devās tāni dharmāṇi prathamāny āsan |",
+  "translation_english": "By sacrifice the gods worshipped sacrifice; these were the first ordinances."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "ते ह नाकं महिमानः सचन्त यत्र पूर्वे साध्याः सन्ति देवाः।",
+  "transliteration": "te ha nākaṃ mahimānaḥ sacanta yatra pūrve sādhyāḥ santi devāḥ |",
+  "translation_english": "Through greatness they reached the height of heaven, where the ancient Sādhyas dwell."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "विश्वे देवासो अदितिर्मरुत्वानिन्द्रो अग्निर्द्यावापृथिवी।",
+  "transliteration": "viśve devāso aditir marutvān indro agnir dyāvāpṛthivī |",
+  "translation_english": "All the gods—Aditi, the Maruts, Indra, Agni, Heaven and Earth—"
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "ते नो रयिं दाशुषे वाजयन्तं दीर्घमायुः प्रतिरन्तु रक्षन्।",
+  "transliteration": "te no rayiṃ dāśuṣe vājayantaṃ dīrgham āyuḥ pratirantu rakṣan |",
+  "translation_english": "May they grant us prize-winning wealth and protect us with long life."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "शं नो मित्रः शं वरुणः शं नो भवत्वर्यमा।",
+  "transliteration": "śaṃ no mitraḥ śaṃ varuṇaḥ śaṃ no bhavaty aryamā |",
+  "translation_english": "May Mitra bring us peace; may Varuṇa bring us peace; may Aryaman bring us peace."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "शं न इन्द्रो बृहस्पतिः शं नो विष्णुरुरुक्रमः॥",
+  "transliteration": "śaṃ na indro bṛhaspatiḥ śaṃ no viṣṇur urukramaḥ ||",
+  "translation_english": "May Indra and Bṛhaspati bring us peace; may wide-striding Viṣṇu bring us peace."
+},
 
 
 ]
