@@ -7410,7 +7410,53 @@
   "translation_english": "Indra and Agni, grant us well-being and make our life long."
 },
 
-
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 111,
+  "sukta_name": "Indra Sukta",
+  "rishi": "Kutsa Āṅgirasa",
+  "devata": "Indra",
+  "chandas": "Triṣṭubh",
+  "total_verses": 6
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "तं वां नरः शुचयः शुचिभिर्हवामहे धियः।",
+  "transliteration": "taṃ vāṃ naraḥ śucayaḥ śucibhir havāmahe dhiyaḥ |",
+  "translation_english": "Him we invoke with pure thoughts and pure intentions, O men."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "इन्द्रं नु देवासो ममृजुर्हविष्मन्तो अर्चत।",
+  "transliteration": "indraṃ nu devāso mamṛjur haviṣmanto arcata |",
+  "translation_english": "Now the gods themselves purify Indra and praise him with offerings."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "यस्य ते महिना महि वृषभस्येव ते रथः।",
+  "transliteration": "yasya te mahinā mahi vṛṣabhasyeva te rathaḥ |",
+  "translation_english": "By whose greatness your might is vast, like the chariot of a powerful bull."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "त्वं नः सखा शिवो भव सूनवे पितेव नः।",
+  "transliteration": "tvaṃ naḥ sakhā śivo bhava sūnave piteva naḥ |",
+  "translation_english": "Be our gracious friend, like a father to his son."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "स नो वाजेषु वाजिनीवो रयिं दाशुषे दधातु।",
+  "transliteration": "sa no vājeṣu vājinīvo rayiṃ dāśuṣe dadhātu |",
+  "translation_english": "May he grant us wealth rich in prizes, to the worshipper."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "स्वस्ति नो इन्द्रो दीर्घमायुः कृणोतु।",
+  "transliteration": "svasti no indro dīrgham āyuḥ kṛṇotu |",
+  "translation_english": "May Indra grant us well-being and make our life long."
+},
 
 
 
