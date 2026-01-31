@@ -17,7 +17,17 @@ class VedaSeeder extends Seeder
         $vedas = json_decode(File::get($jsonPath), true);
 
         foreach ($vedas as $vedaData) {
-            Veda::create($vedaData);
+            Veda::create([
+                'veda_number' => $vedaData['veda_number'],
+                'name_sanskrit' => $vedaData['name_sanskrit'],
+                'name_english' => $vedaData['name_english'],
+                'name_transliteration' => $vedaData['name_transliteration'],
+                'total_mandalas' => $vedaData['total_mandalas'] ?? $vedaData['total_books'] ?? 0,
+                'total_verses' => $vedaData['total_verses'] ?? $vedaData['total_verses_estimated'] ?? 0,
+                'description' => $vedaData['notes'] ?? null,
+            ]);
         }
+        
+        $this->command->info('Vedas imported successfully!');
     }
 }
