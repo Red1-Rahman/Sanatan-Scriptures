@@ -7830,6 +7830,53 @@
   "translation_english": "May Rudra grant us well-being and long life."
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 115,
+  "sukta_name": "Sūrya Sukta",
+  "rishi": "Kutsa Āṅgirasa",
+  "devata": "Sūrya (Sun)",
+  "chandas": "Triṣṭubh",
+  "total_verses": 6
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "चित्रं देवानामुदगादनीकं चक्षुर्मित्रस्य वरुणस्याग्नेः।",
+  "transliteration": "citraṃ devānām udagād anīkaṃ cakṣur mitrasya varuṇasyāgneḥ |",
+  "translation_english": "The bright face of the gods has risen, the eye of Mitra, Varuṇa, and Agni."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "आप्रा द्यावापृथिवी अन्तरिक्षं सूर्य आत्मा जगतस्तस्थुषश्च।",
+  "transliteration": "āprā dyāvāpṛthivī antarikṣaṃ sūrya ātmā jagatas tasthuṣaś ca |",
+  "translation_english": "He has filled heaven and earth and the atmosphere—Sūrya, the soul of all that moves and stands."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "सूर्यः देवीरुषसो द्युतानो रथे युक्तो वियतः याति देवः।",
+  "transliteration": "sūryaḥ devīr uṣaso dyutāno rathe yukto viyataḥ yāti devaḥ |",
+  "translation_english": "The god Sūrya, radiant, goes through the sky in his chariot, attended by the Dawns."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "केतोः सूर्यस्य न केन चनार्यं हृदि स्पृशन्ति।",
+  "transliteration": "ketoḥ sūryasya na kena canāryaṃ hṛdi spṛśanti |",
+  "translation_english": "The rays of Sūrya touch the hearts of all, leaving none untouched."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "सूर्यो विश्वस्य जगतः प्राणो जीवनं च।",
+  "transliteration": "sūryo viśvasya jagataḥ prāṇo jīvanaṃ ca |",
+  "translation_english": "Sūrya is the breath and life of the entire world."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "स्वस्ति नो सूर्यः दीर्घमायुः कृणोतु।",
+  "transliteration": "svasti no sūryaḥ dīrgham āyuḥ kṛṇotu |",
+  "translation_english": "May Sūrya grant us well-being and long life."
+},
 
 
 
