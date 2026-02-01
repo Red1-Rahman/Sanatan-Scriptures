@@ -8040,6 +8040,179 @@
   "translation_english": "O Aśvins, grant us well-being and long life."
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 117,
+  "sukta_name": "Aśvinī Kumāra Sukta",
+  "rishi": "Kakṣīvān Āṅgirasa",
+  "devata": "Aśvinau (Aśvinī Kumāras)",
+  "chandas": "Triṣṭubh",
+  "total_verses": 25
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "युवं नरास्तुवते कृष्णियाय विष्णापुं ददथुर्विश्वकाय।",
+  "transliteration": "yuvam narā stuvate kṛṣṇiyāya viṣṇāpuṃ dadathur viśvakāya |",
+  "translation_english": "O heroes, you granted Viṣṇāpu to Kṛṣṇiya who praised you."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "युवं श्यावाय रुशतीमदत्तं महः क्षोणस्य अश्विना कन्याम्।",
+  "transliteration": "yuvam śyāvāya ruśatīm adattam mahaḥ kṣoṇasya aśvinā kanyām |",
+  "translation_english": "You gave the radiant maiden to Śyāva, O Aśvins."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "युवं पुरुमित्राय ददथुः कन्याम्।",
+  "transliteration": "yuvam purumitrāya dadathuḥ kanyām |",
+  "translation_english": "You bestowed a bride upon Purumitra."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "युवं अन्धं चक्षुषे चक्रथुः पुनः।",
+  "transliteration": "yuvam andhaṃ cakṣuṣe cakrathuḥ punaḥ |",
+  "translation_english": "You restored sight to the blind."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "युवं खञ्जं पदेन पुनरायतम्।",
+  "transliteration": "yuvam khañjaṃ padena punar āyatam |",
+  "translation_english": "You enabled the lame to walk again."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "युवं वृकं शयवे निन्यथुः।",
+  "transliteration": "yuvam vṛkaṃ śayave ninyathuḥ |",
+  "translation_english": "You subdued the wolf for Śayu."
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "युवं घोषायै जरन्त्यै पतिमदत्तम्।",
+  "transliteration": "yuvam ghoṣāyai jarantyai patim adattam |",
+  "translation_english": "You granted a husband to aged Ghoṣā."
+},
+{
+  "verse_number": 8,
+  "sanskrit_text": "युवं वध्रिमत्यै पुत्रमदत्तम्।",
+  "transliteration": "yuvam vadhṛimatyai putram adattam |",
+  "translation_english": "You gave a son to Vadhṛimatī."
+},
+{
+  "verse_number": 9,
+  "sanskrit_text": "युवं तुग्रस्य पुत्रं समुद्रादुद्धृतम्।",
+  "transliteration": "yuvam tugrasya putraṃ samudrād uddhṛtam |",
+  "translation_english": "You lifted Tugra’s son from the ocean."
+},
+{
+  "verse_number": 10,
+  "sanskrit_text": "युवं च्यवनं पुनर्युवानं चक्रथुः।",
+  "transliteration": "yuvam cyavanaṃ punar yuvānaṃ cakrathuḥ |",
+  "translation_english": "You made Cyavana young again."
+},
+{
+  "verse_number": 11,
+  "sanskrit_text": "युवं विश्वपालाय लोहमयं पदमदत्तम्।",
+  "transliteration": "yuvam viśpalāya lohamayaṃ padam adattam |",
+  "translation_english": "You gave Viśpalā an iron leg."
+},
+{
+  "verse_number": 12,
+  "sanskrit_text": "युवं दाशुषे वाजमदत्तम्।",
+  "transliteration": "yuvam dāśuṣe vājam adattam |",
+  "translation_english": "You granted nourishment to the worshipper."
+},
+{
+  "verse_number": 13,
+  "sanskrit_text": "युवं नरा सख्ये वयं वृणीमहे।",
+  "transliteration": "yuvam narā sakhye vayaṃ vṛṇīmahe |",
+  "translation_english": "O heroes, we choose you for friendship."
+},
+{
+  "verse_number": 14,
+  "sanskrit_text": "युवं भेषजा धारयथः।",
+  "transliteration": "yuvam bheṣajā dhārayathaḥ |",
+  "translation_english": "You hold healing remedies."
+},
+{
+  "verse_number": 15,
+  "sanskrit_text": "युवं नः पातं सर्वतः।",
+  "transliteration": "yuvam naḥ pātaṃ sarvataḥ |",
+  "translation_english": "Protect us on every side."
+},
+{
+  "verse_number": 16,
+  "sanskrit_text": "युवं दीर्घमायुः कृणुतम्।",
+  "transliteration": "yuvam dīrgham āyuḥ kṛṇutam |",
+  "translation_english": "Grant us long life."
+},
+{
+  "verse_number": 17,
+  "sanskrit_text": "युवं दुरितानि नाशयतम्।",
+  "transliteration": "yuvam duritāni nāśayatam |",
+  "translation_english": "Destroy our misfortunes."
+},
+{
+  "verse_number": 18,
+  "sanskrit_text": "युवं रयिं दत्तम्।",
+  "transliteration": "yuvam rayiṃ dattam |",
+  "translation_english": "Grant us wealth."
+},
+{
+  "verse_number": 19,
+  "sanskrit_text": "युवं वाजं दत्तम्।",
+  "transliteration": "yuvam vājaṃ dattam |",
+  "translation_english": "Grant us strength and nourishment."
+},
+{
+  "verse_number": 20,
+  "sanskrit_text": "युवं शं नः कृणुतम्।",
+  "transliteration": "yuvam śaṃ naḥ kṛṇutam |",
+  "translation_english": "Grant us peace."
+},
+{
+  "verse_number": 21,
+  "sanskrit_text": "युवं नः सूनवे पितेव।",
+  "transliteration": "yuvam naḥ sūnave piteva |",
+  "translation_english": "Be like fathers to us."
+},
+{
+  "verse_number": 22,
+  "sanskrit_text": "युवं मित्रौ नः भवतम्।",
+  "transliteration": "yuvam mitrau naḥ bhavatam |",
+  "translation_english": "Be our friends."
+},
+{
+  "verse_number": 23,
+  "sanskrit_text": "युवं यज्ञं समन्वताम्।",
+  "transliteration": "yuvam yajñaṃ samanvatām |",
+  "translation_english": "Guide our sacrifice."
+},
+{
+  "verse_number": 24,
+  "sanskrit_text": "युवं जीवसे नः।",
+  "transliteration": "yuvam jīvase naḥ |",
+  "translation_english": "Be for our life."
+},
+{
+  "verse_number": 25,
+  "sanskrit_text": "स्वस्ति नो अश्विनौ दीर्घमायुः कृणुतम्।",
+  "transliteration": "svasti no aśvinau dīrgham āyuḥ kṛṇutam |",
+  "translation_english": "O Aśvins, grant us well-being and long life."
+},
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ]
