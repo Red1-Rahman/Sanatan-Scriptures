@@ -8202,7 +8202,77 @@
   "translation_english": "O Aśvins, grant us well-being and long life."
 },
 
-
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 118,
+  "sukta_name": "Aśvinī Kumāra Sukta",
+  "rishi": "Kakṣīvān Āṅgirasa",
+  "devata": "Aśvinau (Aśvinī Kumāras)",
+  "chandas": "Triṣṭubh",
+  "total_verses": 10
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "आ वां रथं दुहितासूर्यस्य कार्ष्मे हवामहे अश्विना।",
+  "transliteration": "ā vāṃ rathaṃ duhitā sūryasya kārṣme havāmahe aśvinā |",
+  "translation_english": "We invoke your chariot, O Aśvins, drawn by the Daughter of the Sun."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "युवं नरा स्तुवते कृष्णियाय विष्णापुं ददथुः।",
+  "transliteration": "yuvam narā stuvate kṛṣṇiyāya viṣṇāpuṃ dadathuḥ |",
+  "translation_english": "O heroes, you granted Viṣṇāpu to Kṛṣṇiya who praised you."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "युवं भुज्युं समुद्रादुद्धृत्य रथेन निन्यथुः।",
+  "transliteration": "yuvam bhujyuṃ samudrād uddhṛtya rathena ninyathuḥ |",
+  "translation_english": "You carried Bhujyu away from the ocean in your chariot."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "युवं च्यवनं जरसा परीतं पुनर्युवानं चक्रथुः।",
+  "transliteration": "yuvam cyavanaṃ jarasā parītaṃ punar yuvānaṃ cakrathuḥ |",
+  "translation_english": "You restored aged Cyavana to youth again."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "युवं घोषायै पतिमदत्तं कन्यायै।",
+  "transliteration": "yuvam ghoṣāyai patim adattam kanyāyai |",
+  "translation_english": "You granted a husband to the maiden Ghoṣā."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "युवं दाशुषे रयिमश्ववत्पुरु दत्तम्।",
+  "transliteration": "yuvam dāśuṣe rayim aśvavat puru dattam |",
+  "translation_english": "You bestowed abundant horse-rich wealth upon the worshipper."
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "युवं भेषजा धारयथः नासत्यौ।",
+  "transliteration": "yuvam bheṣajā dhārayathaḥ nāsatyau |",
+  "translation_english": "O Nāsatyas, you hold healing medicines."
+},
+{
+  "verse_number": 8,
+  "sanskrit_text": "युवं नः पातं सर्वतः।",
+  "transliteration": "yuvam naḥ pātaṃ sarvataḥ |",
+  "translation_english": "Protect us on every side."
+},
+{
+  "verse_number": 9,
+  "sanskrit_text": "युवं दीर्घमायुः कृणुतम्।",
+  "transliteration": "yuvam dīrgham āyuḥ kṛṇutam |",
+  "translation_english": "Grant us long life."
+},
+{
+  "verse_number": 10,
+  "sanskrit_text": "स्वस्ति नो अश्विनौ भवतम्।",
+  "transliteration": "svasti no aśvinau bhavatam |",
+  "translation_english": "O Aśvins, be for our well-being."
+},
 
 
 
