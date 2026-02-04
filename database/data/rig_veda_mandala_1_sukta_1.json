@@ -8628,6 +8628,54 @@
   "translation_english": "May the goddess Dawn bestow well-being upon us."
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 124,
+  "sukta_name": "Uṣas Sūkta",
+  "rishi": "Kakṣīvān Dairghatamasaḥ",
+  "devata": "Uṣā (Dawn)",
+  "chandas": "Triṣṭubh",
+  "total_verses": 6
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "उषा उच्छन्ती दिवि योषा जिगाति।",
+  "transliteration": "uṣā ucchantī divi yoṣā jigāti |",
+  "translation_english": "Rising in the sky, Dawn comes forth like a radiant maiden."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "सा विश्वानि तमांसि अपहन्ति।",
+  "transliteration": "sā viśvāni tamāṃsi apahanti |",
+  "translation_english": "She drives away all darkness."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "प्रत्यञ्चं सूर्यं दृशये जुषाणाम्।",
+  "transliteration": "pratyañcaṃ sūryaṃ dṛśaye juṣāṇām |",
+  "translation_english": "She reveals the returning Sun to be seen."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "उषा देव्या मनुषे यज्ञियाय।",
+  "transliteration": "uṣā devyā manuṣe yajñiyāya |",
+  "translation_english": "Divine Dawn appears for the worshipping mortal."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "सा नः सुवीर्यं सुयशसं ददातु।",
+  "transliteration": "sā naḥ suvīryaṃ suyaśasaṃ dadātu |",
+  "translation_english": "May she grant us valor and good renown."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "स्वस्ति नो उषा देवी कृणोतु।",
+  "transliteration": "svasti no uṣā devī kṛṇotu |",
+  "translation_english": "May the goddess Dawn bestow well-being upon us."
+},
+
 
 
 
