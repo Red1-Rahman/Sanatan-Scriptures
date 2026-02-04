@@ -8850,6 +8850,54 @@
   "translation_english": "May Agni graciously grant us well-being."
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 128,
+  "sukta_name": "Agni Sūkta",
+  "rishi": "Kakṣīvān Dairghatamasaḥ",
+  "devata": "Agniḥ",
+  "chandas": "Triṣṭubh",
+  "total_verses": 6
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "अग्निर्होता कविक्रतुः सत्यश्चित्रश्रवस्तमः।",
+  "transliteration": "agnir hotā kavikratuḥ satyaś citraśravastamaḥ |",
+  "translation_english": "Agni is the priest, wise in purpose, truthful, and most renowned."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "देवो देवेभिरा गमत्।",
+  "transliteration": "devo devebhir ā gamat |",
+  "translation_english": "May the god come here with the gods."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "यदङ्ग दाशुषे त्वमग्ने भद्रं करिष्यसि।",
+  "transliteration": "yad aṅga dāśuṣe tvam agne bhadraṃ kariṣyasi |",
+  "translation_english": "O Agni, when you bestow good upon the worshipper,"
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "तवेत् तत्सत्यमङ्गिरः।",
+  "transliteration": "tavet tat satyam aṅgiraḥ |",
+  "translation_english": "That, O Angiras, is indeed your truth."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "उप त्वाग्ने दिवे दिवे दोषावस्तर्धिया वयम्।",
+  "transliteration": "upa tvāgne dive dive doṣāvastar dhiyā vayam |",
+  "translation_english": "Day by day, O Agni, we approach you with thought at dawn and dusk."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "नमो भरन्त एमसि।",
+  "transliteration": "namo bharanta emasi |",
+  "translation_english": "Bearing reverence, we come to you."
+},
+
 
 
 
