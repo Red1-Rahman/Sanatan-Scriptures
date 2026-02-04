@@ -8790,6 +8790,66 @@
   "translation_english": "May Indra, the lord of gifts, grant us well-being."
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 127,
+  "sukta_name": "Agni Sūkta",
+  "rishi": "Kakṣīvān Dairghatamasaḥ",
+  "devata": "Agniḥ",
+  "chandas": "Triṣṭubh",
+  "total_verses": 8
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "अग्निं होतारं मन्ये दास्वानं वसुं सूनुं सहसो जातवेदसम्।",
+  "transliteration": "agniṃ hotāraṃ manye dāsvānaṃ vasuṃ sūnuṃ sahaso jātavedasam |",
+  "translation_english": "I regard Agni as the priest, the generous one, the radiant son of strength, knower of all births."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "स नो विश्वा अभि वृणक्ति पाजसा।",
+  "transliteration": "sa no viśvā abhi vṛṇakti pājasā |",
+  "translation_english": "With his might he protects us on every side."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "अग्ने यं यज्ञं अध्वरं विश्वतः परिभूरसि।",
+  "transliteration": "agne yaṃ yajñaṃ adhvaraṃ viśvataḥ paribhūr asi |",
+  "translation_english": "O Agni, you encompass every sacrifice and sacred rite."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "स नः पावक दीदिहि।",
+  "transliteration": "sa naḥ pāvaka dīdihi |",
+  "translation_english": "Shine upon us, O purifier."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "यस्य व्रते न पृथिवी चन स्थिता।",
+  "transliteration": "yasya vrate na pṛthivī cana sthitā |",
+  "translation_english": "By whose law even the earth stands firm."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "अग्निर्दूतः कविक्रतुः।",
+  "transliteration": "agnir dūtaḥ kavikratuḥ |",
+  "translation_english": "Agni is the messenger, wise in purpose."
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "देवाँ इहावह जाठवेदः।",
+  "transliteration": "devān ihāvaha jātavedaḥ |",
+  "translation_english": "Bring the gods here, O knower of all."
+},
+{
+  "verse_number": 8,
+  "sanskrit_text": "स्वस्ति नो अग्निः सुमना उपातु।",
+  "transliteration": "svasti no agniḥ sumanā upātu |",
+  "translation_english": "May Agni graciously grant us well-being."
+},
+
 
 
 
