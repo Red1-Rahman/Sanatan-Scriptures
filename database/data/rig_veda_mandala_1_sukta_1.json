@@ -8502,6 +8502,133 @@
   "translation_english": "O Prajāpati, none other than you encompasses all that has come into being."
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 122,
+  "sukta_name": "Deva Sūkta",
+  "rishi": "Kakṣīvān Dairghatamasaḥ",
+  "devata": "Viśvedevāḥ",
+  "chandas": "Triṣṭubh",
+  "total_verses": 8
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "प्र वः शुक्रमर्चता दिवो न पुत्रं सुदानवः।",
+  "transliteration": "pra vaḥ śukram arcatā divo na putraṃ sudānavaḥ |",
+  "translation_english": "Praise the radiant one like the son of heaven, O generous gods."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "विश्वे देवासो अद्रुहो मा वो मर्मृज्यत व्रतम्।",
+  "transliteration": "viśve devāso adruho mā vo marmṛjyata vratam |",
+  "translation_english": "O all gods, free from deceit, do not neglect your sacred law."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "आ नो मित्रावरुणा द्यावापृथिवी इह गच्छताम्।",
+  "transliteration": "ā no mitrāvaruṇā dyāvāpṛthivī iha gacchatām |",
+  "translation_english": "May Mitra and Varuṇa, Heaven and Earth, come here to us."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "इन्द्राग्नी सोमं पिबतं बृहस्पते।",
+  "transliteration": "indrāgnī somaṃ pibatam bṛhaspate |",
+  "translation_english": "Indra and Agni, drink the Soma, O Bṛhaspati."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "पूषा नो यातु पन्थामनु विद्वान्।",
+  "transliteration": "pūṣā no yātu panthām anu vidvān |",
+  "translation_english": "May Pūṣan, knower of paths, guide us on our way."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "सरस्वती नः सुभगा मयोभूः।",
+  "transliteration": "sarasvatī naḥ subhagā mayobhūḥ |",
+  "translation_english": "May Sarasvatī, auspicious and gracious, bring us joy."
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "अश्विनौ नो भेषजं कृणुतम्।",
+  "transliteration": "aśvinau no bheṣajaṃ kṛṇutam |",
+  "translation_english": "O Aśvins, grant us healing."
+},
+{
+  "verse_number": 8,
+  "sanskrit_text": "स्वस्ति नो विश्वे देवाः कृणोतन।",
+  "transliteration": "svasti no viśve devāḥ kṛṇotana |",
+  "translation_english": "O all gods, bestow well-being upon us."
+},
+
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 123,
+  "sukta_name": "Uṣas Sūkta",
+  "rishi": "Kakṣīvān Dairghatamasaḥ",
+  "devata": "Uṣā (Dawn)",
+  "chandas": "Triṣṭubh",
+  "total_verses": 9
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "उषा उच्छा नः सुमना अवोभिः।",
+  "transliteration": "uṣā ucchā naḥ sumanā avobhiḥ |",
+  "translation_english": "Rise, O Dawn, with gracious favor and protection for us."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "सा नो देवी अभिष्टये वसु ददातु।",
+  "transliteration": "sā no devī abhiṣṭaye vasu dadātu |",
+  "translation_english": "May the goddess grant us wealth for our well-being."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "विश्वा तमांसि अपहन्ति भानुना।",
+  "transliteration": "viśvā tamāṃsi apahanti bhānunā |",
+  "translation_english": "With her radiance she drives away all darkness."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "उषा जार इव प्र याती वसूनाम्।",
+  "transliteration": "uṣā jāra iva pra yāti vasūnām |",
+  "translation_english": "Dawn advances like a lover, revealing riches."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "उदु त्यं जातवेदसं देवमुषसम्।",
+  "transliteration": "udu tyaṃ jātavedasaṃ devam uṣasam |",
+  "translation_english": "That divine Dawn rises, known to all beings."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "सा नः पन्थां अनु यातु साधुया।",
+  "transliteration": "sā naḥ panthāṃ anu yātu sādhuyā |",
+  "translation_english": "May she lead us along the righteous path."
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "उषा देव्या नः सविता प्रेरयतु।",
+  "transliteration": "uṣā devyā naḥ savitā prerayatu |",
+  "translation_english": "May the divine Dawn and Savitṛ inspire us."
+},
+{
+  "verse_number": 8,
+  "sanskrit_text": "सा नः सौभाग्यं दीर्घमायुः कृणोतु।",
+  "transliteration": "sā naḥ saubhāgyaṃ dīrgham āyuḥ kṛṇotu |",
+  "translation_english": "May she grant us good fortune and long life."
+},
+{
+  "verse_number": 9,
+  "sanskrit_text": "स्वस्ति नो उषा देवी कृणोतु।",
+  "transliteration": "svasti no uṣā devī kṛṇotu |",
+  "translation_english": "May the goddess Dawn bestow well-being upon us."
+},
+
+
 
 
 
