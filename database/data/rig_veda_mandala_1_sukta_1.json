@@ -8946,6 +8946,54 @@
   "translation_english": "May Indra the mighty grant us well-being."
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 130,
+  "sukta_name": "Indra Sūkta",
+  "rishi": "Kakṣīvān Dairghatamasaḥ",
+  "devata": "Indraḥ",
+  "chandas": "Triṣṭubh",
+  "total_verses": 6
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "इन्द्रं वर्धन्तो अप्तुरः सोमैर्नव्या उक्थैः।",
+  "transliteration": "indraṃ vardhanto apturaḥ somair navyā ukthaiḥ |",
+  "translation_english": "The active priests strengthen Indra with Soma and fresh hymns."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "स नः सहायो भवतु वज्री।",
+  "transliteration": "sa naḥ sahāyo bhavatu vajrī |",
+  "translation_english": "May the thunderbolt-bearing Indra be our helper."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "यः सोमपाः प्रथमो मघोनाम्।",
+  "transliteration": "yaḥ somapāḥ prathamo maghonām |",
+  "translation_english": "He who is the foremost Soma-drinker among the generous."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "स नो वृत्राणि जघान।",
+  "transliteration": "sa no vṛtrāṇi jaghāna |",
+  "translation_english": "May he strike down our obstructions."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "इन्द्रः पुरां दर्मणि दारयत्।",
+  "transliteration": "indraḥ purāṃ darmaṇi dārayat |",
+  "translation_english": "Indra shattered the strongholds in battle."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "स्वस्ति नो इन्द्रो मघवा कृणोतु।",
+  "transliteration": "svasti no indro maghavā kṛṇotu |",
+  "translation_english": "May Indra the generous grant us well-being."
+},
+
 
 
 
