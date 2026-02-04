@@ -8736,6 +8736,60 @@
   "translation_english": "May Indra grant us well-being and long life."
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 126,
+  "sukta_name": "Dāna-Stuti Sūkta",
+  "rishi": "Kakṣīvān Dairghatamasaḥ",
+  "devata": "Indraḥ",
+  "chandas": "Triṣṭubh",
+  "total_verses": 7
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "यद् अद्य काक्षीवान् स्तोमं चकार।",
+  "transliteration": "yad adya kākṣīvān stomaṃ cakāra |",
+  "translation_english": "Today Kakṣīvān has composed this hymn of praise."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "इन्द्राय वृत्रहन्तमाय दानाय।",
+  "transliteration": "indrāya vṛtrahantamāya dānāya |",
+  "translation_english": "For Indra, the slayer of Vṛtra, and the giver of gifts."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "शतं मे गोभिरश्वैश्च दत्तम्।",
+  "transliteration": "śataṃ me gobhir aśvaiś ca dattam |",
+  "translation_english": "A hundred cattle and horses were given to me."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "हिरण्येन सुवर्णेन वस्त्रैः।",
+  "transliteration": "hiraṇyena suvarṇena vastraiḥ |",
+  "translation_english": "With gold, treasure, and garments."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "राजा दानं काक्षीवते ददौ।",
+  "transliteration": "rājā dānaṃ kākṣīvate dadau |",
+  "translation_english": "The king bestowed gifts upon Kakṣīvān."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "तस्मै स्तोमाः पुनरुक्ताः।",
+  "transliteration": "tasmai stomāḥ punar uktāḥ |",
+  "translation_english": "Therefore hymns are sung again in his praise."
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "स्वस्ति नो इन्द्रो दानपाः कृणोतु।",
+  "transliteration": "svasti no indro dānapāḥ kṛṇotu |",
+  "translation_english": "May Indra, the lord of gifts, grant us well-being."
+},
+
 
 
 
