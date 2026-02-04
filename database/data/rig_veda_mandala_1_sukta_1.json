@@ -8898,6 +8898,54 @@
   "translation_english": "Bearing reverence, we come to you."
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 129,
+  "sukta_name": "Indra Sūkta",
+  "rishi": "Kakṣīvān Dairghatamasaḥ",
+  "devata": "Indraḥ",
+  "chandas": "Triṣṭubh",
+  "total_verses": 6
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "इन्द्रं वर्धन्तो अप्तुरः कृण्वन्तो विश्वमार्यम्।",
+  "transliteration": "indraṃ vardhanto apturaḥ kṛṇvanto viśvam āryam |",
+  "translation_english": "Strengthening Indra with devotion, making all the world noble."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "दिवो न यस्य रेतसो दुहन्ति पृथिवी नृभिः।",
+  "transliteration": "divo na yasya retaso duhanti pṛthivī nṛbhiḥ |",
+  "translation_english": "From him flow the vital powers of heaven and earth for humankind."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "स नो हिरण्यरथिं दाशुषे ददातु।",
+  "transliteration": "sa no hiraṇyarathiṃ dāśuṣe dadātu |",
+  "translation_english": "May he grant the worshipper the golden chariot."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "इन्द्रः सोमस्य पीतये वज्रीवाँ इह गच्छतु।",
+  "transliteration": "indraḥ somasya pītaye vajrīvāṃ iha gacchatu |",
+  "translation_english": "Let Indra, wielder of the thunderbolt, come here to drink the Soma."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "स नो वृत्राणि जिघ्नतु।",
+  "transliteration": "sa no vṛtrāṇi jighnatu |",
+  "translation_english": "May he strike down our obstacles."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "स्वस्ति नो इन्द्रो वृषा कृणोतु।",
+  "transliteration": "svasti no indro vṛṣā kṛṇotu |",
+  "translation_english": "May Indra the mighty grant us well-being."
+},
+
 
 
 
