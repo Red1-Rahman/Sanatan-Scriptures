@@ -9115,6 +9115,59 @@
 },
 
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 133,
+  "sukta_name": "Indra Sūkta",
+  "rishi": "Parucchepa Daivodāsi",
+  "devata": "Indraḥ",
+  "chandas": "Triṣṭubh / Anuṣṭubh (mixed)",
+  "total_verses": 7
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "उभे पुनामि रोदसी ऋतेन द्रुहो दहामि सम्महीरनिन्द्राः । अभिव्लग्य यत्र हता अमित्रा वैलस्थानं परि तृळ्हा अशेरन् ॥",
+  "transliteration": "ubhe punāmi rodasī ṛtena druho dahāmi saṃ mahīḥ anindrāḥ | abhivlaghya yatra hatā amitrāḥ vailasthānaṃ pari tṛlhā aśeran ||",
+  "translation_english": "I purify both Earth and Heaven with truth and burn the hostile tribes without Indra; where the unfriendly are slain, crushed around their pit, they lie mangled by blows."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "अभिव्लग्या चिदद्रिवः शीर्षा यातुमतीनाम् छिन्धि वटूरिणा पदाः महावटूरिणा पदाः ।",
+  "transliteration": "abhivlaghyā cidadrivaḥ śīrṣā yātumatīnām chindhi vaṭūriṇā padāḥ mahāvaṭūriṇā padāḥ ||",
+  "translation_english": "Break, O Indra, with your crushing foot the heads of the sorceresses and hostile ones, with your wide-spreading mighty step."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "अवासां मघवञ जहि शर्धो यातुमतीनाम् वैलस्थानके अर्मके महावैलस्थे अर्मके ॥",
+  "transliteration": "avāsāṃ maghavañ jahi śardho yātumatīnām vailasthānake armake mahā-vailasthe armake ||",
+  "translation_english": "O Maghavan (Indra), strike down the hostile bold ones, cast them in the narrow pit, in the deep and narrow hole." 
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "यासां तिस्रः पंचाशतो अभिव्लङ्गैरपावपः तत सुते मनायति तकत सु ते मनायति ॥",
+  "transliteration": "yāsāṃ tisraḥ pañcāśato abhivlaṅghair apāvapaḥ tat sute manāyati takat su te manāyati ||",
+  "translation_english": "Of whom you have already destroyed fifty by your fierce assaults — though this is small to you, they boast of it as a mighty deed."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "पिशङगभृष्टिमंभृणं पिशाचिमिन्द्र सं मृण सर्वं रक्षो नि बर्हय ॥",
+  "transliteration": "piśaṅgabhṛṣṭim ambhṛṇaṃ piśācim indra saṃ mṛṇa sarvaṃ rakṣo ni barhaya ||",
+  "translation_english": "O Indra, crush thoroughly the fearsome demonic foe; strike down every hostile force." 
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "अवर्मह इन्द्र दादृहि श्रुधी नः शुशोच हि द्यौः क्षा न भीषाँ अद्रिवो घृणान्न भीषाँ अद्रिवः । शुष्मिंतमो हि शुष्मिभिर्वधैरुग्रेभिरीयसे अपूरुषघ्नो अप्रतीत शूर सत्वभिस्त्रिसप्तैः शूर सत्वभिः ॥",
+  "transliteration": "avarmah indra dādṛhi śrudhī naḥ śuśoca hi dyauḥ kṣā na bhīṣāṃ adrivo ghṛṇān na bhīṣāṃ adrivaḥ | śuṣmintamo hi śuṣmibhir vadhair ugrebhiḥ īyase apuruṣaghno apratīta śūra satvabhis tri-saptaiḥ śūra satvabhiḥ ||",
+  "translation_english": "O Indra, grant us strength; do not let the sky and earth be shaken by fearsome foes. You, the unconquered hero, with mighty strokes of battle and thrice‑seven warriors, press forward like a storm against the enemy."
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "वनोति हि सुन्भन क्षयं परीणसः सुन्भनो हि ष्मा यजत्याव द्विषो देवानाम अव द्विषः । सुन्भन इत्सिषासति सहस्रा वाज्यवृतः सुन्भनायेन्द्रो ददात्याभुवं रयिं ददात्याभुवं ।",
+  "transliteration": "vanoti hi sunbhana kṣayaṃ parīṇasaḥ sunbhano hi śmā yajatyāva dviṣo devānām ava dviṣaḥ | sunbhana it siṣāsati sahasrā vājyavṛtaḥ sunbhanāy indro dadātyā bhuvaṃ rayiṃ dadātyā bhuvaṃ ||",
+  "translation_english": "You protect and sustain us; even the gods’ foes who hate you are destroyed by your power. Indra grants enduring wealth and strength to the generous, and gives to his worshipper abundant riches."
+}
 
 
 
