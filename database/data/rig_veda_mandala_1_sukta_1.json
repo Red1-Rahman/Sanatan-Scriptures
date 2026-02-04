@@ -8676,7 +8676,65 @@
   "translation_english": "May the goddess Dawn bestow well-being upon us."
 },
 
-
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 125,
+  "sukta_name": "Indra Sūkta",
+  "rishi": "Kakṣīvān Dairghatamasaḥ",
+  "devata": "Indraḥ",
+  "chandas": "Triṣṭubh",
+  "total_verses": 8
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "प्र वो महे महिमानं ब्रवीम्यहं चन स्तोषे इन्द्रं नवीयान्।",
+  "transliteration": "pra vo mahe mahimānaṃ bravīmy ahaṃ cana stoṣe indraṃ navīyān |",
+  "translation_english": "I proclaim the great greatness of Indra and praise him anew."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "यः शूर इव प्र पतति शत्रूञ् जघान।",
+  "transliteration": "yaḥ śūra iva pra patati śatrūñ jaghāna |",
+  "translation_english": "He who rushes forth like a hero and slays the enemies."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "स नो ददातु वाजिनं रयिं सहस्रिणम्।",
+  "transliteration": "sa no dadātu vājinaṃ rayiṃ sahasriṇam |",
+  "translation_english": "May he grant us strength and wealth in abundance."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "इन्द्रः सुदानुः सख्ये नो अस्तु।",
+  "transliteration": "indraḥ sudānuḥ sakhye no astu |",
+  "translation_english": "May generous Indra be our friend."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "यस्य व्रते न पृथिवी चन स्थिता।",
+  "transliteration": "yasya vrate na pṛthivī cana sthitā |",
+  "translation_english": "By whose power even the earth stands firm."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "सोमं पिबन्नमृतं मर्त्याय।",
+  "transliteration": "somaṃ pibann amṛtaṃ martyāya |",
+  "translation_english": "Drinking Soma, he bestows immortality upon mortals."
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "प्र नो इन्द्र दानानि प्रयच्छ।",
+  "transliteration": "pra no indra dānāni prayaccha |",
+  "translation_english": "O Indra, bestow your gifts upon us."
+},
+{
+  "verse_number": 8,
+  "sanskrit_text": "स्वस्ति नो इन्द्रो दीर्घमायुः कृणोतु।",
+  "transliteration": "svasti no indro dīrgham āyuḥ kṛṇotu |",
+  "translation_english": "May Indra grant us well-being and long life."
+},
 
 
 
