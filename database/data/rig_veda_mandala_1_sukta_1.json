@@ -9433,6 +9433,96 @@
   "translation_english": "May all the immortal gods grant us well-being; may Heaven and Earth be gracious to us; may the gods guard us on our paths; may Agni, worthy of sacrifice, grant us welfare through the oblation."
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 140,
+  "sukta_name": "Agni Sūkta",
+  "rishi": "Dīrghatamaḥ Aucathya",
+  "devata": "Agniḥ",
+  "chandas": "Jagatī / Triṣṭubh (mixed)",
+  "total_verses": 13
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "वेदि॑षदे प्रि॒यधा॑माय सु॒द्युते॑ धा॒सिमि॑व॒ प्र भ॑रा॒ योनि॑म॒ग्नये॑।",
+  "transliteration": "vediṣade priyadhāmāya sudyute dhāsim iva pra bharā yonim agnaye |",
+  "translation_english": "Bring forth, like a secure seat for Agni, the beloved foundation for the shining one, as a runner’s swift support, for Agni, the one who destroys darkness." 
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "वस्त्रे॑णेव वासया॒ मनम्॑ना॒ शुचिं॑ ज्यो॒तीर॑थं शु॒क्रव॑र्णं तमो॒हन॑म्॥",
+  "transliteration": "vastreṇa iva vāsayā manmanā śuciṃ jyotīratham śukravarṇam tamohanam |",
+  "translation_english": "Clothe him by thy thought as a garment — bright in chariot, pure in form, shining in brilliance, conquering darkness." 
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "अ॒भि द्वि॒जन्मा॑ त्रि॒वृदन्न॑मृज्यते संवत्स॒रे वा॑वृधे ज॒ग्धमी॒ पुनः॑।",
+  "transliteration": "abhi dvijaṇmā trivṛdannamṛjyate saṃvatsare vāvṛdhe jagdhamī punaḥ |",
+  "translation_english": "Born twice and pressing threefold food, it is eaten and again increases year by year." 
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "अ॒न्यस्या॒सा जि॒ह्वया॒ जेन्यो॒ वृषा॒ न्य॑न्येन॑ व॒निनो॑ मृष्ट वार॒णः॥",
+  "transliteration": "anyasyāsā jihvāyā jenyo vṛṣā ni anyena vanino mṛṣṭa vāraṇaḥ |",
+  "translation_english": "By the tongue it is to be eaten, like a bull with his mouth and tongue in mighty grasp." 
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "कृ॒ष्ण॒प्रुतौ वेवि॒जे अस्य स॒क्षिता॑ उ॒भा त॑रेते॥",
+  "transliteration": "kṛṣṇa-prutau vevije asya sa-kṣitau ubhā tarete |",
+  "translation_english": "In his black birth on both sides, they yield to him as he approaches." 
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "अ॒सम॒ना अ॑जि॒रासो॑ रघु॒ष्यदो॒ वात॑जूता॒ उप॑ युज्यंत आ॒शवः॑॥",
+  "transliteration": "asamanā ajirāso raghuṣyado vāta-jūtā upa yujyante āśavaḥ |",
+  "translation_english": "Swift, uneven, darting winds are yoked to his swift chariot." 
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "आद॑स्य॒ ते ध्व॒सयं॑तो॒ वृथे॑रते कृ॒ष्णमभ्वं॒ महि॒ वर्पः॒ करि॑क्रतः॥",
+  "transliteration": "ādāsya te dhvasaṃt o vr̥th erate kṛṣṇam abhvaṃ mahi varpaḥ karikṛtaḥ |",
+  "translation_english": "He strikes down vain foes; the mighty one, born of dark might, works strength upon the earth." 
+},
+{
+  "verse_number": 8,
+  "sanskrit_text": "स॒ सं॑स्तिरो॒ वि॒ष्टिरः॒ सं गृ॑भायति जा॒नन्ने॒व॥",
+  "transliteration": "sa saṃstiro viṣṭiraḥ saṃ gṛbhāyati jānan neva |",
+  "translation_english": "The established power and strength, like a giver of life, unites [the realms]." 
+},
+{
+  "verse_number": 9,
+  "sanskrit_text": "तम॒ग्रुवः॑ के॒शिनीः॒ सं हि रे॑भि॒र ऊ॒र्ध्वास्त॑स्थुर्म॒म्रुषीः॥",
+  "transliteration": "tamagruvaḥ keśinīḥ saṃ hi rebhira ūrdhvāsthurmamruṣīḥ |",
+  "translation_english": "Long-haired, resplendent and uplifted, they stand together, like one in swift motion." 
+},
+{
+  "verse_number": 10,
+  "sanskrit_text": "अ॒धी॒वा॒सं परि॑ मा॒तू रि॒हन्नह॑॥",
+  "transliteration": "adhīvāsaṃ pari mātū rihannaha |",
+  "translation_english": "Rending the covering, moving freely, he proceeds in his flow." 
+},
+{
+  "verse_number": 11,
+  "sanskrit_text": "अ॒स्माक॑मग्ने म॒घव॑त्सु दीदि॒ह्यध॒ श्वसी॑वान्॥",
+  "transliteration": "asmākam agne maghavat su dīdihyadh śvasīvānaṃ |",
+  "translation_english": "O Agni, shine brightly in our abundant wealth, breathing mightily within us." 
+},
+{
+  "verse_number": 12,
+  "sanskrit_text": "रथा॑य॒ नाव॑मु॒त नो॑ गृ॒हाय॒ नित्या॑रित्रां॥",
+  "transliteration": "rathāya nāv amut no gṛhāya nityāritraṃ |",
+  "translation_english": "For the chariot, like a boat that carries us, grant us steadfast protection." 
+},
+{
+  "verse_number": 13,
+  "sanskrit_text": "अ॒भी नो॑ अग्न उ॒क्थमिज्जु॑गुर्या॒ द्यावा॒क्षामा॒ सिन्ध॑वश्च॒ स्वगू॑र्ताः॥",
+  "transliteration": "abhī no agna uktham ijjuguryā dyāvākṣāmā sindhavaḥ ca svagūr tāḥ |",
+  "translation_english": "Accept our hymn for Agni; may Heaven, Earth, and the rivers who bear their own waters be propitious to us." 
+},
+
 
 
 
