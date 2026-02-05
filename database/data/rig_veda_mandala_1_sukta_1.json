@@ -9523,7 +9523,71 @@
   "translation_english": "Accept our hymn for Agni; may Heaven, Earth, and the rivers who bear their own waters be propitious to us." 
 },
 
-
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 141,
+  "sukta_name": "Pūṣan Sūkta",
+  "rishi": "Parucchepa Daivodāsi",
+  "devata": "Pūṣan",
+  "chandas": "Atyaṣṭi",
+  "total_verses": 9
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "त्वया चक्षस्तं जघान पशवः सुम्नाया वाससो दध्याम । पश्यामो अस्मद्वृद्धे भुवनस्य पुण्यं गीतः ॥",
+  "transliteration": "tvayā cakṣas taṃ jaghāna paśavaḥ sumnayā vāsaso dadhyāma | paśyāmo asmad vṛddhe bhuvanasya puṇyaṃ gītaḥ ||",
+  "translation_english": "By thee the kine have been pierced with vision; let us offer them with abundant strength in dwelling. Let us behold the glorious world’s increase, extolled in song."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "तस्यामग्ने वायो॑ दधाति॑ सुम्ना॒सो भुवनामृतं॑ वाजिनाम् । किम॑स्याहु॒स्तं दध्मु॑र्मथया॒ निषिचन्तम् ॥",
+  "transliteration": "tasyām agne vāyo dadhāti sumnāso bhuvanamṛtaṃ vājīnām | kimasyāhuḥ taṃ dadhmur mathayā niśicantam ||",
+  "translation_english": "In that he places, O Agni and Vāyu, the abundant wealth of the world as nectar for the heroic ones; what did those say who established it by stirring?"
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "उ हसन्तं नः पृष्टं गोभिर्वेलयं वधं पशव॑ना स्नेहेन । प्र नो पूषन्नो वाजेभ्यो भूताय॑ वाजिं दधातु ॥",
+  "transliteration": "u hasantaṃ naḥ pṛṣṭaṃ gobhir velayaṃ vadhaṃ paśavanā snehena | pra no pūṣann o vājebhyo bhūtāya vājiṃ dadhātu ||",
+  "translation_english": "Having asked us with laughter and gentle affection concerning the creatures, grant for their existence some portion of wealth from the herds, O Pūṣan."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "तमुवाच पूषणः सहस्रेण वीयरथः इतो विश शुभ्रैः । अभि तं धीया प्र जघान ऋते अस्मद्राजेभ्यः ॥",
+  "transliteration": "tamu vāca pūṣaṇaḥ sahasreṇa vīyarathaḥ ito viśa śubhaiḥ | abhi taṃ dhiyā pra jaghāna ṛte asmad rājebhyaḥ ||",
+  "translation_english": "Pūṣan spoke these words with his thousands of swift chariots and radiant horses; with mind he pierced the obstruction for us, O rulers."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "दधत कुष्ठय॑स्तव बुध्नाम॒ चौषधय॑स्तव वाससो दधातु । यद्वै वरुणो दा॒धि तम॑सोऽन्तः सामनेत्यथैव ते वयन् ॥",
+  "transliteration": "dadhat kuṣṭhayastava budhnām cauṣadhayastava vāsaso dadhātu | yad vai varuṇo dādhi tamaso’ntaḥ sāmne tyaṭhai va te vayan ||",
+  "translation_english": "Let him place wholesome strength as thy support, and medicines as thy abundant dwelling; as Varuṇa grants those who are in the dark of night, so may you move with them."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "ताः सुम्ना॒सा वषो॒ भुवनाय॑ सोमो दीदिव॒तामेन॑ नियतु॒च्च दधातु । अस्य॑ तु धिः सवन्निधो॑ सुम्ना॒सो भुवनस्य॑ उच्चैरतो सिध्यताम् ॥",
+  "transliteration": "tāḥ sumnāsā vaśo bhuvanāya somo dīdivatāmena niyatucca dadhātu | asya tu dhiḥ savannidho sumnās o bhuvanasya uccairato sidhyatām ||",
+  "translation_english": "Let those abundant powers, for the world’s benefit, be placed like Soma shining; let his high resolve and abundant strength be firmly established."
+},
+{
+  "verse_number": 7,
+  "sanskrit_text": "त्वं नो पूषन्नो वाजं दधातु विस॑मे सुम्ना॒सः पश्येमहि । यत्न॑ना त्वा पूषन वशं दधातु पुनस्त्वा वः सुम्ना॒सो दधातु ॥",
+  "transliteration": "tvam no pūṣann o vājaṃ dadhātu visame sumnāsah paśyemahi | yatna nā tvā pūṣan vaśaṃ dadhātu punastvā vaḥ sumnās o dadhātu ||",
+  "translation_english": "O Pūṣan, grant us strength from thy abundant treasure; let us behold that mighty abundance. May you provide influence with effort, and again abundant wealth to you."
+},
+{
+  "verse_number": 8,
+  "sanskrit_text": "अथै॑व त्वय॒ दधाति॑ नः वायो वच॒सा पूष॑णे बुभु॒जते । शु॑क्र॒यो वज्र॑य॒ इव वायु॑रज्ञ॒मय॑मुप दधातु ॥",
+  "transliteration": "athaiva tvay adadhāti naḥ vāyo vacasā pūṣaṇe bubhujate | śukrayo vajray iva vāyur ajñamayam upa dadhātu ||",
+  "translation_english": "Just as you place that strength for us, O Vāyu — greeting Pūṣan with word — may Vāyu give us vigorous breath like the bright thunderbolt."
+},
+{
+  "verse_number": 9,
+  "sanskrit_text": "स्वस्ति पूषन्नो मनसा कृणोतु वसूनि तव वदे दधातु । यत्र प्रयन्ति हेमन्तो द्यावा पृथिवी सोमस्य॑ वज्जु॒राये॑ स॒म्राज्यं वषटन्॥",
+  "transliteration": "svasti pūṣann o manasā kṛṇotu vasūni tava vade dadhātu | yatra prayanti hemanto dyāvā pṛthivī somasya vañjurāye samrājyaṃ vaṣaṭan ||",
+  "translation_english": "May Pūṣan graciously grant us wealth with his mind; may he bestow it by his command. Where the twilights go, heaven and earth propitious — for the Soma drinker, may he grant royal prosperity."
+},
 
 
 
