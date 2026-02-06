@@ -9889,7 +9889,47 @@
   "translation_english": "May Agni grant us heroic strength, nourish our offspring, and grant long life."
 },
 
-
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 147,
+  "sukta_name": "Agni Sūkta",
+  "rishi": "Dīrghatamas Aucathya",
+  "devata": "Agni",
+  "chandas": "Triṣṭubh",
+  "total_verses": 5
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "कायमानो वनानि हर्यते जातवेदाः। स नो वह्निर्भवतु यातवेदा।",
+  "transliteration": "kāyamāno vanāni haryate jātavedāḥ | sa no vahnir bhavatu yātavedā |",
+  "translation_english": "Moving through the forests, gleaming, Jātavedas advances; may this fire be our conveyor and knower of paths."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "अग्निः सुहव्यो भवतु प्र यज्यते। स नो देवाँ आ वहतु यक्षि च।",
+  "transliteration": "agniḥ suhavyo bhavatu pra yajyate | sa no devān ā vahatu yakṣi ca |",
+  "translation_english": "May Agni be easy to invoke and well worshipped; may he bring the gods here and sacrifice to them."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "यस्य देवासो विधेम हविर्भिः। स नो अग्निर्मृळयाति दाशुषे।",
+  "transliteration": "yasya devāso vidhema havirbhiḥ | sa no agnir mṛḷayāti dāśuṣe |",
+  "translation_english": "To whom the gods do honor with offerings—may that Agni show mercy to the worshipper."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "अग्निं होतारं मन्ये दास्वांसं वसुविदम्। स नो रत्नानि धारयत्।",
+  "transliteration": "agniṃ hotāraṃ manye dāsvāṃsaṃ vasuvidam | sa no ratnāni dhārayat |",
+  "translation_english": "I consider Agni the Hotṛ, generous and wealth-winning; may he secure treasures for us."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "स नः पितेव सूनवे अग्ने सूपायनो भव। स्वस्ति नः पन्थामनु चरेम।",
+  "transliteration": "sa naḥ pitevā sūnave agne sūpāyano bhava | svasti naḥ panthām anu carema |",
+  "translation_english": "Be easy of access to us like a father to his son, O Agni; may we walk our path in well-being."
+},
 
 
 
