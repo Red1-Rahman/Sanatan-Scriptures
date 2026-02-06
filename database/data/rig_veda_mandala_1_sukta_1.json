@@ -10027,7 +10027,47 @@
   "translation_english": "May Agni grant us well-being through the oblation."
 },
 
-
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 150,
+  "sukta_name": "Viśve Devāḥ Sūkta",
+  "rishi": "Dīrghatamas Aucathya",
+  "devata": "Viśve Devāḥ",
+  "chandas": "Triṣṭubh",
+  "total_verses": 5
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "विश्वे देवासो अप्तुरः सुतस्य सोमस्य पिबत।",
+  "transliteration": "viśve devāso apturaḥ sutasya somasya pibata |",
+  "translation_english": "All you gods, skillful in action, drink of the pressed Soma."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "मा नो मर्धिष्टमध्वरे देवासो यज्ञमाशुभिः।",
+  "transliteration": "mā no mardhiṣṭam adhvare devāso yajñam āśubhiḥ |",
+  "translation_english": "O gods, do not damage our sacrifice in the rite with your swift powers."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "आ नो मित्रावरुणा बृहद्रथाः सचाथे अस्मान् यज्ञियासः।",
+  "transliteration": "ā no mitrāvaruṇā bṛhadrathāḥ sacāthe asmān yajñiyāsaḥ |",
+  "translation_english": "Come to us, Mitra and Varuṇa of great chariot, accompanying us as worthy of worship."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "आ नो देवासो गमन्तु ये च पृथिव्यां ये च दिवि।",
+  "transliteration": "ā no devāso gamantu ye ca pṛthivyāṃ ye ca divi |",
+  "translation_english": "Let the gods come to us, those on earth and those in heaven."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "स्वस्ति नो विश्वे अमृतासो भवन्तु।",
+  "transliteration": "svasti no viśve amṛtāso bhavantu |",
+  "translation_english": "May all the immortal gods grant us well-being."
+},
 
 
 
