@@ -10423,6 +10423,54 @@
   "translation_english": "That great heroic deed of yours we would proclaim."
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 159,
+  "sukta_name": "Aśvinī Kumāra Sūkta",
+  "rishi": "Dīrghatamas Aucathya",
+  "devata": "Aśvinau (Aśvinī Kumāras)",
+  "chandas": "Triṣṭubh",
+  "total_verses": 6
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "प्र वां रथो अश्विनावर्तिराजन्ना यातमिष्टये।",
+  "transliteration": "pra vāṃ ratho aśvināv artir ājan nā yātam iṣṭaye |",
+  "translation_english": "Let your chariot roll forth, O Aśvins; come swiftly to the sacrifice."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "युवं हि स्थः पूर्व्यं दिवो नापातं बृहत् यशः।",
+  "transliteration": "yuvam hi sthaḥ pūrvyaṃ divo nāpātaṃ bṛhat yaśaḥ |",
+  "translation_english": "You two possess ancient glory, born of heaven, vast in renown."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "युवं भिषजा भेषजं विश्वायुषं कृणुथः।",
+  "transliteration": "yuvam bhiṣajā bheṣajaṃ viśvāyuṣaṃ kṛṇuthaḥ |",
+  "translation_english": "You two, as divine physicians, bestow healing that grants long life."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "युवं गामश्विनावदत्तं दुहित्रे सूर्यस्य।",
+  "transliteration": "yuvam gām aśvināv adattam duhitr̥e sūryasya |",
+  "translation_english": "You, O Aśvins, granted the cow to the Daughter of the Sun."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "युवं नरा सुदानवः पातं नो अघ्न्या।",
+  "transliteration": "yuvam narā sudānavaḥ pātaṃ no aghnyā |",
+  "translation_english": "You generous heroes, protect us and our uninjured wealth."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "स्वस्ति नो अश्विनौ पथा सुगमेन नयतम्।",
+  "transliteration": "svasti no aśvinau pathā sugamena nayatam |",
+  "translation_english": "O Aśvins, lead us on an easy and auspicious path."
+},
+
 
 
 
