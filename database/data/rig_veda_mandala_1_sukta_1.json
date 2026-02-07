@@ -10471,6 +10471,48 @@
   "translation_english": "O Aśvins, lead us on an easy and auspicious path."
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 160,
+  "sukta_name": "Agni Sūkta",
+  "rishi": "Dīrghatamas Aucathya",
+  "devata": "Agni",
+  "chandas": "Triṣṭubh",
+  "total_verses": 5
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "अग्निं वो हुवामहे कृतमानीषु सुहविः।",
+  "transliteration": "agniṃ vo huvāmahe kṛtamānīṣu suhaviḥ |",
+  "translation_english": "We invoke Agni, well-esteemed, among those who perform the sacred acts."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "स नो अग्निः सुवीर्यं दधातु।",
+  "transliteration": "sa no agniḥ suvīryaṃ dadhātu |",
+  "translation_english": "May Agni grant us heroic strength."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "यः सर्वेषां देवेषु माविषा यजते।",
+  "transliteration": "yaḥ sarveṣāṃ deveṣu māviṣā yajate |",
+  "translation_english": "He who is worshipped among all gods with proper oblation."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "स नो देवेषु वसूनि दधातु।",
+  "transliteration": "sa no deveṣu vasūni dadhātu |",
+  "translation_english": "May he grant us all kinds of divine wealth."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "स्वस्ति नो अग्निर्हविषा कृणोतु।",
+  "transliteration": "svasti no agnir haviṣā kṛṇotu |",
+  "translation_english": "May Agni grant us well-being through the oblation."
+},
+
 
 
 
