@@ -10069,7 +10069,64 @@
   "translation_english": "May all the immortal gods grant us well-being."
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 151,
+  "sukta_name": "Agni Sūkta",
+  "rishi": "Dīrghatamas Aucathya",
+  "devata": "Agni",
+  "chandas": "Triṣṭubh",
+  "total_verses": 5
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "त्वं नो अग्ने वरुणस्य विद्वान् देवस्य हेतिः परि पाहि विश्वतः।",
+  "transliteration": "tvaṃ no agne varuṇasya vidvān devasya hetiḥ pari pāhi viśvataḥ |",
+  "translation_english": "You, O Agni, knowing the ordinance of the god Varuṇa, protect us on every side with divine guardianship."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "यो नो अग्ने अघायति दुष्कृतो यश्च दुर्मतिः। स ते नश्यात् सुदानवः।",
+  "transliteration": "yo no agne aghāyati duṣkṛto yaś ca durmatiḥ | sa te naśyāt sudānavaḥ |",
+  "translation_english": "Whoever does us harm, O Agni—the evildoer or the ill-intentioned—may he perish; be generous to us."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "त्वं नः पावक दीदिवः पृणहि विश्ववेदसम्। रक्षोहा विश्वचर्षणे।",
+  "transliteration": "tvaṃ naḥ pāvaka dīdivaḥ pṛṇahi viśvavedasam | rakṣohā viśvacarṣaṇe |",
+  "translation_english": "O shining purifier, fill us with your all-knowing power, you who destroy demonic forces among all peoples."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "स नो अग्ने सुवीर्यं रायः पोषं च दधातु नः। विश्वानि देव वसूनि।",
+  "transliteration": "sa no agne suvīryaṃ rāyaḥ poṣaṃ ca dadhātu naḥ | viśvāni deva vasūni |",
+  "translation_english": "May Agni grant us heroic strength, thriving wealth, and all divine riches."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "स्वस्ति नो अग्ने भवतु स्वस्ति यज्ञाय कल्पताम्। स्वस्ति नो अध्वराय च।",
+  "transliteration": "svasti no agne bhavatu svasti yajñāya kalpatām | svasti no adhvarāya ca |",
+  "translation_english": "May there be well-being for us through Agni; may well-being attend the sacrifice and the rite."
+},
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
 
 
 
