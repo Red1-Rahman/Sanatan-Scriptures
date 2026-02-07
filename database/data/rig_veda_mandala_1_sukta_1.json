@@ -10291,6 +10291,48 @@
   "translation_english": "Behold the deeds of Viṣṇu, by which he touched and upheld the sacred laws."
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 156,
+  "sukta_name": "Viṣṇu Sūkta",
+  "rishi": "Dīrghatamas Aucathya",
+  "devata": "Viṣṇu",
+  "chandas": "Triṣṭubh",
+  "total_verses": 5
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "प्र विष्णवे शूराय तवसे सुमेधाः।",
+  "transliteration": "pra viṣṇave śūrāya tavase sumedhāḥ |",
+  "translation_english": "The wise proclaim Viṣṇu, the hero, the mighty one."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "यस्य त्रिणि पदानि विचक्रमाणस्योर्जसा।",
+  "transliteration": "yasya trīṇi padāni vicakramāṇasyorjasā |",
+  "translation_english": "Whose three strides, taken with power, extended the realms."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "विश्वानि भुवनानि तस्थुस्तस्य व्रते।",
+  "transliteration": "viśvāni bhuvanāni tasthus tasya vrate |",
+  "translation_english": "All the worlds stand firm in his sacred ordinance."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "स नो विष्णुः शिवतमं कृणोतु।",
+  "transliteration": "sa no viṣṇuḥ śivatamaṃ kṛṇotu |",
+  "translation_english": "May Viṣṇu make all things most auspicious for us."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "तदस्य प्रियं पदं सदा पश्यन्ति सूरयः।",
+  "transliteration": "tad asya priyaṃ padaṃ sadā paśyanti sūrayaḥ |",
+  "translation_english": "That beloved highest step of his the wise always behold."
+},
+
 
 
 
