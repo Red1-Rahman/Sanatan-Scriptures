@@ -10333,6 +10333,48 @@
   "translation_english": "That beloved highest step of his the wise always behold."
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 157,
+  "sukta_name": "Indra Sūkta",
+  "rishi": "Dīrghatamas Aucathya",
+  "devata": "Indra",
+  "chandas": "Triṣṭubh",
+  "total_verses": 5
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "इन्द्रं वर्धन्तो अप्तुरः सोमैर्नव्या उक्थैः।",
+  "transliteration": "indraṃ vardhanto apturaḥ somair navyā ukthaiḥ |",
+  "translation_english": "The priests strengthen Indra with Soma and new hymns."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "स नो दधातु वाजिनं दधातु सुवीर्यं वाजिनम्।",
+  "transliteration": "sa no dadhātu vājinam dadhātu suvīryaṃ vājinam |",
+  "translation_english": "May he grant us prize, and grant the valiant strength of the prize."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "स नो हिरण्यरथिं ददातु सुतेन वसुना ददातु।",
+  "transliteration": "sa no hiraṇyarathiṃ dadātu sutena vasunā dadātu |",
+  "translation_english": "May he grant us the golden chariot, and bestow on us abundant wealth."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "स नो वृत्राणि जघ्नातु नः।",
+  "transliteration": "sa no vṛtrāṇi jaghnātu naḥ |",
+  "translation_english": "May he destroy the obstacles that stand against us."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "स्वस्ति नो इन्द्रो मघवा कृणोतु।",
+  "transliteration": "svasti no indro maghavā kṛṇotu |",
+  "translation_english": "May Indra the generous grant us well-being."
+},
+
 
 
 
