@@ -10895,7 +10895,57 @@
   "sanskrit_text": "एष वः स्तोमो मरुत इयं गीर्मादार्यस्य मान्यस्य कारोः।",
   "transliteration": "eṣa vaḥ stomo maruta iyaṃ gīr mādāryasya mānyasya kāroḥ |",
   "translation_english": "This hymn, O Maruts, is your praise; may this word reach you and bring strength and sustenance."
-}
+},
+
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 169,
+  "sukta_name": "Indra–Marut Sūkta",
+  "rishi": "Agastya Maitrāvaruṇi",
+  "devata": "Indra and Maruts",
+  "chandas": "Triṣṭubh",
+  "total_verses": 6
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "महाँ इन्द्राय मरुतः सखायो महो वाजाय कवीयमानाः।",
+  "transliteration": "mahāṃ indrāya marutaḥ sakhāyo maho vājāya kavīyamānāḥ |",
+  "translation_english": "O Maruts, friends of mighty Indra, singing praise, bring great strength and abundance."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "यस्मै गिर्वाणः सख्ये सुषेवो मघवन्निन्द्र मरुतश्च सन्ति।",
+  "transliteration": "yasmai girvāṇaḥ sakhye suṣevo maghavann indra marutaś ca santi |",
+  "translation_english": "To whom Indra, praised by singers, and the Maruts stand as loyal companions."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "तं वो वाचं मरुतः शश्वतीं दधामि यया रणाय तुतुर्वन्।",
+  "transliteration": "taṃ vo vācaṃ marutaḥ śaśvatīṃ dadhāmi yayā raṇāya tuturvan |",
+  "translation_english": "That eternal hymn I offer you, O Maruts, by which you hasten to battle."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "उग्रं नु शर्धो मरुतो बृहत्सु युयुध्र इन्द्रेण सह।",
+  "transliteration": "ugraṃ nu śardho maruto bṛhatsu yuyudhra indreṇa saha |",
+  "translation_english": "The fierce host of Maruts now fights powerfully together with Indra."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "येषां रथाः पवयवो विचक्रिरे हिरण्ययाः।",
+  "transliteration": "yeṣāṃ rathāḥ pavayavo vicakriré hiraṇyayāḥ |",
+  "translation_english": "Whose chariots gleam with golden brilliance, swiftly moving in all directions."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "ते नो इन्द्र मरुतो दधातु स्वस्ति द्यावापृथिवी समिद्धे।",
+  "transliteration": "te no indra maruto dadhātu svasti dyāvāpṛthivī samiddhe |",
+  "translation_english": "May Indra and the Maruts grant us well-being; may Heaven and Earth shine with prosperity."
+},
+
+
 
 
 
