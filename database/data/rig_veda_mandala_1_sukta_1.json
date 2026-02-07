@@ -10513,7 +10513,53 @@
   "translation_english": "May Agni grant us well-being through the oblation."
 },
 
-
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 161,
+  "sukta_name": "Aśvinī Kumāra Sūkta",
+  "rishi": "Dīrghatamas Aucathya",
+  "devata": "Aśvinau (Aśvinī Kumāras)",
+  "chandas": "Triṣṭubh",
+  "total_verses": 6
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "अश्विनौ वयं हवामहे सुवीर्येण।",
+  "transliteration": "aśvinau vayaṃ havāmahe suvīryeṇa |",
+  "translation_english": "We invoke the Aśvins with heroic vigor."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "त्वं नो अश्विनौ सुवीर्यं दधातु।",
+  "transliteration": "tvaṃ no aśvinau suvīryaṃ dadhātu |",
+  "translation_english": "May you, O Aśvins, grant us mighty strength."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "युवं गामश्विनौ आदत्तं सूर्यपुत्रे।",
+  "transliteration": "yuvam gām aśvinau ādattaṃ sūryaputre |",
+  "translation_english": "You, O Aśvins, granted the cow to the Son of the Sun."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "युवं भेषजं मन आ विवासथोऽथा।",
+  "transliteration": "yuvam bheṣajaṃ mana ā vivāsatho 'thā |",
+  "translation_english": "You inspired healing powers for the mind."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "युवं नो दधातु वाजिनम्।",
+  "transliteration": "yuvam no dadhātu vājinam |",
+  "translation_english": "May you grant us abundant wealth."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "स्वस्ति नो अश्विनौ पथा सुगमेन नयताम्।",
+  "transliteration": "svasti no aśvinau pathā sugamena nayatām |",
+  "translation_english": "O Aśvins, lead us on a smooth and auspicious path."
+},
 
 
 
