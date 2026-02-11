@@ -306,6 +306,75 @@
   ]
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 2,
+  "sukta_number": 5,
+  "sukta_name": "Agni Sukta",
+  "rishi": "Gritsamada Shaunaka",
+  "devata": "Agni",
+  "chandas": "Trishtubh / Gayatri",
+  "total_verses": 9,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sanskrit_text": "अग्निम्होता देवस्य यज्ञस्य रत्नधातुः ।",
+      "transliteration": "agnim hotā devasya yajñasya ratnadhātuḥ |",
+      "translation_english": "Agni is the priest of the gods, bestower of treasures, and sustainer of the sacrifice."
+    },
+    {
+      "verse_number": 2,
+      "sanskrit_text": "स नो देवो रत्नधातुर्यजमानं हृदि स्थितः ।",
+      "transliteration": "sa no devo ratnadhātur yajamānaṃ hṛdi sthitaḥ |",
+      "translation_english": "May that God, bestower of treasures, dwell firmly in our hearts."
+    },
+    {
+      "verse_number": 3,
+      "sanskrit_text": "अग्निः पूर्वेभिरुत चेतसो देवता रत्नधातुः ।",
+      "transliteration": "agniḥ pūrvebhir uta chetaso devatā ratnadhātuḥ |",
+      "translation_english": "Agni, attended by the ancient seers, is the deity who bestows treasures."
+    },
+    {
+      "verse_number": 4,
+      "sanskrit_text": "इन्द्रः सहस्रशो वर्चसो यजमानं पुरोहितम् ।",
+      "transliteration": "indraḥ sahasraśo varcaso yajamānaṃ purohitam |",
+      "translation_english": "Indra, mighty with thousandfold radiance, serves as priest of the sacrificer."
+    },
+    {
+      "verse_number": 5,
+      "sanskrit_text": "स नो देवो रत्नधातुर्यज्ञस्य पुरोहितः ।",
+      "transliteration": "sa no devo ratnadhātur yajñasya purohitaḥ |",
+      "translation_english": "May that God, bestower of treasures, be our priest in the sacrifice."
+    },
+    {
+      "verse_number": 6,
+      "sanskrit_text": "अग्निर्होता देवस्य यज्ञस्य विश्ववेद्यः ।",
+      "transliteration": "agnir hotā devasya yajñasya viśvavedyaḥ |",
+      "translation_english": "Agni is the priest of the gods, knowing the entire universe of sacrifice."
+    },
+    {
+      "verse_number": 7,
+      "sanskrit_text": "स नो देवो रत्नधातुर्यजमानं पुरोहितः ।",
+      "transliteration": "sa no devo ratnadhātur yajamānaṃ purohitaḥ |",
+      "translation_english": "May that God, bestower of treasures, be our priest in the sacrifice."
+    },
+    {
+      "verse_number": 8,
+      "sanskrit_text": "अग्निर्होता देवस्य यजमानं हृदि स्थिरम् ।",
+      "transliteration": "agnir hotā devasya yajamānaṃ hṛdi sthiram |",
+      "translation_english": "Agni, the priest of the gods, establishes the sacrificer firmly in his heart."
+    },
+    {
+      "verse_number": 9,
+      "sanskrit_text": "इन्द्रः सर्वं विदधाति द्यूत्यामह्नोः सम्प्रभः ।",
+      "transliteration": "indraḥ sarvaṃ vidadhāti dyūtyāma ahnoḥ samprahaḥ |",
+      "translation_english": "Indra distributes all, radiant in the sky during the day."
+    }
+  ]
+},
+
+
 
 
 
