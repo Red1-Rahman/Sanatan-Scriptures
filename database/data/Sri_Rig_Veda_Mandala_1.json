@@ -10987,7 +10987,53 @@
   "translation_english": "Thou rulest over wealth, O Lord of riches; thou art foremost among friends. O Indra, speak together with the Maruts, then partake of the offerings in order of the Truth."
 },
 
-
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 171,
+  "sukta_name": "Indra–Marut Sūkta",
+  "rishi": "Agastya Maitrāvaruṇi",
+  "devata": "Indra and Maruts",
+  "chandas": "Triṣṭubh",
+  "total_verses": 6
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "यदिन्द्र मरुतो युधे तव प्रिये शुभे नरः।",
+  "transliteration": "yad indra maruto yudhe tava priye śubhe naraḥ |",
+  "translation_english": "When, O Indra, the Maruts, dear and splendid heroes, go forth to battle with you."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "ते त्वा मदन्त्यन्धसो रथेषु मद्यपाः।",
+  "transliteration": "te tvā madanty andhaso ratheṣu madyapāḥ |",
+  "translation_english": "Drinking the Soma, exhilarated, they rejoice with you upon the chariots."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "इन्द्रस्य शर्धो मरुतः सुदानवो।",
+  "transliteration": "indrasya śardho marutaḥ sudānavo |",
+  "translation_english": "The Maruts, generous in gifts, form the mighty host of Indra."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "येषां रथाः सुवृक्ता हिरण्ययाः।",
+  "transliteration": "yeṣāṃ rathāḥ suvṛktā hiraṇyayāḥ |",
+  "translation_english": "Whose chariots are well-adorned and gleaming with gold."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "ते नो वृत्राणि जघ्निरेन्द्रेण सह।",
+  "transliteration": "te no vṛtrāṇi jaghnir endreṇa saha |",
+  "translation_english": "Together with Indra, they strike down the obstructing powers for us."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "स्वस्ति नो इन्द्रा मरुतो दधातु।",
+  "transliteration": "svasti no indrā maruto dadhātu |",
+  "translation_english": "May Indra and the Maruts grant us well-being."
+},
 
 
 
