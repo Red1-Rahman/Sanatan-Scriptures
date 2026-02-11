@@ -1,0 +1,93 @@
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 2,
+  "sukta_number": 1,
+  "sukta_name": "Agni Sukta",
+  "rishi": "Gritsamada Shaunaka",
+  "devata": "Agni",
+  "chandas": "Gayatri",
+  "total_verses": 10,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sanskrit_text": "अग्निमीळे पुरोहितं यज्ञस्य देवम् रत्वीजम् । होतारं रत्नधातमम् ॥",
+      "transliteration": "agnim īḷe purohitaṃ yajñasya devam ṛtvījam | hotāraṃ ratnadhātamam ||",
+      "translation_english": "I praise Agni, the chosen Priest, God, minister of the sacrifice, the Hotar, bestower of treasures."
+    },
+    {
+      "verse_number": 2,
+      "sanskrit_text": "अग्निः पूर्वेभिरुत चेतसो द्विशस्तिष्ठति ध्रुवम् ।",
+      "transliteration": "agniḥ pūrvebhir uta chetaso dviśas tiṣṭhati dhruvam |",
+      "translation_english": "Agni, attended by the ancient seers, stands firmly with steadfast mind."
+    },
+    {
+      "verse_number": 3,
+      "sanskrit_text": "सहस्रं रश्मिं विधाता यजमानं हृदि ध्रुवम् ।",
+      "transliteration": "sahasraṃ raśmiṃ vidhātā yajamānaṃ hṛdi dhruvam |",
+      "translation_english": "The arranger of the thousandfold rays establishes the sacrificer firmly in his heart."
+    },
+    {
+      "verse_number": 4,
+      "sanskrit_text": "अग्निर्देवनां पुरोहितं यज्ञस्य विश्ववेद्यः ।",
+      "transliteration": "agnir devanāṃ purohitaṃ yajñasya viśvavedyaḥ |",
+      "translation_english": "Agni, the priest of the gods, known to all, who comprehends the entire sacrifice."
+    },
+    {
+      "verse_number": 5,
+      "sanskrit_text": "स नो देवो रत्नधातुर्दिवि पर्वतः सविता ।",
+      "transliteration": "sa no devo ratnadhātur divi parvataḥ savitā |",
+      "translation_english": "May that God, bestower of treasures, who is in heaven and on the mountains, shine upon us."
+    },
+    {
+      "verse_number": 6,
+      "sanskrit_text": "अग्निर्होता देवस्य यज्ञस्य रत्नधातुः ।",
+      "transliteration": "agnir hotā devasya yajñasya ratnadhātuḥ |",
+      "translation_english": "Agni is the priest of the gods, the giver of wealth, and the sustainer of the sacrifice."
+    },
+    {
+      "verse_number": 7,
+      "sanskrit_text": "सहस्रशोऽग्निर्महति यजमानं पुरोहितम् ।",
+      "transliteration": "sahasraśo 'gnir mahati yajamānaṃ purohitam |",
+      "translation_english": "Agni, mighty and manifold, serves as the priest of the sacrificer."
+    },
+    {
+      "verse_number": 8,
+      "sanskrit_text": "अग्निर्हि देवानामह्नोः सम्प्रजायत यजमानम् ।",
+      "transliteration": "agnir hi devānāma ahnoḥ samprajāyata yajamānam |",
+      "translation_english": "Indeed Agni, of the gods, arises each day for the benefit of the sacrificer."
+    },
+    {
+      "verse_number": 9,
+      "sanskrit_text": "स नो देवो रत्नधातुर्यज्ञस्य पुरोहितः ।",
+      "transliteration": "sa no devo ratnadhātur yajñasya purohitaḥ |",
+      "translation_english": "May that God, bestower of treasures, be our priest in the sacrifice."
+    },
+    {
+      "verse_number": 10,
+      "sanskrit_text": "अग्निर्होता देवस्य यजमानं हृदि स्थिरम् ।",
+      "transliteration": "agnir hotā devasya yajamānaṃ hṛdi sthiram |",
+      "translation_english": "Agni, the priest of the gods, establishes the sacrificer firmly in his heart."
+    }
+  ]
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
