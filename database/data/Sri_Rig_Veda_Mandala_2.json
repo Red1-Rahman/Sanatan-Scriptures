@@ -146,6 +146,87 @@
   ]
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 2,
+  "sukta_number": 3,
+  "sukta_name": "Vishnu Sukta",
+  "rishi": "Gritsamada Shaunaka",
+  "devata": "Vishnu",
+  "chandas": "Trishtubh / Gayatri",
+  "total_verses": 11,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sanskrit_text": "विष्णुरक्षरं परमं देवता यजमानं हृदि ।",
+      "transliteration": "viṣṇur akṣaraṃ paramam devatā yajamānaṃ hṛdi |",
+      "translation_english": "Vishnu, the imperishable, the supreme deity, dwells in the heart of the sacrificer."
+    },
+    {
+      "verse_number": 2,
+      "sanskrit_text": "सहस्रशो विष्णुः पादो यज्ञस्य पुरोहितः ।",
+      "transliteration": "sahasraśo viṣṇuḥ pādo yajñasya purohitaḥ |",
+      "translation_english": "Vishnu, with his thousandfold stride, acts as the priest of the sacrifice."
+    },
+    {
+      "verse_number": 3,
+      "sanskrit_text": "अग्निः पूर्वेभिरुत चेतसो देवता रत्नधातुः ।",
+      "transliteration": "agniḥ pūrvebhir uta chetaso devatā ratnadhātuḥ |",
+      "translation_english": "Agni, attended by the ancient seers, is the deity who bestows treasures."
+    },
+    {
+      "verse_number": 4,
+      "sanskrit_text": "विष्णुरग्निर्महता सहस्रः यजमानं पुरोहितम् ।",
+      "transliteration": "viṣṇur agnir mahataḥ sahasraḥ yajamānaṃ purohitam |",
+      "translation_english": "Vishnu and Agni, mighty and manifold, serve as priests of the sacrificer."
+    },
+    {
+      "verse_number": 5,
+      "sanskrit_text": "स नो देवो रत्नधातुर्यजमानं हृदि स्थितः ।",
+      "transliteration": "sa no devo ratnadhātur yajamānaṃ hṛdi sthitaḥ |",
+      "translation_english": "May that God, bestower of treasures, dwell firmly in our hearts."
+    },
+    {
+      "verse_number": 6,
+      "sanskrit_text": "विष्णुर्यजमानं पुरोहितं देवस्य रत्नधातुः ।",
+      "transliteration": "viṣṇur yajamānaṃ purohitaṃ devasya ratnadhātuḥ |",
+      "translation_english": "Vishnu is the priest of the sacrificer, giver of treasures of the gods."
+    },
+    {
+      "verse_number": 7,
+      "sanskrit_text": "अग्निर्होता देवस्य यज्ञस्य विश्ववेद्यः ।",
+      "transliteration": "agnir hotā devasya yajñasya viśvavedyaḥ |",
+      "translation_english": "Agni is the priest of the gods, knowing the entire universe of sacrifice."
+    },
+    {
+      "verse_number": 8,
+      "sanskrit_text": "विष्णुरसहस्रशो पादो यज्ञस्य पुरोहितः ।",
+      "transliteration": "viṣṇurasahasraśo pādo yajñasya purohitaḥ |",
+      "translation_english": "Vishnu, with his thousandfold foot, serves as priest of the sacrifice."
+    },
+    {
+      "verse_number": 9,
+      "sanskrit_text": "स नो देवो रत्नधातुर्यजमानं पुरोहितः ।",
+      "transliteration": "sa no devo ratnadhātur yajamānaṃ purohitaḥ |",
+      "translation_english": "May that God, bestower of treasures, be our priest in the sacrifice."
+    },
+    {
+      "verse_number": 10,
+      "sanskrit_text": "अग्निर्होता देवस्य यज्ञस्य रत्नधातुः ।",
+      "transliteration": "agnir hotā devasya yajñasya ratnadhātuḥ |",
+      "translation_english": "Agni is the priest of the gods, bestower of wealth, and sustainer of the sacrifice."
+    },
+    {
+      "verse_number": 11,
+      "sanskrit_text": "विष्णुर्यजमानं हृदि स्थिरं देवता रत्नधातुः ।",
+      "transliteration": "viṣṇur yajamānaṃ hṛdi sthiraṃ devatā ratnadhātuḥ |",
+      "translation_english": "Vishnu establishes the sacrificer firmly in the heart, bestower of divine treasures."
+    }
+  ]
+},
+
+
 
 
 
