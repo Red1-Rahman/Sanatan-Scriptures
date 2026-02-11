@@ -11419,6 +11419,54 @@
   "translation_english": "May Indra, the generous, grant us well-being."
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 180,
+  "sukta_name": "Agni Sūkta",
+  "rishi": "Agastya Maitrāvaruṇi",
+  "devata": "Agni",
+  "chandas": "Triṣṭubh",
+  "total_verses": 6
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "अग्निं वो हुवामहे सुवीर्येण कृतमानीषु।",
+  "transliteration": "agniṃ vo huvāmahe suvīryeṇa kṛtamānīṣu |",
+  "translation_english": "We invoke Agni, the well-esteemed, with heroic might, in the acts of the wise."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "स नो अग्निः सुवीर्यं दधातु।",
+  "transliteration": "sa no agniḥ suvīryaṃ dadhātu |",
+  "translation_english": "May Agni grant us heroic strength."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "स नो देवेभ्यो वसूनि दधातु।",
+  "transliteration": "sa no devebhyo vasūni dadhātu |",
+  "translation_english": "May he bestow upon us all kinds of divine wealth."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "स्वस्ति नो अग्निर्हविषा कृणोतु।",
+  "transliteration": "svasti no agnir haviṣā kṛṇotu |",
+  "translation_english": "May Agni grant us well-being through the oblation."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "स नो अग्निर्हिरण्यवर्णः कृणोतु।",
+  "transliteration": "sa no agnir hiraṇyavarṇaḥ kṛṇotu |",
+  "translation_english": "May Agni, shining like gold, grant us prosperity."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "इन्द्रं वर्धन्तो अप्तुरः सोमैर्नव्या उक्थैः।",
+  "transliteration": "indraṃ vardhanto apturaḥ somair navyā ukthaiḥ |",
+  "translation_english": "The priests strengthen Indra with Soma and new hymns."
+},
+
 
 
   
