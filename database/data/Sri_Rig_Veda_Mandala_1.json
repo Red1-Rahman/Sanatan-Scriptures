@@ -11035,7 +11035,53 @@
   "translation_english": "May Indra and the Maruts grant us well-being."
 },
 
-
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 1,
+  "sukta_number": 172,
+  "sukta_name": "Marut Sūkta",
+  "rishi": "Agastya Maitrāvaruṇi",
+  "devata": "Maruts",
+  "chandas": "Triṣṭubh",
+  "total_verses": 6
+},
+{
+  "verse_number": 1,
+  "sanskrit_text": "प्र वो मरुतो मतयो गच्छन्तु।",
+  "transliteration": "pra vo maruto matayo gacchantu |",
+  "translation_english": "Forth go your praises, O Maruts."
+},
+{
+  "verse_number": 2,
+  "sanskrit_text": "ये नो गवां जनयो यज्ञियासः।",
+  "transliteration": "ye no gavāṃ janayo yajñiyāsaḥ |",
+  "translation_english": "Who are generators of cattle and worthy of sacrifice for us."
+},
+{
+  "verse_number": 3,
+  "sanskrit_text": "ते रथैः सुवृक्तिभिः सुष्कृताः।",
+  "transliteration": "te rathaiḥ suvṛktibhiḥ suṣkṛtāḥ |",
+  "translation_english": "They come with well-adorned chariots and noble hymns."
+},
+{
+  "verse_number": 4,
+  "sanskrit_text": "हिरण्यवर्णा बृहतीरिषासः।",
+  "transliteration": "hiraṇyavarṇā bṛhatīriṣāsaḥ |",
+  "translation_english": "Golden-hued, mighty, and impetuous."
+},
+{
+  "verse_number": 5,
+  "sanskrit_text": "ते नो वृत्राणि तुविजात जघ्नुः।",
+  "transliteration": "te no vṛtrāṇi tuvijāta jaghnuḥ |",
+  "translation_english": "Born of great might, they smite the obstructors for us."
+},
+{
+  "verse_number": 6,
+  "sanskrit_text": "स्वस्ति नो मरुतो धत्त।",
+  "transliteration": "svasti no maruto dhatta |",
+  "translation_english": "Grant us well-being, O Maruts."
+},
 
 
 
