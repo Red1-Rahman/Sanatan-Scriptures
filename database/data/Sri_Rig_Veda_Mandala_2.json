@@ -554,6 +554,57 @@
   ]
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 2,
+  "sukta_number": 9,
+  "sukta_name": "Indra Sukta",
+  "rishi": "Gritsamada Shaunaka",
+  "devata": "Indra",
+  "chandas": "Trishtubh",
+  "total_verses": 6,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sanskrit_text": "नूनं स इन्द्रः सुहवो य इन्द्रः सोमपीतये । स नः पितेव सूनवे ॥",
+      "transliteration": "nūnaṃ sa indraḥ su-havo ya indraḥ somapītaye | sa naḥ piteva sūnave ||",
+      "translation_english": "Now may that Indra, easy to invoke, who drinks the Soma, be to us like a father to his son."
+    },
+    {
+      "verse_number": 2,
+      "sanskrit_text": "य इन्द्रः शूरो महिषो वज्रिणः शतक्रतुः । तं वयं हवामहे ॥",
+      "transliteration": "ya indraḥ śūro mahiṣo vajriṇaḥ śatakratuḥ | taṃ vayaṃ havāmahe ||",
+      "translation_english": "That Indra, the hero, the mighty one, wielder of the thunderbolt, of a hundred powers — him we invoke."
+    },
+    {
+      "verse_number": 3,
+      "sanskrit_text": "स घा नो योग आ भुवद् राये च पुरुहूत । अस्मभ्यं शत्रुतूर्ये ॥",
+      "transliteration": "sa ghā no yoga ā bhuvad rāye ca puruhūta | asmabhyaṃ śatrutūrye ||",
+      "translation_english": "May he indeed come to us for aid, O much-invoked one, for wealth and for overcoming enemies."
+    },
+    {
+      "verse_number": 4,
+      "sanskrit_text": "त्वं न इन्द्र विश्वतः पृणस्व परि भूषसि । अस्मभ्यं वाजसातये ॥",
+      "transliteration": "tvaṃ na indra viśvataḥ pṛṇasva pari bhūṣasi | asmabhyaṃ vājasātaye ||",
+      "translation_english": "Fill us, O Indra, from every side; protect and adorn us for the gaining of strength and prize."
+    },
+    {
+      "verse_number": 5,
+      "sanskrit_text": "त्वं हि सत्यो मघवन् दाता वाजस्य गोमतः । अस्मभ्यं धेहि च श्रवः ॥",
+      "transliteration": "tvaṃ hi satyo maghavan dātā vājasya gomataḥ | asmabhyaṃ dhehi ca śravaḥ ||",
+      "translation_english": "For you, O bountiful one, are true — the giver of cattle-rich wealth; grant us glory as well."
+    },
+    {
+      "verse_number": 6,
+      "sanskrit_text": "आ नो यातु शतक्रतुरिन्द्रो विश्वाभिरूतिभिः । स नः पातु दुरितात् ॥",
+      "transliteration": "ā no yātu śatakratur indro viśvābhir ūtibhiḥ | sa naḥ pātu duritāt ||",
+      "translation_english": "May Indra, the hundred-powered, come to us with all his aids; may he protect us from harm."
+    }
+  ]
+},
+
+
 
 
 
