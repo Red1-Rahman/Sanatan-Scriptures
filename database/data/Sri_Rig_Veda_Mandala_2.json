@@ -504,6 +504,57 @@
   ]
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 2,
+  "sukta_number": 8,
+  "sukta_name": "Indra Sukta",
+  "rishi": "Gritsamada Shaunaka",
+  "devata": "Indra",
+  "chandas": "Trishtubh",
+  "total_verses": 6,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sanskrit_text": "इन्द्रं वो विश्वतस्परि हवामहे जनेभ्यः । अस्माकमस्तु केवलः ॥",
+      "transliteration": "indraṃ vo viśvatas pari havāmahe janebhyaḥ | asmākam astu kevalaḥ ||",
+      "translation_english": "We call upon Indra from all directions among the people; may he be ours alone."
+    },
+    {
+      "verse_number": 2,
+      "sanskrit_text": "इन्द्रः सुतपाव्ने सुत इन्द्राय मद्यते । शृण्वन्तु विश्वे अमृताः ॥",
+      "transliteration": "indraḥ sutapāvne suta indrāya madyate | śṛṇvantu viśve amṛtāḥ ||",
+      "translation_english": "The pressed Soma is purified for Indra; it exhilarates Indra. May all the immortal gods hear."
+    },
+    {
+      "verse_number": 3,
+      "sanskrit_text": "इन्द्राय सोममिन्दवो मन्दन्तु वज्रिणे । शृणोतु नः सुतं हवम् ॥",
+      "transliteration": "indrāya somam indavo mandantu vajriṇe | śṛṇotu naḥ sutaṃ havam ||",
+      "translation_english": "Let the Soma drops gladden Indra, the wielder of the thunderbolt; may he hear our pressed offering and invocation."
+    },
+    {
+      "verse_number": 4,
+      "sanskrit_text": "इन्द्रं हि त्वा वृषभं वयं सुतावन्तो हवामहे । स नः पितेव सूनवे ॥",
+      "transliteration": "indraṃ hi tvā vṛṣabhaṃ vayaṃ sutāvanto havāmahe | sa naḥ piteva sūnave ||",
+      "translation_english": "For you, O Indra the Bull, we who have pressed Soma call upon you; be to us like a father to his son."
+    },
+    {
+      "verse_number": 5,
+      "sanskrit_text": "त्वं न इन्द्र विश्वतः पृणस्व परि भूषसि । अस्मभ्यं शत्रुतूर्ये ॥",
+      "transliteration": "tvaṃ na indra viśvataḥ pṛṇasva pari bhūṣasi | asmabhyaṃ śatrutūrye ||",
+      "translation_english": "Fill us, O Indra, from every side; adorn and protect us in battles against enemies."
+    },
+    {
+      "verse_number": 6,
+      "sanskrit_text": "इन्द्रः सुत्रामा स्ववाँ अवोभिः शूरो नृभिः । आ नो यातु शतक्रतुः ॥",
+      "transliteration": "indraḥ sutrāmā svavāṃ avobhiḥ śūro nṛbhiḥ | ā no yātu śatakratuḥ ||",
+      "translation_english": "May Indra, well-guiding, mighty with his aids, the hero among men, the hundred-powered, come to us."
+    }
+  ]
+},
+
+
 
 
 
