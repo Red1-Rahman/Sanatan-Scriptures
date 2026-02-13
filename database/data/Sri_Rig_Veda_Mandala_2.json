@@ -802,6 +802,113 @@
 
 
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 2,
+  "sukta_number": 12,
+  "sukta_name": "Indra Sukta",
+  "rishi": "Gritsamada Shaunaka",
+  "devata": "Indra",
+  "chandas": "Trishtubh",
+  "total_verses": 15,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sanskrit_text": "यो जात एव प्रथमः मनस्वान् देवो देवान् क्रतुना पर्यभूषत् ।",
+      "transliteration": "yo jāta eva prathamo manasvān devo devān kratunā paryabhūṣat |",
+      "translation_english": "He who, born first and mighty in mind, by his power surpassed the gods."
+    },
+    {
+      "verse_number": 2,
+      "sanskrit_text": "यो पृथिवीं व्यथमानामदृंहद् यो पर्वतान् प्रकुपिताँ अरम्णात् ।",
+      "transliteration": "yo pṛthivīṃ vyathamānām adṛṃhad yo parvatān prakupitāṃ aramṇāt |",
+      "translation_english": "He who made firm the trembling earth and calmed the shaking mountains."
+    },
+    {
+      "verse_number": 3,
+      "sanskrit_text": "यो अन्तरिक्षं विममे वरीयो यो द्यामस्तभ्नात् स जनास इन्द्रः ।",
+      "transliteration": "yo antarikṣaṃ vimame varīyo yo dyām astabhnāt sa janāsa indraḥ |",
+      "translation_english": "He who measured out the mid-space and propped up the heaven — he, O people, is Indra."
+    },
+    {
+      "verse_number": 4,
+      "sanskrit_text": "यो हत्वा अहिं अरिणात् सप्त सिन्धून् यो गा उदाजदपधा वलस्य ।",
+      "transliteration": "yo hatvā ahiṃ ariṇāt sapta sindhūn yo gā udājad apadhā valasya |",
+      "translation_english": "He who slew the serpent and released the seven rivers, who drove out the cows from Vala’s cave."
+    },
+    {
+      "verse_number": 5,
+      "sanskrit_text": "यो अश्मनो अन्तरग्निं जजान संवृक् समत्सु जनयन् वीर्यम् ।",
+      "transliteration": "yo aśmano antar agniṃ jajāna saṃvṛk samatsu janayan vīryam |",
+      "translation_english": "He who generated fire from the stone and created strength in battles."
+    },
+    {
+      "verse_number": 6,
+      "sanskrit_text": "यस्याश्वासः प्रदिशि यस्य गावो यस्य ग्रामाः यस्य विश्वे रथासः ।",
+      "transliteration": "yasyāśvāsaḥ pradiśi yasya gāvo yasya grāmā yasya viśve rathāsaḥ |",
+      "translation_english": "Whose are the horses in all directions, whose the cattle, whose the villages and all the chariots."
+    },
+    {
+      "verse_number": 7,
+      "sanskrit_text": "यः सूर्यं य उषसं जजान यो अपां नेता स जनास इन्द्रः ।",
+      "transliteration": "yaḥ sūryaṃ ya uṣasaṃ jajāna yo apāṃ netā sa janāsa indraḥ |",
+      "translation_english": "He who produced the Sun and the Dawn, who is the leader of the waters — he, O people, is Indra."
+    },
+    {
+      "verse_number": 8,
+      "sanskrit_text": "यं स्मा पृच्छन्ति कुह सेति घोरम् ।",
+      "transliteration": "yaṃ smā pṛcchanti kuha seti ghoram |",
+      "translation_english": "Him whom they ask about — where is he? — the terrible one."
+    },
+    {
+      "verse_number": 9,
+      "sanskrit_text": "यो अर्णवं महिना पर्यतिष्ठद् यो द्यामरक्षद् य उषासमावः ।",
+      "transliteration": "yo arṇavaṃ mahinā paryatiṣṭhad yo dyām arakṣad ya uṣāsam āvaḥ |",
+      "translation_english": "He who by greatness encompassed the flood, who guarded the heaven and sustained the dawn."
+    },
+    {
+      "verse_number": 10,
+      "sanskrit_text": "यो शत्रून् अभिभूः विश्वतः परि ।",
+      "transliteration": "yo śatrūn abhibhūḥ viśvataḥ pari |",
+      "translation_english": "He who overpowers enemies on every side."
+    },
+    {
+      "verse_number": 11,
+      "sanskrit_text": "यः सोमस्य पिबद् वृषा मदाय ।",
+      "transliteration": "yaḥ somasya pibad vṛṣā madāya |",
+      "translation_english": "Who drinks the Soma in exhilaration like a bull."
+    },
+    {
+      "verse_number": 12,
+      "sanskrit_text": "यो ब्रह्माणं जनयत् यज्ञं च ।",
+      "transliteration": "yo brahmāṇaṃ janayat yajñaṃ ca |",
+      "translation_english": "Who generated prayer and the sacrifice."
+    },
+    {
+      "verse_number": 13,
+      "sanskrit_text": "यो विश्वस्य प्रभवो यः पितेव ।",
+      "transliteration": "yo viśvasya prabhavo yaḥ piteva |",
+      "translation_english": "Who is the source of all, like a father."
+    },
+    {
+      "verse_number": 14,
+      "sanskrit_text": "यः दस्यून् अवधीद् अयज्यान् ।",
+      "transliteration": "yaḥ dasyūn avadhīd ayajyān |",
+      "translation_english": "Who struck down the impious Dasyus."
+    },
+    {
+      "verse_number": 15,
+      "sanskrit_text": "स जनास इन्द्रः ।",
+      "transliteration": "sa janāsa indraḥ |",
+      "translation_english": "He, O people, is Indra."
+    }
+  ]
+},
+
+
+
+
 
 
 
