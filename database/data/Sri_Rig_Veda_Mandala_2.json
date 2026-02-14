@@ -1412,6 +1412,69 @@
   ]
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 2,
+  "sukta_number": 20,
+  "sukta_name": "Indra Sukta",
+  "rishi": "Gritsamada Shaunaka",
+  "devata": "Indra",
+  "chandas": "Trishtubh",
+  "total_verses": 8,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sanskrit_text": "इन्द्रं वर्धन्तो अप्तुरः सोमपीतये जयति ।",
+      "transliteration": "indraṃ vardhanto apturaḥ somapītaye jayati |",
+      "translation_english": "Exalting Indra, the Soma-drinker, he becomes victorious."
+    },
+    {
+      "verse_number": 2,
+      "sanskrit_text": "स नः पातु शतक्रतुर्वज्री विश्वाभिरूतिभिः ।",
+      "transliteration": "sa naḥ pātu śatakratur vajrī viśvābhir ūtibhiḥ |",
+      "translation_english": "May Indra of a hundred powers, wielder of the bolt, protect us with all his aids."
+    },
+    {
+      "verse_number": 3,
+      "sanskrit_text": "यो वृत्रं जघ्न वज्रेण वीर्यवान् प्रचुरः ।",
+      "transliteration": "yo vṛtraṃ jaghna vajreṇa vīryavān prachuraḥ |",
+      "translation_english": "He who slew Vṛtra with his mighty bolt, abundant in strength."
+    },
+    {
+      "verse_number": 4,
+      "sanskrit_text": "यो अपो मुमोच दुर्ग्रहाः सोमपीतये ।",
+      "transliteration": "yo apo mumoca durgrahāḥ somapītaye |",
+      "translation_english": "He who released the waters, for the enjoyment of Soma."
+    },
+    {
+      "verse_number": 5,
+      "sanskrit_text": "त्वं न इन्द्र विश्वतः पृणस्व परि भूषसि ।",
+      "transliteration": "tvaṃ na indra viśvataḥ pṛṇasva pari bhūṣasi |",
+      "translation_english": "You, O Indra, fill us from all sides and adorn us."
+    },
+    {
+      "verse_number": 6,
+      "sanskrit_text": "स नः रक्षतु शत्रून् विश्वतः परि ।",
+      "transliteration": "sa naḥ rakṣatu śatrūn viśvataḥ pari |",
+      "translation_english": "May he protect us from enemies on every side."
+    },
+    {
+      "verse_number": 7,
+      "sanskrit_text": "इन्द्रः शूरः वज्रिणः सहस्रशो वीर्यवान् ।",
+      "transliteration": "indraḥ śūraḥ vajriṇaḥ sahasraśo vīryavān |",
+      "translation_english": "Indra, the hero, wielder of the thunderbolt, mighty with thousandfold power."
+    },
+    {
+      "verse_number": 8,
+      "sanskrit_text": "इन्द्रः पातु विश्वतः स नो अवतु सर्वतः ।",
+      "transliteration": "indraḥ pātu viśvataḥ sa no avatu sarvataḥ |",
+      "translation_english": "May Indra guard us from every side; may he protect us everywhere."
+    }
+  ]
+},
+
+
 
 
 
