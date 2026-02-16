@@ -1536,6 +1536,61 @@
   ]
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 2,
+  "sukta_number": 22,
+  "sukta_name": "Indra Sukta",
+  "rishi": "Gritsamada Shaunaka",
+  "devata": "Indra",
+  "chandas": "Trishtubh",
+  "total_verses": 7,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sanskrit_text": "इन्द्रं वयं महाधनं हवामहे वज्रिणं शूरमुत्तमम् ।",
+      "transliteration": "indraṃ vayaṃ mahādhanaṃ havāmahe vajriṇaṃ śūram uttamam |",
+      "translation_english": "We invoke Indra, the great bestower of wealth, the heroic wielder of the thunderbolt."
+    },
+    {
+      "verse_number": 2,
+      "sanskrit_text": "स नो विश्वानि वार्या कृणोतु विश्वतः परि ।",
+      "transliteration": "sa no viśvāni vāryā kṛṇotu viśvataḥ pari |",
+      "translation_english": "May he grant us all desirable blessings from every side."
+    },
+    {
+      "verse_number": 3,
+      "sanskrit_text": "यो वृत्रं जघ्न वज्रेण सुतस्य पीतये ।",
+      "transliteration": "yo vṛtraṃ jaghna vajreṇa sutasya pītaye |",
+      "translation_english": "He who slew Vṛtra with the thunderbolt for the drinking of Soma."
+    },
+    {
+      "verse_number": 4,
+      "sanskrit_text": "यो अपां स्रष्टा जनिता विश्वकर्मा ।",
+      "transliteration": "yo apāṃ sraṣṭā janitā viśvakarmā |",
+      "translation_english": "He who is the creator of the waters, the universal worker."
+    },
+    {
+      "verse_number": 5,
+      "sanskrit_text": "त्वं न इन्द्र अभि रक्ष विश्वतः ।",
+      "transliteration": "tvaṃ na indra abhi rakṣa viśvataḥ |",
+      "translation_english": "Protect us, O Indra, on all sides."
+    },
+    {
+      "verse_number": 6,
+      "sanskrit_text": "त्वया वयं शूर तर्तारो अरातीन् ।",
+      "transliteration": "tvayā vayaṃ śūra tartāro arātīn |",
+      "translation_english": "With you, O hero, may we overcome our foes."
+    },
+    {
+      "verse_number": 7,
+      "sanskrit_text": "इन्द्रः पातु नो विश्वतः स नो अवतु सर्वतः ।",
+      "transliteration": "indraḥ pātu no viśvataḥ sa no avatu sarvataḥ |",
+      "translation_english": "May Indra guard us from every side; may he protect us everywhere."
+    }
+  ]
+},
 
 
 
