@@ -1906,6 +1906,135 @@
   ]
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 2,
+  "sukta_number": 27,
+  "sukta_name": "Aditya Sukta",
+  "rishi": "Gritsamada Shaunaka",
+  "devata": "Adityas",
+  "chandas": "Trishtubh",
+  "total_verses": 18,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sanskrit_text": "मित्रं हुवे पूतदक्षं वरुणं च ऋशादसम् ।",
+      "transliteration": "mitraṃ huve pūtadakṣaṃ varuṇaṃ ca ṛśādasam |",
+      "translation_english": "I invoke Mitra of pure skill and Varuna, the destroyer of foes."
+    },
+    {
+      "verse_number": 2,
+      "sanskrit_text": "आर्यमणं भगं मित्रं वरुणं दक्षमंशम् ।",
+      "transliteration": "āryamaṇaṃ bhagaṃ mitraṃ varuṇaṃ dakṣam aṃśam |",
+      "translation_english": "Aryaman, Bhaga, Mitra, Varuna, Daksha and Amsa."
+    },
+    {
+      "verse_number": 3,
+      "sanskrit_text": "आदित्यासो अदितिः पातु नो विश्वतः ।",
+      "transliteration": "ādityāso aditiḥ pātu no viśvataḥ |",
+      "translation_english": "May the Adityas and Aditi protect us from every side."
+    },
+    {
+      "verse_number": 4,
+      "sanskrit_text": "ते नः शं यो रराणा विश्वानि वार्या ।",
+      "transliteration": "te naḥ śaṃ yo rarāṇā viśvāni vāryā |",
+      "translation_english": "May they grant us peace and all desirable blessings."
+    },
+    {
+      "verse_number": 5,
+      "sanskrit_text": "वरुणो नः पातु मित्रो अर्यमा ।",
+      "transliteration": "varuṇo naḥ pātu mitro aryamā |",
+      "translation_english": "May Varuna, Mitra, and Aryaman protect us."
+    },
+    {
+      "verse_number": 6,
+      "sanskrit_text": "भगो नो रयिं दधातु विश्वतः ।",
+      "transliteration": "bhago no rayiṃ dadhātu viśvataḥ |",
+      "translation_english": "May Bhaga grant us wealth from every direction."
+    },
+    {
+      "verse_number": 7,
+      "sanskrit_text": "आर्यमणो नः पातु सुशर्मणा ।",
+      "transliteration": "āryamaṇo naḥ pātu suśarmaṇā |",
+      "translation_english": "May Aryaman guard us with gracious protection."
+    },
+    {
+      "verse_number": 8,
+      "sanskrit_text": "मित्रो नः शं यच्छतु वरुणो नः शं यच्छतु ।",
+      "transliteration": "mitro naḥ śaṃ yacchatu varuṇo naḥ śaṃ yacchatu |",
+      "translation_english": "May Mitra grant us peace; may Varuna grant us peace."
+    },
+    {
+      "verse_number": 9,
+      "sanskrit_text": "ते नो विश्वानि दुरितानि परि दधतु ।",
+      "transliteration": "te no viśvāni duritāni pari dadhatu |",
+      "translation_english": "May they remove all evils from us."
+    },
+    {
+      "verse_number": 10,
+      "sanskrit_text": "आदित्यासो नः पान्तु सर्वतः ।",
+      "transliteration": "ādityāso naḥ pāntu sarvataḥ |",
+      "translation_english": "May the Adityas guard us on every side."
+    },
+    {
+      "verse_number": 11,
+      "sanskrit_text": "अदितिः नो अभि रक्षतु विश्वतः ।",
+      "transliteration": "aditiḥ no abhi rakṣatu viśvataḥ |",
+      "translation_english": "May Aditi protect us from every direction."
+    },
+    {
+      "verse_number": 12,
+      "sanskrit_text": "मित्रावरुणा सुशर्मणा पातं नः ।",
+      "transliteration": "mitrāvaruṇā suśarmaṇā pātaṃ naḥ |",
+      "translation_english": "O Mitra and Varuna, protect us with gracious shelter."
+    },
+    {
+      "verse_number": 13,
+      "sanskrit_text": "आर्यमणं भगं दक्षं हुवेम ।",
+      "transliteration": "āryamaṇaṃ bhagaṃ dakṣaṃ huvema |",
+      "translation_english": "We invoke Aryaman, Bhaga, and Daksha."
+    },
+    {
+      "verse_number": 14,
+      "sanskrit_text": "वरुणो नः पातु पथि ।",
+      "transliteration": "varuṇo naḥ pātu pathi |",
+      "translation_english": "May Varuna guard us on the path."
+    },
+    {
+      "verse_number": 15,
+      "sanskrit_text": "मित्रो नः पातु विश्वतः ।",
+      "transliteration": "mitro naḥ pātu viśvataḥ |",
+      "translation_english": "May Mitra protect us from every side."
+    },
+    {
+      "verse_number": 16,
+      "sanskrit_text": "भगो नो दधातु रयिम् ।",
+      "transliteration": "bhago no dadhātu rayim |",
+      "translation_english": "May Bhaga grant us prosperity."
+    },
+    {
+      "verse_number": 17,
+      "sanskrit_text": "आर्यमणो नो अभि रक्षतु ।",
+      "transliteration": "āryamaṇo no abhi rakṣatu |",
+      "translation_english": "May Aryaman protect us."
+    },
+    {
+      "verse_number": 18,
+      "sanskrit_text": "आदित्यासो नः पातु सर्वतः ।",
+      "transliteration": "ādityāso naḥ pātu sarvataḥ |",
+      "translation_english": "May the Adityas protect us from all sides."
+    }
+  ]
+},
+
+
+
+
+
+
+
+
 
 
 
