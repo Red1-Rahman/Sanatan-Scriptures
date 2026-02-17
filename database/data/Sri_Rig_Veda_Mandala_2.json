@@ -1720,6 +1720,105 @@
   ]
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 2,
+  "sukta_number": 24,
+  "sukta_name": "Brahmanaspati Sukta",
+  "rishi": "Gritsamada Shaunaka",
+  "devata": "Brahmanaspati",
+  "chandas": "Trishtubh",
+  "total_verses": 14,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sanskrit_text": "ब्रह्मणस्पते अति यदर्यो अर्हात् प्र देवत्रा ब्रह्मणो देवयन्तः ।",
+      "transliteration": "brahmaṇaspate ati yad aryo arhāt pra devatrā brahmaṇo devayantaḥ |",
+      "translation_english": "O Brahmanaspati, when you overcome the foe, the worshippers advance their sacred prayer to the gods."
+    },
+    {
+      "verse_number": 2,
+      "sanskrit_text": "त्वं नो गा अवृणोः पथि विश्वान्यर्यो दुरितानि परि ।",
+      "transliteration": "tvaṃ no gā avṛṇoḥ pathi viśvāny aryo duritāni pari |",
+      "translation_english": "You have opened the path for our cows and removed all evils, O noble one."
+    },
+    {
+      "verse_number": 3,
+      "sanskrit_text": "यो गोत्रा भिदद् वलमर्दयद् ब्रह्मणस्पतिः ।",
+      "transliteration": "yo gotrā bhidad valam ardayad brahmaṇaspatiḥ |",
+      "translation_english": "Brahmanaspati who broke the enclosures and crushed Vala."
+    },
+    {
+      "verse_number": 4,
+      "sanskrit_text": "स नो रक्षतु विश्वतः स नः पातु सर्वतः ।",
+      "transliteration": "sa no rakṣatu viśvataḥ sa naḥ pātu sarvataḥ |",
+      "translation_english": "May he protect us from every side."
+    },
+    {
+      "verse_number": 5,
+      "sanskrit_text": "ब्रह्मणस्पते सुगं नो अध्वरं कृधि वाजं नः कृणुहि ।",
+      "transliteration": "brahmaṇaspate sugaṃ no adhvaraṃ kṛdhi vājaṃ naḥ kṛṇuhi |",
+      "translation_english": "O Brahmanaspati, make our sacrifice easy and grant us strength."
+    },
+    {
+      "verse_number": 6,
+      "sanskrit_text": "त्वं न इन्द्रवद् अभि रक्ष ब्रह्मणस्पते ।",
+      "transliteration": "tvaṃ na indravad abhi rakṣa brahmaṇaspate |",
+      "translation_english": "Protect us like Indra, O Brahmanaspati."
+    },
+    {
+      "verse_number": 7,
+      "sanskrit_text": "यो देवेषु प्रथमः स नः शूरः पातु ।",
+      "transliteration": "yo deveṣu prathamaḥ sa naḥ śūraḥ pātu |",
+      "translation_english": "He who is foremost among the gods, may that hero protect us."
+    },
+    {
+      "verse_number": 8,
+      "sanskrit_text": "स नः सूनृताभिर्वाजेभिः पातु ।",
+      "transliteration": "sa naḥ sūnṛtābhir vājebhiḥ pātu |",
+      "translation_english": "May he guard us with blessings and strength."
+    },
+    {
+      "verse_number": 9,
+      "sanskrit_text": "ब्रह्मणस्पते विश्वानि नो अभि रक्ष ।",
+      "transliteration": "brahmaṇaspate viśvāni no abhi rakṣa |",
+      "translation_english": "O Brahmanaspati, protect us in all things."
+    },
+    {
+      "verse_number": 10,
+      "sanskrit_text": "स नः शत्रून् निहन्तु ब्रह्मणस्पतिः ।",
+      "transliteration": "sa naḥ śatrūn nihantu brahmaṇaspatiḥ |",
+      "translation_english": "May Brahmanaspati destroy our enemies."
+    },
+    {
+      "verse_number": 11,
+      "sanskrit_text": "अव त्वं नो ब्रह्मणस्पते विश्वतः पातु ।",
+      "transliteration": "ava tvaṃ no brahmaṇaspate viśvataḥ pātu |",
+      "translation_english": "Protect us, O Brahmanaspati, from every direction."
+    },
+    {
+      "verse_number": 12,
+      "sanskrit_text": "स नः पातु दुरिताद् अभि नः पातु सर्वतः ।",
+      "transliteration": "sa naḥ pātu duritād abhi naḥ pātu sarvataḥ |",
+      "translation_english": "May he protect us from evil and guard us everywhere."
+    },
+    {
+      "verse_number": 13,
+      "sanskrit_text": "ब्रह्मणस्पते सुश्रवसं नः कृधि ।",
+      "transliteration": "brahmaṇaspate suśravasaṃ naḥ kṛdhi |",
+      "translation_english": "Grant us good renown, O Brahmanaspati."
+    },
+    {
+      "verse_number": 14,
+      "sanskrit_text": "ब्रह्मणस्पते विश्वतो नः पातु सर्वतः ।",
+      "transliteration": "brahmaṇaspate viśvato naḥ pātu sarvataḥ |",
+      "translation_english": "May Brahmanaspati protect us from every side."
+    }
+  ]
+},
+
+
 
 
 
