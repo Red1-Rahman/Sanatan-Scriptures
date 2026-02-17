@@ -1818,41 +1818,49 @@
   ]
 },
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 2,
+  "sukta_number": 25,
+  "sukta_name": "Brahmanaspati Sukta",
+  "rishi": "Gritsamada Shaunaka",
+  "devata": "Brahmanaspati",
+  "chandas": "Trishtubh",
+  "total_verses": 5,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sanskrit_text": "ब्रह्मणस्पते सुगं नो अध्वरं कृधि देवेषु यज्ञियम् ।",
+      "transliteration": "brahmaṇaspate sugaṃ no adhvaraṃ kṛdhi deveṣu yajñiyam |",
+      "translation_english": "O Brahmanaspati, make our sacrifice easy and worthy among the gods."
+    },
+    {
+      "verse_number": 2,
+      "sanskrit_text": "त्वं नः पातु विश्वतः शूरो ब्रह्मणस्पतिः ।",
+      "transliteration": "tvaṃ naḥ pātu viśvataḥ śūro brahmaṇaspatiḥ |",
+      "translation_english": "May the heroic Brahmanaspati protect us from every side."
+    },
+    {
+      "verse_number": 3,
+      "sanskrit_text": "यो गोत्रा भिदद् वलमर्दयत् स नः पातु ।",
+      "transliteration": "yo gotrā bhidad valam ardayat sa naḥ pātu |",
+      "translation_english": "He who broke open the enclosures and crushed Vala—may he protect us."
+    },
+    {
+      "verse_number": 4,
+      "sanskrit_text": "स नो विश्वानि वार्या दधातु ब्रह्मणस्पतिः ।",
+      "transliteration": "sa no viśvāni vāryā dadhātu brahmaṇaspatiḥ |",
+      "translation_english": "May Brahmanaspati grant us all desirable treasures."
+    },
+    {
+      "verse_number": 5,
+      "sanskrit_text": "ब्रह्मणस्पते विश्वतो नः पातु सर्वतः ।",
+      "transliteration": "brahmaṇaspate viśvato naḥ pātu sarvataḥ |",
+      "translation_english": "May Brahmanaspati protect us from every direction."
+    }
+  ]
+},
 
 
 
