@@ -2946,6 +2946,63 @@
   ]
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 2,
+  "sukta_number": 43,
+  "sukta_name": "Indra Sukta",
+  "rishi": "Gritsamada Shaunaka",
+  "devata": "Indra",
+  "chandas": "Trishtubh",
+  "total_verses": 7,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sanskrit_text": "इन्द्रं हविषा ववृमहे सुशर्मणा ।",
+      "transliteration": "indraṃ haviṣā vavṛmahe suśarmaṇā |",
+      "translation_english": "With oblation we invoke Indra with gracious protection."
+    },
+    {
+      "verse_number": 2,
+      "sanskrit_text": "स नो विश्वतः पातु वीर्यवान् ।",
+      "transliteration": "sa no viśvataḥ pātu vīryavān |",
+      "translation_english": "May mighty Indra protect us from every direction."
+    },
+    {
+      "verse_number": 3,
+      "sanskrit_text": "स नो रयिं दधातु सर्वतः ।",
+      "transliteration": "sa no rayiṃ dadhātu sarvataḥ |",
+      "translation_english": "May he bestow wealth upon us from all sides."
+    },
+    {
+      "verse_number": 4,
+      "sanskrit_text": "इन्द्रं वीर्यशालिनं हवामहे ।",
+      "transliteration": "indraṃ vīryaśālinaṃ havāmahe |",
+      "translation_english": "We invoke Indra, full of heroic strength."
+    },
+    {
+      "verse_number": 5,
+      "sanskrit_text": "स नो मित्र वरुणो रक्षतु ।",
+      "transliteration": "sa no mitra varuṇo rakṣatu |",
+      "translation_english": "May Mitra and Varuna protect us."
+    },
+    {
+      "verse_number": 6,
+      "sanskrit_text": "इन्द्रः पातु नः सर्वतः ।",
+      "transliteration": "indraḥ pātu naḥ sarvataḥ |",
+      "translation_english": "May Indra guard us from every side."
+    },
+    {
+      "verse_number": 7,
+      "sanskrit_text": "इन्द्राय नमः।",
+      "transliteration": "indrāya namaḥ |",
+      "translation_english": "Salutations to Indra."
+    }
+  ]
+},
+
+
 
 
 
