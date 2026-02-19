@@ -2654,6 +2654,51 @@
   ]
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 2,
+  "sukta_number": 38,
+  "sukta_name": "Savitṛ Sukta",
+  "rishi": "Gritsamada Shaunaka",
+  "devata": "Savitṛ",
+  "chandas": "Trishtubh",
+  "total_verses": 5,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sanskrit_text": "सवित्रं हुवे हविषा ववृमहे ।",
+      "transliteration": "savitṛṃ huve haviṣā vavṛmahe |",
+      "translation_english": "With oblation we invoke Savitṛ."
+    },
+    {
+      "verse_number": 2,
+      "sanskrit_text": "यो विश्वं दधाति तेजसा ।",
+      "transliteration": "yo viśvaṃ dadhāti tejasā |",
+      "translation_english": "He who sustains the universe with brilliance."
+    },
+    {
+      "verse_number": 3,
+      "sanskrit_text": "स नो विश्वतः पातु ।",
+      "transliteration": "sa no viśvataḥ pātu |",
+      "translation_english": "May he protect us from every direction."
+    },
+    {
+      "verse_number": 4,
+      "sanskrit_text": "सवित्रो दधातु रयिम् ।",
+      "transliteration": "savitro dadhātu rayim |",
+      "translation_english": "May Savitṛ grant us wealth."
+    },
+    {
+      "verse_number": 5,
+      "sanskrit_text": "सवित्राय नमः ।",
+      "transliteration": "savitṛāya namaḥ |",
+      "translation_english": "Salutations to Savitṛ."
+    }
+  ]
+},
+
+
 
 
 
