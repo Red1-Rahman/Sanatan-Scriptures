@@ -2370,6 +2370,93 @@
   ]
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 2,
+  "sukta_number": 34,
+  "sukta_name": "Marut Sukta",
+  "rishi": "Gritsamada Shaunaka",
+  "devata": "Maruts",
+  "chandas": "Trishtubh",
+  "total_verses": 12,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sanskrit_text": "आ वो राजानो मरुतो गृणाना हवामहे ।",
+      "transliteration": "ā vo rājāno maruto gṛṇānā havāmahe |",
+      "translation_english": "We invoke you, O royal Maruts, with praise."
+    },
+    {
+      "verse_number": 2,
+      "sanskrit_text": "युवं हि स्थ शूरा मरुतः ।",
+      "transliteration": "yuvaṃ hi stha śūrā marutaḥ |",
+      "translation_english": "For you, O Maruts, are indeed heroes."
+    },
+    {
+      "verse_number": 3,
+      "sanskrit_text": "प्र वो मरुतो हविषा वर्धयाम ।",
+      "transliteration": "pra vo maruto haviṣā vardhayāma |",
+      "translation_english": "With oblation we magnify you, O Maruts."
+    },
+    {
+      "verse_number": 4,
+      "sanskrit_text": "ते नः पान्तु विश्वतः ।",
+      "transliteration": "te naḥ pāntu viśvataḥ |",
+      "translation_english": "May they protect us from every side."
+    },
+    {
+      "verse_number": 5,
+      "sanskrit_text": "मरुतो रुद्रिया गणाः ।",
+      "transliteration": "maruto rudriyā gaṇāḥ |",
+      "translation_english": "The Maruts are the hosts of Rudra."
+    },
+    {
+      "verse_number": 6,
+      "sanskrit_text": "आगच्छन्तु नः सुशर्माणः ।",
+      "transliteration": "āgacchantu naḥ suśarmāṇaḥ |",
+      "translation_english": "May they come to us with gracious protection."
+    },
+    {
+      "verse_number": 7,
+      "sanskrit_text": "ददतु नो रयिम् ।",
+      "transliteration": "dadatu no rayim |",
+      "translation_english": "May they grant us wealth."
+    },
+    {
+      "verse_number": 8,
+      "sanskrit_text": "सुवीर्यं नो दधतु ।",
+      "transliteration": "suvīryaṃ no dadhatu |",
+      "translation_english": "May they bestow heroic strength upon us."
+    },
+    {
+      "verse_number": 9,
+      "sanskrit_text": "मरुतो विश्वतः पान्तु ।",
+      "transliteration": "maruto viśvataḥ pāntu |",
+      "translation_english": "May the Maruts guard us from every direction."
+    },
+    {
+      "verse_number": 10,
+      "sanskrit_text": "रुद्रस्य सूनवः शूराः ।",
+      "transliteration": "rudrasya sūnavaḥ śūrāḥ |",
+      "translation_english": "They are the heroic sons of Rudra."
+    },
+    {
+      "verse_number": 11,
+      "sanskrit_text": "आ वो मरुतः हवामहे ।",
+      "transliteration": "ā vo marutaḥ havāmahe |",
+      "translation_english": "We invoke you, O Maruts."
+    },
+    {
+      "verse_number": 12,
+      "sanskrit_text": "मरुतो नः पान्तु सर्वतः ।",
+      "transliteration": "maruto naḥ pāntu sarvataḥ |",
+      "translation_english": "May the Maruts protect us from every side."
+    }
+  ]
+},
+
+
 
 
 
