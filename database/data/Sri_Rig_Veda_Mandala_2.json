@@ -2258,6 +2258,69 @@
   ]
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 2,
+  "sukta_number": 32,
+  "sukta_name": "Raka-Sinivali Sukta",
+  "rishi": "Gritsamada Shaunaka",
+  "devata": "Raka and Sinivali",
+  "chandas": "Anushtubh/Trishtubh",
+  "total_verses": 8,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sanskrit_text": "राकामहं सुहवां हुवे शृणोतु नः सुभगा बोधतु त्वम् ।",
+      "transliteration": "rākām ahaṃ suhavāṃ huve śṛṇotu naḥ subhagā bodhatu tvam |",
+      "translation_english": "I invoke Rākā, easy to call; may the fortunate goddess hear us and awaken."
+    },
+    {
+      "verse_number": 2,
+      "sanskrit_text": "सिनिवालीं सुहवां हुवे ।",
+      "transliteration": "sinivālīṃ suhavāṃ huve |",
+      "translation_english": "I invoke Sinīvālī, gracious and easy to call."
+    },
+    {
+      "verse_number": 3,
+      "sanskrit_text": "या गर्भं धेहि सुशेवं बहुधा पुत्रवन्तम् ।",
+      "transliteration": "yā garbhaṃ dhehi suśevaṃ bahudhā putravantam |",
+      "translation_english": "May she grant a good and prosperous offspring."
+    },
+    {
+      "verse_number": 4,
+      "sanskrit_text": "देवीर्या नः सुभगा भवन्तु ।",
+      "transliteration": "devīr yā naḥ subhagā bhavantu |",
+      "translation_english": "May the goddesses be gracious and fortunate to us."
+    },
+    {
+      "verse_number": 5,
+      "sanskrit_text": "राका दधातु रयिम् अस्मभ्यं ।",
+      "transliteration": "rākā dadhātu rayim asmabhyaṃ |",
+      "translation_english": "May Rākā bestow wealth upon us."
+    },
+    {
+      "verse_number": 6,
+      "sanskrit_text": "सिनिवाली बहुपुत्रां नो दधातु ।",
+      "transliteration": "sinivālī bahuputrāṃ no dadhātu |",
+      "translation_english": "May Sinīvālī grant us many children."
+    },
+    {
+      "verse_number": 7,
+      "sanskrit_text": "देव्यौ नः पातं सर्वतः ।",
+      "transliteration": "devyau naḥ pātaṃ sarvataḥ |",
+      "translation_english": "May the two goddesses protect us from every side."
+    },
+    {
+      "verse_number": 8,
+      "sanskrit_text": "सुभगा राका सिनिवाली च पातम् ।",
+      "transliteration": "subhagā rākā sinivālī ca pātam |",
+      "translation_english": "May gracious Rākā and Sinīvālī protect us."
+    }
+  ]
+},
+
+
 
 
 
