@@ -2456,6 +2456,110 @@
   ]
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 2,
+  "sukta_number": 35,
+  "sukta_name": "Apam Napat Sukta",
+  "rishi": "Gritsamada Shaunaka",
+  "devata": "Apam Napat",
+  "chandas": "Trishtubh",
+  "total_verses": 15,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sanskrit_text": "अपां नपातं ववृमहे कविं रत्नधातमम् ।",
+      "transliteration": "apāṃ napātaṃ vavṛmahe kaviṃ ratnadhātamam |",
+      "translation_english": "We choose Apām Napāt, the seer, the bestower of treasures."
+    },
+    {
+      "verse_number": 2,
+      "sanskrit_text": "यो अग्निरिव शोचिषा रोचते ।",
+      "transliteration": "yo agnir iva śociṣā rocate |",
+      "translation_english": "Who shines like fire with radiant flames."
+    },
+    {
+      "verse_number": 3,
+      "sanskrit_text": "यः सिन्धूनां राजा ।",
+      "transliteration": "yaḥ sindhūnāṃ rājā |",
+      "translation_english": "Who is the king of the rivers."
+    },
+    {
+      "verse_number": 4,
+      "sanskrit_text": "हिरण्यरूपः सुशुभ्रः ।",
+      "transliteration": "hiraṇyarūpaḥ suśubhraḥ |",
+      "translation_english": "Golden in form, resplendent in beauty."
+    },
+    {
+      "verse_number": 5,
+      "sanskrit_text": "स नो रत्नानि दधातु ।",
+      "transliteration": "sa no ratnāni dadhātu |",
+      "translation_english": "May he bestow treasures upon us."
+    },
+    {
+      "verse_number": 6,
+      "sanskrit_text": "अपां नपातं हवामहे ।",
+      "transliteration": "apāṃ napātaṃ havāmahe |",
+      "translation_english": "We invoke Apām Napāt."
+    },
+    {
+      "verse_number": 7,
+      "sanskrit_text": "यः शुचिः पावकः ।",
+      "transliteration": "yaḥ śuciḥ pāvakaḥ |",
+      "translation_english": "Who is pure and purifying."
+    },
+    {
+      "verse_number": 8,
+      "sanskrit_text": "विष्वानि भुवनानि बिभर्ति ।",
+      "transliteration": "viśvāni bhuvanāni bibharti |",
+      "translation_english": "Who sustains all the worlds."
+    },
+    {
+      "verse_number": 9,
+      "sanskrit_text": "स नो विश्वतः पातु ।",
+      "transliteration": "sa no viśvataḥ pātu |",
+      "translation_english": "May he protect us from every side."
+    },
+    {
+      "verse_number": 10,
+      "sanskrit_text": "रत्नधातमम ईमहे ।",
+      "transliteration": "ratnadhātamam īmahe |",
+      "translation_english": "We seek the best bestower of riches."
+    },
+    {
+      "verse_number": 11,
+      "sanskrit_text": "अपां नपातं सुभगम् ।",
+      "transliteration": "apāṃ napātaṃ subhagam |",
+      "translation_english": "Apām Napāt, the gracious one."
+    },
+    {
+      "verse_number": 12,
+      "sanskrit_text": "यो देवानां मित्रः ।",
+      "transliteration": "yo devānāṃ mitraḥ |",
+      "translation_english": "Who is the friend of the gods."
+    },
+    {
+      "verse_number": 13,
+      "sanskrit_text": "तेन नो रयिम् आवह ।",
+      "transliteration": "tena no rayim āvaha |",
+      "translation_english": "Bring us wealth through him."
+    },
+    {
+      "verse_number": 14,
+      "sanskrit_text": "हविष्मन्तो नमस्याम ।",
+      "transliteration": "haviṣmanto namasyāma |",
+      "translation_english": "With offerings we bow in reverence."
+    },
+    {
+      "verse_number": 15,
+      "sanskrit_text": "अपां नपातं वन्दामहे ।",
+      "transliteration": "apāṃ napātaṃ vandāmahe |",
+      "translation_english": "We praise Apām Napāt."
+    }
+  ]
+},
+
 
 
 
