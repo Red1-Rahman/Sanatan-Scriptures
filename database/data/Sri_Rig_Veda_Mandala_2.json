@@ -2560,6 +2560,57 @@
   ]
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 2,
+  "sukta_number": 36,
+  "sukta_name": "Indra Sukta",
+  "rishi": "Gritsamada Shaunaka",
+  "devata": "Indra",
+  "chandas": "Trishtubh",
+  "total_verses": 6,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sanskrit_text": "इन्द्रं वर्धन्तो अप्तुरः कृण्वाना यज्ञमुत्तमम् ।",
+      "transliteration": "indraṃ vardhanto apturaḥ kṛṇvānā yajñam uttamam |",
+      "translation_english": "Exalting Indra, the active ones perform the excellent sacrifice."
+    },
+    {
+      "verse_number": 2,
+      "sanskrit_text": "स नो महाँ अभि पातु ।",
+      "transliteration": "sa no mahāṃ abhi pātu |",
+      "translation_english": "May that great one protect us."
+    },
+    {
+      "verse_number": 3,
+      "sanskrit_text": "इन्द्रः सोमस्य पीतये ।",
+      "transliteration": "indraḥ somasya pītaye |",
+      "translation_english": "Indra comes to drink the Soma."
+    },
+    {
+      "verse_number": 4,
+      "sanskrit_text": "वज्री वृत्रहाऽसि ।",
+      "transliteration": "vajrī vṛtrahā'si |",
+      "translation_english": "You are the wielder of the thunderbolt, the slayer of Vṛtra."
+    },
+    {
+      "verse_number": 5,
+      "sanskrit_text": "स नो रयिं दधातु ।",
+      "transliteration": "sa no rayiṃ dadhātu |",
+      "translation_english": "May he bestow wealth upon us."
+    },
+    {
+      "verse_number": 6,
+      "sanskrit_text": "इन्द्राय नमः ।",
+      "transliteration": "indrāya namaḥ |",
+      "translation_english": "Salutations to Indra."
+    }
+  ]
+},
+
+
 
 
 
