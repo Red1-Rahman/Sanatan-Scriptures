@@ -2610,6 +2610,51 @@
   ]
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 2,
+  "sukta_number": 37,
+  "sukta_name": "Indra-Brihaspati Sukta",
+  "rishi": "Gritsamada Shaunaka",
+  "devata": "Indra-Brihaspati",
+  "chandas": "Trishtubh",
+  "total_verses": 5,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sanskrit_text": "इन्द्राबृहस्पती हविषा ववृमहे ।",
+      "transliteration": "indrābṛhaspatī haviṣā vavṛmahe |",
+      "translation_english": "With oblation we invoke Indra and Bṛhaspati."
+    },
+    {
+      "verse_number": 2,
+      "sanskrit_text": "युवं हि स्थो रयिदाता ।",
+      "transliteration": "yuvaṃ hi stho rayidātā |",
+      "translation_english": "For you two are bestowers of wealth."
+    },
+    {
+      "verse_number": 3,
+      "sanskrit_text": "इन्द्रः शक्त्या बृहस्पतिः मन्त्रैः ।",
+      "transliteration": "indraḥ śaktyā bṛhaspatiḥ mantraiḥ |",
+      "translation_english": "Indra with strength, Bṛhaspati with sacred chants."
+    },
+    {
+      "verse_number": 4,
+      "sanskrit_text": "स नो विश्वतः पातम् ।",
+      "transliteration": "sa no viśvataḥ pātam |",
+      "translation_english": "May you both protect us from every side."
+    },
+    {
+      "verse_number": 5,
+      "sanskrit_text": "इन्द्राबृहस्पती नमः ।",
+      "transliteration": "indrābṛhaspatī namaḥ |",
+      "translation_english": "Salutations to Indra and Bṛhaspati."
+    }
+  ]
+},
+
+
 
 
 
