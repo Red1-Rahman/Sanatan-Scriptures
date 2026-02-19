@@ -2698,6 +2698,57 @@
   ]
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 2,
+  "sukta_number": 39,
+  "sukta_name": "Vishvadeva Sukta",
+  "rishi": "Gritsamada Shaunaka",
+  "devata": "Vishvadevas",
+  "chandas": "Trishtubh",
+  "total_verses": 6,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sanskrit_text": "विश्वे देवाः शृणोतु नः हव्यम् ।",
+      "transliteration": "viśve devāḥ śṛṇotu naḥ havyam |",
+      "translation_english": "May all the gods hear our invocation."
+    },
+    {
+      "verse_number": 2,
+      "sanskrit_text": "ते नो विश्वानि वार्या दधतु ।",
+      "transliteration": "te no viśvāni vāryā dadhatu |",
+      "translation_english": "May they grant us all desirable blessings."
+    },
+    {
+      "verse_number": 3,
+      "sanskrit_text": "आगच्छन्तु नः सुशर्माणो देवाः ।",
+      "transliteration": "āgacchantu naḥ suśarmāṇo devāḥ |",
+      "translation_english": "May the gods come to us with gracious protection."
+    },
+    {
+      "verse_number": 4,
+      "sanskrit_text": "विश्वे नो देवाः पान्तु सर्वतः ।",
+      "transliteration": "viśve no devāḥ pāntu sarvataḥ |",
+      "translation_english": "May all the gods guard us from every direction."
+    },
+    {
+      "verse_number": 5,
+      "sanskrit_text": "दुरितानि परि मृक्षन्तु नः ।",
+      "transliteration": "duritāni pari mṛkṣantu naḥ |",
+      "translation_english": "May they remove all evils from us."
+    },
+    {
+      "verse_number": 6,
+      "sanskrit_text": "विश्वे देवाः सुशर्मणा पात नः ।",
+      "transliteration": "viśve devāḥ suśarmaṇā pāta naḥ |",
+      "translation_english": "O all gods, protect us with gracious shelter."
+    }
+  ]
+},
+
+
 
 
 
