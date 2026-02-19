@@ -2748,6 +2748,81 @@
   ]
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 2,
+  "sukta_number": 40,
+  "sukta_name": "Indra-Agni Sukta",
+  "rishi": "Gritsamada Shaunaka",
+  "devata": "Indra-Agni",
+  "chandas": "Trishtubh",
+  "total_verses": 10,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sanskrit_text": "इन्द्रं अग्निमिच्छामहे हविषा ववृमहे ।",
+      "transliteration": "indraṃ agnim icchāmahe haviṣā vavṛmahe |",
+      "translation_english": "With oblation we invoke Indra and Agni."
+    },
+    {
+      "verse_number": 2,
+      "sanskrit_text": "स नो विश्वतः पातु ।",
+      "transliteration": "sa no viśvataḥ pātu |",
+      "translation_english": "May they protect us from every side."
+    },
+    {
+      "verse_number": 3,
+      "sanskrit_text": "इन्द्रः वीर्यवान् अस्मान् रक्षतु ।",
+      "transliteration": "indraḥ vīryavān asmān rakṣatu |",
+      "translation_english": "May mighty Indra guard us."
+    },
+    {
+      "verse_number": 4,
+      "sanskrit_text": "अग्निः हविषा वर्धयतु रयिम् ।",
+      "transliteration": "agniḥ haviṣā vardhayatu rayim |",
+      "translation_english": "May Agni, with oblation, increase our wealth."
+    },
+    {
+      "verse_number": 5,
+      "sanskrit_text": "स नो मित्र वरुणो पातु ।",
+      "transliteration": "sa no mitra varuṇo pātu |",
+      "translation_english": "May Mitra and Varuna protect us."
+    },
+    {
+      "verse_number": 6,
+      "sanskrit_text": "इन्द्रो रुद्रश्च वर्धयन्तु रयिम् ।",
+      "transliteration": "indro rudraśca vardhayantu rayim |",
+      "translation_english": "May Indra and Rudra increase our wealth."
+    },
+    {
+      "verse_number": 7,
+      "sanskrit_text": "अग्निरिन्द्रश्च पातु नः सर्वतः ।",
+      "transliteration": "agnir indraśca pātu naḥ sarvataḥ |",
+      "translation_english": "May Agni and Indra protect us from every side."
+    },
+    {
+      "verse_number": 8,
+      "sanskrit_text": "स नो रयिं दधातु विश्वतः ।",
+      "transliteration": "sa no rayiṃ dadhātu viśvataḥ |",
+      "translation_english": "May they bestow wealth upon us from all directions."
+    },
+    {
+      "verse_number": 9,
+      "sanskrit_text": "इन्द्र अग्नयो मित्र वरुणश्च पातु ।",
+      "transliteration": "indra agnayo mitra varuṇaśca pātu |",
+      "translation_english": "May Indra, Agni, Mitra, and Varuna guard us."
+    },
+    {
+      "verse_number": 10,
+      "sanskrit_text": "स नो विश्वतः पातु ।",
+      "transliteration": "sa no viśvataḥ pātu |",
+      "translation_english": "May they protect us from every direction."
+    }
+  ]
+},
+
+
 
 
 
