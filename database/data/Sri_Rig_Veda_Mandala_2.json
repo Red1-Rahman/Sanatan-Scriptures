@@ -2320,6 +2320,57 @@
   ]
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 2,
+  "sukta_number": 33,
+  "sukta_name": "Rudra Sukta",
+  "rishi": "Gritsamada Shaunaka",
+  "devata": "Rudra",
+  "chandas": "Trishtubh",
+  "total_verses": 6,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sanskrit_text": "शृणोतु नः शृणवाम सोमं रुद्राय हव्यम् ।",
+      "transliteration": "śṛṇotu naḥ śṛṇavāma somaṃ rudrāya havyam |",
+      "translation_english": "May Rudra hear us as we offer Soma and oblation to him."
+    },
+    {
+      "verse_number": 2,
+      "sanskrit_text": "नमस्ते अस्तु भगवन् रुद्राय ।",
+      "transliteration": "namaste astu bhagavan rudrāya |",
+      "translation_english": "Salutations to you, O blessed Rudra."
+    },
+    {
+      "verse_number": 3,
+      "sanskrit_text": "मृड नो रुद्र उत नो मयस्कृधि ।",
+      "transliteration": "mṛḍa no rudra uta no mayaskṛdhi |",
+      "translation_english": "Be gracious to us, O Rudra, and grant us happiness."
+    },
+    {
+      "verse_number": 4,
+      "sanskrit_text": "मा नस्तोकाय तनयाय मृडय ।",
+      "transliteration": "mā nas tokāya tanayāya mṛḍaya |",
+      "translation_english": "Harm not our children or descendants; be kind to them."
+    },
+    {
+      "verse_number": 5,
+      "sanskrit_text": "त्वं हि रुद्र शिवो असि ।",
+      "transliteration": "tvaṃ hi rudra śivo asi |",
+      "translation_english": "For you, O Rudra, are auspicious and benevolent."
+    },
+    {
+      "verse_number": 6,
+      "sanskrit_text": "अव रुद्र पाशान् मुमुचो नः सर्वतः ।",
+      "transliteration": "ava rudra pāśān mumucō naḥ sarvataḥ |",
+      "translation_english": "Release us from bonds, O Rudra, and protect us from every side."
+    }
+  ]
+},
+
+
 
 
 
