@@ -2028,6 +2028,87 @@
   ]
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 2,
+  "sukta_number": 28,
+  "sukta_name": "Varuna Sukta",
+  "rishi": "Gritsamada Shaunaka",
+  "devata": "Varuna",
+  "chandas": "Trishtubh",
+  "total_verses": 11,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sanskrit_text": "इदं वचो वरुणाय श्रुधि हव्यम् ।",
+      "transliteration": "idaṃ vaco varuṇāya śrudhi havyam |",
+      "translation_english": "Hear this invocation, O Varuna."
+    },
+    {
+      "verse_number": 2,
+      "sanskrit_text": "किमग्न इदं वरुण त्वा चिकीर्षे ।",
+      "transliteration": "kim agna idaṃ varuṇa tvā cikīrṣe |",
+      "translation_english": "What offense have I committed, O Varuna?"
+    },
+    {
+      "verse_number": 3,
+      "sanskrit_text": "यच्चिद्धि ते विशो यथा प्र देवा ।",
+      "transliteration": "yac cid dhi te viśo yathā pra devā |",
+      "translation_english": "If we, O god, have transgressed your laws among men."
+    },
+    {
+      "verse_number": 4,
+      "sanskrit_text": "अव त्वं नः वरुण विश्वतो रक्ष ।",
+      "transliteration": "ava tvaṃ naḥ varuṇa viśvato rakṣa |",
+      "translation_english": "Protect us, O Varuna, from every side."
+    },
+    {
+      "verse_number": 5,
+      "sanskrit_text": "मा नः पाशैरवरुण बद्धि ।",
+      "transliteration": "mā naḥ pāśair avaruṇa baddhi |",
+      "translation_english": "Do not bind us with your snares, O Varuna."
+    },
+    {
+      "verse_number": 6,
+      "sanskrit_text": "उत नो विश्वानि दुरितानि परि मृक्षीः ।",
+      "transliteration": "uta no viśvāni duritāni pari mṛkṣīḥ |",
+      "translation_english": "Remove from us all sins and evils."
+    },
+    {
+      "verse_number": 7,
+      "sanskrit_text": "कृणुष्व पाशान् प्र मुञ्च नः ।",
+      "transliteration": "kṛṇuṣva pāśān pra muñca naḥ |",
+      "translation_english": "Loosen your bonds and release us."
+    },
+    {
+      "verse_number": 8,
+      "sanskrit_text": "यच्चिद्धि ते विश्वो यथा प्र देवा ।",
+      "transliteration": "yac cid dhi te viśvo yathā pra devā |",
+      "translation_english": "If we have sinned knowingly or unknowingly."
+    },
+    {
+      "verse_number": 9,
+      "sanskrit_text": "अव द्रुहो मृडय नः ।",
+      "transliteration": "ava druho mṛḍaya naḥ |",
+      "translation_english": "Forgive our offenses and be gracious to us."
+    },
+    {
+      "verse_number": 10,
+      "sanskrit_text": "वरुणो नः पातु विश्वतः ।",
+      "transliteration": "varuṇo naḥ pātu viśvataḥ |",
+      "translation_english": "May Varuna protect us from every direction."
+    },
+    {
+      "verse_number": 11,
+      "sanskrit_text": "अव त्वं नो वरुण सर्वतः पातु ।",
+      "transliteration": "ava tvaṃ no varuṇa sarvataḥ pātu |",
+      "translation_english": "Guard us, O Varuna, on every side."
+    }
+  ]
+},
+
+
 
 
 
