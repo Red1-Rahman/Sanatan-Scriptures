@@ -2872,6 +2872,81 @@
   ]
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 2,
+  "sukta_number": 42,
+  "sukta_name": "Agni Sukta",
+  "rishi": "Gritsamada Shaunaka",
+  "devata": "Agni",
+  "chandas": "Trishtubh",
+  "total_verses": 10,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sanskrit_text": "अग्निं हविषा ववृमहे ।",
+      "transliteration": "agniṃ haviṣā vavṛmahe |",
+      "translation_english": "With oblation we invoke Agni."
+    },
+    {
+      "verse_number": 2,
+      "sanskrit_text": "स नो विश्वतः पातु ।",
+      "transliteration": "sa no viśvataḥ pātu |",
+      "translation_english": "May he protect us from every side."
+    },
+    {
+      "verse_number": 3,
+      "sanskrit_text": "अग्निरुद्रः सर्वशक्तिमान् ।",
+      "transliteration": "agnir udraḥ sarvaśaktimān |",
+      "translation_english": "Agni, mighty and all-powerful."
+    },
+    {
+      "verse_number": 4,
+      "sanskrit_text": "स नो रयिं दधातु ।",
+      "transliteration": "sa no rayiṃ dadhātu |",
+      "translation_english": "May he bestow wealth upon us."
+    },
+    {
+      "verse_number": 5,
+      "sanskrit_text": "तेनो हविषा वर्धयाम ।",
+      "transliteration": "teno haviṣā vardhayāma |",
+      "translation_english": "With oblation, we magnify him."
+    },
+    {
+      "verse_number": 6,
+      "sanskrit_text": "स नो रत्नधातुर्भवतु ।",
+      "transliteration": "sa no ratnadhāturbhavatu |",
+      "translation_english": "May he bestow upon us precious treasures."
+    },
+    {
+      "verse_number": 7,
+      "sanskrit_text": "अग्निः पातु नः सर्वतः ।",
+      "transliteration": "agniḥ pātu naḥ sarvataḥ |",
+      "translation_english": "May Agni protect us from every direction."
+    },
+    {
+      "verse_number": 8,
+      "sanskrit_text": "स नो विश्वतः रयिम् दधातु ।",
+      "transliteration": "sa no viśvataḥ rayim dadhātu |",
+      "translation_english": "May he grant us wealth from all directions."
+    },
+    {
+      "verse_number": 9,
+      "sanskrit_text": "हविष्मन्तो नमस्याम ।",
+      "transliteration": "haviṣmanto namasyāma |",
+      "translation_english": "With offerings we bow in reverence."
+    },
+    {
+      "verse_number": 10,
+      "sanskrit_text": "अग्निं ववृमहे हविषा ।",
+      "transliteration": "agniṃ vavṛmahe haviṣā |",
+      "translation_english": "We invoke Agni with oblation."
+    }
+  ]
+},
+
+
 
 
 
