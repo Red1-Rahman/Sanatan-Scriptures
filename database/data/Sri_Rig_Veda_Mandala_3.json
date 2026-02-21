@@ -588,6 +588,81 @@
   ]
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 3,
+  "sukta_number": 8,
+  "sukta_name": "Agni Sukta",
+  "rishi": "Vishvamitra",
+  "devata": "Agni",
+  "chandas": "Gayatri",
+  "total_verses": 10,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sanskrit_text": "अग्निं यज्ञेषु सर्वेषु समायाति शुभ्रः।",
+      "transliteration": "agniṃ yajñeṣu sarveṣu samāyāti śubhraḥ",
+      "translation_english": "Agni, the pure, is present in all sacrifices."
+    },
+    {
+      "verse_number": 2,
+      "sanskrit_text": "अग्निः पूर्वेभिरृषिभिर्युते देवेषु चोत्तमः।",
+      "transliteration": "agniḥ pūrvebhir ṛṣibhir yute deveṣu cottamaḥ",
+      "translation_english": "Agni, praised by ancient seers, excels among the gods."
+    },
+    {
+      "verse_number": 3,
+      "sanskrit_text": "अग्निना रयिमश्नवत्पोषमेव दिवेदिवे।",
+      "transliteration": "agninā rayim aśnavat poṣam eva divedive",
+      "translation_english": "Through Agni one gains wealth and nourishment day by day."
+    },
+    {
+      "verse_number": 4,
+      "sanskrit_text": "अग्निर्भद्रं यच्छति ते यज्ञेषु सदा वरुणो वरुणः।",
+      "transliteration": "agnir bhadraṃ yacchati te yajñeṣu sadā varuṇo varuṇaḥ",
+      "translation_english": "Agni grants auspiciousness in sacrifice, as Varuna ever bestows goodness."
+    },
+    {
+      "verse_number": 5,
+      "sanskrit_text": "उप त्वाग्ने दिवेदिवे दोषावस्तर्धिया वयम्।",
+      "transliteration": "upa tvāgne divedive doṣāvastar dhiyā vayam",
+      "translation_english": "To thee, O Agni, day by day, at evening and at dawn, we come with reverence."
+    },
+    {
+      "verse_number": 6,
+      "sanskrit_text": "स नः पितेव सूनवेऽग्ने सुपायनो भव।",
+      "transliteration": "sa naḥ piteva sūnave agne supāyano bhava",
+      "translation_english": "Be to us like a father to his son, O Agni."
+    },
+    {
+      "verse_number": 7,
+      "sanskrit_text": "राजन्तमध्वराणां गोपामृतस्य दीदिविम्।",
+      "transliteration": "rājantam adhvarāṇāṃ gopām ṛtasya dīdivim",
+      "translation_english": "Shining ruler of sacrifices, guardian of sacred order."
+    },
+    {
+      "verse_number": 8,
+      "sanskrit_text": "अग्ने यं यज्ञमध्वरं विश्वतः परिभूरसि।",
+      "transliteration": "agne yaṃ yajñam adhvaraṃ viśvataḥ paribhūr asi",
+      "translation_english": "O Agni, the sacrifice which you encompass on all sides goes among the gods."
+    },
+    {
+      "verse_number": 9,
+      "sanskrit_text": "अग्निर्होता कविक्रतुः सत्यश्चित्रश्रवस्तमः।",
+      "transliteration": "agnir hotā kavikratuḥ satyaś citraśravastamaḥ",
+      "translation_english": "Agni, the Hotar, wise and true, most splendid among the gods."
+    },
+    {
+      "verse_number": 10,
+      "sanskrit_text": "शं नो देवा ऋतवः सन्तु विश्वे ऋतवस्ति नः सह।",
+      "transliteration": "śaṃ no devā ṛtavaḥ santu viśve ṛtavas ti naḥ saha",
+      "translation_english": "May all the gods, guardians of cosmic order, be with us."
+    }
+  ]
+},
+
+
 
 
 
