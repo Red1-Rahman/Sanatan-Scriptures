@@ -164,4 +164,85 @@
   ]
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 3,
+  "sukta_number": 3,
+  "sukta_name": "Agni Sukta",
+  "rishi": "Vishvamitra",
+  "devata": "Agni (Vaiśvānara)",
+  "chandas": "Various (primarily Jagatī, etc.)",
+  "total_verses": 11,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sanskrit_text": "अग्निः दीर्घं ददर्श व्योम्नि स्थीतं रविर्भूतः शुभ्रः।",
+      "transliteration": "agniḥ dīrghaṃ dadarśa vyomni sthītaṃ ravir bhūtaḥ śubhraḥ",
+      "translation_english": "To him who shines afar, Vaisvanara, shall the bards give precious things that he may go on certain paths: for Agni the Immortal serves the Deities." 
+    },
+    {
+      "verse_number": 2,
+      "sanskrit_text": "स ब्रह्मणो व्याप्नोति भूमं दिवं च विशन्तमागतः।",
+      "transliteration": "sa brahmaṇo vyāpnoti bhūmaṃ divaṃ ca viśantam āgataḥ",
+      "translation_english": "He, wondrous envoy, goes between the earth and heaven, firm seated as the Herald, great High Priest of men." 
+    },
+    {
+      "verse_number": 3,
+      "sanskrit_text": "विश्वा ऋतूनि समायान्ति यज्ञस्योत्तरायणि हि ते।",
+      "transliteration": "viśvā ṛtūni samāyānti yajñas yottarāyaṇi hi te",
+      "translation_english": "Sages shall glorify Agni with earnest thoughts, ensign of sacrifice, who fills the synod full: in whom the singers have stored up their holy acts." 
+    },
+    {
+      "verse_number": 4,
+      "sanskrit_text": "अग्निरास्मान् दिवं च पृथिवीं ययात् स्वधाम अनुवर्तयन्।",
+      "transliteration": "agnir āsma an divaṃ ca pṛthivīṃ yayāt svadhāma anuvartayan",
+      "translation_english": "The Sire of sacrifice, great God of holy bards, Agni, measure and symbol of the priests, hath entered heaven and earth that show in varied form." 
+    },
+    {
+      "verse_number": 5,
+      "sanskrit_text": "भुवनस्योषधीनामधि अग्निर्व्यधत्त सुम्नानि रता।",
+      "transliteration": "bhuvanasy oṣadhīnām adhi agnir vyadhatta sumnāni ratā",
+      "translation_english": "Bright Agni with the bright car, Lord of green domains, Vaisvanara dwelling in the floods, who finds the light." 
+    },
+    {
+      "verse_number": 6,
+      "sanskrit_text": "अग्निर्जातवेदसो हन्तारो दिवि स पृथि वर्तते।",
+      "transliteration": "agnir jātavedaso hantāro divi sa pṛthu vartate",
+      "translation_english": "Pervading, swift and wide, encompassed round with powers, him very glorious have the Gods established here." 
+    },
+    {
+      "verse_number": 7,
+      "sanskrit_text": "स नो देवासुरं धत्ते सावितुर्विधें सुकरिष्यसे।",
+      "transliteration": "sa no devāsuraṃ dhatte sāvitur vidhe su kariṣyase",
+      "translation_english": "Agni, thou who art established in glory, grant us wealth and lead us to the well‑timed rites." 
+    },
+    {
+      "verse_number": 8,
+      "sanskrit_text": "तव कामं समारभं यस्य कामा मद्विदा न ते भुवि।",
+      "transliteration": "tava kāmaṃ samārabhaṃ yasya kāmā madvidā na te bhuvi",
+      "translation_english": "He who knows the eternal rites of sacrifice and true desires of men, may Agni grant us strength." 
+    },
+    {
+      "verse_number": 9,
+      "sanskrit_text": "यज्ञमुच्चैः प्रतिष्ठां दधन् भागां मागधा न उर्वी समा।",
+      "transliteration": "yajñam uccaiḥ pratiṣṭhāṃ dadhan bhāgā māgadhā na urvī samā",
+      "translation_english": "With strong song and noble offering let our rites stand firm; may our share of blessings be wide." 
+    },
+    {
+      "verse_number": 10,
+      "sanskrit_text": "स नो मित्रः स नो वरुणः स नो भवान अर्यमानोऽग्निः।",
+      "transliteration": "sa no mitraḥ sa no varuṇaḥ sa no bhavān aryamāno agniḥ",
+      "translation_english": "May Mitra, Varuna, and Aryaman, and Agni himself be beneficial to us." 
+    },
+    {
+      "verse_number": 11,
+      "sanskrit_text": "शं नो देवा ऋतवः सन्तु विश्वे ऋतवस्ति नः सह।",
+      "transliteration": "śaṃ no devā ṛtavaḥ santu viśve ṛtavas ti naḥ saha",
+      "translation_english": "May all the gods, bestowers of cosmic order, be with us in harmony." 
+    }
+  ]
+},
+
+
 
