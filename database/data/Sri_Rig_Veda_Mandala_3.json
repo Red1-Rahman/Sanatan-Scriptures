@@ -1,0 +1,86 @@
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 3,
+  "sukta_number": 1,
+  "sukta_name": "Agni Sukta",
+  "rishi": "Vishvamitra",
+  "devata": "Agni",
+  "chandas": "Gayatri (predominantly)",
+  "total_verses": 12,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sanskrit_text": "अग्निं वो देवयज्यया अग्निं प्रयत्यध्वरे। अग्निं होतारमीळते॥",
+      "transliteration": "agniṃ vo devayajyayā agniṃ prayaty adhvare | agniṃ hotāram īḷate ||",
+      "translation_english": "Agni do men invoke for worship, Agni at sacrifice duly performed; Agni the Hotar they praise."
+    },
+    {
+      "verse_number": 2,
+      "sanskrit_text": "अग्निः पूर्वेभिरृषिभिरीड्यो नूतनैरुत। स देवाँ एह वक्षति॥",
+      "transliteration": "agniḥ pūrvebhir ṛṣibhir īḍyo nūtanair uta | sa devān eha vakṣati ||",
+      "translation_english": "Agni, praised by ancient seers and by those of today, may he bring the gods here."
+    },
+    {
+      "verse_number": 3,
+      "sanskrit_text": "अग्निना रयिमश्नवत्पोषमेव दिवेदिवे। यशसं वीरवत्तमम्॥",
+      "transliteration": "agninā rayim aśnavat poṣam eva divedive | yaśasaṃ vīravattamam ||",
+      "translation_english": "Through Agni one gains wealth and nourishment day by day, glorious and most rich in heroes."
+    },
+    {
+      "verse_number": 4,
+      "sanskrit_text": "अग्ने यं यज्ञमध्वरं विश्वतः परिभूरसि। स इद्देवेषु गच्छति॥",
+      "transliteration": "agne yaṃ yajñam adhvaraṃ viśvataḥ paribhūr asi | sa id deveṣu gacchati ||",
+      "translation_english": "O Agni, the sacrifice which thou encompassest on every side, that indeed goes among the gods."
+    },
+    {
+      "verse_number": 5,
+      "sanskrit_text": "अग्निर्होता कविक्रतुः सत्यश्चित्रश्रवस्तमः। देवो देवेभिरा गमत्॥",
+      "transliteration": "agnir hotā kavikratuḥ satyaś citraśravastamaḥ | devo devebhir ā gamat ||",
+      "translation_english": "Agni, the Hotar, of wise resolve, most truthful, of glorious fame—may the god come with the gods."
+    },
+    {
+      "verse_number": 6,
+      "sanskrit_text": "यदङ्ग दाशुषे त्वमग्ने भद्रं करिष्यसि। तवेत्तत्सत्यमङ्गिरः॥",
+      "transliteration": "yadaṅga dāśuṣe tvam agne bhadraṃ kariṣyasi | tavet tat satyam aṅgiraḥ ||",
+      "translation_english": "Whatever blessing thou, O Agni, wilt grant to the worshipper, that, O Angiras, is thy true gift."
+    },
+    {
+      "verse_number": 7,
+      "sanskrit_text": "उप त्वाग्ने दिवेदिवे दोषावस्तर्धिया वयम्। नमो भरन्त एमसि॥",
+      "transliteration": "upa tvāgne divedive doṣāvastar dhiyā vayam | namo bharanta emasī ||",
+      "translation_english": "To thee, O Agni, day by day, at evening and at dawn, we come with reverence."
+    },
+    {
+      "verse_number": 8,
+      "sanskrit_text": "राजन्तमध्वराणां गोपामृतस्य दीदिविम्। वर्धमानं स्वे दमे॥",
+      "transliteration": "rājantam adhvarāṇāṃ gopām ṛtasya dīdivim | vardhamānaṃ sve dame ||",
+      "translation_english": "Shining ruler of sacrifices, guardian of the cosmic order, growing in thine own house."
+    },
+    {
+      "verse_number": 9,
+      "sanskrit_text": "स नः पितेव सूनवेऽग्ने सुपायनो भव। सचस्वा नः स्वस्तये॥",
+      "transliteration": "sa naḥ piteva sūnave agne supāyano bhava | sacasvā naḥ svastaye ||",
+      "translation_english": "So be to us, O Agni, as a father to his son; be easy of access to us for our welfare."
+    },
+    {
+      "verse_number": 10,
+      "sanskrit_text": "अग्ने त्वं पारया नव्यो अस्मान्स्वस्तिभिरति दुर्गाणि विश्वा। पूश्च पृथ्वी बहुला न उर्वी भव तोकाय तनयाय शं योः॥",
+      "transliteration": "agne tvaṃ pārayā navyo asmān svastibhir ati durgāṇi viśvā | pūś ca pṛthvī bahulā na urvī bhava tokāya tanayāya śaṃ yoḥ ||",
+      "translation_english": "O Agni, carry us safely over all hardships with thy auspicious powers. May the wide earth and heaven be gracious to us and to our offspring."
+    },
+    {
+      "verse_number": 11,
+      "sanskrit_text": "अग्ने नय सुपथा राये अस्मान् विश्वानि देव वयुनानि विद्वान्। युयोध्यस्मज्जुहुराणमेनो भूयिष्ठां ते नमउक्तिं विधेम॥",
+      "transliteration": "agne naya supathā rāye asmān viśvāni deva vayunāni vidvān | yuyodhy asmaj juhurāṇam eno bhūyiṣṭhāṃ te nama uktiṃ vidhema ||",
+      "translation_english": "O Agni, lead us by the good path to prosperity, O god who knowest all ways. Remove from us crooked sin. To thee we offer our highest reverence."
+    },
+    {
+      "verse_number": 12,
+      "sanskrit_text": "शं नो मित्रः शं वरुणः शं नो भवत्वर्यमा। शं न इन्द्रो बृहस्पतिः शं नो विष्णुरुरुक्रमः॥",
+      "transliteration": "śaṃ no mitraḥ śaṃ varuṇaḥ śaṃ no bhavatv aryamā | śaṃ na indro bṛhaspatiḥ śaṃ no viṣṇur urukramaḥ ||",
+      "translation_english": "May Mitra bless us, and Varuna; may Aryaman bless us; may Indra and Brihaspati bless us; may Vishnu of wide stride bless us."
+    }
+  ]
+},
+
