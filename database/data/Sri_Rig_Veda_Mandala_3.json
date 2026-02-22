@@ -884,6 +884,75 @@
   ]
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 3,
+  "sukta_number": 12,
+  "sukta_name": "Agni",
+  "rishi": "Vishvamitra Gathina",
+  "devata": "Agni",
+  "chandas": "Gayatri",
+  "total_verses": 9,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sanskrit_text": "अग्निर्होता पुरोहितोऽध्वरस्य विचर्षणिः। स वेद यज्ञमानुषक्॥",
+      "transliteration": "agnir hotā purohito 'dhvarasya vicarṣaṇiḥ | sa veda yajñam ānuṣak ||",
+      "translation_english": "Agni, the Hotar and household priest of the sacrifice, knows the ways of men and the ritual."
+    },
+    {
+      "verse_number": 2,
+      "sanskrit_text": "अग्निर्वृत्राणि जङ्घनद् द्रविणस्युर्दधे रयिम्।",
+      "transliteration": "agnir vṛtrāṇi jaṅghanad draviṇasyur dadhe rayim |",
+      "translation_english": "Agni has struck down obstructions and bestows treasures upon men."
+    },
+    {
+      "verse_number": 3,
+      "sanskrit_text": "अग्निं वो देवयज्यया गृणाना यज्ञवाहसम्।",
+      "transliteration": "agniṃ vo devayajyayā gṛṇānā yajñavāhasam |",
+      "translation_english": "We worship Agni with song, the bearer of offerings to the gods."
+    },
+    {
+      "verse_number": 4,
+      "sanskrit_text": "स त्वा हि शश्वतीनां विश्वां जातानां पतिम्।",
+      "transliteration": "sa tvā hi śaśvatīnām viśvāṃ jātānāṃ patim |",
+      "translation_english": "Thee, lord of all that is born and of eternal generations, we praise."
+    },
+    {
+      "verse_number": 5,
+      "sanskrit_text": "अग्ने त्वं नो अन्तमुत त्राता शिवो भव।",
+      "transliteration": "agne tvaṃ no antamut trātā śivo bhava |",
+      "translation_english": "Be our nearest friend, O Agni, our protector and auspicious one."
+    },
+    {
+      "verse_number": 6,
+      "sanskrit_text": "स नः पावक दीदिहि विश्वान्यरातिः।",
+      "transliteration": "sa naḥ pāvaka dīdihi viśvāny arātiḥ |",
+      "translation_english": "Shine for us, O purifier, and drive away all adversities."
+    },
+    {
+      "verse_number": 7,
+      "sanskrit_text": "अग्ने यज्ञस्य सुक्रतो विश्वानि देव वायुनि।",
+      "transliteration": "agne yajñasya sukrato viśvāni deva vāyuni |",
+      "translation_english": "O Agni, endowed with good resolve, divine, know all the workings of sacrifice."
+    },
+    {
+      "verse_number": 8,
+      "sanskrit_text": "यज्ञं नो अध्वरं वह देवेभ्यो हव्यवाहन।",
+      "transliteration": "yajñaṃ no adhvaraṃ vaha devebhyo havyavāhana |",
+      "translation_english": "Bring our offerings to the gods, O bearer of oblations."
+    },
+    {
+      "verse_number": 9,
+      "sanskrit_text": "अग्ने सुपायनो भव सचा स्वस्तये सदा।",
+      "transliteration": "agne supāyano bhava sacā svastaye sadā |",
+      "translation_english": "Be easy of approach to us, O Agni, and ever present for our welfare."
+    }
+  ]
+},
+
+
 
 
 
