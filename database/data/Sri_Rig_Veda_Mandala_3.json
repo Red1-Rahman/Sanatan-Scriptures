@@ -1212,7 +1212,60 @@
       "translation_english": "Be easy of approach to us, O Agni, and ever present for our welfare."
     }
   ]
-}
+},
+
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 3,
+  "sukta_number": 18,
+  "sukta_name": "Agni",
+  "rishi": "Vishvamitra Gathina",
+  "devata": "Agni",
+  "chandas": "Gayatri",
+  "total_verses": 6,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sanskrit_text": "अग्निर्होता पुरोहितोऽध्वरस्य विचर्षणिः। स वेद यज्ञमानुषक्॥",
+      "transliteration": "agnir hotā purohito 'dhvarasya vicarṣaṇiḥ | sa veda yajñam ānuṣak ||",
+      "translation_english": "Agni, the Hotar, priest of the sacrifice, moves among men knowing the sacred rites."
+    },
+    {
+      "verse_number": 2,
+      "sanskrit_text": "स हि देवो अमर्त्यो दुवस्यत्यध्वरान्।",
+      "transliteration": "sa hi devo amartyo duvasyaty adhvarān |",
+      "translation_english": "For he, immortal God, honors the sacrifice with devotion."
+    },
+    {
+      "verse_number": 3,
+      "sanskrit_text": "अग्निर्वृत्राणि जङ्घनद् द्रविणस्युर्दधे रयिम्।",
+      "transliteration": "agnir vṛtrāṇi jaṅghanad draviṇasyur dadhe rayim |",
+      "translation_english": "Agni destroys obstacles and bestows wealth to men."
+    },
+    {
+      "verse_number": 4,
+      "sanskrit_text": "अग्निं वो देवयज्यया गृणाना यज्ञवाहसम्।",
+      "transliteration": "agniṃ vo devayajyayā gṛṇānā yajñavāhasam |",
+      "translation_english": "We praise Agni, the bearer of offerings, through divine worship."
+    },
+    {
+      "verse_number": 5,
+      "sanskrit_text": "तं त्वा हि शश्वतीनां विश्वां जातानां पतिम्।",
+      "transliteration": "taṃ tvā hi śaśvatīnām viśvāṃ jātānāṃ patim |",
+      "translation_english": "Thee, lord of all that is born and of eternal generations, we praise."
+    },
+    {
+      "verse_number": 6,
+      "sanskrit_text": "अग्ने सुपायनो भव सचा स्वस्तये सदा।",
+      "transliteration": "agne supāyano bhava sacā svastaye sadā |",
+      "translation_english": "Be easy of approach to us, O Agni, and ever present for our welfare."
+    }
+  ]
+},
+
+
+
 
 
 
