@@ -1614,6 +1614,61 @@
   ]
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 3,
+  "sukta_number": 26,
+  "sukta_name": "Agni",
+  "rishi": "Vishvamitra Gathina",
+  "devata": "Agni",
+  "chandas": "Gayatri",
+  "total_verses": 7,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sanskrit_text": "वैश्वानराय धिषणामृतावृधे घृतं न पूतमग्नये जनामसि। द्विता होताारं मनुषश्च वाघतो धिया रथं न कुलिशः सं हिनोमि॥",
+      "transliteration": "vaiśvānarāya dhiṣaṇām ṛtāvṛdhe ghṛtaṃ na pūtam agnaye janāmasi | dvitā hotāraṃ manuṣaś ca vāghato dhiyā rathaṃ na kuliśaḥ saṃ hinomi ||",
+      "translation_english": "To Vaiśvānara, increaser of holy law, we offer clarified butter like purified ghee to Agni. Him, the twofold Hotar of men, I impel with prayer as a charioteer urges on his car."
+    },
+    {
+      "verse_number": 2,
+      "sanskrit_text": "स रोचते जनुषा पृथिव्या वैश्वानरो अग्निरमृतो न जातः।",
+      "transliteration": "sa rocate januṣā pṛthivyā vaiśvānaro agnir amṛto na jātaḥ |",
+      "translation_english": "Agni Vaiśvānara shines from his birth upon earth, immortal as though newly born."
+    },
+    {
+      "verse_number": 3,
+      "sanskrit_text": "यस्य देवासो अधि विश्वे अस्मिन्नभि श्रवो दधिरे पुरूणि।",
+      "transliteration": "yasya devāso adhi viśve asminn abhi śravo dadhire purūṇi |",
+      "translation_english": "In him all the Gods have placed abundant glory."
+    },
+    {
+      "verse_number": 4,
+      "sanskrit_text": "वैश्वानरं मनसा धीयते नरः स्वर्विदं शुचिमग्निं सुदक्षम्।",
+      "transliteration": "vaiśvānaraṃ manasā dhīyate naraḥ svarvidaṃ śucim agniṃ sudakṣam |",
+      "translation_english": "With mind the worshipper kindles Vaiśvānara, the radiant Agni, knower of heaven, skillful and pure."
+    },
+    {
+      "verse_number": 5,
+      "sanskrit_text": "तमिद्धोता यजमानस्य सुव्रतो विश्वानि देव वयुनानि विद्वान्।",
+      "transliteration": "tam id dhotā yajamānasya suvrato viśvāni deva vayunāni vidvān |",
+      "translation_english": "That Hotar of the worshipper, faithful to sacred law, knows all divine ordinances."
+    },
+    {
+      "verse_number": 6,
+      "sanskrit_text": "अग्निर्विश्वानि कविक्रतुः पुरो हिता यज्ञस्य देवमृत्विजम्।",
+      "transliteration": "agnir viśvāni kavikratuḥ puro hitā yajñasya devam ṛtvijam |",
+      "translation_english": "Agni, wise in counsel, placed in front, the divine priest of the sacrifice, knows all things."
+    },
+    {
+      "verse_number": 7,
+      "sanskrit_text": "स नो अग्निः सुविताय प्र यच्छाद्विश्वानि देव वयुनानि विद्वान्।",
+      "transliteration": "sa no agniḥ suvitāya pra yacchād viśvāni deva vayunāni vidvān |",
+      "translation_english": "May that Agni grant us prosperity, knowing all divine paths."
+    }
+  ]
+},
 
 
 
