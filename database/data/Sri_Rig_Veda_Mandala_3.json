@@ -1817,8 +1817,152 @@
       "translation_english": "Shine for us, O purifying Agni, for our welfare; O God, knowing all ordinances."
     }
   ]
-}
+},
 
+{
+  "veda": "Rigveda",
+  "mandala_number": 3,
+  "sukta_number": 30,
+  "sukta_name": "Indra",
+  "rishi": "Vishvamitra Gathina",
+  "devata": "Indra",
+  "chandas": "Trishtubh (predominant)",
+  "total_verses": 22,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sanskrit_text": "इन्द्रं वर्धन्तो अप्तुरः कृण्वाना यज्ञमुत्तमम्। स नो मघवा पुरुहूतः॥",
+      "transliteration": "indraṃ vardhanto apturaḥ kṛṇvānā yajñam uttamam | sa no maghavā puruhūtaḥ ||",
+      "translation_english": "Strengthening Indra, active and skillful, performing the highest sacrifice—may Maghavan, much-invoked, aid us."
+    },
+    {
+      "verse_number": 2,
+      "sanskrit_text": "स इन्द्रः सोमपा एको वज्री वृत्राणि जिघ्नते।",
+      "transliteration": "sa indraḥ somapā eko vajrī vṛtrāṇi jighnate |",
+      "translation_english": "He, Indra, Soma-drinker, alone the wielder of the thunderbolt, slays the Vṛtras."
+    },
+    {
+      "verse_number": 3,
+      "sanskrit_text": "त्वं न इन्द्र वाजयुस्त्वं गव्युः शतक्रतो। त्वं हिरण्ययुः॥",
+      "transliteration": "tvaṃ na indra vājayus tvaṃ gavyuḥ śatakrato | tvaṃ hiraṇyayuḥ ||",
+      "translation_english": "Thou, O Indra of a hundred powers, art giver of strength, giver of cows, giver of gold."
+    },
+    {
+      "verse_number": 4,
+      "sanskrit_text": "त्वं हि शूरः सनिता विश्वस्य धनदा असि।",
+      "transliteration": "tvaṃ hi śūraḥ sanitā viśvasya dhanadā asi |",
+      "translation_english": "For thou art hero, winner of all, bestower of wealth."
+    },
+    {
+      "verse_number": 5,
+      "sanskrit_text": "त्वया ह स्विद्युजा वयं प्र वृत्राणि जघ्निम।",
+      "transliteration": "tvayā ha svid yujā vayaṃ pra vṛtrāṇi jaghnima |",
+      "translation_english": "With thee as ally we have smitten the Vṛtras."
+    },
+    {
+      "verse_number": 6,
+      "sanskrit_text": "त्वमिन्द्राभिभूरसि विश्वा जातान्योजसा।",
+      "transliteration": "tvam indrābhibhūr asi viśvā jātāny ojasā |",
+      "translation_english": "Thou, Indra, overpowerest all created things with might."
+    },
+    {
+      "verse_number": 7,
+      "sanskrit_text": "स नो वाजेषु नो धनेषु नो विश्वचर्षणे।",
+      "transliteration": "sa no vājeṣu no dhaneṣu no viśvacarṣaṇe |",
+      "translation_english": "Grant us success in battles, in wealth, and among all people."
+    },
+    {
+      "verse_number": 8,
+      "sanskrit_text": "इन्द्र त्वोतास आ वयं हवामहे।",
+      "transliteration": "indra tvotāsa ā vayaṃ havāmahe |",
+      "translation_english": "Indra, we call upon thee for aid."
+    },
+    {
+      "verse_number": 9,
+      "sanskrit_text": "आ न इन्द्र महिमानं यजत्रा बृहन्तं गृणतः।",
+      "transliteration": "ā na indra mahimānaṃ yajatrā bṛhantaṃ gṛṇataḥ |",
+      "translation_english": "Come to us, O worshipful Indra, with thy great might."
+    },
+    {
+      "verse_number": 10,
+      "sanskrit_text": "इन्द्रः सोमस्य पीतये।",
+      "transliteration": "indraḥ somasya pītaye |",
+      "translation_english": "Indra comes for the drinking of Soma."
+    },
+    {
+      "verse_number": 11,
+      "sanskrit_text": "यस्ते मदः पृतन्यति।",
+      "transliteration": "yas te madaḥ pṛtanyati |",
+      "translation_english": "That exhilaration of thine battles fiercely."
+    },
+    {
+      "verse_number": 12,
+      "sanskrit_text": "इन्द्र वज्रिन्नोजसा।",
+      "transliteration": "indra vajrinn ojasā |",
+      "translation_english": "O Indra, wielder of the thunderbolt, with might."
+    },
+    {
+      "verse_number": 13,
+      "sanskrit_text": "त्वं न इन्द्र गिर्वणः।",
+      "transliteration": "tvaṃ na indra girvaṇaḥ |",
+      "translation_english": "Thou, Indra, lover of song."
+    },
+    {
+      "verse_number": 14,
+      "sanskrit_text": "त्वमिन्द्राभिभूरसि।",
+      "transliteration": "tvam indrābhibhūr asi |",
+      "translation_english": "Thou art the overcomer, Indra."
+    },
+    {
+      "verse_number": 15,
+      "sanskrit_text": "इन्द्राय सोममिन्दवः।",
+      "transliteration": "indrāya somam indavaḥ |",
+      "translation_english": "The drops of Soma are for Indra."
+    },
+    {
+      "verse_number": 16,
+      "sanskrit_text": "त्वं हि नः पिता वसो।",
+      "transliteration": "tvaṃ hi naḥ pitā vaso |",
+      "translation_english": "Thou art our father, O giver of wealth."
+    },
+    {
+      "verse_number": 17,
+      "sanskrit_text": "अभि त्वा शूर नोनुमः।",
+      "transliteration": "abhi tvā śūra nonumaḥ |",
+      "translation_english": "We praise thee, O hero."
+    },
+    {
+      "verse_number": 18,
+      "sanskrit_text": "त्वं न इन्द्र सत्रा।",
+      "transliteration": "tvaṃ na indra satrā |",
+      "translation_english": "Thou art our constant aid, Indra."
+    },
+    {
+      "verse_number": 19,
+      "sanskrit_text": "इन्द्रं वयं हवामहे।",
+      "transliteration": "indraṃ vayaṃ havāmahe |",
+      "translation_english": "Indra we call upon."
+    },
+    {
+      "verse_number": 20,
+      "sanskrit_text": "इन्द्रस्य नु वीर्याणि।",
+      "transliteration": "indrasya nu vīryāṇi |",
+      "translation_english": "Now the heroic deeds of Indra."
+    },
+    {
+      "verse_number": 21,
+      "sanskrit_text": "यः शत्रूंरवधीदिन्द्रः।",
+      "transliteration": "yaḥ śatrūn avadhīd indraḥ |",
+      "translation_english": "He who slew the foes—Indra."
+    },
+    {
+      "verse_number": 22,
+      "sanskrit_text": "स नः पातु शतक्रतुः।",
+      "transliteration": "sa naḥ pātu śatakratuḥ |",
+      "translation_english": "May the hundred-powered one protect us."
+    }
+  ]
+},
 
 
 
