@@ -1670,6 +1670,55 @@
   ]
 },
 
+{
+  "veda": "Rigveda",
+  "veda_number": 1,
+  "mandala_number": 3,
+  "sukta_number": 27,
+  "sukta_name": "Agni",
+  "rishi": "Vishvamitra Gathina",
+  "devata": "Agni",
+  "chandas": "Gayatri",
+  "total_verses": 6,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sanskrit_text": "अग्निं वो वृत्रहन्तमं पुरोहितं हवामहे। होतारं विश्ववेदसम्॥",
+      "transliteration": "agniṃ vo vṛtrahantamaṃ purohitaṃ havāmahe | hotāraṃ viśvavedasam ||",
+      "translation_english": "We call Agni, the slayer of foes, the household priest, the Hotar who knows all things."
+    },
+    {
+      "verse_number": 2,
+      "sanskrit_text": "यज्ञस्य देवमृत्विजमग्निं यज्ञस्य केतुम्।",
+      "transliteration": "yajñasya devam ṛtvijam agniṃ yajñasya ketum |",
+      "translation_english": "Agni, the divine priest of the sacrifice, the banner of the rite."
+    },
+    {
+      "verse_number": 3,
+      "sanskrit_text": "स नः पावक दीदिवोऽग्ने देवानिहावह।",
+      "transliteration": "sa naḥ pāvaka dīdivo 'gne devān ihā vaha |",
+      "translation_english": "Shine for us, O purifying Agni, and bring the Gods here."
+    },
+    {
+      "verse_number": 4,
+      "sanskrit_text": "यथा नो मित्रावरुणा यथा रुद्रो यथा मरुतः।",
+      "transliteration": "yathā no mitrāvaruṇā yathā rudro yathā marutaḥ |",
+      "translation_english": "So that Mitra and Varuṇa, Rudra and the Maruts may favor us."
+    },
+    {
+      "verse_number": 5,
+      "sanskrit_text": "अग्ने त्वं नो अन्तम उत त्राता शिवो भव।",
+      "transliteration": "agne tvaṃ no antam uta trātā śivo bhava |",
+      "translation_english": "Be thou our nearest friend, O Agni; be our protector and gracious."
+    },
+    {
+      "verse_number": 6,
+      "sanskrit_text": "अग्ने सुपायनो भव सचा स्वस्तये सदा।",
+      "transliteration": "agne supāyano bhava sacā svastaye sadā |",
+      "translation_english": "Be easy of approach to us, O Agni, and ever present for our welfare."
+    }
+  ]
+},
 
 
 
