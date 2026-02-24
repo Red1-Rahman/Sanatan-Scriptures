@@ -1770,6 +1770,54 @@
   ]
 },
 
+{
+  "veda": "Rigveda",
+  "mandala_number": 3,
+  "sukta_number": 29,
+  "sukta_name": "Agni",
+  "rishi": "Vishvamitra Gathina",
+  "devata": "Agni",
+  "chandas": "Gayatri",
+  "total_verses": 6,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sanskrit_text": "अग्निर्होता कविक्रतुः सत्यश्चित्रश्रवस्तमः। देवो देवेभिरा गमत्॥",
+      "transliteration": "agnir hotā kavikratuḥ satyaś citraśravastamaḥ | devo devebhir ā gamat ||",
+      "translation_english": "Agni the Hotar, wise of purpose, true and most renowned—may the God come with the Gods."
+    },
+    {
+      "verse_number": 2,
+      "sanskrit_text": "यज्ञस्य केतुं प्रथमं पुरोहितं अग्निं नरः। देवा अकृण्वन्नमृतम्॥",
+      "transliteration": "yajñasya ketuṃ prathamaṃ purohitaṃ agniṃ naraḥ | devā akṛṇvan amṛtam ||",
+      "translation_english": "Agni, first sign of sacrifice, the household priest—the Gods made him immortal."
+    },
+    {
+      "verse_number": 3,
+      "sanskrit_text": "स नो मन्द्राभिरध्वरे जिह्वाभिर्यजमानः। देवान् यक्षदिहागमत्॥",
+      "transliteration": "sa no mandrābhir adhvare jihvābhir yajamānaḥ | devān yakṣad ihā gamat ||",
+      "translation_english": "May he, with pleasant tongues at the sacrifice, worship the Gods and bring them here."
+    },
+    {
+      "verse_number": 4,
+      "sanskrit_text": "अग्ने त्वं नो अन्तम उत त्राता शिवो भव। वसुरग्ने वसूनाम्॥",
+      "transliteration": "agne tvaṃ no antama uta trātā śivo bhava | vasur agne vasūnām ||",
+      "translation_english": "Be thou our nearest friend, O Agni, our protector and gracious; Agni, bestower of treasures."
+    },
+    {
+      "verse_number": 5,
+      "sanskrit_text": "त्वमग्ने वाजसातमो विश्वान्यरातिः। अप द्विषो वि बाधसे॥",
+      "transliteration": "tvam agne vājasātamo viśvāny arātiḥ | apa dviṣo vi bādhase ||",
+      "translation_english": "Thou, Agni, art the best giver of strength; thou drivest away all hatred and hostility."
+    },
+    {
+      "verse_number": 6,
+      "sanskrit_text": "स नः पावक दीदिवोऽग्ने सुविताय नः। विश्वानि देव वयुनानि विद्वान्॥",
+      "transliteration": "sa naḥ pāvaka dīdivo 'gne suvitāya naḥ | viśvāni deva vayunāni vidvān ||",
+      "translation_english": "Shine for us, O purifying Agni, for our welfare; O God, knowing all ordinances."
+    }
+  ]
+}
 
 
 
