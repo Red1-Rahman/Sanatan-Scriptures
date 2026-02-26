@@ -2382,6 +2382,86 @@
   ]
 },
 
+{
+  "veda": "Rigveda",
+  "mandala_number": 3,
+  "sukta_number": 35,
+  "sukta_name": "Indra",
+  "rishi": "Vishvamitra Gathina",
+  "devata": "Indra",
+  "chandas": "Trishtubh",
+  "total_verses": 11,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sanskrit_text": "आ त्वा वयं हवामहे शतक्रतो।",
+      "transliteration": "ā tvā vayaṃ havāmahe śatakrato |",
+      "translation_english": "We call upon thee, O hundred-powered Indra."
+    },
+    {
+      "verse_number": 2,
+      "sanskrit_text": "मघवन्निन्द्र सोमपीतये गहि।",
+      "transliteration": "maghavann indra somapītaye gahi |",
+      "translation_english": "O bountiful Indra, come for the drinking of Soma."
+    },
+    {
+      "verse_number": 3,
+      "sanskrit_text": "सुतं ते इन्द्र मदाय पिब।",
+      "transliteration": "sutaṃ te indra madāya piba |",
+      "translation_english": "Drink the pressed Soma for exhilaration."
+    },
+    {
+      "verse_number": 4,
+      "sanskrit_text": "त्वं हि वृत्रहा वज्री।",
+      "transliteration": "tvaṃ hi vṛtrahā vajrī |",
+      "translation_english": "For thou art the slayer of Vṛtra, bearer of the thunderbolt."
+    },
+    {
+      "verse_number": 5,
+      "sanskrit_text": "यो गा अपावृणोद्धनम्।",
+      "transliteration": "yo gā apāvṛṇod dhanam |",
+      "translation_english": "Who released the cows and wealth."
+    },
+    {
+      "verse_number": 6,
+      "sanskrit_text": "स नो वाजं दधातु।",
+      "transliteration": "sa no vājaṃ dadhātu |",
+      "translation_english": "May he grant us strength and prize."
+    },
+    {
+      "verse_number": 7,
+      "sanskrit_text": "शृणु नो हवं मघवन्।",
+      "transliteration": "śṛṇu no havaṃ maghavan |",
+      "translation_english": "Hear our invocation, O bountiful one."
+    },
+    {
+      "verse_number": 8,
+      "sanskrit_text": "आ गहि प्रियं सुतम्।",
+      "transliteration": "ā gahi priyaṃ sutam |",
+      "translation_english": "Come to the dear pressed Soma."
+    },
+    {
+      "verse_number": 9,
+      "sanskrit_text": "इन्द्राय सोमः सुतः।",
+      "transliteration": "indrāya somaḥ sutaḥ |",
+      "translation_english": "The Soma is pressed for Indra."
+    },
+    {
+      "verse_number": 10,
+      "sanskrit_text": "वज्रिन् वाजसातये।",
+      "transliteration": "vajrin vājasātaye |",
+      "translation_english": "O thunderbolt-wielder, for winning strength."
+    },
+    {
+      "verse_number": 11,
+      "sanskrit_text": "इन्द्राय नमः।",
+      "transliteration": "indrāya namaḥ |",
+      "translation_english": "Homage to Indra."
+    }
+  ]
+},
+
+
 
 
 
