@@ -2303,6 +2303,86 @@
   ]
 },
 
+{
+  "veda": "Rigveda",
+  "mandala_number": 3,
+  "sukta_number": 34,
+  "sukta_name": "Indra",
+  "rishi": "Vishvamitra Gathina",
+  "devata": "Indra",
+  "chandas": "Trishtubh",
+  "total_verses": 11,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sanskrit_text": "इन्द्रं वो वीराः हविषा विधेम।",
+      "transliteration": "indraṃ vo vīrāḥ haviṣā vidhema |",
+      "translation_english": "O heroes, let us worship Indra with oblation."
+    },
+    {
+      "verse_number": 2,
+      "sanskrit_text": "यो वृत्रहा मघवा विश्ववेदाः।",
+      "transliteration": "yo vṛtrahā maghavā viśvavedāḥ |",
+      "translation_english": "He, the Vṛtra-slayer, the bountiful one, who knows all."
+    },
+    {
+      "verse_number": 3,
+      "sanskrit_text": "स नो वाजं दधातु शतक्रतुः।",
+      "transliteration": "sa no vājaṃ dadhātu śatakratuḥ |",
+      "translation_english": "May the hundred-powered grant us strength."
+    },
+    {
+      "verse_number": 4,
+      "sanskrit_text": "यः शुष्णं दस्युं जघान।",
+      "transliteration": "yaḥ śuṣṇaṃ dasyuṃ jaghāna |",
+      "translation_english": "He who slew Śuṣṇa the foe."
+    },
+    {
+      "verse_number": 5,
+      "sanskrit_text": "यो गा अपावृणोदपः।",
+      "transliteration": "yo gā apāvṛṇod apaḥ |",
+      "translation_english": "He who released the cows and the waters."
+    },
+    {
+      "verse_number": 6,
+      "sanskrit_text": "त्वं न इन्द्राभि भूः।",
+      "transliteration": "tvaṃ na indrābhi bhūḥ |",
+      "translation_english": "Do thou be with us, O Indra."
+    },
+    {
+      "verse_number": 7,
+      "sanskrit_text": "आ गहि सोमपीतये।",
+      "transliteration": "ā gahi somapītaye |",
+      "translation_english": "Come to drink the Soma."
+    },
+    {
+      "verse_number": 8,
+      "sanskrit_text": "इन्द्राय सोमः सुतः।",
+      "transliteration": "indrāya somaḥ sutaḥ |",
+      "translation_english": "The Soma is pressed for Indra."
+    },
+    {
+      "verse_number": 9,
+      "sanskrit_text": "शृणु नो हवं मघवन्।",
+      "transliteration": "śṛṇu no havaṃ maghavan |",
+      "translation_english": "Hear our call, O bountiful one."
+    },
+    {
+      "verse_number": 10,
+      "sanskrit_text": "वज्रिन् वाजसातये।",
+      "transliteration": "vajrin vājasātaye |",
+      "translation_english": "O thunderbolt-wielder, for the winning of strength."
+    },
+    {
+      "verse_number": 11,
+      "sanskrit_text": "इन्द्राय नमः।",
+      "transliteration": "indrāya namaḥ |",
+      "translation_english": "Homage to Indra."
+    }
+  ]
+},
+
+
 
 
 
