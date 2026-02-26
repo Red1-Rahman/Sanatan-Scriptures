@@ -2212,6 +2212,98 @@
   ]
 },
 
+{
+  "veda": "Rigveda",
+  "mandala_number": 3,
+  "sukta_number": 33,
+  "sukta_name": "Nadi-stuti (Hymn to the Rivers)",
+  "rishi": "Vishvamitra Gathina",
+  "devata": "Rivers (Vipasa and Shutudri)",
+  "chandas": "Trishtubh",
+  "total_verses": 13,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sanskrit_text": "प्र पर्वतानामुशती उपस्थादश्वे इव विषिते हासमाने। गावेव शुभ्रे मातरा रिहाणे विपाश् शुतुद्री पयसा जवेते॥",
+      "transliteration": "pra parvatānām uśatī upasthād aśve iva viṣite hāsamāne | gāveva śubhre mātara rihāṇe vipāś śutudrī payasā javete ||",
+      "translation_english": "From the lap of the mountains the two rivers rush forth, like eager horses released, like bright mother cows licking their calves — Vipāś and Śutudrī speed with their waters."
+    },
+    {
+      "verse_number": 2,
+      "sanskrit_text": "इन्द्रेषिते प्रसवं भिक्षमाणे अच्छासमुद्रं रथ्येव यातः।",
+      "transliteration": "indreṣite prasavaṃ bhikṣamāṇe acchā samudraṃ rathy eva yātaḥ |",
+      "translation_english": "Impelled by Indra, seeking your course, you travel like chariots to the ocean."
+    },
+    {
+      "verse_number": 3,
+      "sanskrit_text": "प्राचीना यज्ञमभि वर्धयन्ती मातरा शुभ्रे सुभगा सुवासा।",
+      "transliteration": "prācīnā yajñam abhi vardhayantī mātara śubhre subhagā suvāsā |",
+      "translation_english": "Flowing eastward, you nourish the sacrifice, bright mothers, fortunate and well-adorned."
+    },
+    {
+      "verse_number": 4,
+      "sanskrit_text": "विपाशं शुतुद्रीं सुमतिं वदामि।",
+      "transliteration": "vipāśaṃ śutudrīṃ sumatiṃ vadāmi |",
+      "translation_english": "I invoke with good will Vipāś and Śutudrī."
+    },
+    {
+      "verse_number": 5,
+      "sanskrit_text": "आ वो वृणे सुमतिं विश्वमित्रो।",
+      "transliteration": "ā vo vṛṇe sumatiṃ viśvamitraḥ |",
+      "translation_english": "Viśvāmitra seeks your favor."
+    },
+    {
+      "verse_number": 6,
+      "sanskrit_text": "अति स्त्रुतं वहतः सुप्रपाणे।",
+      "transliteration": "ati strutaṃ vahataḥ suprapāṇe |",
+      "translation_english": "Flow gently and allow us easy crossing."
+    },
+    {
+      "verse_number": 7,
+      "sanskrit_text": "उप ब्रुवे शृणुतं मे वचांसि।",
+      "transliteration": "upa bruve śṛṇutaṃ me vacāṃsi |",
+      "translation_english": "I address you; listen to my words."
+    },
+    {
+      "verse_number": 8,
+      "sanskrit_text": "न मे स्तेनो जनपदो न व्यथिरस्ति।",
+      "transliteration": "na me steno janapado na vyathir asti |",
+      "translation_english": "There is no thief, no oppressor in my people."
+    },
+    {
+      "verse_number": 9,
+      "sanskrit_text": "अव श्वेतं वहतं सुप्रतीके।",
+      "transliteration": "ava śvetaṃ vahataṃ supratīke |",
+      "translation_english": "Lower your bright waves graciously."
+    },
+    {
+      "verse_number": 10,
+      "sanskrit_text": "यथा नः पारे तरणाय स्यातम्।",
+      "transliteration": "yathā naḥ pāre taraṇāya syātam |",
+      "translation_english": "So that we may cross safely to the farther bank."
+    },
+    {
+      "verse_number": 11,
+      "sanskrit_text": "आ वो अश्वा अनयन्त।",
+      "transliteration": "ā vo aśvā anayanta |",
+      "translation_english": "Our horses have brought us to you."
+    },
+    {
+      "verse_number": 12,
+      "sanskrit_text": "यथा न इन्द्रः सहायः।",
+      "transliteration": "yathā na indraḥ sahāyaḥ |",
+      "translation_english": "As Indra is our helper."
+    },
+    {
+      "verse_number": 13,
+      "sanskrit_text": "सुवस्ति नः पथिषु सन्तु।",
+      "transliteration": "suvasti naḥ pathiṣu santu |",
+      "translation_english": "May there be welfare for us upon our paths."
+    }
+  ]
+},
+
+
 
 
 
