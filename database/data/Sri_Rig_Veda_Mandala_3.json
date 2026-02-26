@@ -2930,6 +2930,74 @@
   ]
 },
 
+{
+  "veda": "Rigveda",
+  "mandala_number": 3,
+  "sukta_number": 43,
+  "sukta_name": "Indra",
+  "rishi": "Vishvamitra Gathina",
+  "devata": "Indra",
+  "chandas": "Trishtubh",
+  "total_verses": 9,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sanskrit_text": "इन्द्रं वयं हवामहे महाधनम्।",
+      "transliteration": "indraṃ vayaṃ havāmahe mahādhanam |",
+      "translation_english": "We invoke Indra, the great bestower of wealth."
+    },
+    {
+      "verse_number": 2,
+      "sanskrit_text": "यो वृत्रहा शतक्रतुः।",
+      "transliteration": "yo vṛtrahā śatakratuḥ |",
+      "translation_english": "He who slew Vṛtra, the hundred-powered."
+    },
+    {
+      "verse_number": 3,
+      "sanskrit_text": "स नो वाजं दधातु मघवा।",
+      "transliteration": "sa no vājaṃ dadhātu maghavā |",
+      "translation_english": "May the bountiful one grant us strength."
+    },
+    {
+      "verse_number": 4,
+      "sanskrit_text": "आ गहि सोमपीतये।",
+      "transliteration": "ā gahi somapītaye |",
+      "translation_english": "Come to drink the Soma."
+    },
+    {
+      "verse_number": 5,
+      "sanskrit_text": "सुतं ते इन्द्र मदाय पिब।",
+      "transliteration": "sutaṃ te indra madāya piba |",
+      "translation_english": "Drink the pressed Soma for exhilaration."
+    },
+    {
+      "verse_number": 6,
+      "sanskrit_text": "शृणु नो हवं वज्रिन्।",
+      "transliteration": "śṛṇu no havaṃ vajrin |",
+      "translation_english": "Hear our call, O thunderbolt-bearer."
+    },
+    {
+      "verse_number": 7,
+      "sanskrit_text": "त्वं न इन्द्राभि भूः।",
+      "transliteration": "tvaṃ na indrābhi bhūḥ |",
+      "translation_english": "Be thou with us, O Indra."
+    },
+    {
+      "verse_number": 8,
+      "sanskrit_text": "यो गा अपावृणोदपः।",
+      "transliteration": "yo gā apāvṛṇod apaḥ |",
+      "translation_english": "He who released the cows and waters."
+    },
+    {
+      "verse_number": 9,
+      "sanskrit_text": "इन्द्राय नमः।",
+      "transliteration": "indrāya namaḥ |",
+      "translation_english": "Homage to Indra."
+    }
+  ]
+},
+
+
 
 
 
