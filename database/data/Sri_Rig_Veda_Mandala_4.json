@@ -148,3 +148,76 @@
     }
   ]
 },
+
+{
+  "veda": "Rigveda",
+  "mandala_number": 4,
+  "sukta_number": 2,
+  "sukta_name": "Agni",
+  "rishi": "Vamadeva Gautama",
+  "devata": "Agni",
+  "chandas": "Trishtubh / Gayatri",
+  "total_verses": 10,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sanskrit_text": "अग्ने यं यज्ञमध्वरं विश्वतः परिभूरसि।",
+      "transliteration": "agne yaṃ yajñam adhvaraṃ viśvataḥ paribhūr asi |",
+      "translation_english": "O Agni, thou encompassest the sacrifice on all sides."
+    },
+    {
+      "verse_number": 2,
+      "sanskrit_text": "स इद्देवेषु गच्छति यथातथाऽप्सवः प्रजाः।",
+      "transliteration": "sa id deveṣu gacchati yathātathā ’psavaḥ prajāḥ |",
+      "translation_english": "That sacrifice of ours goes with the gods, like herds of kine."
+    },
+    {
+      "verse_number": 3,
+      "sanskrit_text": "अग्निर्मित्रवरुणाश्च सुग्रीवाश्च भरतर्षभाः।",
+      "transliteration": "agnir mitravaruṇāś ca sugrīvāś ca bharatarṣabhāḥ |",
+      "translation_english": "Agni, Mitra and Varuṇa, the well‑girdled heroes of the Bharata race."
+    },
+    {
+      "verse_number": 4,
+      "sanskrit_text": "हविषा देवानहनी विदधा मे लक्ष्मणः।",
+      "transliteration": "haviṣā devān ahani vidadhā me lakṣmaṇaḥ |",
+      "translation_english": "With oblations, uphold the gods for me, O Lakṣmaṇa."
+    },
+    {
+      "verse_number": 5,
+      "sanskrit_text": "अग्निर्होता कविक्रतः सत्यश्चित्रश्रवस्तमः।",
+      "transliteration": "agnir hotā kavikrataḥ satyaś citraśravastamaḥ |",
+      "translation_english": "Agni the Hotar of true and varied praise — may he come with the gods."
+    },
+    {
+      "verse_number": 6,
+      "sanskrit_text": "अग्निना रयिमश्नवत्पोषमेव दिवेदिवे।",
+      "transliteration": "agninā rayim aśnavat poṣam eva divedive |",
+      "translation_english": "Through Agni one attains wealth and nourishment day by day."
+    },
+    {
+      "verse_number": 7,
+      "sanskrit_text": "स नो मित्रो वरुणो विद्वांसो नो भवतु यशसा प्रथमानि।",
+      "transliteration": "sa no mitro varuṇo vidvāṃso no bhavatu yaśasā prathamāni |",
+      "translation_english": "May Mitra and Varuṇa be auspicious to us; may the wise be foremost in glory."
+    },
+    {
+      "verse_number": 8,
+      "sanskrit_text": "शं नो देवा ऋतवः सन्तु विश्वे ऋतवस्ति नः सह।",
+      "transliteration": "śaṃ no devā ṛtavaḥ santu viśve ṛtavas ti naḥ saha |",
+      "translation_english": "May all the gods, guardians of cosmic order, be with us."
+    },
+    {
+      "verse_number": 9,
+      "sanskrit_text": "अग्ने त्वा देवयाज्यया हविषा विधेम।",
+      "transliteration": "agne tvā devayajyayā haviṣā vidhema |",
+      "translation_english": "O Agni, with divine worship and oblation let us laud thee."
+    },
+    {
+      "verse_number": 10,
+      "sanskrit_text": "तस्मै अग्नये हिरण्यग्नये च नमः।",
+      "transliteration": "tasmai agnaye hiraṇyagnaye ca namaḥ |",
+      "translation_english": "To Agni, to the golden Agni, be homage."
+    }
+  ]
+},
