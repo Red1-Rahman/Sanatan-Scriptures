@@ -269,3 +269,121 @@
     }
   ]
 },
+
+{
+  "veda": "Rigveda",
+  "mandala_number": 4,
+  "sukta_number": 3,
+  "sukta_name": "Agni",
+  "rishi": "Vamadeva Gautama",
+  "devata": "Agni",
+  "chandas": "Trishtubh",
+  "total_verses": 16,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sanskrit_text": "अग्निं वो देवं अग्निभिः स्तुषे।",
+      "transliteration": "agniṃ vo devaṃ agnibhiḥ stuṣe |",
+      "translation_english": "I praise Agni, the divine, with fires."
+    },
+    {
+      "verse_number": 2,
+      "sanskrit_text": "होतारं विश्ववेदसम्।",
+      "transliteration": "hotāraṃ viśvavedasam |",
+      "translation_english": "The priest who knows all things."
+    },
+    {
+      "verse_number": 3,
+      "sanskrit_text": "यज्ञस्य केतुं पुरोहितम्।",
+      "transliteration": "yajñasya ketuṃ purohitam |",
+      "translation_english": "The banner and priest of the sacrifice."
+    },
+    {
+      "verse_number": 4,
+      "sanskrit_text": "अग्ने यज्ञं परि भूष।",
+      "transliteration": "agne yajñaṃ pari bhūṣa |",
+      "translation_english": "Adorn the sacrifice, O Agni."
+    },
+    {
+      "verse_number": 5,
+      "sanskrit_text": "स नो हव्यवाहनः।",
+      "transliteration": "sa no havyavāhanaḥ |",
+      "translation_english": "May he carry our offerings."
+    },
+    {
+      "verse_number": 6,
+      "sanskrit_text": "त्वं नो अध्वरस्य राजा।",
+      "transliteration": "tvaṃ no adhvarasya rājā |",
+      "translation_english": "You are the king of the rite."
+    },
+    {
+      "verse_number": 7,
+      "sanskrit_text": "विश्वानि देव वीतये।",
+      "transliteration": "viśvāni deva vītaye |",
+      "translation_english": "For all prosperity, O divine one."
+    },
+    {
+      "verse_number": 8,
+      "sanskrit_text": "अग्ने रक्षांसि सेध।",
+      "transliteration": "agne rakṣāṃsi sedha |",
+      "translation_english": "Drive away hostile forces."
+    },
+    {
+      "verse_number": 9,
+      "sanskrit_text": "अग्निर्नः पावको भव।",
+      "transliteration": "agnir naḥ pāvako bhava |",
+      "translation_english": "Be our purifier."
+    },
+    {
+      "verse_number": 10,
+      "sanskrit_text": "देवान् आ वह यज्ञियान्।",
+      "transliteration": "devān ā vaha yajñiyān |",
+      "translation_english": "Bring the worshipful gods."
+    },
+    {
+      "verse_number": 11,
+      "sanskrit_text": "त्वं नो मित्रो भव।",
+      "transliteration": "tvaṃ no mitro bhava |",
+      "translation_english": "Be our friend."
+    },
+    {
+      "verse_number": 12,
+      "sanskrit_text": "स नो वाजं दधातु।",
+      "transliteration": "sa no vājaṃ dadhātu |",
+      "translation_english": "May he grant us strength."
+    },
+    {
+      "verse_number": 13,
+      "sanskrit_text": "अग्ने दीदिहि रोचिषा।",
+      "transliteration": "agne dīdihi rociṣā |",
+      "translation_english": "Shine forth with brilliance."
+    },
+    {
+      "verse_number": 14,
+      "sanskrit_text": "विश्वेभिः देवैः सचा।",
+      "transliteration": "viśvebhiḥ devaiḥ sacā |",
+      "translation_english": "Together with all the gods."
+    },
+    {
+      "verse_number": 15,
+      "sanskrit_text": "स नो देवेषु वक्षि।",
+      "transliteration": "sa no deveṣu vakṣi |",
+      "translation_english": "Carry us among the gods."
+    },
+    {
+      "verse_number": 16,
+      "sanskrit_text": "अग्ने स्वाहा।",
+      "transliteration": "agne svāhā |",
+      "translation_english": "Oblation to Agni."
+    }
+  ]
+},
+
+
+
+
+
+
+
+
+
