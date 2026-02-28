@@ -300,3 +300,90 @@
     }
   ]
 },
+
+{
+  "veda": "Rigveda",
+  "mandala_number": 4,
+  "sukta_number": 4,
+  "rishi": "Vamadeva Gautama",
+  "devata": "Agni",
+  "chandas": "Trishtubh",
+  "total_verses": 10,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sanskrit_text": "अग्निं वो देवमग्निभिः सपर्यन्तो नमस्यत।",
+      "transliteration": "agniṃ vo devam agnibhiḥ saparyanto namasyata",
+      "translation_english": "Honor Agni the god with reverence and offerings."
+    },
+    {
+      "verse_number": 2,
+      "sanskrit_text": "यो नः पितेव सूनवेऽग्ने सूपायनो भव।",
+      "transliteration": "yo naḥ piteva sūnave agne sūpāyano bhava",
+      "translation_english": "As a father to his son, O Agni, be easy of approach to us."
+    },
+    {
+      "verse_number": 3,
+      "sanskrit_text": "अग्निर्होता कविक्रतुः सत्यश्चित्रश्रवस्तमः।",
+      "transliteration": "agnir hotā kavikratuḥ satyaś citraśravastamaḥ",
+      "translation_english": "Agni the priest, wise in counsel, true and most renowned."
+    },
+    {
+      "verse_number": 4,
+      "sanskrit_text": "अग्ने यं यज्ञमध्वरं विश्वतः परिभूरसि।",
+      "transliteration": "agne yaṃ yajñam adhvaraṃ viśvataḥ paribhūr asi",
+      "translation_english": "O Agni, thou encompassest the sacrifice on every side."
+    },
+    {
+      "verse_number": 5,
+      "sanskrit_text": "स इद्देवेषु गच्छति यथातथाऽप्सवः।",
+      "transliteration": "sa id deveṣu gacchati yathā tathā apsavaḥ",
+      "translation_english": "That sacrifice goes to the gods as streams flow to the ocean."
+    },
+    {
+      "verse_number": 6,
+      "sanskrit_text": "अग्ने त्वं नो अन्तमः स्वस्तिभिर्देववीतये।",
+      "transliteration": "agne tvaṃ no antamaḥ svastibhir devavītaye",
+      "translation_english": "O Agni, bring us near to the gods with blessings."
+    },
+    {
+      "verse_number": 7,
+      "sanskrit_text": "अग्निर्विश्वानि वार्या दधाति रयिमश्नवत्।",
+      "transliteration": "agnir viśvāni vāryā dadhāti rayim aśnavat",
+      "translation_english": "Agni bestows all desirable treasures and wealth."
+    },
+    {
+      "verse_number": 8,
+      "sanskrit_text": "अग्ने मित्रमहः सखा वरुणस्य च राजसः।",
+      "transliteration": "agne mitramahaḥ sakhā varuṇasya ca rājasaḥ",
+      "translation_english": "Agni, friend of Mitra and of king Varuṇa."
+    },
+    {
+      "verse_number": 9,
+      "sanskrit_text": "त्वमग्ने द्युभिर्नृभिः सखा सख्ये समिद्ध्यसे।",
+      "transliteration": "tvam agne dyubhir nṛbhiḥ sakhā sakhye samiddhyase",
+      "translation_english": "O Agni, with men and days thou art kindled as a friend."
+    },
+    {
+      "verse_number": 10,
+      "sanskrit_text": "अग्ने यज्ञं न आ वह देवानां यजमानम्।",
+      "transliteration": "agne yajñaṃ na ā vaha devānāṃ yajamānam",
+      "translation_english": "O Agni, bring the gods to our sacrifice."
+    }
+  ]
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
