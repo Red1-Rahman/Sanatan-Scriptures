@@ -373,6 +373,97 @@
   ]
 },
 
+{
+  "veda": "Rigveda",
+  "mandala_number": 4,
+  "sukta_number": 5,
+  "rishi": "Vamadeva Gautama",
+  "devata": "Agni",
+  "chandas": "Trishtubh",
+  "total_verses": 13,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sanskrit_text": "अग्ने शर्धो मरुतां न वृष्ण्यं हविष्मन्तो नमस्यामि त्वा।",
+      "transliteration": "agne śardho marutāṃ na vṛṣṇyaṃ haviṣmanto namasyāmi tvā",
+      "translation_english": "O Agni, like the strong host of the Maruts, we worship thee with offerings."
+    },
+    {
+      "verse_number": 2,
+      "sanskrit_text": "त्वं हि विश्वतोमुखो देवाँ एषि यज्ञियः।",
+      "transliteration": "tvaṃ hi viśvatomukho devāṃ eṣi yajñiyaḥ",
+      "translation_english": "For thou, facing all directions, goest to the gods worthy of sacrifice."
+    },
+    {
+      "verse_number": 3,
+      "sanskrit_text": "त्वमग्ने वसुर्विश्वं दधासि रयिमश्नवत्।",
+      "transliteration": "tvam agne vasur viśvaṃ dadhāsi rayim aśnavat",
+      "translation_english": "O Agni, thou bestowest all wealth and prosperity."
+    },
+    {
+      "verse_number": 4,
+      "sanskrit_text": "त्वं नो मित्रो भवसि त्वं वरुण उत।",
+      "transliteration": "tvaṃ no mitro bhavasi tvaṃ varuṇa uta",
+      "translation_english": "Thou art for us as Mitra; thou art also as Varuṇa."
+    },
+    {
+      "verse_number": 5,
+      "sanskrit_text": "त्वमिन्द्रो असि द्रविणोदा उत त्वं बृहस्पतिः।",
+      "transliteration": "tvam indro asi draviṇodā uta tvaṃ bṛhaspatiḥ",
+      "translation_english": "Thou art Indra, the giver of wealth; thou art Bṛhaspati."
+    },
+    {
+      "verse_number": 6,
+      "sanskrit_text": "त्वमग्ने विश्वतो रक्षो दह प्रत्नेन मन्युना।",
+      "transliteration": "tvam agne viśvato rakṣo daha pratnena manyunā",
+      "translation_english": "O Agni, burn away all hostile powers with ancient might."
+    },
+    {
+      "verse_number": 7,
+      "sanskrit_text": "त्वं नः पाथो अनुत्तमं स्वस्तिभिः पावक दीदिहि।",
+      "transliteration": "tvaṃ naḥ pātho anuttamaṃ svastibhiḥ pāvaka dīdihi",
+      "translation_english": "Shine for us, O purifier, with supreme blessings."
+    },
+    {
+      "verse_number": 8,
+      "sanskrit_text": "त्वं हि देवाँ अवोचो यज्ञियान् हविष्मतः।",
+      "transliteration": "tvaṃ hi devāṃ avocho yajñiyān haviṣmataḥ",
+      "translation_english": "For thou callest the gods to the worshipper with offerings."
+    },
+    {
+      "verse_number": 9,
+      "sanskrit_text": "अग्ने वयं तव शरणं गमेम।",
+      "transliteration": "agne vayaṃ tava śaraṇaṃ gamema",
+      "translation_english": "O Agni, may we come into thy protection."
+    },
+    {
+      "verse_number": 10,
+      "sanskrit_text": "अग्ने यज्ञं न आ वह देवाँ इह वक्षि।",
+      "transliteration": "agne yajñaṃ na ā vaha devāṃ iha vakṣi",
+      "translation_english": "O Agni, bring the gods hither to our sacrifice."
+    },
+    {
+      "verse_number": 11,
+      "sanskrit_text": "त्वं हि रत्नं बहुधा दधासि।",
+      "transliteration": "tvaṃ hi ratnaṃ bahudhā dadhāsi",
+      "translation_english": "Thou indeed bestowest treasures manifold."
+    },
+    {
+      "verse_number": 12,
+      "sanskrit_text": "त्वमग्ने दीदिवांसमुप ब्रूहि।",
+      "transliteration": "tvam agne dīdivāṃsam upa brūhi",
+      "translation_english": "O shining Agni, proclaim us to the gods."
+    },
+    {
+      "verse_number": 13,
+      "sanskrit_text": "अग्ने सखा नो अध्वरे।",
+      "transliteration": "agne sakhā no adhvare",
+      "translation_english": "O Agni, be our friend in the sacrifice."
+    }
+  ]
+},
+
+
 
 
 
