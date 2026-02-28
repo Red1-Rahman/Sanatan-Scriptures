@@ -913,6 +913,61 @@
   ]
 },
 
+{
+  "veda": "Rigveda",
+  "mandala_number": 4,
+  "sukta_number": 13,
+  "rishi": "Vamadeva Gautama",
+  "devata": "Agni",
+  "chandas": "Trishtubh",
+  "total_verses": 7,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sanskrit_text": "अग्निं वो देवमग्निभिः सपर्यन्तो नमस्यत।",
+      "transliteration": "agniṃ vo devam agnibhiḥ saparyanto namasyata",
+      "translation_english": "Worship Agni, the god, with reverence and offerings."
+    },
+    {
+      "verse_number": 2,
+      "sanskrit_text": "स हि विश्वानि वार्या दधाति रयिमश्नवत्।",
+      "transliteration": "sa hi viśvāni vāryā dadhāti rayim aśnavat",
+      "translation_english": "For he bestows all desirable wealth."
+    },
+    {
+      "verse_number": 3,
+      "sanskrit_text": "अग्ने यज्ञं न आ वह देवान् इह वक्षि।",
+      "transliteration": "agne yajñaṃ na ā vaha devān iha vakṣi",
+      "translation_english": "O Agni, bring the gods here to our sacrifice."
+    },
+    {
+      "verse_number": 4,
+      "sanskrit_text": "त्वं हि विश्वतोमुखो देवाँ एषि यज्ञियः।",
+      "transliteration": "tvaṃ hi viśvatomukho devāṃ eṣi yajñiyaḥ",
+      "translation_english": "Thou, facing all directions, goest to the gods."
+    },
+    {
+      "verse_number": 5,
+      "sanskrit_text": "त्वं नः पितेव सूनवे सूपायनो भव।",
+      "transliteration": "tvaṃ naḥ piteva sūnave sūpāyano bhava",
+      "translation_english": "Be to us as a father to his son."
+    },
+    {
+      "verse_number": 6,
+      "sanskrit_text": "त्वं हि रत्नधा असि विश्वानि वार्या दधासि।",
+      "transliteration": "tvaṃ hi ratnadhā asi viśvāni vāryā dadhāsi",
+      "translation_english": "Thou art the giver of treasures and riches."
+    },
+    {
+      "verse_number": 7,
+      "sanskrit_text": "अग्ने शं नो भव द्विषताम्।",
+      "transliteration": "agne śaṃ no bhava dviṣatām",
+      "translation_english": "O Agni, grant us peace against our foes."
+    }
+  ]
+},
+
+
 
 
 
