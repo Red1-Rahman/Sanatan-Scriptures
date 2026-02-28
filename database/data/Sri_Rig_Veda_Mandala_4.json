@@ -607,6 +607,65 @@
   ]
 },
 
+{
+  "veda": "Rigveda",
+  "mandala_number": 4,
+  "sukta_number": 8,
+  "rishi": "Vamadeva Gautama",
+  "devata": "Agni",
+  "chandas": "Trishtubh",
+  "total_verses": 8,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sanskrit_text": "अग्निं वो देवयज्यया हविष्मन्तः समिद्धतम्।",
+      "transliteration": "agniṃ vo devayajyayā haviṣmantaḥ samiddhatam",
+      "translation_english": "Kindle Agni with sacred worship and offerings."
+    },
+    {
+      "verse_number": 2,
+      "sanskrit_text": "स नो मित्रो वरुणो ममत्तु।",
+      "transliteration": "sa no mitro varuṇo mamattu",
+      "translation_english": "May Mitra and Varuṇa rejoice in us."
+    },
+    {
+      "verse_number": 3,
+      "sanskrit_text": "अग्ने त्वं नो अन्तमः स्वस्तिभिः पावक दीदिहि।",
+      "transliteration": "agne tvaṃ no antamaḥ svastibhiḥ pāvaka dīdihi",
+      "translation_english": "O Agni, shine for us with blessings and protection."
+    },
+    {
+      "verse_number": 4,
+      "sanskrit_text": "त्वं हि विश्वतोमुखो देवाँ एषि यज्ञियः।",
+      "transliteration": "tvaṃ hi viśvatomukho devāṃ eṣi yajñiyaḥ",
+      "translation_english": "For thou, facing all directions, goest to the gods."
+    },
+    {
+      "verse_number": 5,
+      "sanskrit_text": "अग्ने सखा नो भव।",
+      "transliteration": "agne sakhā no bhava",
+      "translation_english": "O Agni, be our friend."
+    },
+    {
+      "verse_number": 6,
+      "sanskrit_text": "अग्ने यज्ञं न आ वह देवान् इह वक्षि।",
+      "transliteration": "agne yajñaṃ na ā vaha devān iha vakṣi",
+      "translation_english": "O Agni, bring the gods here to our rite."
+    },
+    {
+      "verse_number": 7,
+      "sanskrit_text": "त्वं हि रत्नधा असि विश्वानि वार्या दधासि।",
+      "transliteration": "tvaṃ hi ratnadhā asi viśvāni vāryā dadhāsi",
+      "translation_english": "Thou art the giver of treasures and all desirable riches."
+    },
+    {
+      "verse_number": 8,
+      "sanskrit_text": "अग्ने शं नो भव द्विषताम्।",
+      "transliteration": "agne śaṃ no bhava dviṣatām",
+      "translation_english": "O Agni, grant us peace against our adversaries."
+    }
+  ]
+},
 
 
 
