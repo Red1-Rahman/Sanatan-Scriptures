@@ -667,6 +667,83 @@
   ]
 },
 
+{
+  "veda": "Rigveda",
+  "mandala_number": 4,
+  "sukta_number": 9,
+  "rishi": "Vamadeva Gautama",
+  "devata": "Agni",
+  "chandas": "Trishtubh",
+  "total_verses": 11,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sanskrit_text": "अग्ने वयं तव शरणं गमेम।",
+      "transliteration": "agne vayaṃ tava śaraṇaṃ gamema",
+      "translation_english": "O Agni, may we come into thy protection."
+    },
+    {
+      "verse_number": 2,
+      "sanskrit_text": "त्वं हि विश्वतोमुखो देवाँ एषि यज्ञियः।",
+      "transliteration": "tvaṃ hi viśvatomukho devāṃ eṣi yajñiyaḥ",
+      "translation_english": "For thou, facing all directions, goest to the gods."
+    },
+    {
+      "verse_number": 3,
+      "sanskrit_text": "अग्ने देवानिह वक्षि।",
+      "transliteration": "agne devān iha vakṣi",
+      "translation_english": "O Agni, bring the gods here."
+    },
+    {
+      "verse_number": 4,
+      "sanskrit_text": "त्वं नः पितेव सूनवे।",
+      "transliteration": "tvaṃ naḥ piteva sūnave",
+      "translation_english": "Be to us as a father to his son."
+    },
+    {
+      "verse_number": 5,
+      "sanskrit_text": "अग्निर्होता कविक्रतुः सत्यश्चित्रश्रवस्तमः।",
+      "transliteration": "agnir hotā kavikratuḥ satyaś citraśravastamaḥ",
+      "translation_english": "Agni, the priest, wise in counsel, most renowned."
+    },
+    {
+      "verse_number": 6,
+      "sanskrit_text": "त्वं हि रत्नधा असि विश्वानि वार्या दधासि।",
+      "transliteration": "tvaṃ hi ratnadhā asi viśvāni vāryā dadhāsi",
+      "translation_english": "Thou art the giver of treasures and desirable wealth."
+    },
+    {
+      "verse_number": 7,
+      "sanskrit_text": "अग्ने विश्वानि वार्या दधाति।",
+      "transliteration": "agne viśvāni vāryā dadhāti",
+      "translation_english": "Agni bestows all precious things."
+    },
+    {
+      "verse_number": 8,
+      "sanskrit_text": "अग्ने सखा नो भव।",
+      "transliteration": "agne sakhā no bhava",
+      "translation_english": "O Agni, be our friend."
+    },
+    {
+      "verse_number": 9,
+      "sanskrit_text": "अग्ने यज्ञं न आ वह देवान् इह वक्षि।",
+      "transliteration": "agne yajñaṃ na ā vaha devān iha vakṣi",
+      "translation_english": "O Agni, bring the gods here to the sacrifice."
+    },
+    {
+      "verse_number": 10,
+      "sanskrit_text": "अग्ने शं नो भव द्विषताम्।",
+      "transliteration": "agne śaṃ no bhava dviṣatām",
+      "translation_english": "O Agni, grant us peace from our foes."
+    },
+    {
+      "verse_number": 11,
+      "sanskrit_text": "अग्ने दीदिहि स्वस्तिभिः।",
+      "transliteration": "agne dīdihi svastibhiḥ",
+      "translation_english": "O Agni, shine upon us with blessings."
+    }
+  ]
+},
 
 
 
