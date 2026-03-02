@@ -1189,6 +1189,82 @@
   ]
 },
 
+{
+  "veda": "Rigveda",
+  "mandala": 4,
+  "sukta": 18,
+  "rishi": "Vamadeva Gautama",
+  "deity": "Indra",
+  "recension": "Shakala",
+  "total_verses": 13,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sanskrit": "अयं ते अस्तु हर्यतः सोमो वृषन्न् अद्रिभिः सुतः। पिबा त्वस्य गिर्वणः॥",
+      "transliteration": "ayaṃ te astu haryataḥ somo vṛṣann adribhiḥ sutaḥ | pibā tvasya girvaṇaḥ ||"
+    },
+    {
+      "verse_number": 2,
+      "sanskrit": "यत् त्वा मातरिश्वा बिभर्ति गर्भम् अव्ययम्। तदा जायसे वृषन्॥",
+      "transliteration": "yat tvā mātariśvā bibharti garbham avyayam | tadā jāyase vṛṣan ||"
+    },
+    {
+      "verse_number": 3,
+      "sanskrit": "न त्वा देवासो अद्रुहन् न मर्तासो न राक्षसः। स त्वं जातो अभि त्रिणः॥",
+      "transliteration": "na tvā devāso adruhan na martāso na rākṣasaḥ | sa tvaṃ jāto abhi triṇaḥ ||"
+    },
+    {
+      "verse_number": 4,
+      "sanskrit": "क इमं जन्म वेद ते क इद् वेद परायणम्। क इन्द्रस्य परं सतम्॥",
+      "transliteration": "ka imaṃ janma veda te ka id veda parāyaṇam | ka indrasya paraṃ satam ||"
+    },
+    {
+      "verse_number": 5,
+      "sanskrit": "अयं हि ते जनिता सूनुः स जनित्र्या। यं त्वं देवेषु वर्धसे॥",
+      "transliteration": "ayaṃ hi te janitā sūnuḥ sa janitryā | yaṃ tvaṃ deveṣu vardhase ||"
+    },
+    {
+      "verse_number": 6,
+      "sanskrit": "अहम् अस्मि प्रथमजा ऋतस्य पूर्वं देवेभ्यो अमृतस्य नाभिः॥",
+      "transliteration": "aham asmi prathamajā ṛtasya pūrvaṃ devebhyo amṛtasya nābhiḥ ||"
+    },
+    {
+      "verse_number": 7,
+      "sanskrit": "य इन्द्रं जनयन्त देवाः स नो मित्रो वरुणो मामहन्तु॥",
+      "transliteration": "ya indraṃ janayanta devāḥ sa no mitro varuṇo māmahantu ||"
+    },
+    {
+      "verse_number": 8,
+      "sanskrit": "न मे मातरं रीरधः न पितरं च दाशुषे। अहमिन्द्रो अभि द्युभिः॥",
+      "transliteration": "na me mātaraṃ rīradhaḥ na pitaraṃ ca dāśuṣe | aham indro abhi dyubhiḥ ||"
+    },
+    {
+      "verse_number": 9,
+      "sanskrit": "अहं सूर्यं अरुहं तमः कृतं महित्वना॥",
+      "transliteration": "ahaṃ sūryam aruhaṃ tamaḥ kṛtaṃ mahitvanā ||"
+    },
+    {
+      "verse_number": 10,
+      "sanskrit": "अहं वृत्रं जघन्वाँ अपो अस्रक्षं सस्रुहुः॥",
+      "transliteration": "ahaṃ vṛtraṃ jaghanvāṃ apo asrakṣaṃ sasruhuḥ ||"
+    },
+    {
+      "verse_number": 11,
+      "sanskrit": "माम् इद् देवासो अनुपूर्व्यम् अयजन्॥",
+      "transliteration": "mām id devāso anupūrvyam ayajan ||"
+    },
+    {
+      "verse_number": 12,
+      "sanskrit": "नाहं देवेभ्यो न मर्तेभ्यः परो अस्मि॥",
+      "transliteration": "nāhaṃ devebhyo na martebhyaḥ paro asmi ||"
+    },
+    {
+      "verse_number": 13,
+      "sanskrit": "इन्द्रः स्वयम्भूर् अभवद् बृहद् वर्चाः॥",
+      "transliteration": "indraḥ svayambhūr abhavad bṛhad varcāḥ ||"
+    }
+  ]
+},
 
 
 
