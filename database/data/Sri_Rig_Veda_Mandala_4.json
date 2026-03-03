@@ -1266,6 +1266,72 @@
   ]
 },
 
+{
+  "veda": "Rigveda",
+  "mandala": 4,
+  "sukta": 19,
+  "rishi": "Vamadeva Gautama",
+  "deity": "Indra",
+  "recension": "Shakala",
+  "total_verses": 11,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sanskrit": "यस्तिग्मशृङ्गो वृषभो न भीमो एकः कृष्टीश्च्यावयति प्र विश्वाः।",
+      "transliteration": "yas tigmaśṛṅgo vṛṣabho na bhīmo ekaḥ kṛṣṭīś cyāvayati pra viśvāḥ ||"
+    },
+    {
+      "verse_number": 2,
+      "sanskrit": "स इन्द्रः सोमपीतये हव्यो बभूव मघवा शूर आ च।",
+      "transliteration": "sa indraḥ somapītaye havyo babhūva maghavā śūra ā ca ||"
+    },
+    {
+      "verse_number": 3,
+      "sanskrit": "येन वृत्रं जघन्वान् अपो अजीजनत् स्रुतः।",
+      "transliteration": "yena vṛtraṃ jaghanvān apo ajījanat srutaḥ ||"
+    },
+    {
+      "verse_number": 4,
+      "sanskrit": "यो अर्णांसि चिद् उषसः सं पिपेष।",
+      "transliteration": "yo arṇāṃsi cid uṣasaḥ saṃ pipeṣa ||"
+    },
+    {
+      "verse_number": 5,
+      "sanskrit": "यो गा अविन्दद् वलम् अद्रिम् भिन्दन्।",
+      "transliteration": "yo gā avindad valam adrim bhindan ||"
+    },
+    {
+      "verse_number": 6,
+      "sanskrit": "तम् उ त्वा नूनम् अभि गायता नृभिः।",
+      "transliteration": "tam u tvā nūnam abhi gāyata nṛbhiḥ ||"
+    },
+    {
+      "verse_number": 7,
+      "sanskrit": "अयं स इन्द्रो यो महान् विश्वचर्षणिः।",
+      "transliteration": "ayaṃ sa indro yo mahān viśvacarṣaṇiḥ ||"
+    },
+    {
+      "verse_number": 8,
+      "sanskrit": "यस्य श्रवो बृहद् द्युम्नं विश्वचर्षणिः।",
+      "transliteration": "yasya śravo bṛhad dyumnaṃ viśvacarṣaṇiḥ ||"
+    },
+    {
+      "verse_number": 9,
+      "sanskrit": "स नो मित्रो वरुणो मामहन्तु।",
+      "transliteration": "sa no mitro varuṇo māmahantu ||"
+    },
+    {
+      "verse_number": 10,
+      "sanskrit": "इन्द्राय सोमं सुतम अद्रिभिः पिब।",
+      "transliteration": "indrāya somaṃ sutam adribhiḥ piba ||"
+    },
+    {
+      "verse_number": 11,
+      "sanskrit": "इन्द्रः स्वयम्भूर् अभवद् बृहद् वर्चाः॥",
+      "transliteration": "indraḥ svayambhūr abhavad bṛhad varcāḥ ||"
+    }
+  ]
+},
 
 
 
