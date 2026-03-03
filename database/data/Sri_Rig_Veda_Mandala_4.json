@@ -1282,70 +1282,65 @@
 
 {
   "veda": "Rigveda",
-  "mandala": 4,
-  "sukta": 19,
+  "mandala_number": 4,
+  "sukta_number": 19,
+  "sukta_name": "Indra",
   "rishi": "Vamadeva Gautama",
-  "deity": "Indra",
-  "recension": "Shakala",
-  "total_verses": 11,
+  "devata": "Indra",
+  "chandas": "Vedic metres (Triṣṭubh etc.)",
+  "total_verses": 8,
   "verses": [
     {
       "verse_number": 1,
-      "sanskrit": "यस्तिग्मशृङ्गो वृषभो न भीमो एकः कृष्टीश्च्यावयति प्र विश्वाः।",
-      "transliteration": "yas tigmaśṛṅgo vṛṣabho na bhīmo ekaḥ kṛṣṭīś cyāvayati pra viśvāḥ ||"
+      "sanskrit_text": "एवा त्वामिन्द्र वज्रिन्नत्र विश्वे देवासः सुहवास ऊमाः। महामुभे रोदसी वृद्धमृष्वं निरेकमिद्वृत्रहत्ये॥",
+      "transliteration": "evā tvām indra vajrinn atra viśve devāsaḥ suhavāsa ūmāḥ | mahām ubhe rodasī vṛddham ṛṣvaṃ nir ekam id vṛtrahatye ||",
+      "translation_english": "Indra, wielder of the thunderbolt, all the protecting deities who are reverently invoked, and both the heaven and the earth, glorify you who are verily one alone, mighty, vast, and manifold in aspect, for the destruction of Vṛtra." 
     },
     {
       "verse_number": 2,
-      "sanskrit": "स इन्द्रः सोमपीतये हव्यो बभूव मघवा शूर आ च।",
-      "transliteration": "sa indraḥ somapītaye havyo babhūva maghavā śūra ā ca ||"
+      "sanskrit_text": "अवास्र्जन्तजिव्रयो न देवा भुवः सम्राळिन्द्र सत्ययोनिḥ। अहन्नहिं परिशयानमर्णः प्रवर्तनीररदो विश्वधेनाः॥",
+      "transliteration": "avāsṛjanta jivrayo na devā bhuvaḥ samrāḷindra satyayoniḥ | ahanna ahiṃ pariśayāna marṇaḥ pravartanī raro viśvadhenāḥ ||",
+      "translation_english": "The gods, as though worn and held back, relaxed their efforts; thou, Indra, born of truth, wast Sovran Ruler. Thou didst slay Ahi who besieged the waters, and digged out their all‑supporting channels." 
     },
     {
       "verse_number": 3,
-      "sanskrit": "येन वृत्रं जघन्वान् अपो अजीजनत् स्रुतः।",
-      "transliteration": "yena vṛtraṃ jaghanvān apo ajījanat srutaḥ ||"
+      "sanskrit_text": "अतृप्तुवन्तं वियतमबुध्यमबुध्यमानं सुषुपाणमिन्द्र। सप्त प्रति प्रवतानाशयानमाहिं वज्रेण विरिणा अपर्वन्॥",
+      "transliteration": "atṛptuvantaṃ viyatam abudhyaṃ abudhyamānaṃ suṣupāṇam indra | sapta prati pravatānāśayānam āhiṃ vajreṇa viriṇā aparvan ||",
+      "translation_english": "The insatiate one, extended and hard to awaken, who slumbered in perpetual sleep, O Indra — the Dragon stretched against the seven prone rivers, where no joint was, thou rentest with thy thunder." 
     },
     {
       "verse_number": 4,
-      "sanskrit": "यो अर्णांसि चिद् उषसः सं पिपेष।",
-      "transliteration": "yo arṇāṃsi cid uṣasaḥ saṃ pipeṣa ||"
+      "sanskrit_text": "अक्षोदयच्छवसा क्षाम बुध्नं वार्ण वातस्तवि्षीभिरिन्द्रः। द्रिल्हान्यौभ्नादुशमान ओजोऽवाभिनत्ककुभः पर्वतानाम्॥",
+      "transliteration": "akṣodayacchavasā kṣāma budhnaṃ vārṇa vātaḥ taviṣībhir indraḥ | dṛlḥāny aubhnād uśamāna ojo ’vābhinat kakubhaḥ parvatānām ||",
+      "translation_english": "Indra, by his strength, has agitated the exhausted firmament, as wind by its fierce gusts agitates the water; exulting in his strength he has cleft the masses, and shattered the peaks of the mountains."
     },
     {
       "verse_number": 5,
-      "sanskrit": "यो गा अविन्दद् वलम् अद्रिम् भिन्दन्।",
-      "transliteration": "yo gā avindad valam adrim bhindan ||"
+      "sanskrit_text": "अभि प्र दद्रुर्जनयो न गर्भं रथा इव प्र ययुः साकमद्रयः। अतर्पयो विसृत उब्ज ऊर्मींत्वं वृतां अरिणा इन्द्र सिंधून्॥",
+      "transliteration": "abhi pra dadrur janayo na garbhaṃ rathā iva pra yayuḥ sākam adrayaḥ | atarpayo visṛta ubja ūrmīṃ tvaṃ vṛtāṃ ariṇa indra sindhūn ||",
+      "translation_english": "They ran to thee as mothers to their offspring; the clouds, like chariots, together hastened. Thou didst refresh the streams and loose the waves; thou, Indra, settlest free the obstructed rivers." 
     },
     {
       "verse_number": 6,
-      "sanskrit": "तम् उ त्वा नूनम् अभि गायता नृभिः।",
-      "transliteration": "tam u tvā nūnam abhi gāyata nṛbhiḥ ||"
+      "sanskrit_text": "त्वं महीम अवनि॑ं विश्वधेनां तुर्वीतये वय्याय क्षरन्तीं। अरमयो नमसैजदर्णः सुतरणाँ अकृणोरिन्द्र सिंधून्॥",
+      "transliteration": "tvaṃ mahīm avaniṃ viśvadhenāṃ turvītaye vayyāya kṣarantīṃ | aramaya namasā ejad arṇaḥ sutaraṇāṃ akṛṇor indra sindhūn ||",
+      "translation_english": "Thou movest the earth and the wide‑ranging waters for the passage of the streams; O Indra, with homage we praise thee who hast wrought the passage of the obstructed floods." 
     },
     {
       "verse_number": 7,
-      "sanskrit": "अयं स इन्द्रो यो महान् विश्वचर्षणिः।",
-      "transliteration": "ayaṃ sa indro yo mahān viśvacarṣaṇiḥ ||"
+      "sanskrit_text": "प्राग्रुवोनभन्नो न वक्वाध्वस्रा अपिन्वद्युवतीर्ऋतज्ञाः। धन्वान्यज्रां अपृणक्तृषाणां अधोगिंद्रः स्तर्यो दंसुपत्नीः॥",
+      "transliteration": "prāgruvo nabhanno na vakvā dhvasrā apinv ad yuvatī rṛtajñāḥ | dhanvānyajrāṃ apṛṇakta rṣāṇāṃ adhogindrah staryo daṃsupatnīḥ ||",
+      "translation_english": "The swift‑steeds shook the heavens — none spoke a word — the songs of the ritual folk rang forth; the oblation‑carrying steeds of Indra sped with thundering sound beneath the heaven." 
     },
     {
       "verse_number": 8,
-      "sanskrit": "यस्य श्रवो बृहद् द्युम्नं विश्वचर्षणिः।",
-      "transliteration": "yasya śravo bṛhad dyumnaṃ viśvacarṣaṇiḥ ||"
-    },
-    {
-      "verse_number": 9,
-      "sanskrit": "स नो मित्रो वरुणो मामहन्तु।",
-      "transliteration": "sa no mitro varuṇo māmahantu ||"
-    },
-    {
-      "verse_number": 10,
-      "sanskrit": "इन्द्राय सोमं सुतम अद्रिभिः पिब।",
-      "transliteration": "indrāya somaṃ sutam adribhiḥ piba ||"
-    },
-    {
-      "verse_number": 11,
-      "sanskrit": "इन्द्रः स्वयम्भूर् अभवद् बृहद् वर्चाः॥",
-      "transliteration": "indraḥ svayambhūr abhavad bṛhad varcāḥ ||"
+      "sanskrit_text": "वम्रीभिः पुत्रमग्रुवो अदानं निवेशनाद्धरिव आ जभर्थ। व्यंधो अख्यदहिमाददानो निर्भूदुखच्छित्समरंत पर्व॥",
+      "transliteration": "vamrībhiḥ putram agruvo adānaṃ niveśanāddhariva ā jabhartha | vyaṃdho akhyadahim ādadāno nirbhūd ukhacchitsam aranta parva ||",
+      "translation_english": "In the battle, gaining his son, the warrior rushed forward like a flood; he pierced and smote the might of Ahi, laying low the obstructing foe with strength and fury." 
     }
   ]
 },
+
 
 
 
