@@ -1191,77 +1191,91 @@
 
 {
   "veda": "Rigveda",
-  "mandala": 4,
-  "sukta": 18,
+  "mandala_number": 4,
+  "sukta_number": 18,
+  "sukta_name": "Indra and Others",
   "rishi": "Vamadeva Gautama",
-  "deity": "Indra",
-  "recension": "Shakala",
+  "devata": "Indra",
+  "chandas": "Various",
   "total_verses": 13,
   "verses": [
     {
       "verse_number": 1,
-      "sanskrit": "अयं ते अस्तु हर्यतः सोमो वृषन्न् अद्रिभिः सुतः। पिबा त्वस्य गिर्वणः॥",
-      "transliteration": "ayaṃ te astu haryataḥ somo vṛṣann adribhiḥ sutaḥ | pibā tvasya girvaṇaḥ ||"
+      "sanskrit_text": "अयम् पन्था अनुवित्तः पुराणो यतो देवा उदजायन्त विश्वे। अतश्चिद् आ जनिरीष्ठा प्रवृद्धो मा मातरम् अमुया पत्तवे कः॥",
+      "transliteration": "ayam panthā anuviddaḥ purāṇaḥ yato devā udajāyanta viśve | ataś cid ā janiṣīṣṭā pravṛddho mā mātaram amuyā pattave kaḥ ||",
+      "translation_english": "This is the ancient and recognized path by which all gods have come into being; so when full‑grown let him be born in the same way; let him not, otherwise, destroy his mother." 
     },
     {
       "verse_number": 2,
-      "sanskrit": "यत् त्वा मातरिश्वा बिभर्ति गर्भम् अव्ययम्। तदा जायसे वृषन्॥",
-      "transliteration": "yat tvā mātariśvā bibharti garbham avyayam | tadā jāyase vṛṣan ||"
+      "sanskrit_text": "नाहमतो निरया दुर्गहैतत्तिरश्चता पार्श्वान्निर्गमाणि। बहूनि मे अकृतानि कर्त्वा युध्यै त्वेन संव तेन पृच्छै॥",
+      "transliteration": "nāhamato nirayā durgahitattiraścatā pārśvānnirgamāṇi | bahūni me akṛtāni kartvā yudhyai tvena saṃ tena pṛcchai ||",
+      "translation_english": "Not this way go I forth — hard is the passage; forth from the side obliquely will I issue; much that is yet undone must I accomplish; one must I combat and the other question." 
     },
     {
       "verse_number": 3,
-      "sanskrit": "न त्वा देवासो अद्रुहन् न मर्तासो न राक्षसः। स त्वं जातो अभि त्रिणः॥",
-      "transliteration": "na tvā devāso adruhan na martāso na rākṣasaḥ | sa tvaṃ jāto abhi triṇaḥ ||"
+      "sanskrit_text": "उत मां यं स्नेहयन्ती यद्वृषा वयस्ते मनसो नो दिवेन्द्रयतः स्यन्दत। तं जघान सुवीरस्ते जनि॒ता मन्यत द्यौरिन्द्रस्य कर्ता स्वपस्तमो भूत॥",
+      "transliteration": "uta māṃ yaṃ snehayantī yad vṛṣā vayaste manaso no dive ndrayataḥ syandata | taṃ jaghāna suvīras te janitā manyata dyaur indrasya kartā svapastamo bhūta ||",
+      "translation_english": "He bent his eye upon the dying mother: ‘My word I now withdraw; that way I follow’; then in Tvaṣṭar’s dwelling India drank the Soma, a hundred‑worth pressed in the mortar." 
     },
     {
       "verse_number": 4,
-      "sanskrit": "क इमं जन्म वेद ते क इद् वेद परायणम्। क इन्द्रस्य परं सतम्॥",
-      "transliteration": "ka imaṃ janma veda te ka id veda parāyaṇam | ka indrasya paraṃ satam ||"
+      "sanskrit_text": "किं स ऋधक्कृणवद्यं सहस्रं मासो जभार शरदश्च पूर्वीः। न ही न्वस्य प्रतिमानमस्त्यन्तर्जातेषूत ये जनित्वाः॥",
+      "transliteration": "kiṃ sa ṛdhak kṛṇavad yaṃ sahasram māso jabhāra śaradaś ca pūrvīḥ | nahī nv asya pratimānam astyantarjāteṣūta ye janitvāḥ ||",
+      "translation_english": "Aditi speaks: What irregular act has he committed whom I bore for a thousand months and many autumns, for there is no comparison between him and those born before or those who shall be born." 
     },
     {
       "verse_number": 5,
-      "sanskrit": "अयं हि ते जनिता सूनुः स जनित्र्या। यं त्वं देवेषु वर्धसे॥",
-      "transliteration": "ayaṃ hi te janitā sūnuḥ sa janitryā | yaṃ tvaṃ deveṣu vardhase ||"
+      "sanskrit_text": "स तु जघान इन्द्रः सुवीरस्ते प्राणनीयः सहस्रधन्यो दिवे आत्मानं जगृह। तद्भ्यश्च पृथिवीं स सम भूमिं च व्याप्य पुनस्त्वं साक्षादग्रे प्र वर्तस्व॥",
+      "transliteration": "sa tu jaghāna indraḥ suvīras te prāṇanīyaḥ sahasradhanyo dive ātmānaṃ jagṛha | tadbhyas ca pṛthivīṃ sa sama bhūmiṃ ca vyāpya punaś tvaṃ sākṣād agre pravartasva ||",
+      "translation_english": "Then up he sprang himself, mighty in heroic valour, and grasping his own self in heaven, abundant in strength; and filling both earth and sky, enter thou on thy purpose, O Indra." 
     },
     {
       "verse_number": 6,
-      "sanskrit": "अहम् अस्मि प्रथमजा ऋतस्य पूर्वं देवेभ्यो अमृतस्य नाभिः॥",
-      "transliteration": "aham asmi prathamajā ṛtasya pūrvaṃ devebhyo amṛtasya nābhiḥ ||"
+      "sanskrit_text": "तस्य देवाः सखे विष्णो वितरं वि क्रमस्व वृत्रं हनिष्यन्त्सखे विष्णो वितरं वि क्रमस्व।",
+      "transliteration": "tasya devāḥ sakhe viṣṇo vitaraṃ vi kramasva vṛtraṃ haniṣyant sakhe viṣṇo vitaraṃ vi kramasva ||",
+      "translation_english": "Then to her mighty child the Mother turned, saying, ‘My son, have the gods deserted thee? If thou intendest to slay Vṛtra, O Indra, strive with boldness.’" 
     },
     {
       "verse_number": 7,
-      "sanskrit": "य इन्द्रं जनयन्त देवाः स नो मित्रो वरुणो मामहन्तु॥",
-      "transliteration": "ya indraṃ janayanta devāḥ sa no mitro varuṇo māmahantu ||"
+      "sanskrit_text": "अवर्त्या शुनान्तराणि पेचे न देवेषु विविदे मर्डितारम्। अपश्यं जायाममहीयमानामधा मे श्येनो मध्वा जभार॥",
+      "transliteration": "avartyā śunā anntrāṇi pece na deveṣu vivide marḍitāram | apaśyaṃ jāyām amahīyamānām adhā me śyeno madhvā jabhāra ||",
+      "translation_english": "In extreme destitution I have cooked the entrails of a dog; I have not found a comforter among the gods; I have seen my wife dishonoured; then the falcon brought me sweet libations."
     },
     {
       "verse_number": 8,
-      "sanskrit": "न मे मातरं रीरधः न पितरं च दाशुषे। अहमिन्द्रो अभि द्युभिः॥",
-      "transliteration": "na me mātaraṃ rīradhaḥ na pitaraṃ ca dāśuṣe | aham indro abhi dyubhiḥ ||"
+      "sanskrit_text": "तेनो मे हि सहसा वृषा नखाति वृत्रमक्षुभिरहितम्। यज्ञं रयिं दधातु देवानां यथा वृषा अभ्युदयम्॥",
+      "transliteration": "teno me hi sahasā vṛṣā nakhāti vṛtram akṣubhir ahitam | yajñaṃ rayiṃ dadhātu devānāṃ yathā vṛṣā abhyudayam ||",
+      "translation_english": "Hence with might I, like a hero, shall break Vṛtra with unerring stones; may the sacrifice bestow wealth on the gods as seeds cause increase." 
     },
     {
       "verse_number": 9,
-      "sanskrit": "अहं सूर्यं अरुहं तमः कृतं महित्वना॥",
-      "transliteration": "ahaṃ sūryam aruhaṃ tamaḥ kṛtaṃ mahitvanā ||"
+      "sanskrit_text": "सोऽयं देव जुट्य धरणीमभिवृद्धां विश्वरूपाम करोति यजुर्मम॥",
+      "transliteration": "so ’yaṃ deva juṭya dharaṇīm abhivṛddhāṃ viśvarūpāṃ karoti yajur mama ||",
+      "translation_english": "This god, united with power, makes the earth, who has grown in strength, of boundless form; may my prayer be increased." 
     },
     {
       "verse_number": 10,
-      "sanskrit": "अहं वृत्रं जघन्वाँ अपो अस्रक्षं सस्रुहुः॥",
-      "transliteration": "ahaṃ vṛtraṃ jaghanvāṃ apo asrakṣaṃ sasruhuḥ ||"
+      "sanskrit_text": "यस्य तेजसा गच्छति हिरण्यगर्भं दिवि प्रैष्ये द्यावापृथिव्याम्युगे।",
+      "transliteration": "yasya tejasā gacchati hiraṇyagarbhaṃ divi praiṣye dyāvā pṛthiviyāmy uge ||",
+      "translation_english": "By whose brilliance, shining like the golden embryo in heaven, I go to meet the union of earth and sky." 
     },
     {
       "verse_number": 11,
-      "sanskrit": "माम् इद् देवासो अनुपूर्व्यम् अयजन्॥",
-      "transliteration": "mām id devāso anupūrvyam ayajan ||"
+      "sanskrit_text": "न दीदिवां न याम निर्जगत्सोऽहं देवानां मित्रो वरुणो न वरुणो मिथुनो भव॥",
+      "transliteration": "na dīdivāṃ na yāma nirjagat so ’haṃ devānāṃ mitro varuṇo na varuṇo mithuno bhava ||",
+      "translation_english": "I am not of heaven, nor of night, nor of the world; be thou a friend and Varuṇa to the gods, O Indra." 
     },
     {
       "verse_number": 12,
-      "sanskrit": "नाहं देवेभ्यो न मर्तेभ्यः परो अस्मि॥",
-      "transliteration": "nāhaṃ devebhyo na martebhyaḥ paro asmi ||"
+      "sanskrit_text": "शं नो मित्रो वरुणो विद्वांसो नो भवतु यशसा प्रथमानि॥",
+      "transliteration": "śaṃ no mitro varuṇo vidvāṃso no bhavatu yaśasā prathamāni ||",
+      "translation_english": "May Mitra and Varuṇa be auspicious to us; may the wise be foremost in glory." 
     },
     {
       "verse_number": 13,
-      "sanskrit": "इन्द्रः स्वयम्भूर् अभवद् बृहद् वर्चाः॥",
-      "transliteration": "indraḥ svayambhūr abhavad bṛhad varcāḥ ||"
+      "sanskrit_text": "इन्द्राय नमः।",
+      "transliteration": "indrāya namaḥ ||",
+      "translation_english": "Homage to Indra." 
     }
   ]
 },
@@ -1332,6 +1346,7 @@
     }
   ]
 },
+
 
 
 
