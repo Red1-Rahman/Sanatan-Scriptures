@@ -1341,6 +1341,62 @@
   ]
 },
 
+{
+  "veda": "Rigveda",
+  "mandala_number": 4,
+  "sukta_number": 20,
+  "sukta_name": "Indra",
+  "rishi": "Vamadeva Gautama",
+  "devata": "Indra",
+  "chandas": "Trishtubh",
+  "total_verses": 7,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sanskrit_text": "अयं ते अस्तु हर्यतः सोम इन्द्र सुतः पिब।",
+      "transliteration": "ayaṃ te astu haryataḥ soma indra sutaḥ piba",
+      "translation_english": "Let this pressed Soma be thine, O Indra; drink it joyfully."
+    },
+    {
+      "verse_number": 2,
+      "sanskrit_text": "त्वं हि वृत्रहा इन्द्र विश्वस्य जगतः पतिः।",
+      "transliteration": "tvaṃ hi vṛtrahā indra viśvasya jagataḥ patiḥ",
+      "translation_english": "Thou, O Indra, art the slayer of Vṛtra and lord of all that moves."
+    },
+    {
+      "verse_number": 3,
+      "sanskrit_text": "त्वं नः पितेव सूनवे सखा सुश्रवसो भव।",
+      "transliteration": "tvaṃ naḥ piteva sūnave sakhā suśravasaḥ bhava",
+      "translation_english": "Be to us like a father to his son, a friend bringing good renown."
+    },
+    {
+      "verse_number": 4,
+      "sanskrit_text": "इन्द्रः सोमस्य पीतये विश्वानि वार्या दधाति।",
+      "transliteration": "indraḥ somasya pītaye viśvāni vāryā dadhāti",
+      "translation_english": "Indra, when drinking Soma, bestows all desirable treasures."
+    },
+    {
+      "verse_number": 5,
+      "sanskrit_text": "स नः शूरो मघवा रयिं दातु।",
+      "transliteration": "sa naḥ śūro maghavā rayiṃ dātu",
+      "translation_english": "May that heroic and bountiful Indra grant us wealth."
+    },
+    {
+      "verse_number": 6,
+      "sanskrit_text": "यथा नो मित्रो वरुणो यथा रुद्रो यथा भगः।",
+      "transliteration": "yathā no mitro varuṇo yathā rudro yathā bhagaḥ",
+      "translation_english": "As Mitra, Varuṇa, Rudra, and Bhaga bless us, so may Indra grant us favor."
+    },
+    {
+      "verse_number": 7,
+      "sanskrit_text": "इन्द्राय सोमं सुता अमृता मदाय।",
+      "transliteration": "indrāya somaṃ sutā amṛtā madāya",
+      "translation_english": "The Soma is pressed for Indra, the immortal, for exhilaration."
+    }
+  ]
+},
+
+
 
 
 
