@@ -1469,6 +1469,73 @@
   ]
 },
 
+{
+  "veda": "Rigveda",
+  "mandala_number": 4,
+  "sukta_number": 22,
+  "sukta_name": "Indra",
+  "rishi": "Vamadeva Gautama",
+  "devata": "Indra",
+  "chandas": "Trishtubh (mixed)",
+  "total_verses": 9,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sanskrit_text": "किमस्य मदे किमु सोममस्य पिबन्ति यत्र सख्याय वर्धन्।",
+      "transliteration": "kimasya made kimu somam asya pibanti yatra sakhyāya vardhan",
+      "translation_english": "What is his exhilaration? What Soma do they drink, whereby they strengthen Indra for friendship?"
+    },
+    {
+      "verse_number": 2,
+      "sanskrit_text": "स नो वाजाय गमतु प्रचेताः सहस्रिणं वाजमिन्द्रो दधातु।",
+      "transliteration": "sa no vājāya gamatu pracetāḥ sahasriṇaṃ vājam indro dadhātu",
+      "translation_english": "May the wise Indra come to us for strength; may he grant us abundant riches."
+    },
+    {
+      "verse_number": 3,
+      "sanskrit_text": "यस्य श्रवो बृहदश्वावदश्वा यस्य द्विता रथ्यावो भवन्ति।",
+      "transliteration": "yasya śravo bṛhad aśvāvad aśvā yasya dvitā rathyāvo bhavanti",
+      "translation_english": "Great is the fame of him whose horses are strong, whose chariots are ever ready."
+    },
+    {
+      "verse_number": 4,
+      "sanskrit_text": "स नो वृत्राणि जङ्घनदिन्द्रो वज्रेण महता शतक्रतुः।",
+      "transliteration": "sa no vṛtrāṇi jaṅghanad indro vajreṇa mahatā śatakratuḥ",
+      "translation_english": "May Indra, the hundred-powered, slay the Vṛtras for us with his mighty thunderbolt."
+    },
+    {
+      "verse_number": 5,
+      "sanskrit_text": "स नो रयिं पुरुहूतः पुरुक्षुं दधातु वीरं शतिनं सहस्रम्।",
+      "transliteration": "sa no rayiṃ puruhūtaḥ purukṣuṃ dadhātu vīraṃ śatinaṃ sahasram",
+      "translation_english": "May the much-invoked Indra grant us wealth, rich in heroes, in hundreds and thousands."
+    },
+    {
+      "verse_number": 6,
+      "sanskrit_text": "स नः पातु दुरितादिन्द्रो विश्वाभिरूतिभिः।",
+      "transliteration": "sa naḥ pātu duritād indro viśvābhir ūtibhiḥ",
+      "translation_english": "May Indra protect us from all troubles with his universal aids."
+    },
+    {
+      "verse_number": 7,
+      "sanskrit_text": "स नो मित्रो वरुणो मामहन्तामदितिः सिन्धुः पृथिवी उत द्यौः।",
+      "transliteration": "sa no mitro varuṇo māmahantām aditiḥ sindhuḥ pṛthivī uta dyauḥ",
+      "translation_english": "May Mitra, Varuṇa, Aditi, the River, Earth, and Heaven preserve us."
+    },
+    {
+      "verse_number": 8,
+      "sanskrit_text": "इन्द्रः सोमस्य पीतये मदाय विश्वानि वार्या दधाति।",
+      "transliteration": "indraḥ somasya pītaye madāya viśvāni vāryā dadhāti",
+      "translation_english": "Indra, for the drinking of Soma and for delight, bestows all desirable treasures."
+    },
+    {
+      "verse_number": 9,
+      "sanskrit_text": "इन्द्राय नमो अस्तु।",
+      "transliteration": "indrāya namo astu",
+      "translation_english": "Homage be to Indra."
+    }
+  ]
+},
+
 
 
 
