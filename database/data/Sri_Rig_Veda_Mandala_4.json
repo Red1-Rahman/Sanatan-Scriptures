@@ -1663,7 +1663,71 @@
   ]
 },
 
-
+{
+  "veda": "Rigveda",
+  "mandala_number": 4,
+  "sukta_number": 25,
+  "sukta_name": "Indra",
+  "rishi": "Vamadeva Gautama",
+  "devata": "Indra",
+  "total_verses": 9,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sanskrit_text": "कथास्य शुष्मं परमा जिगाति किमस्य वीर्यं महित्वं किमु स्वित्।",
+      "transliteration": "kathāsya śuṣmaṃ paramā jigāti kim asya vīryaṃ mahitvaṃ kimu svit",
+      "translation_english": "How far does his power extend? What is his heroic strength, what indeed his greatness?"
+    },
+    {
+      "verse_number": 2,
+      "sanskrit_text": "यो अस्मै सोमं सुतमाविवेश स मित्रो न सख्ये वर्धते।",
+      "transliteration": "yo asmai somaṃ sutam āviveśa sa mitro na sakhye vardhate",
+      "translation_english": "He who has entered into the pressed Soma grows like a friend in companionship."
+    },
+    {
+      "verse_number": 3,
+      "sanskrit_text": "स इन्द्रः शक्तिभिः शूरो वृत्राणि जङ्घनत्।",
+      "transliteration": "sa indraḥ śaktibhiḥ śūro vṛtrāṇi jaṅghanat",
+      "translation_english": "That Indra, strong and heroic, smites the obstructors with his powers."
+    },
+    {
+      "verse_number": 4,
+      "sanskrit_text": "कः स्तोतारं जनिता सुष्टुतिं कः सखायं दधते वीर्याय।",
+      "transliteration": "kaḥ stotāraṃ janitā suṣṭutiṃ kaḥ sakhāyaṃ dadhate vīryāya",
+      "translation_english": "Who has created the praiser and the hymn? Who grants a companion for heroic strength?"
+    },
+    {
+      "verse_number": 5,
+      "sanskrit_text": "स नो रयिं दधातु पुरुहूत इन्द्रः।",
+      "transliteration": "sa no rayiṃ dadhātu puruhūta indraḥ",
+      "translation_english": "May Indra, much-invoked, grant us wealth."
+    },
+    {
+      "verse_number": 6,
+      "sanskrit_text": "यस्य श्रवो बृहदश्वावदश्वा यस्य द्विता रथ्यावो भवन्ति।",
+      "transliteration": "yasya śravo bṛhad aśvāvad aśvā yasya dvitā rathyāvo bhavanti",
+      "translation_english": "Great is the fame of him whose horses are mighty, whose chariots are ever ready."
+    },
+    {
+      "verse_number": 7,
+      "sanskrit_text": "स नः पातु दुरितादिन्द्रो विश्वाभिरूतिभिः।",
+      "transliteration": "sa naḥ pātu duritād indro viśvābhir ūtibhiḥ",
+      "translation_english": "May Indra protect us from all troubles with his universal aids."
+    },
+    {
+      "verse_number": 8,
+      "sanskrit_text": "इन्द्रः सोमस्य पीतये मदाय विश्वानि वार्या दधाति।",
+      "transliteration": "indraḥ somasya pītaye madāya viśvāni vāryā dadhāti",
+      "translation_english": "Indra, drinking Soma for delight, bestows all desirable treasures."
+    },
+    {
+      "verse_number": 9,
+      "sanskrit_text": "इन्द्राय नमो अस्तु।",
+      "transliteration": "indrāya namo astu",
+      "translation_english": "Homage be to Indra."
+    }
+  ]
+},
 
 
 
