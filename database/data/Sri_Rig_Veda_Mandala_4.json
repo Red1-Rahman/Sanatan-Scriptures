@@ -1729,7 +1729,59 @@
   ]
 },
 
-
+{
+  "veda": "Rigveda",
+  "mandala_number": 4,
+  "sukta_number": 26,
+  "sukta_name": "Indra / Self-Declaration Hymn",
+  "rishi": "Vamadeva Gautama",
+  "devata": "Indra",
+  "total_verses": 7,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sanskrit_text": "अहम् मनुरभवं सूर्यश्चाहं कक्षीवान् ऋषिरस्मि विप्रः।",
+      "transliteration": "aham manur abhavaṃ sūryaś cāham kakṣīvān ṛṣir asmi vipraḥ",
+      "translation_english": "I was Manu, and I was the Sun; I am Kakṣīvān, a seer and inspired sage."
+    },
+    {
+      "verse_number": 2,
+      "sanskrit_text": "अहं कुक्षिं भरतो वर्धमानोऽहं विश्वं भुवनमभ्यभूवम्।",
+      "transliteration": "ahaṃ kukṣiṃ bharato vardhamāno 'haṃ viśvaṃ bhuvanam abhyabhūvam",
+      "translation_english": "I grew strong like Bharata; I have encompassed the whole world of existence."
+    },
+    {
+      "verse_number": 3,
+      "sanskrit_text": "अहं देवानां जनिता च विश्वं अहं मित्रावरुणोभा बिभर्मि।",
+      "transliteration": "ahaṃ devānāṃ janitā ca viśvaṃ ahaṃ mitrāvaruṇobhā bibharmi",
+      "translation_english": "I am the creator of the gods and the whole universe; I uphold both Mitra and Varuṇa."
+    },
+    {
+      "verse_number": 4,
+      "sanskrit_text": "अहं पृथिवीं द्यामुतेमां बिभर्म्यहं सूर्यं वहामि ज्योतिषा।",
+      "transliteration": "ahaṃ pṛthivīṃ dyām utemāṃ bibharmy ahaṃ sūryaṃ vahāmi jyotiṣā",
+      "translation_english": "I sustain the earth and heaven; I carry the Sun with my radiance."
+    },
+    {
+      "verse_number": 5,
+      "sanskrit_text": "अहं इन्द्रस्य वज्रं दधाम्यहं रथं वहामि शतक्रतोः।",
+      "transliteration": "ahaṃ indrasya vajraṃ dadhāmy ahaṃ rathaṃ vahāmi śatakratoḥ",
+      "translation_english": "I bear the thunderbolt of Indra; I carry the chariot of the mighty one."
+    },
+    {
+      "verse_number": 6,
+      "sanskrit_text": "अहं विश्वस्य प्रभवो जनित्रमहं भूतस्य भव्यस्य राजन्।",
+      "transliteration": "ahaṃ viśvasya prabhavo janitram ahaṃ bhūtasya bhavyasya rājan",
+      "translation_english": "I am the origin and generator of all; I am the ruler of what exists and what will be."
+    },
+    {
+      "verse_number": 7,
+      "sanskrit_text": "अहं ब्रह्मास्मि प्रथमं पुरस्तादहं देवेषु प्रतिष्ठितोऽस्मि।",
+      "transliteration": "ahaṃ brahmāsmi prathamaṃ purastād ahaṃ deveṣu pratiṣṭhito 'smi",
+      "translation_english": "I am the primal sacred power from the beginning; I am established among the gods."
+    }
+  ]
+},
 
 
 
