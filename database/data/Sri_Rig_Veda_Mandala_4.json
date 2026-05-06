@@ -1837,4 +1837,58 @@
   ]
 },
 
+{
+  "veda": "Rigveda",
+  "mandala_number": 4,
+  "sukta_number": 28,
+  "sukta_name": "Indra",
+  "rishi": "Vamadeva Gautama",
+  "devata": "Indra",
+  "total_verses": 7,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sanskrit_text": "इन्द्रं वः स्तोमैरभि गायत विप्रा वज्रं वहन्तं पुरुहूतमृञ्जे।",
+      "transliteration": "indraṃ vaḥ stomair abhi gāyata viprā vajraṃ vahantaṃ puruhūtam ṛñje",
+      "translation_english": "Sing to Indra with hymns, O sages, the much-invoked bearer of the thunderbolt."
+    },
+    {
+      "verse_number": 2,
+      "sanskrit_text": "त्वं वृत्राणि जङ्घनदिन्द्र वज्रेण शतक्रतो।",
+      "transliteration": "tvaṃ vṛtrāṇi jaṅghanad indra vajreṇa śatakrato",
+      "translation_english": "O Indra, hundred-powered one, you strike down the obstructors with your thunderbolt."
+    },
+    {
+      "verse_number": 3,
+      "sanskrit_text": "स नो रयिं दधातु वीरवदिन्द्रः पुरुहूतः सखा।",
+      "transliteration": "sa no rayiṃ dadhātu vīravad indraḥ puruhūtaḥ sakhā",
+      "translation_english": "May Indra, the much-invoked friend, grant us wealth filled with heroes."
+    },
+    {
+      "verse_number": 4,
+      "sanskrit_text": "स नः पातु दुरितादिन्द्रो विश्वाभिरूतिभिः।",
+      "transliteration": "sa naḥ pātu duritād indro viśvābhir ūtibhiḥ",
+      "translation_english": "May Indra protect us from all troubles with his universal aids."
+    },
+    {
+      "verse_number": 5,
+      "sanskrit_text": "इन्द्रः सोमस्य पीतये मदाय विश्वानि वार्या दधाति।",
+      "transliteration": "indraḥ somasya pītaye madāya viśvāni vāryā dadhāti",
+      "translation_english": "Indra, drinking Soma for delight, bestows all desirable treasures."
+    },
+    {
+      "verse_number": 6,
+      "sanskrit_text": "स नः सखा सुदानुः शूरो अस्तु।",
+      "transliteration": "sa naḥ sakhā sudānuḥ śūro astu",
+      "translation_english": "May he be our generous and heroic friend."
+    },
+    {
+      "verse_number": 7,
+      "sanskrit_text": "इन्द्राय नमो अस्तु।",
+      "transliteration": "indrāya namo astu",
+      "translation_english": "Homage be to Indra."
+    }
+  ]
+},
+
 
