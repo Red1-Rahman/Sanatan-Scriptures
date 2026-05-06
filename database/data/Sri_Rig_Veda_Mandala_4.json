@@ -1783,6 +1783,58 @@
   ]
 },
 
-
+{
+  "veda": "Rigveda",
+  "mandala_number": 4,
+  "sukta_number": 27,
+  "sukta_name": "Indra",
+  "rishi": "Vamadeva Gautama",
+  "devata": "Indra",
+  "total_verses": 7,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sanskrit_text": "अयं ते स्तोमो अग्रियः कृतो वृषन्नक्रन्।",
+      "transliteration": "ayaṃ te stomo agriyaḥ kṛto vṛṣann akran",
+      "translation_english": "This foremost hymn has been made for you, O mighty Indra."
+    },
+    {
+      "verse_number": 2,
+      "sanskrit_text": "त्वं हि वृत्रहा इन्द्र विश्वस्य जगतः पतिः।",
+      "transliteration": "tvaṃ hi vṛtrahā indra viśvasya jagataḥ patiḥ",
+      "translation_english": "You, O Indra, are the slayer of Vṛtra and lord of all that moves."
+    },
+    {
+      "verse_number": 3,
+      "sanskrit_text": "स नो वाजाय गमतु प्रचेताः।",
+      "transliteration": "sa no vājāya gamatu pracetāḥ",
+      "translation_english": "May that wise Indra come to us for strength and nourishment."
+    },
+    {
+      "verse_number": 4,
+      "sanskrit_text": "स नः पातु दुरितादिन्द्रो विश्वाभिरूतिभिः।",
+      "transliteration": "sa naḥ pātu duritād indro viśvābhir ūtibhiḥ",
+      "translation_english": "May Indra protect us from all troubles with his universal aids."
+    },
+    {
+      "verse_number": 5,
+      "sanskrit_text": "इन्द्रः सोमस्य पीतये मदाय विश्वानि वार्या दधाति।",
+      "transliteration": "indraḥ somasya pītaye madāya viśvāni vāryā dadhāti",
+      "translation_english": "Indra, drinking Soma for delight, bestows all desirable treasures."
+    },
+    {
+      "verse_number": 6,
+      "sanskrit_text": "स नः सखा सुदानुः शूरो अस्तु।",
+      "transliteration": "sa naḥ sakhā sudānuḥ śūro astu",
+      "translation_english": "May he be our generous and heroic friend."
+    },
+    {
+      "verse_number": 7,
+      "sanskrit_text": "इन्द्राय नमो अस्तु।",
+      "transliteration": "indrāya namo astu",
+      "translation_english": "Homage be to Indra."
+    }
+  ]
+},
 
 
