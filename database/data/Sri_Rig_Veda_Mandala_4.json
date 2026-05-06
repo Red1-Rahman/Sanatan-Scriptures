@@ -1891,4 +1891,44 @@
   ]
 },
 
-
+{
+  "veda": "Rigveda",
+  "mandala_number": 4,
+  "sukta_number": 29,
+  "sukta_name": "Indra",
+  "rishi": "Vamadeva Gautama",
+  "devata": "Indra",
+  "total_verses": 5,
+  "verses": [
+    {
+      "verse_number": 1,
+      "sanskrit_text": "आ नः स्तुत उप वाजेभिरूती इन्द्र या॑हि हरिभिर्मन्दसानः । तिरश्चिदर्यः सवना पुरूण्याङ्गूषेभिर्गृणानः सत्यराधाः ॥",
+      "transliteration": "ā naḥ stuta upa vājebhir ūtī indra yāhi haribhir mandasānaḥ | tiraś cid aryaḥ savanā purūṇy āṅgūṣebhir gṛṇānaḥ satyarādhāḥ ||",
+      "translation_english": "Come, Indra, praised with hymns, with help in our victories; come with your steeds rejoicing. O lord, praised with songs, you are truly prosperous."
+    },
+    {
+      "verse_number": 2,
+      "sanskrit_text": "आ हि ष्मा याति नर्यश्चिकित्वान् हूयमानः सोतृभिरुप यज्ञम् । स्वश्वो यो अभीरुर्मन्यमानः सुष्वाणेभिर्मदति सं ह वीरैः ॥",
+      "transliteration": "ā hi ṣmā yāti naryaś cikitvān hūyamānaḥ sotṛbhir upa yajñam | svaśvo yo abhīrur manyamānaḥ suṣvāṇebhir madati saṃ ha vīraiḥ ||",
+      "translation_english": "Indra, the wise protector of men, comes to the sacrifice when invoked by the priests, rejoicing with heroes."
+    },
+    {
+      "verse_number": 3,
+      "sanskrit_text": "श्रावयेदस्य कर्णा वाजयध्यै जुष्टामनु प्र दिशं मन्दयध्यै । उद्वावृषाणो राधसे तुविष्मान् करन्न इन्द्रः सुतीर्थाभयं च ॥",
+      "transliteration": "śrāvayed asya karṇā vājayadhyai juṣṭām anu pra diśaṃ mandayadhyai | udvāvṛṣāṇo rādhase tuviṣmān karan na indraḥ sutīrthābhayaṃ ca ||",
+      "translation_english": "May Indra hear our call and grant us strength, wealth, and safe passage."
+    },
+    {
+      "verse_number": 4,
+      "sanskrit_text": "त्वोतासो मघवन्निन्द्र विप्रा वयं ते स्याम सूरयो गृणन्तः । भेजानासो बृहद्दिवस्य राय आकाय्यस्य दावने पुरुक्षोः ॥",
+      "transliteration": "tvotāso maghavann indra viprā vayaṃ te syāma sūrayo gṛṇantaḥ | bhejānāso bṛhaddivasya rāya ākāyyasya dāvane purukṣoḥ ||",
+      "translation_english": "O Indra, may we, your protected singers, share in your great wealth and abundance."
+    },
+    {
+      "verse_number": 5,
+      "sanskrit_text": "इन्द्रः सूनृतानां पतिरस्तु नः सखा शूरो मघवा वृत्रहा भूः ।",
+      "transliteration": "indraḥ sūnṛtānāṃ patir astu naḥ sakhā śūro maghavā vṛtrahā bhūḥ |",
+      "translation_english": "May Indra be our lord of truth, our heroic friend, the generous slayer of obstacles."
+    }
+  ]
+},
